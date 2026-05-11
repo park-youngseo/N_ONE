@@ -15,6 +15,7 @@ type LoreEntry struct {
 	Tested        string // 테스트된 항목
 	NotTested     string // 테스트되지 않은 항목
 	Related       string // 관련 항목
+	SignOff       string // 사인오프 (🐙 Autopus)
 
 	// 메타데이터 (git log에서 추출)
 	CommitHash string    // 커밋 해시

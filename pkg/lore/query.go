@@ -96,6 +96,8 @@ func hasField(e LoreEntry, fieldKey string) bool {
 		return e.Directive != ""
 	case "Tested":
 		return e.Tested != ""
+	case "sign-off":
+		return e.SignOff != ""
 	}
 	return false
 }

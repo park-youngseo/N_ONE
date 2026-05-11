@@ -19,6 +19,7 @@ var trailerKeys = []struct {
 	{"Tested", "Tested"},
 	{"Not-tested", "NotTested"},
 	{"Related", "Related"},
+	{"sign-off", "SignOff"},
 }
 
 // ParseTrailers는 git commit 메시지에서 Lore 트레일러를 파싱한다.
@@ -60,6 +61,7 @@ func FormatTrailers(entry *LoreEntry) string {
 	appendIfNotEmpty("Tested", entry.Tested)
 	appendIfNotEmpty("Not-tested", entry.NotTested)
 	appendIfNotEmpty("Related", entry.Related)
+	appendIfNotEmpty("sign-off", entry.SignOff)
 
 	return strings.Join(parts, "\n")
 }
@@ -85,5 +87,7 @@ func setField(entry *LoreEntry, field, value string) {
 		entry.NotTested = value
 	case "Related":
 		entry.Related = value
+	case "SignOff":
+		entry.SignOff = value
 	}
 }

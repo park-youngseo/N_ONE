@@ -3,7 +3,6 @@ package worker
 import (
 	"context"
 	"fmt"
-	"log"
 	"strings"
 
 	"github.com/insajin/autopus-adk/pkg/worker/a2a"

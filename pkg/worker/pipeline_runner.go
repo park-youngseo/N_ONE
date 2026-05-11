@@ -6,7 +6,6 @@ import (
 	"context"
 	"fmt"
 	"io"
-	"log"
 	"strings"
 
 	"github.com/insajin/autopus-adk/pkg/worker/adapter"
