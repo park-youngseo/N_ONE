@@ -6,7 +6,6 @@ import "slices"
 // defaultProviderEntries holds the canonical default settings for known orchestra providers.
 // @AX:NOTE: [AUTO] hardcoded provider defaults — update when adding new providers or changing CLI flags
 var defaultProviderEntries = map[string]ProviderEntry{
-	"claude": {Binary: "claude", Args: []string{"--print", "--model", "opus", "--effort", "high"}, PaneArgs: []string{"--print", "--model", "opus", "--effort", "high"}},
 	"codex":  {Binary: "codex", Args: []string{"exec", "--full-auto", "-m", "gpt-5.4"}, PaneArgs: []string{"-m", "gpt-5.4"}, PromptViaArgs: false},
 	"gemini": {Binary: "gemini", Args: []string{"-m", "gemini-3.1-pro-preview", "-p", ""}, PaneArgs: []string{"-m", "gemini-3.1-pro-preview"}, PromptViaArgs: false},
 }
@@ -142,8 +141,6 @@ func MigratePlatformNames(cfg *HarnessConfig) bool {
 // @AX:NOTE: [AUTO] "opencode" maps to "codex" — intentional alias per SPEC-ORCHCFG-002 migration
 func PlatformToProvider(platform string) string {
 	switch platform {
-	case "claude-code":
-		return "claude"
 	case "codex":
 		return "codex"
 	case "gemini-cli":

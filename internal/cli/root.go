@@ -2,8 +2,10 @@
 package cli
 
 import (
+	"bufio"
 	"fmt"
 	"os"
+	"strings"
 
 	"github.com/spf13/cobra"
 
@@ -137,8 +139,36 @@ func Execute() {
 	// Must run before any lipgloss.NewStyle() or .Render() call.
 	tui.InitStyles()
 
+	// Load .env file into environment variables for subprocesses.
+	_ = loadEnvFile(".env")
+
 	if err := NewRootCmd().Execute(); err != nil {
 		fmt.Fprintf(os.Stderr, "Error: %v\n", err)
 		os.Exit(1)
 	}
+}
+
+// loadEnvFile reads a simple KEY=VALUE file and sets environment variables.
+func loadEnvFile(path string) error {
+	f, err := os.Open(path)
+	if err != nil {
+		return err
+	}
+	defer f.Close()
+
+	scanner := bufio.NewScanner(f)
+	for scanner.Scan() {
+		line := strings.TrimSpace(scanner.Text())
+		if line == "" || strings.HasPrefix(line, "#") {
+			continue
+		}
+		parts := strings.SplitN(line, "=", 2)
+		if len(parts) != 2 {
+			continue
+		}
+		key := strings.TrimSpace(parts[0])
+		val := strings.TrimSpace(parts[1])
+		_ = os.Setenv(key, val)
+	}
+	return scanner.Err()
 }

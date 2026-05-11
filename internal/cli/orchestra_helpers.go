@@ -127,7 +127,7 @@ func buildProviderConfigs(names []string) []orchestra.ProviderConfig {
 
 // defaultProviders returns the hardcoded default provider list.
 func defaultProviders() []string {
-	return []string{"claude", "codex", "gemini"}
+	return []string{"codex", "gemini"}
 }
 
 // resolveAndValidateThreshold validates the threshold flag and resolves the final value.

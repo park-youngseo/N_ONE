@@ -4,6 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
+	"os"
 	"os/exec"
 	"sort"
 	"strings"
@@ -12,11 +13,11 @@ import (
 // RunMetricWithTimeout executes cmd with a deadline derived from cfg.ExperimentTimeout.
 // If cfg.ExperimentTimeout is zero, no additional timeout is applied.
 func RunMetricWithTimeout(cfg Config, cmd string, opts ...ValidateOption) (MetricOutput, error) {
-	ctx := context.Background()
+	ctx := context.TODO()
 
 	if cfg.ExperimentTimeout > 0 {
 		var cancel context.CancelFunc
-		ctx, cancel = context.WithTimeout(ctx, cfg.ExperimentTimeout)
+		ctx, cancel = context.WithTimeout(context.Background(), cfg.ExperimentTimeout)
 		defer cancel()
 	}
 
@@ -50,7 +51,13 @@ func RunMetric(ctx context.Context, cmd string, opts ...ValidateOption) (MetricO
 		return MetricOutput{}, fmt.Errorf("metric command validation failed: %w", err)
 	}
 
-	c := exec.CommandContext(ctx, "sh", "-c", cmd)
+	// Windows와 Unix 호환성을 위해 셸 명령 처리 (R10: platform-agnostic shell)
+	shell, shellArg := "sh", "-c"
+	if os.PathSeparator == '\\' {
+		shell, shellArg = "cmd", "/C"
+	}
+
+	c := exec.CommandContext(ctx, shell, shellArg, cmd)
 	rawBytes, err := c.Output()
 	if err != nil {
 		return MetricOutput{}, fmt.Errorf("metric command failed: %w", err)

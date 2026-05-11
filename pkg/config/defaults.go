@@ -6,7 +6,7 @@ func DefaultFullConfig(projectName string) *HarnessConfig {
 	return &HarnessConfig{
 		Mode:        ModeFull,
 		ProjectName: projectName,
-		Platforms:   []string{"claude-code"},
+		Platforms:   []string{"codex", "gemini-cli"},
 		Architecture: ArchitectureConf{
 			AutoGenerate: true,
 			Enforce:      true,
@@ -22,8 +22,8 @@ func DefaultFullConfig(projectName string) *HarnessConfig {
 			ReviewGate: ReviewGateConf{
 				Enabled:            true,
 				Strategy:           "debate",
-				Providers:          []string{"claude", "gemini"},
-				Judge:              "claude",
+				Providers:          []string{"codex", "gemini"},
+				Judge:              "codex",
 				MaxRevisions:       2,
 				AutoCollectContext: true,
 				ContextMaxLines:    500,
@@ -68,17 +68,16 @@ func DefaultFullConfig(projectName string) *HarnessConfig {
 			Enabled:         true,
 			DefaultStrategy: "consensus",
 			TimeoutSeconds:  120,
-			Judge:           "claude",
+			Judge:           "codex",
 			Providers: map[string]ProviderEntry{
-				"claude": {Binary: "claude", Args: []string{"--print"}, PaneArgs: []string{"--print"}},
 				"gemini": {Binary: "gemini", Args: []string{"-m", "gemini-3.1-pro-preview", "-p", ""}, PaneArgs: []string{"-m", "gemini-3.1-pro-preview"}, PromptViaArgs: false},
 				"codex":  {Binary: "codex", Args: []string{"exec", "--full-auto", "-m", "gpt-5.4"}, PaneArgs: []string{"-m", "gpt-5.4"}, PromptViaArgs: false},
 			},
 			Commands: map[string]CommandEntry{
-				"review":     {Strategy: "debate", Providers: []string{"claude", "codex", "gemini"}},
-				"plan":       {Strategy: "consensus", Providers: []string{"claude", "codex", "gemini"}},
-				"secure":     {Strategy: "consensus", Providers: []string{"claude", "codex", "gemini"}},
-				"brainstorm": {Strategy: "debate", Providers: []string{"claude", "codex", "gemini"}},
+				"review":     {Strategy: "debate", Providers: []string{"codex", "gemini"}},
+				"plan":       {Strategy: "consensus", Providers: []string{"codex", "gemini"}},
+				"secure":     {Strategy: "consensus", Providers: []string{"codex", "gemini"}},
+				"brainstorm": {Strategy: "debate", Providers: []string{"codex", "gemini"}},
 			},
 		},
 		// Quality presets map agent roles to model tiers.
