@@ -1,0 +1,171 @@
+# auto-agent-teams
+
+# Agent Teams Skill
+
+> ⚠️ **Platform Note**: Agent Teams is a **Claude Code-exclusive** runtime feature. The Codex CLI does not implement `TeamCreate`, `SendMessage`, or team-scoped `spawn_agent` semantics. This skill is kept for **cross-platform documentation parity only** — do not attempt to execute its patterns on Codex.
+>
+> On Codex, `--team` is a reserved compatibility flag that routes to the standard `spawn_agent(...)` subagent pipeline (see `.codex/skills/agent-pipeline.md`). Refer to Claude Code's `agent-teams.md` for the actual Agent Teams specification: https://code.claude.com/docs/en/agent-teams
+>
+> The sections below describe the **Claude Code** feature and are non-authoritative for Codex operators.
+
+## Overview (Claude Code reference)
+
+Agent Teams mode (`--team`) enables role-based team collaboration via Claude Code Agent Teams. Instead of spawning ephemeral subagents per task, this mode creates persistent teammates that communicate directly, share a task list, and self-coordinate through the pipeline.
+
+**Activation flag (Claude Code only)**: `@auto go SPEC-ID --team`
+
+## Activation (Claude Code only)
+
+Requires Claude Code v2.1.32+ AND the experimental environment variable:
+
+```bash
+export CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1
+```
+
+If this variable is not set (on Claude Code), the pipeline MUST error with:
+
+```
+Error: Agent Teams mode requires CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1
+Fallback: Run without --team to use the subagent pipeline mode.
+```
+
+## Team Roles
+
+### Lead (1 agent)
+
+**Responsibilities**: planner + reviewer
+
+- Joins the team as a teammate — the **top-level session** creates the team and spawns Lead; Lead MUST NOT call `TeamCreate` itself (nested team creation is rejected on Claude Code, and unsupported on Codex).
+- Runs Phase 1 (Planning) to produce the execution plan
+- Coordinates tasks with Builder(s) and Guardian via `SendMessage` (Claude Code only)
+- Monitors task list and consolidates results
+- Runs Phase 4 (Review) and finalizes output
+- Re-assigns or requests fallback from the top-level session if a teammate fails
+
+### Builder (1–2 agents)
+
+**Responsibilities**: executor + tester + annotator + frontend-specialist
+
+- Implements code following TDD (RED → GREEN → REFACTOR)
+- Writes tests in Phase 1.5 (Test Scaffold) before implementation
+- Executes Phase 2 (Implementation) in an isolated worktree
+- Applies `@AX` annotation tags in Phase 2.5 (Annotation)
+- Communicates validation requests to Guardian via `SendMessage`
+- Reports completion to Lead via `SendMessage`
+
+### Guardian (1 agent)
+
+**Responsibilities**: validator + security-auditor + perf-engineer
+
+- Executes Gate 2 (Validation): coverage, lint, race conditions
+- Performs security audit on modified files
+- Monitors performance regressions
+- Responds to partial validation requests from Builder
+- Reports validation results to Lead via `SendMessage`
+
+## Team Creation Pattern
+
+```python
+# Top-level session creates the team at pipeline start (Claude Code only — teammates cannot call TeamCreate)
+# The main session is auto-registered as name="team-lead"; spawn only the 3 non-lead teammates below.
+team = TeamCreate(team_name=f"team-{spec_id.lower()}", agent_type="planner")
+
+# Spawn teammates
+lead     = Teammate(role="lead",     model="opus")
+builder  = Teammate(role="builder",  model="sonnet")  # keep the standard model for LOW complexity too
+guardian = Teammate(role="guardian", model="sonnet")
+```
+
+Task assignment via `SendMessage`:
+
+```python
+# Lead → Builder
+SendMessage(to="builder", message={
+    "phase": "Phase 2",
+    "tasks": [...],
+    "worktree": "<path>"
+})
+
+# Lead → Guardian
+SendMessage(to="guardian", message={
+    "phase": "Gate 2",
+    "target_branch": "<branch>",
+    "coverage_threshold": 85
+})
+```
+
+## Execution Flow
+
+```
+Lead: Phase 1 (Planning)
+  → Assigns tasks to Builder(s) and Guardian
+
+Builder: Phase 1.5 (Test Scaffold)
+  → Writes failing tests first (RED)
+
+Builder: Phase 2 (Implementation)
+  → GREEN phase in isolated worktree
+  → Merge back after completion
+
+Builder: Phase 2.5 (Annotation)
+  → Applies @AX tags to modified files
+
+Guardian: Gate 2 (Validation)
+  → go test -race ./...
+  → Coverage check (85%+)
+  → golangci-lint run
+  → Security audit
+
+Lead: Phase 4 (Review)
+  → Consolidates all results
+  → Final quality check
+  → Produces review report
+```
+
+## Builder-Guardian Direct Communication (P1-R3)
+
+Builder can request partial validation from Guardian without waiting for Lead coordination:
+
+```python
+# Builder → Guardian (partial validation request)
+SendMessage(to="guardian", message={
+    "type": "partial_validation",
+    "files": ["pkg/foo/bar.go"],
+    "reason": "security-sensitive change"
+})
+
+# Guardian → Builder (validation result)
+SendMessage(to="builder", message={
+    "type": "validation_result",
+    "status": "PASS",  # or FAIL
+    "issues": []
+})
+```
+
+All direct interactions are logged in the pipeline log:
+
+```
+[P1-R3] builder → guardian: partial_validation request (pkg/foo/bar.go)
+[P1-R3] guardian → builder: PASS
+```
+
+## Subagent Fallback Strategy
+
+| Scenario | Action |
+|----------|--------|
+| `CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1` not set | Error + fallback guidance to use subagent pipeline |
+| Builder teammate fails mid-task | Lead re-assigns task to another Builder or spawns a subagent |
+| Guardian teammate fails | Lead falls back to subagent validator with `spawn_agent validator` |
+| Team creation fails | Abort and fall back to default subagent pipeline |
+
+## Worktree Isolation
+
+The same worktree isolation rules (R1–R5 from `worktree-isolation.md`) apply in Agent Teams mode:
+
+- Each Builder teammate works in an independent git worktree
+- Maximum 5 simultaneous worktrees
+- GC suppression: `git -c gc.auto=0 <command>` required during parallel execution
+- Exponential backoff on shared resource lock contention (3s → 6s → 12s)
+- Failed worktrees cleaned up with `git worktree remove --force <path>`
+
+**Ref**: SPEC-WORKTREE-001, `@.codex/skills/worktree-isolation.md`
