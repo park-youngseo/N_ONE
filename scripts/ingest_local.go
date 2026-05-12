@@ -12,26 +12,33 @@ func main() {
 	inboxDir := `c:\Users\psm23\Desktop\N_ONE\data\inbox`
 	baseKnowledgeDir := `c:\Users\psm23\Desktop\N_ONE\knowledge`
 
-	files, err := os.ReadDir(inboxDir)
-	if err != nil {
-		fmt.Printf("❌ 인박스 읽기 실패: %v\n", err)
-		return
-	}
+	fmt.Println("🚀 재귀적 지식 이식 공정 가동 시작...")
 
-	fmt.Println("🚀 지식 이식 공정 가동 시작...")
-
-	for _, f := range files {
-		if f.IsDir() || !strings.HasSuffix(f.Name(), ".md") {
-			continue
+	err := filepath.Walk(inboxDir, func(path string, info os.FileInfo, err error) error {
+		if err != nil {
+			return err
+		}
+		if info.IsDir() || !strings.HasSuffix(info.Name(), ".md") {
+			return nil
 		}
 
-		srcPath := filepath.Join(inboxDir, f.Name())
-		category := classify(f.Name())
+		category := classify(info.Name())
+		// 만약 파일이 특정 폴더 안에 있다면, 그 폴더 이름도 분류에 참고
+		parentDir := filepath.Base(filepath.Dir(path))
+		if parentDir != "inbox" {
+			category = classify(parentDir + "_" + info.Name())
+		}
+
 		destDir := filepath.Join(baseKnowledgeDir, category)
 		os.MkdirAll(destDir, 0755)
 
-		fmt.Printf("📦 처리 중: [%s] -> %s\n", category, f.Name())
-		processAndSplit(srcPath, destDir, f.Name())
+		fmt.Printf("📦 재귀 처리 중: [%s] -> %s\n", category, info.Name())
+		processAndSplit(path, destDir, info.Name())
+		return nil
+	})
+
+	if err != nil {
+		fmt.Printf("❌ 이식 공정 중 오류 발생: %v\n", err)
 	}
 
 	fmt.Println("\n✅ 모든 지식 이식이 완료되었습니다!")

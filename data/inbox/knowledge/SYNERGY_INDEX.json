@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "version": "2.0",
+        "last_updated": "2026-05-04",
+        "total_files": 251
+    },
+    "clusters": [
+        {
+            "id": "CLUSTER-A",
+            "name": "Infrastructure (NONE-OS Core)",
+            "categories": [
+                "08_Local_AI",
+                "13_Agent_Brain_System",
+                "05_Python_Automation"
+            ],
+            "description": "로컬 AI 환경 구축 및 자율 에이전트 시스템의 핵심 인프라",
+            "key_synergies": [
+                "Ollama/VS Code 연동 기술을 통한 로컬 에이전틱 워크플로우 완성",
+                "하네스 엔지니어링 원칙을 에이전트 브레인 시스템의 상태 유지에 적용"
+            ]
+        },
+        {
+            "id": "CLUSTER-B",
+            "name": "Creative Production",
+            "categories": [
+                "10_Unreal_Engine",
+                "11_AI_Video_Production",
+                "12_Screenplay_AI",
+                "06_Vibe_Coding_Webdev"
+            ],
+            "description": "시나리오부터 영상 제작, 엔진 연출까지 이어지는 생산 파이프라인",
+            "key_synergies": [
+                "AI 시나리오 이론(McKee/Truby)을 언리얼 엔진의 월드 빌딩 및 씬 연출의 논리로 전환",
+                "AI 영상 제작(LTX, Kling, Wan) 기술을 활용한 하드보일드 시나리오의 시각적 실체화"
+            ]
+        },
+        {
+            "id": "CLUSTER-C",
+            "name": "Business & Monetization",
+            "categories": [
+                "09_Business_Automation",
+                "07_AI_News"
+            ],
+            "description": "AI 기술을 활용한 1인 기업 자동화 및 수익화 전략",
+            "key_synergies": [
+                "자동화 기술과 비즈니스 로직을 결합한 AI 인플루언서 및 콘텐츠 채널 운영",
+                "최신 AI 뉴스 데이터를 비즈니스 기회 및 기술 업데이트에 실시간 반영"
+            ]
+        },
+        {
+            "id": "CLUSTER-D",
+            "name": "Guides & Interfaces",
+            "categories": [
+                "01_Antigravity_Guide",
+                "02_Gemini_Guide",
+                "03_ChatGPT_Claude_Guide",
+                "04_NotebookLM_Guide",
+                "00_Uncategorized"
+            ],
+            "description": "다양한 AI 플랫폼 및 도구 활용을 위한 사용자 인터페이스 가이드",
+            "key_synergies": [
+                "플랫폼별 특성(Gemini의 긴 컨텍스트, Claude의 코딩 능력)을 작업 성격에 맞게 최적 분배",
+                "NotebookLM을 활용한 방대한 지식 베이스의 효율적 브리핑 및 교차 검증"
+            ]
+        }
+    ],
+    "cross_links": [
+        {
+            "source": "13_Agent_Brain_System",
+            "target": "12_Screenplay_AI",
+            "context": "에이전트의 하네스 제약 조건을 시나리오 작법 엔진의 '물리 법칙'으로 강제 적용"
+        },
+        {
+            "source": "11_AI_Video_Production",
+            "target": "10_Unreal_Engine",
+            "context": "AI 생성 영상의 스타일과 구도를 언리얼 엔진의 카메라 및 라이팅 세팅에 이식"
+        }
+    ]
+}

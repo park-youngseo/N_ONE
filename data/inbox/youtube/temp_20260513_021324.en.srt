@@ -1,0 +1,1195 @@
+1
+00:00:00,320 --> 00:00:02,669
+
+Are you still creating images manually one by one in Grok
+
+2
+00:00:02,669 --> 00:00:02,679
+Are you still creating images manually one by one in Grok
+ 
+
+3
+00:00:02,679 --> 00:00:04,910
+Are you still creating images manually one by one in Grok
+?  We are
+
+4
+00:00:04,910 --> 00:00:04,920
+?  We are
+ 
+
+5
+00:00:04,920 --> 00:00:07,829
+?  We are
+now releasing the Grok automation guide. With
+
+6
+00:00:07,829 --> 00:00:07,839
+now releasing the Grok automation guide. With
+ 
+
+7
+00:00:07,839 --> 00:00:10,910
+now releasing the Grok automation guide. With
+just this method, you can easily produce large volumes of video and
+
+8
+00:00:10,910 --> 00:00:10,920
+just this method, you can easily produce large volumes of video and
+ 
+
+9
+00:00:10,920 --> 00:00:13,350
+just this method, you can easily produce large volumes of video and
+even long-take footage
+
+10
+00:00:13,350 --> 00:00:13,360
+even long-take footage
+ 
+
+11
+00:00:13,360 --> 00:00:16,070
+even long-take footage
+.  However, please watch carefully until the end, as
+
+12
+00:00:16,070 --> 00:00:16,080
+.  However, please watch carefully until the end, as
+ 
+
+13
+00:00:16,080 --> 00:00:18,830
+.  However, please watch carefully until the end, as
+missing this important point introduced in the middle of the video may result in your X
+
+14
+00:00:18,830 --> 00:00:18,840
+missing this important point introduced in the middle of the video may result in your X
+ 
+
+15
+00:00:18,840 --> 00:00:21,269
+missing this important point introduced in the middle of the video may result in your X
+account being suspended
+
+16
+00:00:21,269 --> 00:00:21,279
+account being suspended
+ 
+
+17
+00:00:21,279 --> 00:00:23,710
+account being suspended
+.  We
+
+18
+00:00:23,710 --> 00:00:23,720
+.  We
+ 
+
+19
+00:00:23,720 --> 00:00:26,109
+.  We
+plan to continue updating this kind of information, so please
+
+20
+00:00:26,109 --> 00:00:26,119
+plan to continue updating this kind of information, so please
+ 
+
+21
+00:00:26,119 --> 00:00:31,669
+plan to continue updating this kind of information, so please
+subscribe and like.
+
+22
+00:00:31,669 --> 00:00:31,679
+
+ 
+
+23
+00:00:31,679 --> 00:00:34,190
+
+Grok strictly prohibits the use of automatic tools
+
+24
+00:00:34,190 --> 00:00:34,200
+Grok strictly prohibits the use of automatic tools
+ 
+
+25
+00:00:34,200 --> 00:00:36,869
+Grok strictly prohibits the use of automatic tools
+.
+
+26
+00:00:36,869 --> 00:00:36,879
+.
+ 
+
+27
+00:00:36,879 --> 00:00:40,029
+.
+Since your account will be immediately suspended if you are caught using automated tools, we
+
+28
+00:00:40,029 --> 00:00:42,869
+Since your account will be immediately suspended if you are caught using automated tools, we
+ 
+
+29
+00:00:42,869 --> 00:00:42,879
+
+ 
+
+30
+00:00:42,879 --> 00:00:45,830
+
+recommend creating a new Google account to use Grok Automation.
+
+31
+00:00:45,830 --> 00:00:45,840
+recommend creating a new Google account to use Grok Automation.
+ 
+
+32
+00:00:45,840 --> 00:00:48,790
+recommend creating a new Google account to use Grok Automation.
+Create a new account on Google,
+
+33
+00:00:48,790 --> 00:00:48,800
+Create a new account on Google,
+ 
+
+34
+00:00:48,800 --> 00:00:51,069
+Create a new account on Google,
+log in to Chrome, and then
+
+35
+00:00:51,069 --> 00:00:51,079
+log in to Chrome, and then
+ 
+
+36
+00:00:51,079 --> 00:00:55,869
+log in to Chrome, and then
+sign up for Grok.   In the
+
+37
+00:00:55,869 --> 00:00:55,879
+
+ 
+
+38
+00:00:55,879 --> 00:00:58,270
+
+address bar at the top,
+
+39
+00:00:58,270 --> 00:00:58,280
+address bar at the top,
+ 
+
+40
+00:00:58,280 --> 00:01:02,830
+address bar at the top,
+click the extensions icon, then go to Program Management,
+
+41
+00:01:02,830 --> 00:01:02,840
+click the extensions icon, then go to Program Management,
+ 
+
+42
+00:01:02,840 --> 00:01:08,190
+click the extensions icon, then go to Program Management,
+click Web Store, and
+
+43
+00:01:08,190 --> 00:01:08,200
+
+ 
+
+44
+00:01:08,200 --> 00:01:11,070
+
+search for Grok Automation.
+
+45
+00:01:11,070 --> 00:01:11,080
+search for Grok Automation.
+ 
+
+46
+00:01:11,080 --> 00:01:14,630
+search for Grok Automation.
+Click Grok Automation at the top and
+
+47
+00:01:14,630 --> 00:01:14,640
+Click Grok Automation at the top and
+ 
+
+48
+00:01:14,640 --> 00:01:19,990
+Click Grok Automation at the top and
+install the extension on Grom.
+
+49
+00:01:19,990 --> 00:01:20,000
+
+ 
+
+50
+00:01:20,000 --> 00:01:22,749
+
+Click the Grom extension icon and
+
+51
+00:01:22,749 --> 00:01:24,429
+Click the Grom extension icon and
+ 
+
+52
+00:01:24,429 --> 00:01:24,439
+
+ 
+
+53
+00:01:24,439 --> 00:01:27,109
+
+click the pin icon next to Grom Automation to pin it to the address bar
+
+54
+00:01:27,109 --> 00:01:27,119
+click the pin icon next to Grom Automation to pin it to the address bar
+ 
+
+55
+00:01:27,119 --> 00:01:33,429
+click the pin icon next to Grom Automation to pin it to the address bar
+.
+
+56
+00:01:33,429 --> 00:01:33,439
+
+ 
+
+57
+00:01:33,439 --> 00:01:35,950
+
+Enter Grok in Google Search and
+
+58
+00:01:35,950 --> 00:01:35,960
+Enter Grok in Google Search and
+ 
+
+59
+00:01:35,960 --> 00:01:38,830
+Enter Grok in Google Search and
+log in to the Grok site.
+
+60
+00:01:38,830 --> 00:01:38,840
+log in to the Grok site.
+ 
+
+61
+00:01:38,840 --> 00:01:42,030
+log in to the Grok site.
+Select an image from the left toolbar to
+
+62
+00:01:42,030 --> 00:01:42,040
+Select an image from the left toolbar to
+ 
+
+63
+00:01:42,040 --> 00:01:45,030
+Select an image from the left toolbar to
+enter image video creation.
+
+64
+00:01:45,030 --> 00:01:47,590
+enter image video creation.
+ 
+
+65
+00:01:47,590 --> 00:01:47,600
+
+ 
+
+66
+00:01:47,600 --> 00:01:50,990
+
+Click View site information in the address bar and change the site settings
+
+67
+00:01:50,990 --> 00:01:51,000
+Click View site information in the address bar and change the site settings
+ 
+
+68
+00:01:51,000 --> 00:01:55,870
+Click View site information in the address bar and change the site settings
+popup redirection to Allow.
+
+69
+00:01:55,870 --> 00:01:55,880
+popup redirection to Allow.
+ 
+
+70
+00:01:55,880 --> 00:01:58,350
+popup redirection to Allow.
+Now, let's go back to Grook and
+
+71
+00:01:58,350 --> 00:01:58,360
+Now, let's go back to Grook and
+ 
+
+72
+00:01:58,360 --> 00:02:00,950
+Now, let's go back to Grook and
+try using Grook automation.
+
+73
+00:02:00,950 --> 00:02:03,230
+try using Grook automation.
+ 
+
+74
+00:02:03,230 --> 00:02:03,240
+
+ 
+
+75
+00:02:03,240 --> 00:02:06,910
+
+Clicking the Grok Automation icon at the top opens the side toolbar.   You
+
+76
+00:02:06,910 --> 00:02:06,920
+Clicking the Grok Automation icon at the top opens the side toolbar.   You
+ 
+
+77
+00:02:06,920 --> 00:02:10,510
+Clicking the Grok Automation icon at the top opens the side toolbar.   You
+need to change a few settings;
+
+78
+00:02:10,510 --> 00:02:12,830
+need to change a few settings;
+ 
+
+79
+00:02:12,830 --> 00:02:12,840
+
+ 
+
+80
+00:02:12,840 --> 00:02:15,949
+
+select a frequently used aspect ratio and
+
+81
+00:02:15,949 --> 00:02:17,670
+
+ 
+
+82
+00:02:17,670 --> 00:02:17,680
+
+ 
+
+83
+00:02:17,680 --> 00:02:20,110
+
+determine the number of videos to create per prompt.  I recommend one, as doing multiple times may
+
+84
+00:02:20,110 --> 00:02:20,120
+determine the number of videos to create per prompt.  I recommend one, as doing multiple times may
+ 
+
+85
+00:02:20,120 --> 00:02:22,229
+determine the number of videos to create per prompt.  I recommend one, as doing multiple times may
+cause problems
+
+86
+00:02:22,229 --> 00:02:22,239
+cause problems
+ 
+
+87
+00:02:22,239 --> 00:02:24,229
+cause problems
+.
+
+88
+00:02:24,229 --> 00:02:27,190
+.
+ 
+
+89
+00:02:27,190 --> 00:02:27,200
+
+ 
+
+90
+00:02:27,200 --> 00:02:30,670
+
+Change the maximum number of suggestions to 3 upon failure.  It seems that the
+
+91
+00:02:30,670 --> 00:02:30,680
+Change the maximum number of suggestions to 3 upon failure.  It seems that the
+ 
+
+92
+00:02:30,680 --> 00:02:33,270
+Change the maximum number of suggestions to 3 upon failure.  It seems that the
+detection system in Grok activates if you generate 15 or more videos consecutively
+
+93
+00:02:33,270 --> 00:02:33,280
+detection system in Grok activates if you generate 15 or more videos consecutively
+ 
+
+94
+00:02:33,280 --> 00:02:35,790
+detection system in Grok activates if you generate 15 or more videos consecutively
+.   For
+
+95
+00:02:35,790 --> 00:02:35,800
+.   For
+ 
+
+96
+00:02:35,800 --> 00:02:38,270
+.   For
+automatic download upscale,
+
+97
+00:02:38,270 --> 00:02:38,280
+automatic download upscale,
+ 
+
+98
+00:02:38,280 --> 00:02:41,030
+automatic download upscale,
+check if it is in upscale mode and if the language
+
+99
+00:02:41,030 --> 00:02:41,040
+check if it is in upscale mode and if the language
+ 
+
+100
+00:02:41,040 --> 00:02:43,750
+check if it is in upscale mode and if the language
+is Korean, then press the save settings
+
+101
+00:02:43,750 --> 00:02:43,760
+is Korean, then press the save settings
+ 
+
+102
+00:02:43,760 --> 00:02:49,149
+is Korean, then press the save settings
+icon below.   In the
+
+103
+00:02:49,149 --> 00:02:49,159
+
+ 
+
+104
+00:02:49,159 --> 00:02:51,350
+
+case of text-to-video, it
+
+105
+00:02:51,350 --> 00:02:51,360
+case of text-to-video, it
+ 
+
+106
+00:02:51,360 --> 00:02:53,710
+case of text-to-video, it
+creates a video by inputting text, while in the
+
+107
+00:02:53,710 --> 00:02:53,720
+creates a video by inputting text, while in the
+ 
+
+108
+00:02:53,720 --> 00:02:56,030
+creates a video by inputting text, while in the
+case of frame-to-video, it generates an image by
+
+109
+00:02:56,030 --> 00:02:56,040
+case of frame-to-video, it generates an image by
+ 
+
+110
+00:02:56,040 --> 00:02:58,430
+case of frame-to-video, it generates an image by
+uploading an image and then starting the image
+
+111
+00:02:58,430 --> 00:02:58,440
+uploading an image and then starting the image
+ 
+
+112
+00:02:58,440 --> 00:03:01,110
+uploading an image and then starting the image
+.
+
+113
+00:03:01,110 --> 00:03:01,120
+.
+ 
+
+114
+00:03:01,120 --> 00:03:02,869
+.
+Prompting is a very important
+
+115
+00:03:02,869 --> 00:03:02,879
+Prompting is a very important
+ 
+
+116
+00:03:02,879 --> 00:03:06,030
+Prompting is a very important
+point.  It is a widely known fact that many
+
+117
+00:03:06,030 --> 00:03:06,040
+point.  It is a widely known fact that many
+ 
+
+118
+00:03:06,040 --> 00:03:08,670
+point.  It is a widely known fact that many
+automation and Chrome extension developers in the Ready community have
+
+119
+00:03:08,670 --> 00:03:08,680
+automation and Chrome extension developers in the Ready community have
+ 
+
+120
+00:03:08,680 --> 00:03:11,390
+automation and Chrome extension developers in the Ready community have
+conducted numerous tests, and if a
+
+121
+00:03:11,390 --> 00:03:11,400
+conducted numerous tests, and if a
+ 
+
+122
+00:03:11,400 --> 00:03:14,750
+conducted numerous tests, and if a
+curb request is sent within 30 seconds, X's barrier
+
+123
+00:03:14,750 --> 00:03:14,760
+curb request is sent within 30 seconds, X's barrier
+ 
+
+124
+00:03:14,760 --> 00:03:18,070
+curb request is sent within 30 seconds, X's barrier
+WF considers it a repair and disconnects the connection
+
+125
+00:03:18,070 --> 00:03:19,470
+WF considers it a repair and disconnects the connection
+ 
+
+126
+00:03:19,470 --> 00:03:19,480
+
+ 
+
+127
+00:03:19,480 --> 00:03:22,630
+
+. To avoid this, a delay of
+
+128
+00:03:22,630 --> 00:03:22,640
+. To avoid this, a delay of
+ 
+
+129
+00:03:22,640 --> 00:03:25,149
+. To avoid this, a delay of
+30 to 60 seconds, similar to human breathing, is forcibly
+
+130
+00:03:25,149 --> 00:03:25,159
+30 to 60 seconds, similar to human breathing, is forcibly
+ 
+
+131
+00:03:25,159 --> 00:03:27,350
+30 to 60 seconds, similar to human breathing, is forcibly
+implemented
+
+132
+00:03:27,350 --> 00:03:27,360
+implemented
+ 
+
+133
+00:03:27,360 --> 00:03:30,710
+implemented
+.  I recommend 50 seconds
+
+134
+00:03:30,710 --> 00:03:30,720
+.  I recommend 50 seconds
+ 
+
+135
+00:03:30,720 --> 00:03:32,390
+.  I recommend 50 seconds
+.
+
+136
+00:03:32,390 --> 00:03:32,400
+.
+ 
+
+137
+00:03:32,400 --> 00:03:34,589
+.
+And for the video script, please
+
+138
+00:03:34,589 --> 00:03:34,599
+And for the video script, please
+ 
+
+139
+00:03:34,599 --> 00:03:37,350
+And for the video script, please
+refer to the previously uploaded video.
+
+140
+00:03:37,350 --> 00:03:37,360
+refer to the previously uploaded video.
+ 
+
+141
+00:03:37,360 --> 00:03:40,110
+refer to the previously uploaded video.
+This video is about
+
+142
+00:03:40,110 --> 00:03:40,120
+This video is about
+ 
+
+143
+00:03:40,120 --> 00:03:42,789
+This video is about
+how to safely use the Chrome extension Grok, so I will
+
+144
+00:03:42,789 --> 00:03:42,799
+how to safely use the Chrome extension Grok, so I will
+ 
+
+145
+00:03:42,799 --> 00:03:46,350
+how to safely use the Chrome extension Grok, so I will
+skip over this part.
+
+146
+00:03:46,350 --> 00:03:49,190
+skip over this part.
+ 
+
+147
+00:03:49,190 --> 00:03:49,200
+
+ 
+
+148
+00:03:49,200 --> 00:03:51,550
+
+Since we are creating a video by referencing an image, I will insert an image
+
+149
+00:03:51,550 --> 00:03:51,560
+Since we are creating a video by referencing an image, I will insert an image
+ 
+
+150
+00:03:51,560 --> 00:03:53,149
+Since we are creating a video by referencing an image, I will insert an image
+.
+
+151
+00:03:53,149 --> 00:03:53,159
+.
+ 
+
+152
+00:03:53,159 --> 00:03:55,949
+.
+Upload the images in order.
+
+153
+00:03:55,949 --> 00:03:55,959
+Upload the images in order.
+ 
+
+154
+00:03:55,959 --> 00:03:59,750
+Upload the images in order.
+For reference, we recommend keeping the number of videos
+
+155
+00:03:59,750 --> 00:03:59,760
+For reference, we recommend keeping the number of videos
+ 
+
+156
+00:03:59,760 --> 00:04:02,589
+For reference, we recommend keeping the number of videos
+to 15 or fewer.
+
+157
+00:04:02,589 --> 00:04:02,599
+to 15 or fewer.
+ 
+
+158
+00:04:02,599 --> 00:04:05,110
+to 15 or fewer.
+When entering the prompt, exclude
+
+159
+00:04:05,110 --> 00:04:05,120
+When entering the prompt, exclude
+ 
+
+160
+00:04:05,120 --> 00:04:07,390
+When entering the prompt, exclude
+all information such as the first and second gods,
+
+161
+00:04:07,390 --> 00:04:07,400
+all information such as the first and second gods,
+ 
+
+162
+00:04:07,400 --> 00:04:10,589
+all information such as the first and second gods,
+leaving only the pure prompt.
+
+163
+00:04:10,589 --> 00:04:10,599
+leaving only the pure prompt.
+ 
+
+164
+00:04:10,599 --> 00:04:12,789
+leaving only the pure prompt.
+And you can separate the first and second gods by
+
+165
+00:04:12,789 --> 00:04:12,799
+And you can separate the first and second gods by
+ 
+
+166
+00:04:12,799 --> 00:04:14,990
+And you can separate the first and second gods by
+leaving a line blank
+
+167
+00:04:14,990 --> 00:04:15,000
+leaving a line blank
+ 
+
+168
+00:04:15,000 --> 00:04:17,590
+leaving a line blank
+.  Now the image and prompt
+
+169
+00:04:17,590 --> 00:04:17,600
+.  Now the image and prompt
+ 
+
+170
+00:04:17,600 --> 00:04:19,749
+.  Now the image and prompt
+connect, and the video duration of 6 seconds
+
+171
+00:04:19,749 --> 00:04:19,759
+connect, and the video duration of 6 seconds
+ 
+
+172
+00:04:19,759 --> 00:04:22,670
+connect, and the video duration of 6 seconds
+is visible.  If you click here, you will see the connection feature. This
+
+173
+00:04:22,670 --> 00:04:25,990
+is visible.  If you click here, you will see the connection feature. This
+ 
+
+174
+00:04:25,990 --> 00:04:28,550
+
+ 
+
+175
+00:04:28,550 --> 00:04:28,560
+
+ 
+
+176
+00:04:28,560 --> 00:04:31,189
+
+feature uses the last part of the current video as the first image of the next video, and
+
+177
+00:04:31,189 --> 00:04:31,199
+feature uses the last part of the current video as the first image of the next video, and
+ 
+
+178
+00:04:31,199 --> 00:04:34,029
+feature uses the last part of the current video as the first image of the next video, and
+there are many changes to the character depending on the final scene.  Just keep in mind that this feature
+
+179
+00:04:34,029 --> 00:04:34,039
+there are many changes to the character depending on the final scene.  Just keep in mind that this feature
+ 
+
+180
+00:04:34,039 --> 00:04:36,670
+there are many changes to the character depending on the final scene.  Just keep in mind that this feature
+exists.
+
+181
+00:04:36,670 --> 00:04:36,680
+exists.
+ 
+
+182
+00:04:36,680 --> 00:04:39,189
+exists.
+Since an image has been included in every scene this time,
+
+183
+00:04:39,189 --> 00:04:39,199
+Since an image has been included in every scene this time,
+ 
+
+184
+00:04:39,199 --> 00:04:41,950
+Since an image has been included in every scene this time,
+select 6 seconds and press the play button at the bottom
+
+185
+00:04:41,950 --> 00:04:41,960
+select 6 seconds and press the play button at the bottom
+ 
+
+186
+00:04:41,960 --> 00:04:44,749
+select 6 seconds and press the play button at the bottom
+.  Now, do something else while
+
+187
+00:04:44,749 --> 00:04:44,759
+.  Now, do something else while
+ 
+
+188
+00:04:44,759 --> 00:04:46,550
+.  Now, do something else while
+waiting for the video generation to finish
+
+189
+00:04:46,550 --> 00:04:46,560
+waiting for the video generation to finish
+ 
+
+190
+00:04:46,560 --> 00:04:49,950
+waiting for the video generation to finish
+.  When the completion indicator appears in the prompt queue,
+
+191
+00:04:49,950 --> 00:04:52,629
+.  When the completion indicator appears in the prompt queue,
+ 
+
+192
+00:04:52,629 --> 00:04:52,639
+
+ 
+
+193
+00:04:52,639 --> 00:04:54,870
+
+check if the file has been downloaded successfully.
+
+194
+00:04:54,870 --> 00:04:54,880
+check if the file has been downloaded successfully.
+ 
+
+195
+00:04:54,880 --> 00:04:58,430
+check if the file has been downloaded successfully.
+If you open Pi Explorer, you
+
+196
+00:04:58,430 --> 00:04:58,440
+If you open Pi Explorer, you
+ 
+
+197
+00:04:58,440 --> 00:05:04,070
+If you open Pi Explorer, you
+can confirm that the requested video has been downloaded successfully.
+
+198
+00:05:04,070 --> 00:05:04,080
+
+ 
+
+199
+00:05:04,080 --> 00:05:06,350
+
+Grok AI delivers the
+
+200
+00:05:06,350 --> 00:05:06,360
+Grok AI delivers the
+ 
+
+201
+00:05:06,360 --> 00:05:08,590
+Grok AI delivers the
+best results among free video creation programs
+
+202
+00:05:08,590 --> 00:05:08,600
+best results among free video creation programs
+ 
+
+203
+00:05:08,600 --> 00:05:10,710
+best results among free video creation programs
+.  And Grok
+
+204
+00:05:10,710 --> 00:05:10,720
+.  And Grok
+ 
+
+205
+00:05:10,720 --> 00:05:13,189
+.  And Grok
+Automation
+
+206
+00:05:13,189 --> 00:05:13,199
+Automation
+ 
+
+207
+00:05:13,199 --> 00:05:15,590
+Automation
+is a very useful tool.  Therefore, you must
+
+208
+00:05:15,590 --> 00:05:15,600
+is a very useful tool.  Therefore, you must
+ 
+
+209
+00:05:15,600 --> 00:05:18,110
+is a very useful tool.  Therefore, you must
+not have your account suspended or receive a hardware ban
+
+210
+00:05:18,110 --> 00:05:18,120
+not have your account suspended or receive a hardware ban
+ 
+
+211
+00:05:18,120 --> 00:05:21,110
+not have your account suspended or receive a hardware ban
+.  I hope you make
+
+212
+00:05:21,110 --> 00:05:21,120
+.  I hope you make
+ 
+
+213
+00:05:21,120 --> 00:05:23,230
+.  I hope you make
+sure to follow the final summary points from now on when using it
+
+214
+00:05:23,230 --> 00:05:23,240
+sure to follow the final summary points from now on when using it
+ 
+
+215
+00:05:23,240 --> 00:05:26,029
+sure to follow the final summary points from now on when using it
+.  First delay time
+
+216
+00:05:26,029 --> 00:05:26,039
+.  First delay time
+ 
+
+217
+00:05:26,039 --> 00:05:29,830
+.  First delay time
+section.  Set the interval between videos
+
+218
+00:05:29,830 --> 00:05:29,840
+section.  Set the interval between videos
+ 
+
+219
+00:05:29,840 --> 00:05:32,990
+section.  Set the interval between videos
+to at least 30 to 60 times.
+
+220
+00:05:32,990 --> 00:05:33,000
+to at least 30 to 60 times.
+ 
+
+221
+00:05:33,000 --> 00:05:36,029
+to at least 30 to 60 times.
+Second mass production orientation.
+
+222
+00:05:36,029 --> 00:05:36,039
+Second mass production orientation.
+ 
+
+223
+00:05:36,039 --> 00:05:38,990
+Second mass production orientation.
+Instead of hanging hundreds at once,
+
+224
+00:05:38,990 --> 00:05:39,000
+Instead of hanging hundreds at once,
+ 
+
+225
+00:05:39,000 --> 00:05:41,950
+Instead of hanging hundreds at once,
+work in batches of 5 to 15.
+
+226
+00:05:41,950 --> 00:05:41,960
+work in batches of 5 to 15.
+ 
+
+227
+00:05:41,960 --> 00:05:45,590
+work in batches of 5 to 15.
+Third account monitoring.  If a temporary restriction
+
+228
+00:05:45,590 --> 00:05:45,600
+Third account monitoring.  If a temporary restriction
+ 
+
+229
+00:05:45,600 --> 00:05:48,990
+Third account monitoring.  If a temporary restriction
+message appears, it is recommended to immediately stop the automation and
+
+230
+00:05:48,990 --> 00:05:49,000
+message appears, it is recommended to immediately stop the automation and
+ 
+
+231
+00:05:49,000 --> 00:05:50,830
+message appears, it is recommended to immediately stop the automation and
+take a break for about half a day
+
+232
+00:05:50,830 --> 00:05:50,840
+take a break for about half a day
+ 
+
+233
+00:05:50,840 --> 00:05:52,990
+take a break for about half a day
+. If you follow these three points, you
+
+234
+00:05:52,990 --> 00:05:53,000
+. If you follow these three points, you
+ 
+
+235
+00:05:53,000 --> 00:05:55,350
+. If you follow these three points, you
+can use it safely
+
+236
+00:05:55,350 --> 00:05:55,360
+can use it safely
+ 
+
+237
+00:05:55,360 --> 00:05:58,029
+can use it safely
+.  I hope today's content was helpful
+
+238
+00:05:58,029 --> 00:05:58,039
+.  I hope today's content was helpful
+ 
+
+239
+00:05:58,039 --> 00:06:01,800
+.  I hope today's content was helpful
+.  thank you
+
