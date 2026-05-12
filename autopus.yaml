@@ -106,19 +106,19 @@ quality:
     default: balanced
     presets:
         balanced:
-            description: 핵심 분석은 Opus, 기본 작업은 Sonnet. Haiku 미사용.
+            description: 핵심 분석은 Opus(Premium), 일반 작업은 Sonnet(Flash), 탐색/검증은 Haiku(Local). 최적 비용 세팅.
             agents:
                 architect: opus
                 debugger: sonnet
-                devops: sonnet
+                devops: haiku
                 executor: sonnet
-                explorer: sonnet
+                explorer: haiku
                 planner: opus
                 reviewer: sonnet
                 security-auditor: opus
-                spec-writer: opus
-                tester: sonnet
-                validator: sonnet
+                spec-writer: sonnet
+                tester: haiku
+                validator: haiku
         ultra:
             description: 모든 에이전트를 Opus로 실행. 최고 품질.
             agents:

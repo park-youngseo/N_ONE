@@ -27,18 +27,30 @@ providers:
     enabled: true
     model: gemini-3.1-pro-preview
     api_key: "AIzaSyByt4IkEjpFzB1R8MbPt42HzblHI6QS7dA"
+    tier: premium
+    max_tokens: 4096
 
   codex:
     enabled: true
     model: gpt-5.4
     api_key: "REDACTED_BY_AUTOPUS"
+    tier: premium
+    max_tokens: 4096
+
+  gemini_flash:
+    enabled: true
+    model: gemini-2.0-flash
+    tier: economy
+    max_tokens: 2048
 
   ollama:
     enabled: true
     model: qwen2.5:14b
     endpoint: "http://127.0.0.1:11434"
     local: true
-    role: preprocessor
+    tier: local
+    max_tokens: 8192
+    role: worker
 
 # 3. 오케스트레이션(협업) 전략 설정
 orchestra:
