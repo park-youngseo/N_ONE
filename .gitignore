@@ -57,3 +57,5 @@ runtime-a2a-canary-local-probe.md
 # Autopus-ADK generated files
 .opencode/
 .agents/plugins/
+
+auto.exe

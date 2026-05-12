@@ -23,11 +23,6 @@ deny:
 
 # 2. AI 엔진(Provider) 설정
 providers:
-  claude:
-    enabled: false # API 키 부재로 비활성화
-    model: claude-3-5-sonnet-20240620
-    api_key: ""
-
   gemini:
     enabled: true
     model: gemini-3.1-pro-preview
