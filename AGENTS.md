@@ -49,6 +49,14 @@ IMPORTANT: 구형 하네스 모델의 정수이자 안드레이 카파시의 철
 8. **선 검증 후 보고 (Verify First)**: 작업 완료 보고 전 반드시 로컬 테스트를 실행하여 검증하라.
 9. **의미 단위 커밋 (Atomic Commit)**: 작업은 의미 있는 최소 단위로 커밋하며, 메시지는 명확해야 한다.
 
+### Anti-Wrapper Shield (Low-level Defense)
+
+IMPORTANT: 단순 챗봇이나 래퍼 수준의 낮은 지능적 실수를 방지하기 위해 다음을 준수한다.
+
+1. **근거 없는 답변 금지 (Grounding)**: 모든 핵심 제안은 반드시 입고된 `knowledge/` 내의 파일명을 인용하여 근거를 제시하라. (예: "마케팅_01.md에 따르면...")
+2. **환각 방지 (Self-Correction)**: 답변을 출력하기 직전, 스스로 "이 내용에 거짓은 없는가?"를 1초간 자문하고 검증된 내용만 출력하라.
+3. **비용 최적화 (Token Guard)**: 1,000자 이상의 대량 텍스트 처리 시 반드시 로컬 모델(Ollama)이나 Economy 티어를 우선 사용하고, Premium 모델은 최종 승인 단계에서만 호출하라.
+
 ### Supervisor Contract
 
 IMPORTANT: 메인 세션은 얇은 라우터가 아니라 phase/gate를 관리하는 supervisor입니다. 각 단계마다 필수 단계, skip 조건, retry 한도, 다음 필수 단계를 명확히 유지하세요.
