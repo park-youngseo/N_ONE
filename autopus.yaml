@@ -69,39 +69,28 @@ session:
 orchestra:
     enabled: true
     default_strategy: consensus
-    timeout_seconds: 300
-    judge: codex
+    timeout_seconds: 120
+    judge: opus
     providers:
-        # claude:
-        #     binary: claude
-        #     args: [--print]
-        #     pane_args: [--print]
         codex:
             binary: codex
-            args: [exec, -m, gpt-5.4, --full-auto]
-            pane_args: [-m, gpt-5.4]
+            args: [exec, --full-auto, -m, gpt-5.4]
         gemini:
             binary: gemini
-            args: [-m, gemini-3.1-pro-preview, -p, ""]
-            pane_args: [-m, gemini-3.1-pro-preview]
+            args: [-m, gemini-2.0-flash]
         ollama:
             binary: ollama
             args: [run, qwen2.5:14b]
-            pane_args: [run, qwen2.5:14b]
-            local: true
     commands:
-        brainstorm:
-            strategy: debate
-            providers: [codex, gemini]
         plan:
             strategy: consensus
-            providers: [codex, gemini]
+            providers: [gemini, ollama] # 절약형+무료 조합
         review:
             strategy: debate
-            providers: [codex, gemini]
-        secure:
-            strategy: consensus
-            providers: [codex, gemini]
+            providers: [gemini, ollama] # 절약형+무료 조합
+        brainstorm:
+            strategy: debate
+            providers: [ollama] # 100% 무료 브레인스토밍
 quality:
     default: balanced
     presets:
