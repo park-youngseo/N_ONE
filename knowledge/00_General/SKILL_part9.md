@@ -1,0 +1,2 @@
+- `/auto platform add <name>` — add a platform
+- `/auto platform remove <name>` — remove a platform

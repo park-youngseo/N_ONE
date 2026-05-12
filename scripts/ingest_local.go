@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	inboxDir := `c:\Users\psm23\Desktop\N_ONE\data\inbox`
+	inboxDir := `c:\Users\psm23\Desktop\Autopus-NONE`
 	baseKnowledgeDir := `c:\Users\psm23\Desktop\N_ONE\knowledge`
 
 	fmt.Println("🚀 재귀적 지식 이식 공정 가동 시작...")
