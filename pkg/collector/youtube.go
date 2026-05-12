@@ -46,28 +46,36 @@ func (c *YouTubeCollector) Collect(ctx context.Context, videoURL string) (string
 	filename := fmt.Sprintf("%s_%s.md", timestamp, safeTitle)
 	fullPath := filepath.Join(c.outputDir, filename)
 
-	// 2. yt-dlp를 사용하여 자막 추출 (브라우저 쿠키 순차 시도)
+	// 2. yt-dlp를 사용하여 자막 추출 (No-Cookie 우선, 이후 브라우저 순차 시도)
 	tempPrefix := filepath.Join(c.outputDir, "temp_"+timestamp)
-	browsers := []string{"chrome", "edge", "brave", "vivaldi"}
+	browsers := []string{"none", "chrome", "edge", "brave", "vivaldi"}
 	var lastErr error
 	var success bool
 
 	for _, browser := range browsers {
-		slog.Info("유튜브 차단 회피 시도", "browser", browser)
 		args := []string{
 			"--skip-download",
 			"--write-auto-sub",
 			"--sub-lang", "ko,en",
 			"--convert-subs", "srt",
-			"--cookies-from-browser", browser,
+			"--user-agent", "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36",
+			"--referer", "https://www.google.com/",
 			"-o", tempPrefix,
-			videoURL,
 		}
+
+		if browser != "none" {
+			slog.Info("유튜브 차단 회피 시도 (쿠키 사용)", "browser", browser)
+			args = append(args, "--cookies-from-browser", browser)
+		} else {
+			slog.Info("유튜브 수집 시도 (No-Cookie)", "url", videoURL)
+		}
+
+		args = append(args, videoURL) // URL은 항상 마지막에
 
 		cmd := exec.CommandContext(ctx, "yt-dlp", args...)
 		if out, err := cmd.CombinedOutput(); err != nil {
-			lastErr = fmt.Errorf("browser %s failed: %v (output: %s)", browser, err, string(out))
-			continue // 다음 브라우저 시도
+			lastErr = fmt.Errorf("mode %s failed: %v (output: %s)", browser, err, string(out))
+			continue // 다음 모드 시도
 		}
 		success = true
 		break // 성공 시 루프 탈출
