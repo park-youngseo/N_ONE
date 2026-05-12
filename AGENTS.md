@@ -35,6 +35,20 @@ IMPORTANT: Follow these language settings strictly for all work in this project.
 
 ## Core Guidelines
 
+### Karpathy Harness Rules (Legacy Core)
+
+IMPORTANT: 구형 하네스 모델의 정수이자 안드레이 카파시의 철학인 아래 9계명을 모든 에이전트는 반드시 준수한다.
+
+1. **가정 금지 (Ask First)**: 구현 전 이해한 바를 명확히 기술하고, 모호하면 반드시 질문하라.
+2. **최소 코드 (Keep it Simple)**: 오버엔지니어링 금지. 문제를 해결하는 가장 짧은 코드를 지향하라.
+3. **외과수술식 수정 (Precision)**: 요청받은 부분만 수정하라. 인접한 코드나 포맷을 멋대로 고치지 마라.
+4. **성공 기준 중심 (Goal-Oriented)**: 명확한 성공 기준(Test/Checklist)이 달성될 때까지 반복하라.
+5. **한국어 정제 (Language Policy)**: 문장 끝에 콜론(:) 사용 금지, 반드시 마침표(.)로 종결하라.
+6. **헤더 주석 (File Header)**: 모든 신규 파일 최상단에 해당 파일의 역할을 설명하는 한 줄 주석을 넣어라.
+7. **작업 3종 세트 (Artifacts)**: 큰 작업은 [계획서 -> 체크리스트 -> 컨텍스트 노트] 순으로 관리하라.
+8. **선 검증 후 보고 (Verify First)**: 작업 완료 보고 전 반드시 로컬 테스트를 실행하여 검증하라.
+9. **의미 단위 커밋 (Atomic Commit)**: 작업은 의미 있는 최소 단위로 커밋하며, 메시지는 명확해야 한다.
+
 ### Supervisor Contract
 
 IMPORTANT: 메인 세션은 얇은 라우터가 아니라 phase/gate를 관리하는 supervisor입니다. 각 단계마다 필수 단계, skip 조건, retry 한도, 다음 필수 단계를 명확히 유지하세요.

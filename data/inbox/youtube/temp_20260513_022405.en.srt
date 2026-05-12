@@ -1,0 +1,745 @@
+1
+00:00:00,560 --> 00:00:03,270
+
+hello.  In this video, I will show you how
+
+2
+00:00:03,270 --> 00:00:03,280
+hello.  In this video, I will show you how
+ 
+
+3
+00:00:03,280 --> 00:00:05,990
+hello.  In this video, I will show you how
+anyone can easily create videos using free AI tools
+
+4
+00:00:05,990 --> 00:00:06,000
+anyone can easily create videos using free AI tools
+ 
+
+5
+00:00:06,000 --> 00:00:09,190
+anyone can easily create videos using free AI tools
+.  In particular,
+
+6
+00:00:09,190 --> 00:00:09,200
+.  In particular,
+ 
+
+7
+00:00:09,200 --> 00:00:12,190
+.  In particular,
+if you use Halio AI, you can generate
+
+8
+00:00:12,190 --> 00:00:12,200
+if you use Halio AI, you can generate
+ 
+
+9
+00:00:12,200 --> 00:00:14,509
+if you use Halio AI, you can generate
+unlimited Easy2 image videos for a week
+
+10
+00:00:14,509 --> 00:00:14,519
+unlimited Easy2 image videos for a week
+ 
+
+11
+00:00:14,519 --> 00:00:16,550
+unlimited Easy2 image videos for a week
+.
+
+12
+00:00:16,550 --> 00:00:16,560
+.
+ 
+
+13
+00:00:16,560 --> 00:00:19,750
+.
+This video you are about to watch was also
+
+14
+00:00:19,750 --> 00:00:19,760
+This video you are about to watch was also
+ 
+
+15
+00:00:19,760 --> 00:00:22,870
+This video you are about to watch was also
+created by me personally in just 10 minutes, from storyboarding to video production.
+
+16
+00:00:22,870 --> 00:00:22,880
+created by me personally in just 10 minutes, from storyboarding to video production.
+ 
+
+17
+00:00:22,880 --> 00:00:25,710
+created by me personally in just 10 minutes, from storyboarding to video production.
+Today's content is a
+
+18
+00:00:25,710 --> 00:00:25,720
+Today's content is a
+ 
+
+19
+00:00:25,720 --> 00:00:27,990
+Today's content is a
+beginner's guide for those new to AI video production
+
+20
+00:00:27,990 --> 00:00:28,000
+beginner's guide for those new to AI video production
+ 
+
+21
+00:00:28,000 --> 00:00:30,710
+beginner's guide for those new to AI video production
+.  How do you like this video I made in just 20 minutes
+
+22
+00:00:30,710 --> 00:00:30,720
+.  How do you like this video I made in just 20 minutes
+ 
+
+23
+00:00:30,720 --> 00:00:32,950
+.  How do you like this video I made in just 20 minutes
+?  I will
+
+24
+00:00:32,950 --> 00:00:32,960
+?  I will
+ 
+
+25
+00:00:32,960 --> 00:00:35,389
+?  I will
+start now.  I am requesting Jaminai to create a storyboard for the story of the video made today
+
+26
+00:00:35,389 --> 00:00:38,229
+start now.  I am requesting Jaminai to create a storyboard for the story of the video made today
+ 
+
+27
+00:00:38,229 --> 00:00:38,239
+
+ 
+
+28
+00:00:38,239 --> 00:00:40,790
+
+.  If
+
+29
+00:00:40,790 --> 00:00:40,800
+.  If
+ 
+
+30
+00:00:40,800 --> 00:00:43,430
+.  If
+Jae-eun, who writes storyboards, doesn't have personal matters, I
+
+31
+00:00:43,430 --> 00:00:45,590
+Jae-eun, who writes storyboards, doesn't have personal matters, I
+ 
+
+32
+00:00:45,590 --> 00:00:45,600
+
+ 
+
+33
+00:00:45,600 --> 00:00:47,150
+
+will produce the video next Thursday or Friday.
+
+34
+00:00:47,150 --> 00:00:47,160
+will produce the video next Thursday or Friday.
+ 
+
+35
+00:00:47,160 --> 00:00:49,430
+will produce the video next Thursday or Friday.
+First, let's check out the main character of today's video in the storyboard
+
+36
+00:00:49,430 --> 00:00:49,440
+First, let's check out the main character of today's video in the storyboard
+ 
+
+37
+00:00:49,440 --> 00:00:51,510
+First, let's check out the main character of today's video in the storyboard
+.  The
+
+38
+00:00:51,510 --> 00:00:51,520
+.  The
+ 
+
+39
+00:00:51,520 --> 00:00:54,670
+.  The
+main characters needed this time are Mom and Dad.
+
+40
+00:00:54,670 --> 00:00:54,680
+main characters needed this time are Mom and Dad.
+ 
+
+41
+00:00:54,680 --> 00:00:57,349
+main characters needed this time are Mom and Dad.
+Now, let's create a character using Whisk
+
+42
+00:00:57,349 --> 00:00:57,359
+Now, let's create a character using Whisk
+ 
+
+43
+00:00:57,359 --> 00:01:00,189
+Now, let's create a character using Whisk
+.  For example, please
+
+44
+00:01:00,189 --> 00:01:00,199
+.  For example, please
+ 
+
+45
+00:01:00,199 --> 00:01:03,990
+.  For example, please
+enter "full body of a Korean male in his late 20s" and
+
+46
+00:01:03,990 --> 00:01:06,630
+enter "full body of a Korean male in his late 20s" and
+ 
+
+47
+00:01:06,630 --> 00:01:06,640
+
+ 
+
+48
+00:01:06,640 --> 00:01:09,310
+
+continue generating until you get an image you like.  For the mom character, you
+
+49
+00:01:09,310 --> 00:01:12,230
+continue generating until you get an image you like.  For the mom character, you
+ 
+
+50
+00:01:12,230 --> 00:01:15,469
+
+ 
+
+51
+00:01:15,469 --> 00:01:15,479
+
+ 
+
+52
+00:01:15,479 --> 00:01:18,310
+
+can do the same by entering "truth" as a full-body Korean woman in her late 20s and repeating the process until you get the desired result.
+
+53
+00:01:18,310 --> 00:01:18,320
+can do the same by entering "truth" as a full-body Korean woman in her late 20s and repeating the process until you get the desired result.
+ 
+
+54
+00:01:18,320 --> 00:01:21,030
+can do the same by entering "truth" as a full-body Korean woman in her late 20s and repeating the process until you get the desired result.
+And please make sure to set the background to Studio
+
+55
+00:01:21,030 --> 00:01:21,040
+And please make sure to set the background to Studio
+ 
+
+56
+00:01:21,040 --> 00:01:24,069
+And please make sure to set the background to Studio
+.  You must do this to
+
+57
+00:01:24,069 --> 00:01:24,079
+.  You must do this to
+ 
+
+58
+00:01:24,079 --> 00:01:26,310
+.  You must do this to
+recognize the protagonist more accurately in the nano banana
+
+59
+00:01:26,310 --> 00:01:26,320
+recognize the protagonist more accurately in the nano banana
+ 
+
+60
+00:01:26,320 --> 00:01:29,069
+recognize the protagonist more accurately in the nano banana
+.  Now, let's go into AI Studio and
+
+61
+00:01:29,069 --> 00:01:29,079
+.  Now, let's go into AI Studio and
+ 
+
+62
+00:01:29,079 --> 00:01:31,230
+.  Now, let's go into AI Studio and
+run Nano Banana
+
+63
+00:01:31,230 --> 00:01:31,240
+run Nano Banana
+ 
+
+64
+00:01:31,240 --> 00:01:34,190
+run Nano Banana
+.  First, attach the main character to the image and
+
+65
+00:01:34,190 --> 00:01:36,429
+.  First, attach the main character to the image and
+ 
+
+66
+00:01:36,429 --> 00:01:36,439
+
+ 
+
+67
+00:01:36,439 --> 00:01:39,030
+
+copy the storyboard content you just created.  Then, I
+
+68
+00:01:39,030 --> 00:01:41,429
+copy the storyboard content you just created.  Then, I
+ 
+
+69
+00:01:41,429 --> 00:01:41,439
+
+ 
+
+70
+00:01:41,439 --> 00:01:43,590
+
+can continue generating the scene I want until I get an image I like
+
+71
+00:01:43,590 --> 00:01:43,600
+can continue generating the scene I want until I get an image I like
+ 
+
+72
+00:01:43,600 --> 00:01:46,389
+can continue generating the scene I want until I get an image I like
+.  Once the desired scene is complete,
+
+73
+00:01:46,389 --> 00:01:49,429
+.  Once the desired scene is complete,
+ 
+
+74
+00:01:49,429 --> 00:01:51,910
+
+ 
+
+75
+00:01:51,910 --> 00:01:51,920
+
+ 
+
+76
+00:01:51,920 --> 00:01:54,870
+
+please download the files and organize the names in order so that you do not get confused about the sequence later.  Now,
+
+77
+00:01:54,870 --> 00:01:54,880
+please download the files and organize the names in order so that you do not get confused about the sequence later.  Now,
+ 
+
+78
+00:01:54,880 --> 00:01:57,510
+please download the files and organize the names in order so that you do not get confused about the sequence later.  Now,
+connect to Hilu AI.  Since the event period is one week, you
+
+79
+00:01:57,510 --> 00:02:01,109
+connect to Hilu AI.  Since the event period is one week, you
+ 
+
+80
+00:02:01,109 --> 00:02:01,119
+
+ 
+
+81
+00:02:01,119 --> 00:02:03,630
+
+can create unlimited image videos.  To participate in the event,
+
+82
+00:02:03,630 --> 00:02:03,640
+can create unlimited image videos.  To participate in the event,
+ 
+
+83
+00:02:03,640 --> 00:02:06,990
+can create unlimited image videos.  To participate in the event,
+log in with your Google account,
+
+84
+00:02:06,990 --> 00:02:07,000
+log in with your Google account,
+ 
+
+85
+00:02:07,000 --> 00:02:09,669
+log in with your Google account,
+go to the Video category, and
+
+86
+00:02:09,669 --> 00:02:09,679
+go to the Video category, and
+ 
+
+87
+00:02:09,679 --> 00:02:12,710
+go to the Video category, and
+create an image.  Making a video is
+
+88
+00:02:12,710 --> 00:02:12,720
+create an image.  Making a video is
+ 
+
+89
+00:02:12,720 --> 00:02:15,550
+create an image.  Making a video is
+simple.  First,
+
+90
+00:02:15,550 --> 00:02:15,560
+simple.  First,
+ 
+
+91
+00:02:15,560 --> 00:02:18,350
+simple.  First,
+combine the start and end images to
+
+92
+00:02:18,350 --> 00:02:18,360
+combine the start and end images to
+ 
+
+93
+00:02:18,360 --> 00:02:21,390
+combine the start and end images to
+create a single video, and for the next video, use the
+
+94
+00:02:21,390 --> 00:02:21,400
+create a single video, and for the next video, use the
+ 
+
+95
+00:02:21,400 --> 00:02:23,990
+create a single video, and for the next video, use the
+last image from the previous video
+
+96
+00:02:23,990 --> 00:02:24,000
+last image from the previous video
+ 
+
+97
+00:02:24,000 --> 00:02:26,470
+last image from the previous video
+as the new start image. If
+
+98
+00:02:26,470 --> 00:02:26,480
+as the new start image. If
+ 
+
+99
+00:02:26,480 --> 00:02:29,550
+as the new start image. If
+you continue this process until the end of the video, it will be
+
+100
+00:02:29,550 --> 00:02:29,560
+you continue this process until the end of the video, it will be
+ 
+
+101
+00:02:29,560 --> 00:02:32,110
+you continue this process until the end of the video, it will be
+completed naturally.  To
+
+102
+00:02:32,110 --> 00:02:32,120
+completed naturally.  To
+ 
+
+103
+00:02:32,120 --> 00:02:34,750
+completed naturally.  To
+use Hiluer, insert the start and end images
+
+104
+00:02:34,750 --> 00:02:34,760
+use Hiluer, insert the start and end images
+ 
+
+105
+00:02:34,760 --> 00:02:37,589
+use Hiluer, insert the start and end images
+.  Enter
+
+106
+00:02:37,589 --> 00:02:39,830
+.  Enter
+ 
+
+107
+00:02:39,830 --> 00:02:39,840
+
+ 
+
+108
+00:02:39,840 --> 00:02:41,710
+
+in English in the prompt how you want the video to look between the first and last frames
+
+109
+00:02:41,710 --> 00:02:41,720
+in English in the prompt how you want the video to look between the first and last frames
+ 
+
+110
+00:02:41,720 --> 00:02:43,949
+in English in the prompt how you want the video to look between the first and last frames
+.  Disable the prompt camera option to get better results in the prompt
+
+111
+00:02:43,949 --> 00:02:45,990
+.  Disable the prompt camera option to get better results in the prompt
+ 
+
+112
+00:02:45,990 --> 00:02:46,000
+
+ 
+
+113
+00:02:46,000 --> 00:02:48,509
+
+.
+
+114
+00:02:48,509 --> 00:02:48,519
+.
+ 
+
+115
+00:02:48,519 --> 00:02:52,509
+.
+Select the Hiluer model, choose the video resolution and time for the
+
+116
+00:02:52,509 --> 00:02:52,519
+Select the Hiluer model, choose the video resolution and time for the
+ 
+
+117
+00:02:52,519 --> 00:02:54,869
+Select the Hiluer model, choose the video resolution and time for the
+generated video gas, and then
+
+118
+00:02:54,869 --> 00:02:54,879
+generated video gas, and then
+ 
+
+119
+00:02:54,879 --> 00:02:57,470
+generated video gas, and then
+press the generate button.  After waiting a moment,
+
+120
+00:02:57,470 --> 00:02:59,869
+press the generate button.  After waiting a moment,
+ 
+
+121
+00:02:59,869 --> 00:02:59,879
+
+ 
+
+122
+00:02:59,879 --> 00:03:03,149
+
+download the desired video clip, and repeat the process until the entire video is created to
+
+123
+00:03:03,149 --> 00:03:05,070
+download the desired video clip, and repeat the process until the entire video is created to
+ 
+
+124
+00:03:05,070 --> 00:03:05,080
+
+ 
+
+125
+00:03:05,080 --> 00:03:06,869
+
+finish.
+
+126
+00:03:06,869 --> 00:03:06,879
+finish.
+ 
+
+127
+00:03:06,879 --> 00:03:09,309
+finish.
+Now, return to the editing program,
+
+128
+00:03:09,309 --> 00:03:09,319
+Now, return to the editing program,
+ 
+
+129
+00:03:09,319 --> 00:03:12,350
+Now, return to the editing program,
+edit the video, and once you finish editing, the
+
+130
+00:03:12,350 --> 00:03:12,360
+edit the video, and once you finish editing, the
+ 
+
+131
+00:03:12,360 --> 00:03:15,309
+edit the video, and once you finish editing, the
+video will be complete.  Today, we looked at the process of completing a video
+
+132
+00:03:15,309 --> 00:03:15,319
+video will be complete.  Today, we looked at the process of completing a video
+ 
+
+133
+00:03:15,319 --> 00:03:17,470
+video will be complete.  Today, we looked at the process of completing a video
+using free AI tools,
+
+134
+00:03:17,470 --> 00:03:17,480
+using free AI tools,
+ 
+
+135
+00:03:17,480 --> 00:03:20,309
+using free AI tools,
+from storyboarding and character creation to video
+
+136
+00:03:20,309 --> 00:03:20,319
+from storyboarding and character creation to video
+ 
+
+137
+00:03:20,319 --> 00:03:22,710
+from storyboarding and character creation to video
+production and a letter
+
+138
+00:03:22,710 --> 00:03:22,720
+production and a letter
+ 
+
+139
+00:03:22,720 --> 00:03:25,110
+production and a letter
+.   We
+
+140
+00:03:25,110 --> 00:03:28,110
+.   We
+ 
+
+141
+00:03:28,110 --> 00:03:30,550
+
+ 
+
+142
+00:03:30,550 --> 00:03:30,560
+
+ 
+
+143
+00:03:30,560 --> 00:03:33,789
+
+plan to continue introducing AI video production methods that are easy for beginners to follow, so if you found this video helpful, please
+
+144
+00:03:33,789 --> 00:03:33,799
+plan to continue introducing AI video production methods that are easy for beginners to follow, so if you found this video helpful, please
+ 
+
+145
+00:03:33,799 --> 00:03:36,830
+plan to continue introducing AI video production methods that are easy for beginners to follow, so if you found this video helpful, please
+subscribe and like.  I will be back
+
+146
+00:03:36,830 --> 00:03:36,840
+subscribe and like.  I will be back
+ 
+
+147
+00:03:36,840 --> 00:03:38,710
+subscribe and like.  I will be back
+with more useful content in the next video
+
+148
+00:03:38,710 --> 00:03:38,720
+with more useful content in the next video
+ 
+
+149
+00:03:38,720 --> 00:03:41,720
+with more useful content in the next video
+.
+
