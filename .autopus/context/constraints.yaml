@@ -38,6 +38,13 @@ providers:
     model: gpt-5.4
     api_key: "REDACTED_BY_AUTOPUS"
 
+  ollama:
+    enabled: true
+    model: qwen2.5:14b
+    endpoint: "http://127.0.0.1:11434"
+    local: true
+    role: preprocessor
+
 # 3. 오케스트레이션(협업) 전략 설정
 orchestra:
   strategy: consensus

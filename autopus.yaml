@@ -43,13 +43,16 @@ methodology:
 router:
     strategy: balanced
     tiers:
+        local: ollama/qwen2.5:14b
         economy: gemini-3.1-pro-preview
-        premium: gpt-5.4
         standard: gpt-5.4
+        premium: gpt-5.4
     categories:
         deep: premium
+        draft: local
+        format: local
         git: economy
-        quick: economy
+        quick: local
         ultrabrain: premium
         visual: premium
         writing: standard
@@ -81,6 +84,11 @@ orchestra:
             binary: gemini
             args: [-m, gemini-3.1-pro-preview, -p, ""]
             pane_args: [-m, gemini-3.1-pro-preview]
+        ollama:
+            binary: ollama
+            args: [run, qwen2.5:14b]
+            pane_args: [run, qwen2.5:14b]
+            local: true
     commands:
         brainstorm:
             strategy: debate
