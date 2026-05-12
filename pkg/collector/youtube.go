@@ -4,6 +4,7 @@ package collector
 import (
 	"context"
 	"fmt"
+	"log/slog"
 	"os"
 	"os/exec"
 	"path/filepath"
@@ -45,24 +46,35 @@ func (c *YouTubeCollector) Collect(ctx context.Context, videoURL string) (string
 	filename := fmt.Sprintf("%s_%s.md", timestamp, safeTitle)
 	fullPath := filepath.Join(c.outputDir, filename)
 
-	// 2. yt-dlp를 사용하여 자막 추출 (자동 번역 포함 한국어 우선)
-	// --skip-download: 비디오 파일은 안 받음
-	// --write-auto-subs: 자동 생성 자막 포함
-	// --sub-lang: 한국어(ko) 우선
-	// --convert-subs: srt 형식으로 변환
+	// 2. yt-dlp를 사용하여 자막 추출 (브라우저 쿠키 순차 시도)
 	tempPrefix := filepath.Join(c.outputDir, "temp_"+timestamp)
-	args := []string{
-		"--skip-download",
-		"--write-auto-sub",
-		"--sub-lang", "ko,en",
-		"--convert-subs", "srt",
-		"-o", tempPrefix,
-		videoURL,
+	browsers := []string{"chrome", "edge", "brave", "vivaldi"}
+	var lastErr error
+	var success bool
+
+	for _, browser := range browsers {
+		slog.Info("유튜브 차단 회피 시도", "browser", browser)
+		args := []string{
+			"--skip-download",
+			"--write-auto-sub",
+			"--sub-lang", "ko,en",
+			"--convert-subs", "srt",
+			"--cookies-from-browser", browser,
+			"-o", tempPrefix,
+			videoURL,
+		}
+
+		cmd := exec.CommandContext(ctx, "yt-dlp", args...)
+		if out, err := cmd.CombinedOutput(); err != nil {
+			lastErr = fmt.Errorf("browser %s failed: %v (output: %s)", browser, err, string(out))
+			continue // 다음 브라우저 시도
+		}
+		success = true
+		break // 성공 시 루프 탈출
 	}
 
-	cmd := exec.CommandContext(ctx, "yt-dlp", args...)
-	if out, err := cmd.CombinedOutput(); err != nil {
-		return "", fmt.Errorf("yt-dlp exec: %v (output: %s)", err, string(out))
+	if !success {
+		return "", fmt.Errorf("모든 브라우저 쿠키 시도 실패: %v", lastErr)
 	}
 
 	// 3. 생성된 .srt 파일 찾기 및 읽기
