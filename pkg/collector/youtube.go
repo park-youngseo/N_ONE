@@ -24,6 +24,14 @@ func NewYouTubeCollector() *YouTubeCollector {
 	return &YouTubeCollector{outputDir: dir}
 }
 
+// Name returns "youtube".
+func (c *YouTubeCollector) Name() string { return "youtube" }
+
+// CanHandle checks if the URL is a YouTube URL.
+func (c *YouTubeCollector) CanHandle(url string) bool {
+	return strings.Contains(url, "youtube.com") || strings.Contains(url, "youtu.be")
+}
+
 // Collect는 유튜브 URL을 받아 자막을 추출하고 .md 파일로 저장한다.
 func (c *YouTubeCollector) Collect(ctx context.Context, videoURL string) (string, error) {
 	// 1. 비디오 제목 및 ID 가져오기

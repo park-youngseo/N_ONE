@@ -24,6 +24,14 @@ func NewWebScraper() *WebScraper {
 	return &WebScraper{outputDir: dir}
 }
 
+// Name returns "web".
+func (s *WebScraper) Name() string { return "web" }
+
+// CanHandle returns true for any non-YouTube URL (as a fallback).
+func (s *WebScraper) CanHandle(url string) bool {
+	return strings.HasPrefix(url, "http") && !strings.Contains(url, "youtube.com") && !strings.Contains(url, "youtu.be")
+}
+
 // Collect는 웹 URL의 본문을 긁어서 .md 파일로 저장한다.
 func (s *WebScraper) Collect(ctx context.Context, targetURL string) (string, error) {
 	c := colly.NewCollector()
