@@ -1,0 +1,880 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:02.149 align:start position:0%
+ 
+Hi<00:00:00.640><c> guys,</c><00:00:00.880><c> in</c><00:00:01.040><c> this</c><00:00:01.280><c> tutorial</c><00:00:01.600><c> I</c><00:00:01.760><c> want</c><00:00:01.920><c> to</c><00:00:02.000><c> show</c>
+
+00:00:02.149 --> 00:00:02.159 align:start position:0%
+Hi guys, in this tutorial I want to show
+ 
+
+00:00:02.159 --> 00:00:05.590 align:start position:0%
+Hi guys, in this tutorial I want to show
+you<00:00:02.399><c> how</c><00:00:02.560><c> to</c><00:00:02.800><c> make</c><00:00:03.919><c> moving</c><00:00:04.480><c> platforms</c><00:00:05.200><c> like</c>
+
+00:00:05.590 --> 00:00:05.600 align:start position:0%
+you how to make moving platforms like
+ 
+
+00:00:05.600 --> 00:00:07.190 align:start position:0%
+you how to make moving platforms like
+this.
+
+00:00:07.190 --> 00:00:07.200 align:start position:0%
+this.
+ 
+
+00:00:07.200 --> 00:00:11.589 align:start position:0%
+this.
+Okay,<00:00:07.440><c> let's</c><00:00:07.759><c> go.</c>
+
+00:00:11.589 --> 00:00:11.599 align:start position:0%
+ 
+ 
+
+00:00:11.599 --> 00:00:14.070 align:start position:0%
+ 
+Okay,<00:00:12.880><c> first</c><00:00:13.120><c> thing</c><00:00:13.360><c> first,</c><00:00:13.679><c> open</c><00:00:14.000><c> the</c>
+
+00:00:14.070 --> 00:00:14.080 align:start position:0%
+Okay, first thing first, open the
+ 
+
+00:00:14.080 --> 00:00:17.349 align:start position:0%
+Okay, first thing first, open the
+editor.<00:00:15.200><c> Go</c><00:00:15.360><c> to</c><00:00:15.599><c> game.</c><00:00:16.000><c> Select</c><00:00:16.320><c> the</c><00:00:16.560><c> person</c><00:00:17.039><c> at</c>
+
+00:00:17.349 --> 00:00:17.359 align:start position:0%
+editor. Go to game. Select the person at
+ 
+
+00:00:17.359 --> 00:00:19.830 align:start position:0%
+editor. Go to game. Select the person at
+template.<00:00:18.400><c> Rename</c><00:00:18.720><c> the</c><00:00:18.960><c> project</c><00:00:19.439><c> moving</c>
+
+00:00:19.830 --> 00:00:19.840 align:start position:0%
+template. Rename the project moving
+ 
+
+00:00:19.840 --> 00:00:23.509 align:start position:0%
+template. Rename the project moving
+platform.
+
+00:00:23.509 --> 00:00:23.519 align:start position:0%
+ 
+ 
+
+00:00:23.519 --> 00:00:25.109 align:start position:0%
+ 
+Okay,<00:00:23.920><c> go</c><00:00:24.080><c> down</c><00:00:24.240><c> here</c><00:00:24.480><c> to</c><00:00:24.640><c> content</c><00:00:24.960><c> and</c>
+
+00:00:25.109 --> 00:00:25.119 align:start position:0%
+Okay, go down here to content and
+ 
+
+00:00:25.119 --> 00:00:29.029 align:start position:0%
+Okay, go down here to content and
+drawer.<00:00:26.320><c> Create</c><00:00:26.960><c> new</c><00:00:27.279><c> actor</c><00:00:27.760><c> blueprint.</c>
+
+00:00:29.029 --> 00:00:29.039 align:start position:0%
+drawer. Create new actor blueprint.
+ 
+
+00:00:29.039 --> 00:00:31.429 align:start position:0%
+drawer. Create new actor blueprint.
+Rename<00:00:29.439><c> this</c><00:00:29.760><c> actor</c>
+
+00:00:31.429 --> 00:00:31.439 align:start position:0%
+Rename this actor
+ 
+
+00:00:31.439 --> 00:00:33.750 align:start position:0%
+Rename this actor
+moving
+
+00:00:33.750 --> 00:00:33.760 align:start position:0%
+moving
+ 
+
+00:00:33.760 --> 00:00:38.150 align:start position:0%
+moving
+platform
+
+00:00:38.150 --> 00:00:38.160 align:start position:0%
+ 
+ 
+
+00:00:38.160 --> 00:00:41.430 align:start position:0%
+ 
+blueprint<00:00:38.879><c> BPM.</c>
+
+00:00:41.430 --> 00:00:41.440 align:start position:0%
+blueprint BPM.
+ 
+
+00:00:41.440 --> 00:00:47.110 align:start position:0%
+blueprint BPM.
+Open<00:00:41.760><c> it.</c>
+
+00:00:47.110 --> 00:00:47.120 align:start position:0%
+ 
+ 
+
+00:00:47.120 --> 00:00:49.430 align:start position:0%
+ 
+Now<00:00:47.360><c> go</c><00:00:47.600><c> down</c><00:00:47.760><c> here</c><00:00:48.079><c> to</c><00:00:48.239><c> variable</c><00:00:48.800><c> and</c><00:00:49.120><c> create</c>
+
+00:00:49.430 --> 00:00:49.440 align:start position:0%
+Now go down here to variable and create
+ 
+
+00:00:49.440 --> 00:00:52.709 align:start position:0%
+Now go down here to variable and create
+a<00:00:49.520><c> variable.</c><00:00:50.559><c> The</c><00:00:50.800><c> first</c><00:00:51.120><c> one</c>
+
+00:00:52.709 --> 00:00:52.719 align:start position:0%
+a variable. The first one
+ 
+
+00:00:52.719 --> 00:00:59.750 align:start position:0%
+a variable. The first one
+is<00:00:53.120><c> direction.</c>
+
+00:00:59.750 --> 00:00:59.760 align:start position:0%
+ 
+ 
+
+00:00:59.760 --> 00:01:02.869 align:start position:0%
+ 
+Set<00:01:00.320><c> the</c><00:01:00.559><c> type</c><00:01:00.800><c> of</c><00:01:01.039><c> this</c><00:01:01.280><c> variable</c><00:01:01.680><c> vector.</c>
+
+00:01:02.869 --> 00:01:02.879 align:start position:0%
+Set the type of this variable vector.
+ 
+
+00:01:02.879 --> 00:01:05.990 align:start position:0%
+Set the type of this variable vector.
+Second<00:01:03.280><c> one</c><00:01:03.600><c> selected</c><00:01:04.080><c> and</c><00:01:04.320><c> go</c><00:01:04.559><c> here.</c><00:01:05.600><c> Set</c><00:01:05.840><c> the</c>
+
+00:01:05.990 --> 00:01:06.000 align:start position:0%
+Second one selected and go here. Set the
+ 
+
+00:01:06.000 --> 00:01:08.630 align:start position:0%
+Second one selected and go here. Set the
+speed
+
+00:01:08.630 --> 00:01:08.640 align:start position:0%
+speed
+ 
+
+00:01:08.640 --> 00:01:11.990 align:start position:0%
+speed
+type<00:01:08.960><c> of</c><00:01:09.119><c> this</c><00:01:09.360><c> variable</c><00:01:09.840><c> is</c><00:01:10.159><c> float.</c><00:01:11.520><c> Now</c><00:01:11.840><c> go</c>
+
+00:01:11.990 --> 00:01:12.000 align:start position:0%
+type of this variable is float. Now go
+ 
+
+00:01:12.000 --> 00:01:16.950 align:start position:0%
+type of this variable is float. Now go
+to<00:01:12.159><c> the</c><00:01:12.400><c> event</c><00:01:12.799><c> graph</c><00:01:14.080><c> compile.</c><00:01:14.640><c> Save</c><00:01:15.040><c> all.</c>
+
+00:01:16.950 --> 00:01:16.960 align:start position:0%
+to the event graph compile. Save all.
+ 
+
+00:01:16.960 --> 00:01:20.149 align:start position:0%
+to the event graph compile. Save all.
+Let's<00:01:17.360><c> get</c><00:01:17.600><c> the</c><00:01:17.920><c> speed</c>
+
+00:01:20.149 --> 00:01:20.159 align:start position:0%
+Let's get the speed
+ 
+
+00:01:20.159 --> 00:01:22.310 align:start position:0%
+Let's get the speed
+here
+
+00:01:22.310 --> 00:01:22.320 align:start position:0%
+here
+ 
+
+00:01:22.320 --> 00:01:27.190 align:start position:0%
+here
+and<00:01:22.640><c> the</c><00:01:22.880><c> direction</c><00:01:24.159><c> here</c><00:01:25.600><c> from</c><00:01:26.000><c> this</c><00:01:26.640><c> vector</c>
+
+00:01:27.190 --> 00:01:27.200 align:start position:0%
+and the direction here from this vector
+ 
+
+00:01:27.200 --> 00:01:31.830 align:start position:0%
+and the direction here from this vector
+formulas
+
+00:01:31.830 --> 00:01:31.840 align:start position:0%
+ 
+ 
+
+00:01:31.840 --> 00:01:34.870 align:start position:0%
+ 
+normalize<00:01:32.400><c> this</c><00:01:32.720><c> vector.</c>
+
+00:01:34.870 --> 00:01:34.880 align:start position:0%
+normalize this vector.
+ 
+
+00:01:34.880 --> 00:01:38.630 align:start position:0%
+normalize this vector.
+After<00:01:35.280><c> that</c><00:01:35.680><c> we</c><00:01:35.920><c> have</c><00:01:36.079><c> to</c><00:01:36.320><c> go</c><00:01:36.720><c> here</c>
+
+00:01:38.630 --> 00:01:38.640 align:start position:0%
+After that we have to go here
+ 
+
+00:01:38.640 --> 00:01:41.590 align:start position:0%
+After that we have to go here
+multiply<00:01:39.200><c> by</c><00:01:39.520><c> the</c><00:01:39.759><c> speed.</c>
+
+00:01:41.590 --> 00:01:41.600 align:start position:0%
+multiply by the speed.
+ 
+
+00:01:41.600 --> 00:01:50.310 align:start position:0%
+multiply by the speed.
+Okay,<00:01:42.240><c> let's</c><00:01:42.799><c> add</c><00:01:44.000><c> and</c><00:01:44.240><c> multiply</c><00:01:45.680><c> the</c><00:01:46.000><c> speed</c>
+
+00:01:50.310 --> 00:01:50.320 align:start position:0%
+ 
+ 
+
+00:01:50.320 --> 00:01:54.870 align:start position:0%
+ 
+by<00:01:50.560><c> the</c><00:01:50.799><c> world</c><00:01:51.280><c> seconds</c><00:01:52.079><c> get</c>
+
+00:01:54.870 --> 00:01:54.880 align:start position:0%
+by the world seconds get
+ 
+
+00:01:54.880 --> 00:01:57.510 align:start position:0%
+by the world seconds get
+[Music]
+
+00:01:57.510 --> 00:01:57.520 align:start position:0%
+[Music]
+ 
+
+00:01:57.520 --> 00:01:59.429 align:start position:0%
+[Music]
+delta
+
+00:01:59.429 --> 00:01:59.439 align:start position:0%
+delta
+ 
+
+00:01:59.439 --> 00:02:03.670 align:start position:0%
+delta
+seconds<00:02:00.320><c> by</c><00:02:00.560><c> the</c><00:02:00.799><c> time</c><00:02:02.240><c> from</c><00:02:02.640><c> this</c><00:02:03.280><c> you</c><00:02:03.520><c> have</c>
+
+00:02:03.670 --> 00:02:03.680 align:start position:0%
+seconds by the time from this you have
+ 
+
+00:02:03.680 --> 00:02:06.870 align:start position:0%
+seconds by the time from this you have
+to<00:02:03.920><c> multiply</c><00:02:04.320><c> it.</c>
+
+00:02:06.870 --> 00:02:06.880 align:start position:0%
+to multiply it.
+ 
+
+00:02:06.880 --> 00:02:09.910 align:start position:0%
+to multiply it.
+Okay,<00:02:07.200><c> after</c><00:02:07.439><c> that</c><00:02:07.759><c> we</c><00:02:08.000><c> have</c><00:02:08.160><c> to</c><00:02:08.319><c> go</c><00:02:08.640><c> here</c><00:02:09.520><c> and</c>
+
+00:02:09.910 --> 00:02:09.920 align:start position:0%
+Okay, after that we have to go here and
+ 
+
+00:02:09.920 --> 00:02:12.390 align:start position:0%
+Okay, after that we have to go here and
+add<00:02:10.239><c> MB</c>
+
+00:02:12.390 --> 00:02:12.400 align:start position:0%
+add MB
+ 
+
+00:02:12.400 --> 00:02:15.030 align:start position:0%
+add MB
+want<00:02:12.560><c> to</c><00:02:12.720><c> add</c><00:02:12.879><c> a</c><00:02:13.120><c> cube.</c>
+
+00:02:15.030 --> 00:02:15.040 align:start position:0%
+want to add a cube.
+ 
+
+00:02:15.040 --> 00:02:19.350 align:start position:0%
+want to add a cube.
+Let's<00:02:15.840><c> make</c><00:02:16.480><c> material</c><00:02:17.040><c> for</c><00:02:17.280><c> this</c><00:02:17.599><c> cube.</c>
+
+00:02:19.350 --> 00:02:19.360 align:start position:0%
+Let's make material for this cube.
+ 
+
+00:02:19.360 --> 00:02:22.470 align:start position:0%
+Let's make material for this cube.
+Choose<00:02:19.760><c> any</c><00:02:20.000><c> material.</c>
+
+00:02:22.470 --> 00:02:22.480 align:start position:0%
+Choose any material.
+ 
+
+00:02:22.480 --> 00:02:26.070 align:start position:0%
+Choose any material.
+Okay,<00:02:22.879><c> for</c><00:02:23.040><c> now</c><00:02:23.520><c> let's</c><00:02:23.680><c> choose</c><00:02:23.920><c> each</c><00:02:24.160><c> one.</c>
+
+00:02:26.070 --> 00:02:26.080 align:start position:0%
+Okay, for now let's choose each one.
+ 
+
+00:02:26.080 --> 00:02:30.150 align:start position:0%
+Okay, for now let's choose each one.
+Okay,<00:02:26.400><c> now</c><00:02:26.720><c> let's</c><00:02:27.120><c> get</c><00:02:27.440><c> the</c><00:02:27.760><c> cube</c><00:02:28.239><c> right</c><00:02:28.560><c> here.</c>
+
+00:02:30.150 --> 00:02:30.160 align:start position:0%
+Okay, now let's get the cube right here.
+ 
+
+00:02:30.160 --> 00:02:34.949 align:start position:0%
+Okay, now let's get the cube right here.
+And<00:02:30.239><c> this</c><00:02:31.120><c> get</c><00:02:32.239><c> wet</c>
+
+00:02:34.949 --> 00:02:34.959 align:start position:0%
+And this get wet
+ 
+
+00:02:34.959 --> 00:02:41.030 align:start position:0%
+And this get wet
+transform.
+
+00:02:41.030 --> 00:02:41.040 align:start position:0%
+ 
+ 
+
+00:02:41.040 --> 00:02:44.869 align:start position:0%
+ 
+Now<00:02:41.360><c> get</c><00:02:41.599><c> this</c><00:02:41.920><c> cube.</c>
+
+00:02:44.869 --> 00:02:44.879 align:start position:0%
+Now get this cube.
+ 
+
+00:02:44.879 --> 00:02:50.229 align:start position:0%
+Now get this cube.
+Set<00:02:45.840><c> the</c><00:02:46.000><c> world</c>
+
+00:02:50.229 --> 00:02:50.239 align:start position:0%
+ 
+ 
+
+00:02:50.239 --> 00:02:55.830 align:start position:0%
+ 
+transform.
+
+00:02:55.830 --> 00:02:55.840 align:start position:0%
+ 
+ 
+
+00:02:55.840 --> 00:02:58.710 align:start position:0%
+ 
+Drag<00:02:56.160><c> the</c><00:02:56.319><c> event</c><00:02:56.640><c> tick</c><00:02:57.040><c> right</c><00:02:57.280><c> here</c><00:02:58.319><c> and</c><00:02:58.560><c> make</c>
+
+00:02:58.710 --> 00:02:58.720 align:start position:0%
+Drag the event tick right here and make
+ 
+
+00:02:58.720 --> 00:03:02.869 align:start position:0%
+Drag the event tick right here and make
+it<00:02:59.120><c> here.</c>
+
+00:03:02.869 --> 00:03:02.879 align:start position:0%
+ 
+ 
+
+00:03:02.879 --> 00:03:07.670 align:start position:0%
+ 
+Now<00:03:03.120><c> let's</c><00:03:03.440><c> split</c><00:03:03.760><c> this.</c>
+
+00:03:07.670 --> 00:03:07.680 align:start position:0%
+ 
+ 
+
+00:03:07.680 --> 00:03:11.670 align:start position:0%
+ 
+Split<00:03:08.080><c> the</c><00:03:08.319><c> other</c><00:03:08.640><c> one.</c>
+
+00:03:11.670 --> 00:03:11.680 align:start position:0%
+ 
+ 
+
+00:03:11.680 --> 00:03:19.910 align:start position:0%
+ 
+Okay.<00:03:12.640><c> From</c><00:03:12.959><c> this</c><00:03:13.360><c> let's</c><00:03:13.760><c> add</c>
+
+00:03:19.910 --> 00:03:19.920 align:start position:0%
+ 
+ 
+
+00:03:19.920 --> 00:03:23.589 align:start position:0%
+ 
+the<00:03:20.319><c> location</c><00:03:21.360><c> to</c><00:03:21.599><c> the</c><00:03:21.840><c> location.</c>
+
+00:03:23.589 --> 00:03:23.599 align:start position:0%
+the location to the location.
+ 
+
+00:03:23.599 --> 00:03:27.509 align:start position:0%
+the location to the location.
+From<00:03:23.920><c> that</c><00:03:24.480><c> let's</c><00:03:24.879><c> add</c><00:03:25.280><c> to</c><00:03:25.519><c> my</c><00:03:25.840><c> new</c><00:03:26.159><c> transform</c>
+
+00:03:27.509 --> 00:03:27.519 align:start position:0%
+From that let's add to my new transform
+ 
+
+00:03:27.519 --> 00:03:29.509 align:start position:0%
+From that let's add to my new transform
+and<00:03:27.760><c> location</c>
+
+00:03:29.509 --> 00:03:29.519 align:start position:0%
+and location
+ 
+
+00:03:29.519 --> 00:03:33.110 align:start position:0%
+and location
+rotation<00:03:30.159><c> value</c><00:03:30.799><c> this</c><00:03:31.120><c> one</c><00:03:31.920><c> and</c><00:03:32.239><c> scale</c><00:03:32.640><c> value</c>
+
+00:03:33.110 --> 00:03:33.120 align:start position:0%
+rotation value this one and scale value
+ 
+
+00:03:33.120 --> 00:03:36.710 align:start position:0%
+rotation value this one and scale value
+this<00:03:33.360><c> one.</c><00:03:34.400><c> I</c><00:03:34.640><c> think</c><00:03:34.799><c> it's</c><00:03:35.200><c> good</c><00:03:35.519><c> right</c><00:03:35.840><c> now.</c>
+
+00:03:36.710 --> 00:03:36.720 align:start position:0%
+this one. I think it's good right now.
+ 
+
+00:03:36.720 --> 00:03:40.390 align:start position:0%
+this one. I think it's good right now.
+Let's<00:03:37.040><c> compile.</c><00:03:37.760><c> Save</c><00:03:38.080><c> all.</c>
+
+00:03:40.390 --> 00:03:40.400 align:start position:0%
+Let's compile. Save all.
+ 
+
+00:03:40.400 --> 00:03:44.869 align:start position:0%
+Let's compile. Save all.
+Go<00:03:40.640><c> right</c><00:03:40.959><c> here.</c><00:03:42.159><c> We</c><00:03:42.400><c> need</c><00:03:43.200><c> a</c><00:03:43.440><c> value</c><00:03:44.159><c> for</c><00:03:44.480><c> speed</c>
+
+00:03:44.869 --> 00:03:44.879 align:start position:0%
+Go right here. We need a value for speed
+ 
+
+00:03:44.879 --> 00:03:48.630 align:start position:0%
+Go right here. We need a value for speed
+100<00:03:46.000><c> by</c><00:03:46.319><c> default.</c>
+
+00:03:48.630 --> 00:03:48.640 align:start position:0%
+100 by default.
+ 
+
+00:03:48.640 --> 00:03:52.789 align:start position:0%
+100 by default.
+Now<00:03:48.879><c> let's</c><00:03:49.120><c> set</c><00:03:49.519><c> direction</c>
+
+00:03:52.789 --> 00:03:52.799 align:start position:0%
+ 
+ 
+
+00:03:52.799 --> 00:03:56.630 align:start position:0%
+ 
+here.
+
+00:03:56.630 --> 00:03:56.640 align:start position:0%
+ 
+ 
+
+00:03:56.640 --> 00:04:00.070 align:start position:0%
+ 
+Duplicate<00:03:57.200><c> this</c><00:03:57.439><c> one.</c><00:03:57.760><c> Ctrl</c><00:03:58.159><c> C.</c><00:03:58.319><c> Control</c><00:03:58.720><c> V.</c>
+
+00:04:00.070 --> 00:04:00.080 align:start position:0%
+Duplicate this one. Ctrl C. Control V.
+ 
+
+00:04:00.080 --> 00:04:06.789 align:start position:0%
+Duplicate this one. Ctrl C. Control V.
+Now<00:04:00.319><c> let's</c><00:04:00.640><c> add</c><00:04:01.120><c> D</c>
+
+00:04:06.789 --> 00:04:06.799 align:start position:0%
+ 
+ 
+
+00:04:06.799 --> 00:04:11.670 align:start position:0%
+ 
+of<00:04:07.120><c> 3</c><00:04:07.519><c> seconds.</c>
+
+00:04:11.670 --> 00:04:11.680 align:start position:0%
+ 
+ 
+
+00:04:11.680 --> 00:04:18.229 align:start position:0%
+ 
+Flip<00:04:12.159><c> plot</c>
+
+00:04:18.229 --> 00:04:18.239 align:start position:0%
+ 
+ 
+
+00:04:18.239 --> 00:04:23.909 align:start position:0%
+ 
+A<00:04:18.560><c> and</c><00:04:19.919><c> B.</c>
+
+00:04:23.909 --> 00:04:23.919 align:start position:0%
+ 
+ 
+
+00:04:23.919 --> 00:04:27.270 align:start position:0%
+ 
+First<00:04:24.320><c> one</c><00:04:24.639><c> is</c><00:04:25.600><c> 10.</c>
+
+00:04:27.270 --> 00:04:27.280 align:start position:0%
+First one is 10.
+ 
+
+00:04:27.280 --> 00:04:35.830 align:start position:0%
+First one is 10.
+Second<00:04:27.680><c> one</c><00:04:28.000><c> is</c><00:04:28.639><c> minus</c><00:04:29.120><c> 10.</c>
+
+00:04:35.830 --> 00:04:35.840 align:start position:0%
+ 
+ 
+
+00:04:35.840 --> 00:04:38.310 align:start position:0%
+ 
+Now<00:04:36.080><c> let's</c><00:04:36.320><c> go</c><00:04:36.560><c> here</c>
+
+00:04:38.310 --> 00:04:38.320 align:start position:0%
+Now let's go here
+ 
+
+00:04:38.320 --> 00:04:42.310 align:start position:0%
+Now let's go here
+and<00:04:38.639><c> let's</c><00:04:39.120><c> add</c><00:04:39.600><c> my</c><00:04:40.000><c> cube.</c>
+
+00:04:42.310 --> 00:04:42.320 align:start position:0%
+and let's add my cube.
+ 
+
+00:04:42.320 --> 00:04:46.469 align:start position:0%
+and let's add my cube.
+Make<00:04:42.560><c> it</c><00:04:42.800><c> right</c><00:04:43.040><c> here.</c>
+
+00:04:46.469 --> 00:04:46.479 align:start position:0%
+ 
+ 
+
+00:04:46.479 --> 00:04:52.790 align:start position:0%
+ 
+Make<00:04:46.639><c> it</c><00:04:46.800><c> like</c><00:04:47.040><c> that.</c>
+
+00:04:52.790 --> 00:04:52.800 align:start position:0%
+ 
+ 
+
+00:04:52.800 --> 00:05:05.350 align:start position:0%
+ 
+Okay.<00:04:53.120><c> And</c><00:04:53.280><c> let's</c><00:04:53.600><c> see</c><00:04:53.840><c> it</c><00:04:54.080><c> works</c><00:04:54.400><c> or</c><00:04:54.560><c> not.</c>
+
+00:05:05.350 --> 00:05:05.360 align:start position:0%
+ 
+ 
+
+00:05:05.360 --> 00:05:07.830 align:start position:0%
+ 
+Okay,<00:05:05.680><c> I</c><00:05:05.840><c> think</c><00:05:06.000><c> it's</c><00:05:06.320><c> fine.</c>
+
+00:05:07.830 --> 00:05:07.840 align:start position:0%
+Okay, I think it's fine.
+ 
+
+00:05:07.840 --> 00:05:11.430 align:start position:0%
+Okay, I think it's fine.
+Now<00:05:08.080><c> let's</c><00:05:08.639><c> adjust</c><00:05:09.600><c> the</c><00:05:09.919><c> delay</c>
+
+00:05:11.430 --> 00:05:11.440 align:start position:0%
+Now let's adjust the delay
+ 
+
+00:05:11.440 --> 00:05:18.629 align:start position:0%
+Now let's adjust the delay
+to<00:05:11.680><c> 6</c><00:05:12.000><c> seconds.</c>
+
+00:05:18.629 --> 00:05:18.639 align:start position:0%
+ 
+ 
+
+00:05:18.639 --> 00:05:29.350 align:start position:0%
+ 
+Let's<00:05:18.960><c> see.</c>
+
+00:05:29.350 --> 00:05:29.360 align:start position:0%
+ 
+ 
+
+00:05:29.360 --> 00:05:33.189 align:start position:0%
+ 
+Okay,<00:05:29.759><c> fine.</c>
+
+00:05:33.189 --> 00:05:33.199 align:start position:0%
+ 
+ 
+
+00:05:33.199 --> 00:05:37.270 align:start position:0%
+ 
+We<00:05:33.440><c> can</c><00:05:33.680><c> add</c><00:05:34.240><c> the</c><00:05:34.479><c> speed</c><00:05:35.520><c> here.</c><00:05:36.720><c> What</c><00:05:36.960><c> do</c><00:05:37.120><c> you</c>
+
+00:05:37.270 --> 00:05:37.280 align:start position:0%
+We can add the speed here. What do you
+ 
+
+00:05:37.280 --> 00:05:40.390 align:start position:0%
+We can add the speed here. What do you
+want?
+
+00:05:40.390 --> 00:05:40.400 align:start position:0%
+ 
+ 
+
+00:05:40.400 --> 00:05:43.029 align:start position:0%
+ 
+Okay.<00:05:41.039><c> Now,</c><00:05:41.280><c> let's</c><00:05:41.600><c> set</c><00:05:41.919><c> the</c><00:05:42.240><c> another</c><00:05:42.639><c> moving</c>
+
+00:05:43.029 --> 00:05:43.039 align:start position:0%
+Okay. Now, let's set the another moving
+ 
+
+00:05:43.039 --> 00:05:46.390 align:start position:0%
+Okay. Now, let's set the another moving
+platform<00:05:43.520><c> for</c><00:05:43.759><c> the</c><00:05:43.919><c> Y-axis.</c><00:05:45.120><c> Okay.</c><00:05:45.840><c> Duplicate</c>
+
+00:05:46.390 --> 00:05:46.400 align:start position:0%
+platform for the Y-axis. Okay. Duplicate
+ 
+
+00:05:46.400 --> 00:05:48.150 align:start position:0%
+platform for the Y-axis. Okay. Duplicate
+this.
+
+00:05:48.150 --> 00:05:48.160 align:start position:0%
+this.
+ 
+
+00:05:48.160 --> 00:05:53.749 align:start position:0%
+this.
+Moving<00:05:48.479><c> pl</c><00:05:49.199><c> Y</c><00:05:49.440><c> axis</c><00:05:50.320><c> and</c><00:05:50.560><c> this</c><00:05:50.800><c> one</c><00:05:51.199><c> Z-axis.</c>
+
+00:05:53.749 --> 00:05:53.759 align:start position:0%
+Moving pl Y axis and this one Z-axis.
+ 
+
+00:05:53.759 --> 00:05:56.550 align:start position:0%
+Moving pl Y axis and this one Z-axis.
+Okay.<00:05:54.160><c> This</c><00:05:54.400><c> one</c><00:05:54.720><c> in</c><00:05:54.960><c> this</c><00:05:55.199><c> side</c><00:05:56.080><c> and</c><00:05:56.400><c> the</c>
+
+00:05:56.550 --> 00:05:56.560 align:start position:0%
+Okay. This one in this side and the
+ 
+
+00:05:56.560 --> 00:06:18.150 align:start position:0%
+Okay. This one in this side and the
+other<00:05:56.880><c> one</c><00:05:57.280><c> here.</c>
+
+00:06:18.150 --> 00:06:18.160 align:start position:0%
+ 
+ 
+
+00:06:18.160 --> 00:06:21.110 align:start position:0%
+ 
+Let's<00:06:18.479><c> see</c><00:06:18.639><c> the</c><00:06:18.960><c> difference</c><00:06:19.360><c> between</c><00:06:19.840><c> them.</c>
+
+00:06:21.110 --> 00:06:21.120 align:start position:0%
+Let's see the difference between them.
+ 
+
+00:06:21.120 --> 00:06:23.670 align:start position:0%
+Let's see the difference between them.
+Okay,<00:06:21.600><c> let's</c><00:06:21.919><c> make</c><00:06:22.160><c> it</c>
+
+00:06:23.670 --> 00:06:23.680 align:start position:0%
+Okay, let's make it
+ 
+
+00:06:23.680 --> 00:06:27.350 align:start position:0%
+Okay, let's make it
+this<00:06:24.000><c> one</c><00:06:24.240><c> right</c><00:06:24.479><c> here.</c>
+
+00:06:27.350 --> 00:06:27.360 align:start position:0%
+this one right here.
+ 
+
+00:06:27.360 --> 00:06:33.270 align:start position:0%
+this one right here.
+Open<00:06:27.680><c> the</c><00:06:27.919><c> second</c><00:06:28.240><c> one</c><00:06:29.680><c> again.</c>
+
+00:06:33.270 --> 00:06:33.280 align:start position:0%
+ 
+ 
+
+00:06:33.280 --> 00:06:41.029 align:start position:0%
+ 
+Make<00:06:33.759><c> the</c><00:06:34.080><c> x-axis</c><00:06:34.720><c> zero.</c>
+
+00:06:41.029 --> 00:06:41.039 align:start position:0%
+ 
+ 
+
+00:06:41.039 --> 00:06:44.550 align:start position:0%
+ 
+This<00:06:41.280><c> one</c><00:06:41.759><c> 20</c>
+
+00:06:44.550 --> 00:06:44.560 align:start position:0%
+This one 20
+ 
+
+00:06:44.560 --> 00:06:50.150 align:start position:0%
+This one 20
+minus<00:06:45.120><c> 20.</c>
+
+00:06:50.150 --> 00:06:50.160 align:start position:0%
+ 
+ 
+
+00:06:50.160 --> 00:06:55.590 align:start position:0%
+ 
+Okay,<00:06:50.479><c> let's</c><00:06:50.880><c> search</c><00:06:51.919><c> thread</c><00:06:52.319><c> one</c>
+
+00:06:55.590 --> 00:06:55.600 align:start position:0%
+ 
+ 
+
+00:06:55.600 --> 00:06:58.790 align:start position:0%
+ 
+zero
+
+00:06:58.790 --> 00:06:58.800 align:start position:0%
+ 
+ 
+
+00:06:58.800 --> 00:07:02.870 align:start position:0%
+ 
+and<00:06:59.120><c> this</c><00:06:59.520><c> one</c><00:06:59.680><c> zero</c>
+
+00:07:02.870 --> 00:07:02.880 align:start position:0%
+ 
+ 
+
+00:07:02.880 --> 00:07:09.990 align:start position:0%
+ 
+300.
+
+00:07:09.990 --> 00:07:10.000 align:start position:0%
+ 
+ 
+
+00:07:10.000 --> 00:07:18.870 align:start position:0%
+ 
+Select<00:07:10.319><c> the</c><00:07:10.639><c> cube</c><00:07:11.280><c> and</c><00:07:11.759><c> change</c><00:07:12.400><c> the</c><00:07:12.639><c> material.</c>
+
+00:07:18.870 --> 00:07:18.880 align:start position:0%
+ 
+ 
+
+00:07:18.880 --> 00:07:23.430 align:start position:0%
+ 
+This<00:07:19.120><c> one</c><00:07:19.280><c> is</c><00:07:19.520><c> blue.</c><00:07:20.560><c> Fine.</c><00:07:20.960><c> Compile.</c>
+
+00:07:23.430 --> 00:07:23.440 align:start position:0%
+This one is blue. Fine. Compile.
+ 
+
+00:07:23.440 --> 00:07:25.830 align:start position:0%
+This one is blue. Fine. Compile.
+Select<00:07:23.759><c> the</c><00:07:23.919><c> cube</c><00:07:24.800><c> and</c><00:07:25.120><c> change</c><00:07:25.520><c> this</c>
+
+00:07:25.830 --> 00:07:25.840 align:start position:0%
+Select the cube and change this
+ 
+
+00:07:25.840 --> 00:07:30.309 align:start position:0%
+Select the cube and change this
+material.
+
+00:07:30.309 --> 00:07:30.319 align:start position:0%
+ 
+ 
+
+00:07:30.319 --> 00:07:34.550 align:start position:0%
+ 
+That's<00:07:30.639><c> orange.</c>
+
+00:07:34.550 --> 00:07:34.560 align:start position:0%
+ 
+ 
+
+00:07:34.560 --> 00:07:37.990 align:start position:0%
+ 
+Okay.<00:07:34.960><c> See?</c>
+
+00:07:37.990 --> 00:07:38.000 align:start position:0%
+ 
+ 
+
+00:07:38.000 --> 00:07:47.110 align:start position:0%
+ 
+And<00:07:38.319><c> let's</c><00:07:38.560><c> see</c><00:07:38.720><c> it</c><00:07:38.960><c> works</c><00:07:39.199><c> or</c><00:07:39.360><c> not.</c>
+
+00:07:47.110 --> 00:07:47.120 align:start position:0%
+ 
+ 
+
+00:07:47.120 --> 00:07:51.589 align:start position:0%
+ 
+Okay.<00:07:48.160><c> X-axis</c><00:07:48.800><c> and</c><00:07:49.039><c> Zaxis</c><00:07:50.080><c> Yaxis.</c><00:07:51.280><c> Okay,</c>
+
+00:07:51.589 --> 00:07:51.599 align:start position:0%
+Okay. X-axis and Zaxis Yaxis. Okay,
+ 
+
+00:07:51.599 --> 00:07:53.830 align:start position:0%
+Okay. X-axis and Zaxis Yaxis. Okay,
+thank<00:07:51.759><c> you</c><00:07:52.000><c> guys</c><00:07:52.240><c> for</c><00:07:52.560><c> watching</c><00:07:53.039><c> this</c><00:07:53.360><c> all</c><00:07:53.599><c> for</c>
+
+00:07:53.830 --> 00:07:53.840 align:start position:0%
+thank you guys for watching this all for
+ 
+
+00:07:53.840 --> 00:07:56.309 align:start position:0%
+thank you guys for watching this all for
+this<00:07:54.080><c> tutorial.</c><00:07:54.639><c> See</c><00:07:54.800><c> you</c><00:07:54.960><c> later</c><00:07:55.199><c> in</c><00:07:55.440><c> the</c><00:07:55.599><c> next</c>
+
+00:07:56.309 --> 00:07:56.319 align:start position:0%
+this tutorial. See you later in the next
+ 
+
+00:07:56.319 --> 00:07:59.280 align:start position:0%
+this tutorial. See you later in the next
+tutorial.
+

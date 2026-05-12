@@ -1,0 +1,1128 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.760 --> 00:00:03.590 align:start position:0%
+ 
+Hi<00:00:02.080><c> guys,</c><00:00:02.480><c> in</c><00:00:02.720><c> this</c><00:00:02.879><c> video</c><00:00:03.040><c> I</c><00:00:03.200><c> want</c><00:00:03.360><c> to</c><00:00:03.439><c> show</c>
+
+00:00:03.590 --> 00:00:03.600 align:start position:0%
+Hi guys, in this video I want to show
+ 
+
+00:00:03.600 --> 00:00:07.349 align:start position:0%
+Hi guys, in this video I want to show
+you<00:00:04.240><c> how</c><00:00:04.480><c> to</c><00:00:04.720><c> test</c><00:00:05.040><c> the</c><00:00:05.279><c> RTX</c><00:00:06.160><c> 3060</c><00:00:07.040><c> and</c>
+
+00:00:07.349 --> 00:00:07.359 align:start position:0%
+you how to test the RTX 3060 and
+ 
+
+00:00:07.359 --> 00:00:12.150 align:start position:0%
+you how to test the RTX 3060 and
+creating<00:00:07.839><c> this</c><00:00:08.559><c> workflow</c><00:00:09.519><c> using</c><00:00:10.800><c> the</c><00:00:11.200><c> LTX</c>
+
+00:00:12.150 --> 00:00:12.160 align:start position:0%
+creating this workflow using the LTX
+ 
+
+00:00:12.160 --> 00:00:16.390 align:start position:0%
+creating this workflow using the LTX
+video<00:00:13.040><c> final</c><00:00:13.440><c> version</c><00:00:14.080><c> 0.9.8.</c>
+
+00:00:16.390 --> 00:00:16.400 align:start position:0%
+video final version 0.9.8.
+ 
+
+00:00:16.400 --> 00:00:19.429 align:start position:0%
+video final version 0.9.8.
+Okay,<00:00:16.800><c> let's</c><00:00:17.119><c> go.</c>
+
+00:00:19.429 --> 00:00:19.439 align:start position:0%
+Okay, let's go.
+ 
+
+00:00:19.439 --> 00:00:22.630 align:start position:0%
+Okay, let's go.
+Okay,<00:00:19.760><c> first</c><00:00:20.000><c> thing</c><00:00:20.240><c> first</c><00:00:20.960><c> uh</c><00:00:21.119><c> go</c><00:00:21.439><c> here</c><00:00:22.480><c> uh</c>
+
+00:00:22.630 --> 00:00:22.640 align:start position:0%
+Okay, first thing first uh go here uh
+ 
+
+00:00:22.640 --> 00:00:25.990 align:start position:0%
+Okay, first thing first uh go here uh
+download<00:00:22.880><c> the</c><00:00:23.119><c> CUI</c><00:00:23.920><c> portable</c><00:00:24.800><c> and</c><00:00:25.279><c> the</c><00:00:25.519><c> L6</c>
+
+00:00:25.990 --> 00:00:26.000 align:start position:0%
+download the CUI portable and the L6
+ 
+
+00:00:26.000 --> 00:00:27.670 align:start position:0%
+download the CUI portable and the L6
+video
+
+00:00:27.670 --> 00:00:27.680 align:start position:0%
+video
+ 
+
+00:00:27.680 --> 00:00:31.589 align:start position:0%
+video
+0.9.8<00:00:29.039><c> 8</c><00:00:29.519><c> on</c><00:00:29.760><c> this</c><00:00:30.000><c> link</c>
+
+00:00:31.589 --> 00:00:31.599 align:start position:0%
+0.9.8 8 on this link
+ 
+
+00:00:31.599 --> 00:00:36.549 align:start position:0%
+0.9.8 8 on this link
+you<00:00:31.840><c> can</c><00:00:32.079><c> download</c><00:00:32.559><c> the</c><00:00:32.719><c> LTX</c><00:00:33.920><c> 0.9</c>
+
+00:00:36.549 --> 00:00:36.559 align:start position:0%
+you can download the LTX 0.9
+ 
+
+00:00:36.559 --> 00:00:40.950 align:start position:0%
+you can download the LTX 0.9
+on<00:00:36.800><c> this</c><00:00:37.040><c> GitHub</c><00:00:38.079><c> my</c><00:00:38.160><c> new</c><00:00:38.399><c> version</c>
+
+00:00:40.950 --> 00:00:40.960 align:start position:0%
+on this GitHub my new version
+ 
+
+00:00:40.960 --> 00:00:45.430 align:start position:0%
+on this GitHub my new version
+go<00:00:41.200><c> down</c><00:00:41.520><c> here</c><00:00:42.320><c> for</c><00:00:42.559><c> me</c><00:00:42.800><c> have</c><00:00:42.960><c> the</c><00:00:43.200><c> RTX</c>
+
+00:00:45.430 --> 00:00:45.440 align:start position:0%
+go down here for me have the RTX
+ 
+
+00:00:45.440 --> 00:00:50.310 align:start position:0%
+go down here for me have the RTX
+3060<00:00:46.239><c> I</c><00:00:46.399><c> want</c><00:00:46.559><c> to</c><00:00:46.719><c> choose</c><00:00:47.520><c> the</c><00:00:47.920><c> 2</c><00:00:48.399><c> billion</c>
+
+00:00:50.310 --> 00:00:50.320 align:start position:0%
+3060 I want to choose the 2 billion
+ 
+
+00:00:50.320 --> 00:00:53.110 align:start position:0%
+3060 I want to choose the 2 billion
+cuz<00:00:50.559><c> it's</c><00:00:50.879><c> a</c><00:00:51.039><c> low</c><00:00:51.520><c> GPU</c>
+
+00:00:53.110 --> 00:00:53.120 align:start position:0%
+cuz it's a low GPU
+ 
+
+00:00:53.120 --> 00:00:56.709 align:start position:0%
+cuz it's a low GPU
+it<00:00:53.440><c> runs</c><00:00:53.760><c> fast</c><00:00:54.160><c> with</c><00:00:54.480><c> this</c><00:00:54.879><c> uh</c><00:00:55.120><c> LX</c><00:00:55.600><c> version</c>
+
+00:00:56.709 --> 00:00:56.719 align:start position:0%
+it runs fast with this uh LX version
+ 
+
+00:00:56.719 --> 00:01:00.389 align:start position:0%
+it runs fast with this uh LX version
+okay<00:00:57.840><c> when</c><00:00:58.160><c> you</c><00:00:58.399><c> have</c><00:00:58.879><c> higher</c><00:00:59.840><c> if</c><00:01:00.079><c> you</c><00:01:00.239><c> have</c>
+
+00:01:00.389 --> 00:01:00.399 align:start position:0%
+okay when you have higher if you have
+ 
+
+00:01:00.399 --> 00:01:06.789 align:start position:0%
+okay when you have higher if you have
+higher<00:01:00.960><c> GPU</c><00:01:01.680><c> like</c><00:01:02.320><c> RTX</c><00:01:03.359><c> 4090</c><00:01:04.239><c> RTX</c>
+
+00:01:06.789 --> 00:01:06.799 align:start position:0%
+higher GPU like RTX 4090 RTX
+ 
+
+00:01:06.799 --> 00:01:10.630 align:start position:0%
+higher GPU like RTX 4090 RTX
+5090<00:01:07.920><c> or</c><00:01:08.400><c> RTX</c>
+
+00:01:10.630 --> 00:01:10.640 align:start position:0%
+5090 or RTX
+ 
+
+00:01:10.640 --> 00:01:13.270 align:start position:0%
+5090 or RTX
+black<00:01:10.960><c> web</c>
+
+00:01:13.270 --> 00:01:13.280 align:start position:0%
+black web
+ 
+
+00:01:13.280 --> 00:01:18.630 align:start position:0%
+black web
+a<00:01:14.240><c> 6</c><00:01:14.560><c> minus</c><00:01:15.040><c> you</c><00:01:15.280><c> can</c><00:01:15.439><c> use</c><00:01:16.799><c> this</c><00:01:17.119><c> version</c>
+
+00:01:18.630 --> 00:01:18.640 align:start position:0%
+a 6 minus you can use this version
+ 
+
+00:01:18.640 --> 00:01:22.789 align:start position:0%
+a 6 minus you can use this version
+okay<00:01:19.119><c> I</c><00:01:19.360><c> download</c><00:01:19.920><c> this</c><00:01:20.960><c> press</c>
+
+00:01:22.789 --> 00:01:22.799 align:start position:0%
+okay I download this press
+ 
+
+00:01:22.799 --> 00:01:25.350 align:start position:0%
+okay I download this press
+this<00:01:23.200><c> one</c>
+
+00:01:25.350 --> 00:01:25.360 align:start position:0%
+this one
+ 
+
+00:01:25.360 --> 00:01:29.670 align:start position:0%
+this one
+get<00:01:25.680><c> model</c><00:01:26.400><c> and</c><00:01:27.040><c> I</c><00:01:27.280><c> go</c><00:01:27.520><c> here</c><00:01:27.759><c> copy</c><00:01:28.080><c> download</c>
+
+00:01:29.670 --> 00:01:29.680 align:start position:0%
+get model and I go here copy download
+ 
+
+00:01:29.680 --> 00:01:33.109 align:start position:0%
+get model and I go here copy download
+or<00:01:29.920><c> download</c><00:01:30.479><c> from</c><00:01:30.720><c> this.</c><00:01:32.000><c> After</c><00:01:32.320><c> that,</c><00:01:32.560><c> I</c><00:01:32.880><c> go</c>
+
+00:01:33.109 --> 00:01:33.119 align:start position:0%
+or download from this. After that, I go
+ 
+
+00:01:33.119 --> 00:01:35.109 align:start position:0%
+or download from this. After that, I go
+here,
+
+00:01:35.109 --> 00:01:35.119 align:start position:0%
+here,
+ 
+
+00:01:35.119 --> 00:01:39.030 align:start position:0%
+here,
+add<00:01:35.360><c> my</c><00:01:35.600><c> URL</c><00:01:36.799><c> and</c><00:01:37.759><c> download</c><00:01:38.159><c> this</c><00:01:38.560><c> version</c>
+
+00:01:39.030 --> 00:01:39.040 align:start position:0%
+add my URL and download this version
+ 
+
+00:01:39.040 --> 00:01:41.030 align:start position:0%
+add my URL and download this version
+using
+
+00:01:41.030 --> 00:01:41.040 align:start position:0%
+using
+ 
+
+00:01:41.040 --> 00:01:43.270 align:start position:0%
+using
+the<00:01:41.360><c> ITM.</c>
+
+00:01:43.270 --> 00:01:43.280 align:start position:0%
+the ITM.
+ 
+
+00:01:43.280 --> 00:01:46.710 align:start position:0%
+the ITM.
+Download<00:01:43.680><c> this</c><00:01:44.000><c> form.</c><00:01:44.479><c> First</c><00:01:44.720><c> of</c><00:01:44.799><c> all,</c><00:01:45.520><c> after</c>
+
+00:01:46.710 --> 00:01:46.720 align:start position:0%
+Download this form. First of all, after
+ 
+
+00:01:46.720 --> 00:01:51.429 align:start position:0%
+Download this form. First of all, after
+download<00:01:47.200><c> the</c><00:01:47.439><c> IC</c><00:01:47.920><c> Lora</c><00:01:48.320><c> deterior</c><00:01:49.520><c> from</c><00:01:49.759><c> this,</c>
+
+00:01:51.429 --> 00:01:51.439 align:start position:0%
+download the IC Lora deterior from this,
+ 
+
+00:01:51.439 --> 00:01:54.149 align:start position:0%
+download the IC Lora deterior from this,
+after<00:01:51.840><c> downloading</c><00:01:52.560><c> this,</c>
+
+00:01:54.149 --> 00:01:54.159 align:start position:0%
+after downloading this,
+ 
+
+00:01:54.159 --> 00:01:56.550 align:start position:0%
+after downloading this,
+we<00:01:54.399><c> have</c><00:01:54.560><c> to</c><00:01:54.720><c> go</c><00:01:54.960><c> ahead</c>
+
+00:01:56.550 --> 00:01:56.560 align:start position:0%
+we have to go ahead
+ 
+
+00:01:56.560 --> 00:02:00.310 align:start position:0%
+we have to go ahead
+download<00:01:57.200><c> the</c><00:01:57.439><c> CIA</c><00:01:58.479><c> portable</c><00:01:59.680><c> from</c><00:02:00.000><c> this</c>
+
+00:02:00.310 --> 00:02:00.320 align:start position:0%
+download the CIA portable from this
+ 
+
+00:02:00.320 --> 00:02:05.990 align:start position:0%
+download the CIA portable from this
+link.
+
+00:02:05.990 --> 00:02:06.000 align:start position:0%
+ 
+ 
+
+00:02:06.000 --> 00:02:09.109 align:start position:0%
+ 
+We<00:02:06.240><c> should</c><00:02:06.479><c> to</c><00:02:06.719><c> go</c><00:02:07.040><c> here</c>
+
+00:02:09.109 --> 00:02:09.119 align:start position:0%
+We should to go here
+ 
+
+00:02:09.119 --> 00:02:12.070 align:start position:0%
+We should to go here
+this<00:02:09.360><c> GitHub</c>
+
+00:02:12.070 --> 00:02:12.080 align:start position:0%
+this GitHub
+ 
+
+00:02:12.080 --> 00:02:15.430 align:start position:0%
+this GitHub
+and<00:02:12.480><c> go</c><00:02:12.720><c> down</c><00:02:13.360><c> right</c><00:02:13.760><c> here.</c><00:02:14.879><c> Select</c><00:02:15.200><c> the</c>
+
+00:02:15.430 --> 00:02:15.440 align:start position:0%
+and go down right here. Select the
+ 
+
+00:02:15.440 --> 00:02:20.309 align:start position:0%
+and go down right here. Select the
+portable<00:02:16.000><c> version</c><00:02:16.959><c> direct</c><00:02:17.599><c> download</c>
+
+00:02:20.309 --> 00:02:20.319 align:start position:0%
+portable version direct download
+ 
+
+00:02:20.319 --> 00:02:24.550 align:start position:0%
+portable version direct download
+if<00:02:20.800><c> and</c><00:02:21.360><c> when</c><00:02:21.760><c> the</c><00:02:22.080><c> downloading</c><00:02:22.879><c> is</c><00:02:23.280><c> done</c>
+
+00:02:24.550 --> 00:02:24.560 align:start position:0%
+if and when the downloading is done
+ 
+
+00:02:24.560 --> 00:02:29.030 align:start position:0%
+if and when the downloading is done
+extracted
+
+00:02:29.030 --> 00:02:29.040 align:start position:0%
+ 
+ 
+
+00:02:29.040 --> 00:02:32.150 align:start position:0%
+ 
+fully<00:02:29.599><c> extracted</c><00:02:30.160><c> here</c><00:02:30.400><c> in</c><00:02:30.720><c> the</c><00:02:31.280><c> desktop.</c>
+
+00:02:32.150 --> 00:02:32.160 align:start position:0%
+fully extracted here in the desktop.
+ 
+
+00:02:32.160 --> 00:02:35.509 align:start position:0%
+fully extracted here in the desktop.
+After<00:02:32.480><c> that</c><00:02:32.879><c> we</c><00:02:33.040><c> have</c><00:02:33.280><c> this</c><00:02:33.599><c> one.</c><00:02:34.800><c> We</c><00:02:35.120><c> need</c><00:02:35.360><c> to</c>
+
+00:02:35.509 --> 00:02:35.519 align:start position:0%
+After that we have this one. We need to
+ 
+
+00:02:35.519 --> 00:02:40.229 align:start position:0%
+After that we have this one. We need to
+run<00:02:36.959><c> with</c><00:02:37.280><c> the</c><00:02:37.440><c> Nvidia</c><00:02:37.920><c> GPU</c><00:02:38.319><c> as</c><00:02:38.560><c> fast.</c><00:02:39.760><c> Okay,</c>
+
+00:02:40.229 --> 00:02:40.239 align:start position:0%
+run with the Nvidia GPU as fast. Okay,
+ 
+
+00:02:40.239 --> 00:02:43.430 align:start position:0%
+run with the Nvidia GPU as fast. Okay,
+let's
+
+00:02:43.430 --> 00:02:43.440 align:start position:0%
+ 
+ 
+
+00:02:43.440 --> 00:02:45.589 align:start position:0%
+ 
+once<00:02:43.760><c> it's</c><00:02:43.920><c> download</c><00:02:44.480><c> before</c><00:02:44.720><c> we</c><00:02:44.959><c> done</c><00:02:45.200><c> this</c>
+
+00:02:45.589 --> 00:02:45.599 align:start position:0%
+once it's download before we done this
+ 
+
+00:02:45.599 --> 00:02:49.750 align:start position:0%
+once it's download before we done this
+we<00:02:45.840><c> have</c><00:02:46.000><c> to</c><00:02:46.160><c> go</c><00:02:46.239><c> ahead</c>
+
+00:02:49.750 --> 00:02:49.760 align:start position:0%
+ 
+ 
+
+00:02:49.760 --> 00:02:53.509 align:start position:0%
+ 
+on<00:02:50.000><c> the</c><00:02:50.080><c> list</c><00:02:50.959><c> checkpoint</c><00:02:52.400><c> in</c><00:02:52.640><c> this</c><00:02:52.879><c> checks.</c>
+
+00:02:53.509 --> 00:02:53.519 align:start position:0%
+on the list checkpoint in this checks.
+ 
+
+00:02:53.519 --> 00:02:57.350 align:start position:0%
+on the list checkpoint in this checks.
+After<00:02:53.920><c> the</c><00:02:54.080><c> downloading</c><00:02:54.879><c> is</c><00:02:55.120><c> done,</c><00:02:56.160><c> copy</c><00:02:57.120><c> from</c>
+
+00:02:57.350 --> 00:02:57.360 align:start position:0%
+After the downloading is done, copy from
+ 
+
+00:02:57.360 --> 00:03:00.550 align:start position:0%
+After the downloading is done, copy from
+the<00:02:57.519><c> downloads</c><00:02:58.160><c> and</c><00:02:58.480><c> paste</c><00:02:58.959><c> the</c><00:02:59.200><c> LTX</c><00:03:00.160><c> to</c><00:03:00.400><c> be</c>
+
+00:03:00.550 --> 00:03:00.560 align:start position:0%
+the downloads and paste the LTX to be
+ 
+
+00:03:00.560 --> 00:03:04.390 align:start position:0%
+the downloads and paste the LTX to be
+the<00:03:00.800><c> file</c><00:03:01.360><c> that</c><00:03:01.760><c> I</c><00:03:02.000><c> download</c><00:03:02.480><c> previously.</c>
+
+00:03:04.390 --> 00:03:04.400 align:start position:0%
+the file that I download previously.
+ 
+
+00:03:04.400 --> 00:03:06.869 align:start position:0%
+the file that I download previously.
+Although<00:03:04.879><c> I</c><00:03:05.120><c> see</c><00:03:05.360><c> Laura</c>
+
+00:03:06.869 --> 00:03:06.879 align:start position:0%
+Although I see Laura
+ 
+
+00:03:06.879 --> 00:03:10.390 align:start position:0%
+Although I see Laura
+this<00:03:07.200><c> one</c>
+
+00:03:10.390 --> 00:03:10.400 align:start position:0%
+ 
+ 
+
+00:03:10.400 --> 00:03:12.710 align:start position:0%
+ 
+detail
+
+00:03:12.710 --> 00:03:12.720 align:start position:0%
+detail
+ 
+
+00:03:12.720 --> 00:03:15.670 align:start position:0%
+detail
+here<00:03:13.760><c> from</c><00:03:14.000><c> modus</c>
+
+00:03:15.670 --> 00:03:15.680 align:start position:0%
+here from modus
+ 
+
+00:03:15.680 --> 00:03:19.270 align:start position:0%
+here from modus
+go<00:03:16.000><c> down</c><00:03:16.319><c> search</c><00:03:16.640><c> for</c><00:03:16.879><c> Laura</c><00:03:18.319><c> and</c><00:03:18.640><c> paste</c><00:03:19.040><c> in</c>
+
+00:03:19.270 --> 00:03:19.280 align:start position:0%
+go down search for Laura and paste in
+ 
+
+00:03:19.280 --> 00:03:21.670 align:start position:0%
+go down search for Laura and paste in
+this<00:03:19.920><c> place.</c>
+
+00:03:21.670 --> 00:03:21.680 align:start position:0%
+this place.
+ 
+
+00:03:21.680 --> 00:03:25.509 align:start position:0%
+this place.
+Okay.<00:03:22.080><c> After</c><00:03:22.400><c> that,</c><00:03:23.680><c> you</c><00:03:24.000><c> want</c><00:03:24.239><c> to</c><00:03:24.400><c> choose</c><00:03:25.200><c> a</c>
+
+00:03:25.509 --> 00:03:25.519 align:start position:0%
+Okay. After that, you want to choose a
+ 
+
+00:03:25.519 --> 00:03:28.790 align:start position:0%
+Okay. After that, you want to choose a
+custom<00:03:26.000><c> workflow</c><00:03:27.200><c> that</c><00:03:27.599><c> allows</c><00:03:28.000><c> me</c><00:03:28.239><c> to</c><00:03:28.480><c> render</c>
+
+00:03:28.790 --> 00:03:28.800 align:start position:0%
+custom workflow that allows me to render
+ 
+
+00:03:28.800 --> 00:03:34.390 align:start position:0%
+custom workflow that allows me to render
+a<00:03:29.040><c> video</c><00:03:29.440><c> fast</c><00:03:29.760><c> with</c><00:03:30.080><c> my</c><00:03:30.319><c> RTX</c><00:03:31.040><c> 3060.</c>
+
+00:03:34.390 --> 00:03:34.400 align:start position:0%
+ 
+ 
+
+00:03:34.400 --> 00:03:38.309 align:start position:0%
+ 
+Okay,<00:03:34.799><c> this</c><00:03:35.120><c> works</c><00:03:35.519><c> flow</c><00:03:36.319><c> and</c>
+
+00:03:38.309 --> 00:03:38.319 align:start position:0%
+Okay, this works flow and
+ 
+
+00:03:38.319 --> 00:03:40.149 align:start position:0%
+Okay, this works flow and
+you<00:03:38.560><c> can</c><00:03:38.720><c> get</c><00:03:38.879><c> it</c><00:03:39.120><c> in</c><00:03:39.360><c> the</c><00:03:39.519><c> link</c><00:03:39.760><c> in</c><00:03:40.000><c> the</c>
+
+00:03:40.149 --> 00:03:40.159 align:start position:0%
+you can get it in the link in the
+ 
+
+00:03:40.159 --> 00:03:43.589 align:start position:0%
+you can get it in the link in the
+description<00:03:40.799><c> and</c><00:03:41.120><c> other</c><00:03:41.440><c> links</c><00:03:42.799><c> from</c><00:03:43.200><c> this</c>
+
+00:03:43.589 --> 00:03:43.599 align:start position:0%
+description and other links from this
+ 
+
+00:03:43.599 --> 00:03:46.869 align:start position:0%
+description and other links from this
+one,<00:03:43.920><c> this</c><00:03:44.239><c> link,</c><00:03:44.720><c> and</c><00:03:45.040><c> this</c><00:03:45.280><c> one.</c>
+
+00:03:46.869 --> 00:03:46.879 align:start position:0%
+one, this link, and this one.
+ 
+
+00:03:46.879 --> 00:03:51.270 align:start position:0%
+one, this link, and this one.
+Okay,<00:03:47.200><c> let's</c><00:03:47.519><c> begin</c><00:03:47.840><c> the</c><00:03:48.080><c> work.</c>
+
+00:03:51.270 --> 00:03:51.280 align:start position:0%
+ 
+ 
+
+00:03:51.280 --> 00:03:53.670 align:start position:0%
+ 
+Uh,<00:03:51.599><c> let's</c><00:03:51.840><c> go</c><00:03:52.080><c> here</c><00:03:52.239><c> to</c><00:03:52.400><c> the</c><00:03:52.560><c> camp</c><00:03:53.040><c> UI</c>
+
+00:03:53.670 --> 00:03:53.680 align:start position:0%
+Uh, let's go here to the camp UI
+ 
+
+00:03:53.680 --> 00:03:57.750 align:start position:0%
+Uh, let's go here to the camp UI
+portable<00:03:55.120><c> run</c><00:03:55.519><c> GPU</c><00:03:56.159><c> first.</c><00:03:56.799><c> It</c><00:03:57.120><c> needs</c><00:03:57.439><c> some</c>
+
+00:03:57.750 --> 00:03:57.760 align:start position:0%
+portable run GPU first. It needs some
+ 
+
+00:03:57.760 --> 00:04:01.190 align:start position:0%
+portable run GPU first. It needs some
+time<00:03:58.000><c> to</c><00:03:58.239><c> run.</c>
+
+00:04:01.190 --> 00:04:01.200 align:start position:0%
+time to run.
+ 
+
+00:04:01.200 --> 00:04:05.750 align:start position:0%
+time to run.
+Okay,
+
+00:04:05.750 --> 00:04:05.760 align:start position:0%
+ 
+ 
+
+00:04:05.760 --> 00:04:11.190 align:start position:0%
+ 
+lo<00:04:06.080><c> this</c><00:04:06.400><c> and</c><00:04:06.799><c> close</c><00:04:07.200><c> this.</c>
+
+00:04:11.190 --> 00:04:11.200 align:start position:0%
+ 
+ 
+
+00:04:11.200 --> 00:04:17.110 align:start position:0%
+ 
+Okay,<00:04:11.599><c> this</c><00:04:11.760><c> is</c><00:04:11.840><c> the</c><00:04:12.080><c> custom</c><00:04:13.280><c> workflow.</c>
+
+00:04:17.110 --> 00:04:17.120 align:start position:0%
+ 
+ 
+
+00:04:17.120 --> 00:04:22.469 align:start position:0%
+ 
+It's<00:04:17.680><c> uh</c><00:04:18.000><c> a</c><00:04:18.160><c> little</c><00:04:18.320><c> bit</c><00:04:18.560><c> complex.</c>
+
+00:04:22.469 --> 00:04:22.479 align:start position:0%
+ 
+ 
+
+00:04:22.479 --> 00:04:25.990 align:start position:0%
+ 
+Now<00:04:22.800><c> let's</c><00:04:23.040><c> go</c><00:04:23.360><c> here.</c><00:04:24.000><c> Let's</c><00:04:24.240><c> begin.</c>
+
+00:04:25.990 --> 00:04:26.000 align:start position:0%
+Now let's go here. Let's begin.
+ 
+
+00:04:26.000 --> 00:04:29.189 align:start position:0%
+Now let's go here. Let's begin.
+Well,<00:04:26.320><c> uh</c><00:04:26.479><c> the</c><00:04:26.720><c> first</c><00:04:27.040><c> time</c><00:04:27.360><c> you</c><00:04:27.600><c> need</c><00:04:28.560><c> is</c><00:04:28.880><c> down</c>
+
+00:04:29.189 --> 00:04:29.199 align:start position:0%
+Well, uh the first time you need is down
+ 
+
+00:04:29.199 --> 00:04:33.990 align:start position:0%
+Well, uh the first time you need is down
+to<00:04:29.440><c> download</c><00:04:29.840><c> this</c><00:04:30.400><c> by</c><00:04:31.120><c> XXL</c>
+
+00:04:33.990 --> 00:04:34.000 align:start position:0%
+to download this by XXL
+ 
+
+00:04:34.000 --> 00:04:38.550 align:start position:0%
+to download this by XXL
+and<00:04:34.160><c> add</c><00:04:34.320><c> it</c><00:04:34.560><c> right</c><00:04:34.800><c> here.</c><00:04:35.360><c> After</c><00:04:35.680><c> that,</c>
+
+00:04:38.550 --> 00:04:38.560 align:start position:0%
+and add it right here. After that,
+ 
+
+00:04:38.560 --> 00:04:40.790 align:start position:0%
+and add it right here. After that,
+we<00:04:38.800><c> need</c><00:04:38.960><c> a</c><00:04:39.199><c> prompt.</c><00:04:39.600><c> You</c><00:04:39.840><c> can</c><00:04:39.919><c> get</c><00:04:40.240><c> prompt</c><00:04:40.560><c> for</c>
+
+00:04:40.790 --> 00:04:40.800 align:start position:0%
+we need a prompt. You can get prompt for
+ 
+
+00:04:40.800 --> 00:04:43.909 align:start position:0%
+we need a prompt. You can get prompt for
+your<00:04:41.120><c> story</c><00:04:41.440><c> or</c><00:04:41.759><c> another</c><00:04:42.160><c> video</c><00:04:43.040><c> using</c><00:04:43.360><c> a</c><00:04:43.600><c> chat</c>
+
+00:04:43.909 --> 00:04:43.919 align:start position:0%
+your story or another video using a chat
+ 
+
+00:04:43.919 --> 00:04:48.629 align:start position:0%
+your story or another video using a chat
+GPD.<00:04:45.280><c> Frame</c><00:04:45.600><c> rate</c><00:04:45.919><c> is</c><00:04:46.240><c> make</c><00:04:46.479><c> it</c><00:04:46.639><c> 24</c><00:04:47.919><c> or</c><00:04:48.160><c> fastest</c>
+
+00:04:48.629 --> 00:04:48.639 align:start position:0%
+GPD. Frame rate is make it 24 or fastest
+ 
+
+00:04:48.639 --> 00:04:50.469 align:start position:0%
+GPD. Frame rate is make it 24 or fastest
+as<00:04:48.960><c> possible.</c>
+
+00:04:50.469 --> 00:04:50.479 align:start position:0%
+as possible.
+ 
+
+00:04:50.479 --> 00:04:53.590 align:start position:0%
+as possible.
+Let<00:04:50.639><c> me</c><00:04:50.880><c> use</c><00:04:51.120><c> this</c><00:04:51.440><c> one.</c><00:04:51.840><c> The</c><00:04:52.160><c> tx</c><00:04:52.800><c> the</c><00:04:53.040><c> file</c><00:04:53.280><c> as</c>
+
+00:04:53.590 --> 00:04:53.600 align:start position:0%
+Let me use this one. The tx the file as
+ 
+
+00:04:53.600 --> 00:04:57.670 align:start position:0%
+Let me use this one. The tx the file as
+I<00:04:53.840><c> downloaded</c><00:04:54.720><c> this</c><00:04:55.120><c> selected.</c>
+
+00:04:57.670 --> 00:04:57.680 align:start position:0%
+I downloaded this selected.
+ 
+
+00:04:57.680 --> 00:05:02.150 align:start position:0%
+I downloaded this selected.
+After<00:04:58.080><c> that</c><00:04:58.880><c> you</c><00:04:59.199><c> need</c><00:04:59.600><c> what</c><00:05:00.080><c> else?</c>
+
+00:05:02.150 --> 00:05:02.160 align:start position:0%
+After that you need what else?
+ 
+
+00:05:02.160 --> 00:05:05.749 align:start position:0%
+After that you need what else?
+This<00:05:02.560><c> the</c><00:05:02.800><c> w</c><00:05:03.280><c> and</c><00:05:03.520><c> the</c><00:05:03.680><c> heist</c><00:05:04.080><c> of</c><00:05:04.320><c> the</c><00:05:04.560><c> video</c>
+
+00:05:05.749 --> 00:05:05.759 align:start position:0%
+This the w and the heist of the video
+ 
+
+00:05:05.759 --> 00:05:08.070 align:start position:0%
+This the w and the heist of the video
+number<00:05:06.080><c> of</c><00:05:06.320><c> frame</c><00:05:06.800><c> is</c><00:05:07.039><c> the</c><00:05:07.280><c> time</c><00:05:07.520><c> of</c><00:05:07.759><c> the</c>
+
+00:05:08.070 --> 00:05:08.080 align:start position:0%
+number of frame is the time of the
+ 
+
+00:05:08.080 --> 00:05:11.670 align:start position:0%
+number of frame is the time of the
+video.<00:05:09.039><c> I</c><00:05:09.360><c> think</c><00:05:09.600><c> this</c><00:05:10.000><c> one</c>
+
+00:05:11.670 --> 00:05:11.680 align:start position:0%
+video. I think this one
+ 
+
+00:05:11.680 --> 00:05:15.590 align:start position:0%
+video. I think this one
+maybe<00:05:13.120><c> 12</c><00:05:13.520><c> seconds.</c>
+
+00:05:15.590 --> 00:05:15.600 align:start position:0%
+maybe 12 seconds.
+ 
+
+00:05:15.600 --> 00:05:18.629 align:start position:0%
+maybe 12 seconds.
+If<00:05:15.840><c> you</c><00:05:16.000><c> want</c><00:05:16.240><c> the</c><00:05:16.400><c> highest</c><00:05:17.199><c> video</c><00:05:18.080><c> extend</c><00:05:18.479><c> the</c>
+
+00:05:18.629 --> 00:05:18.639 align:start position:0%
+If you want the highest video extend the
+ 
+
+00:05:18.639 --> 00:05:22.230 align:start position:0%
+If you want the highest video extend the
+video<00:05:19.039><c> can</c><00:05:19.600><c> get</c><00:05:20.400><c> 500</c>
+
+00:05:22.230 --> 00:05:22.240 align:start position:0%
+video can get 500
+ 
+
+00:05:22.240 --> 00:05:26.390 align:start position:0%
+video can get 500
+600<00:05:22.960><c> 420</c><00:05:23.680><c> seconds</c><00:05:24.240><c> 30</c><00:05:24.560><c> seconds</c><00:05:25.039><c> I</c><00:05:25.280><c> don't</c><00:05:25.440><c> know</c>
+
+00:05:26.390 --> 00:05:26.400 align:start position:0%
+600 420 seconds 30 seconds I don't know
+ 
+
+00:05:26.400 --> 00:05:28.070 align:start position:0%
+600 420 seconds 30 seconds I don't know
+choose<00:05:26.720><c> what</c><00:05:26.880><c> do</c><00:05:26.960><c> you</c><00:05:27.039><c> want</c><00:05:27.280><c> I</c><00:05:27.440><c> want</c><00:05:27.600><c> to</c><00:05:27.759><c> choose</c>
+
+00:05:28.070 --> 00:05:28.080 align:start position:0%
+choose what do you want I want to choose
+ 
+
+00:05:28.080 --> 00:05:34.230 align:start position:0%
+choose what do you want I want to choose
+this<00:05:28.320><c> one</c><00:05:29.120><c> 10</c><00:05:29.440><c> seconds</c><00:05:30.080><c> video</c><00:05:31.199><c> 11</c><00:05:31.600><c> seconds</c>
+
+00:05:34.230 --> 00:05:34.240 align:start position:0%
+this one 10 seconds video 11 seconds
+ 
+
+00:05:34.240 --> 00:05:36.070 align:start position:0%
+this one 10 seconds video 11 seconds
+and
+
+00:05:36.070 --> 00:05:36.080 align:start position:0%
+and
+ 
+
+00:05:36.080 --> 00:05:40.550 align:start position:0%
+and
+for<00:05:36.240><c> the</c><00:05:36.400><c> RTX</c><00:05:37.039><c> 3060</c>
+
+00:05:40.550 --> 00:05:40.560 align:start position:0%
+ 
+ 
+
+00:05:40.560 --> 00:05:43.590 align:start position:0%
+ 
+you<00:05:40.880><c> need</c><00:05:41.120><c> this</c><00:05:41.600><c> quality</c><00:05:42.560><c> or</c><00:05:42.880><c> you</c><00:05:43.120><c> can</c><00:05:43.280><c> change</c>
+
+00:05:43.590 --> 00:05:43.600 align:start position:0%
+you need this quality or you can change
+ 
+
+00:05:43.600 --> 00:05:54.710 align:start position:0%
+you need this quality or you can change
+it<00:05:45.039><c> like</c><00:05:45.440><c> this</c>
+
+00:05:54.710 --> 00:05:54.720 align:start position:0%
+ 
+ 
+
+00:05:54.720 --> 00:06:00.390 align:start position:0%
+ 
+to<00:05:55.039><c> get</c><00:05:55.440><c> a</c><00:05:55.680><c> best</c><00:05:56.800><c> quality.</c><00:05:58.000><c> uh</c><00:05:58.240><c> this</c><00:05:58.560><c> one</c>
+
+00:06:00.390 --> 00:06:00.400 align:start position:0%
+to get a best quality. uh this one
+ 
+
+00:06:00.400 --> 00:06:02.550 align:start position:0%
+to get a best quality. uh this one
+okay<00:06:00.720><c> get</c>
+
+00:06:02.550 --> 00:06:02.560 align:start position:0%
+okay get
+ 
+
+00:06:02.560 --> 00:06:06.550 align:start position:0%
+okay get
+the<00:06:02.720><c> best</c><00:06:03.039><c> quality</c><00:06:04.240><c> but</c><00:06:04.960><c> you</c><00:06:05.199><c> can</c><00:06:05.919><c> if</c><00:06:06.240><c> you</c><00:06:06.400><c> want</c>
+
+00:06:06.550 --> 00:06:06.560 align:start position:0%
+the best quality but you can if you want
+ 
+
+00:06:06.560 --> 00:06:10.230 align:start position:0%
+the best quality but you can if you want
+to<00:06:06.880><c> use</c><00:06:07.280><c> highest</c><00:06:07.840><c> quality</c><00:06:08.400><c> as</c>
+
+00:06:10.230 --> 00:06:10.240 align:start position:0%
+to use highest quality as
+ 
+
+00:06:10.240 --> 00:06:13.909 align:start position:0%
+to use highest quality as
+HD<00:06:11.120><c> or</c><00:06:11.680><c> full</c><00:06:12.000><c> HD</c>
+
+00:06:13.909 --> 00:06:13.919 align:start position:0%
+HD or full HD
+ 
+
+00:06:13.919 --> 00:06:18.629 align:start position:0%
+HD or full HD
+it's<00:06:14.880><c> must</c><00:06:15.520><c> uh</c><00:06:15.919><c> not</c><00:06:16.240><c> run</c><00:06:17.039><c> because</c><00:06:17.759><c> it's</c><00:06:18.080><c> still</c>
+
+00:06:18.629 --> 00:06:18.639 align:start position:0%
+it's must uh not run because it's still
+ 
+
+00:06:18.639 --> 00:06:23.749 align:start position:0%
+it's must uh not run because it's still
+in<00:06:18.800><c> the</c><00:06:18.960><c> text</c><00:06:19.360><c> manager</c><00:06:20.160><c> it's</c><00:06:20.639><c> out</c><00:06:21.120><c> of</c><00:06:21.520><c> the</c><00:06:22.000><c> GPU</c>
+
+00:06:23.749 --> 00:06:23.759 align:start position:0%
+in the text manager it's out of the GPU
+ 
+
+00:06:23.759 --> 00:06:27.430 align:start position:0%
+in the text manager it's out of the GPU
+okay<00:06:25.199><c> I</c><00:06:25.440><c> think</c><00:06:25.600><c> it's</c><00:06:25.919><c> done</c>
+
+00:06:27.430 --> 00:06:27.440 align:start position:0%
+okay I think it's done
+ 
+
+00:06:27.440 --> 00:06:33.510 align:start position:0%
+okay I think it's done
+uh<00:06:27.680><c> this</c><00:06:28.000><c> one.</c><00:06:28.880><c> Now</c><00:06:29.120><c> let's</c><00:06:29.440><c> test</c><00:06:29.680><c> it</c><00:06:29.840><c> out.</c>
+
+00:06:33.510 --> 00:06:33.520 align:start position:0%
+ 
+ 
+
+00:06:33.520 --> 00:06:37.189 align:start position:0%
+ 
+Okay,<00:06:33.840><c> let's</c><00:06:34.080><c> choose</c><00:06:34.400><c> this</c><00:06:34.960><c> uh</c>
+
+00:06:37.189 --> 00:06:37.199 align:start position:0%
+Okay, let's choose this uh
+ 
+
+00:06:37.199 --> 00:06:39.189 align:start position:0%
+Okay, let's choose this uh
+prompt.
+
+00:06:39.189 --> 00:06:39.199 align:start position:0%
+prompt.
+ 
+
+00:06:39.199 --> 00:06:43.909 align:start position:0%
+prompt.
+Click<00:06:39.520><c> run</c><00:06:40.240><c> and</c><00:06:40.479><c> let's</c>
+
+00:06:43.909 --> 00:06:43.919 align:start position:0%
+ 
+ 
+
+00:06:43.919 --> 00:06:46.550 align:start position:0%
+ 
+now<00:06:44.240><c> it</c><00:06:44.479><c> takes</c><00:06:44.880><c> time</c><00:06:45.199><c> to</c><00:06:45.440><c> run</c><00:06:45.919><c> and</c><00:06:46.080><c> let's</c><00:06:46.319><c> see</c>
+
+00:06:46.550 --> 00:06:46.560 align:start position:0%
+now it takes time to run and let's see
+ 
+
+00:06:46.560 --> 00:06:51.510 align:start position:0%
+now it takes time to run and let's see
+my<00:06:46.720><c> GPU</c>
+
+00:06:51.510 --> 00:06:51.520 align:start position:0%
+ 
+ 
+
+00:06:51.520 --> 00:06:54.950 align:start position:0%
+ 
+in<00:06:51.759><c> this</c><00:06:52.000><c> place.</c>
+
+00:06:54.950 --> 00:06:54.960 align:start position:0%
+in this place.
+ 
+
+00:06:54.960 --> 00:06:56.870 align:start position:0%
+in this place.
+You<00:06:55.120><c> can</c>
+
+00:06:56.870 --> 00:06:56.880 align:start position:0%
+You can
+ 
+
+00:06:56.880 --> 00:07:00.230 align:start position:0%
+You can
+go<00:06:57.120><c> right</c><00:06:57.360><c> here</c><00:06:57.919><c> with</c><00:06:58.080><c> the</c><00:06:58.319><c> 12%</c><00:06:59.120><c> on</c><00:06:59.360><c> the</c><00:06:59.520><c> video.</c>
+
+00:07:00.230 --> 00:07:00.240 align:start position:0%
+go right here with the 12% on the video.
+ 
+
+00:07:00.240 --> 00:07:07.189 align:start position:0%
+go right here with the 12% on the video.
+Boom.<00:07:01.280><c> Okay,</c><00:07:01.680><c> it</c><00:07:01.919><c> begins.</c>
+
+00:07:07.189 --> 00:07:07.199 align:start position:0%
+ 
+ 
+
+00:07:07.199 --> 00:07:14.710 align:start position:0%
+ 
+Look<00:07:07.440><c> at</c><00:07:07.759><c> the</c><00:07:07.840><c> GPU.</c>
+
+00:07:14.710 --> 00:07:14.720 align:start position:0%
+ 
+ 
+
+00:07:14.720 --> 00:07:17.589 align:start position:0%
+ 
+It's<00:07:15.680><c> It's</c>
+
+00:07:17.589 --> 00:07:17.599 align:start position:0%
+It's It's
+ 
+
+00:07:17.599 --> 00:07:19.589 align:start position:0%
+It's It's
+11
+
+00:07:19.589 --> 00:07:19.599 align:start position:0%
+11
+ 
+
+00:07:19.599 --> 00:07:22.870 align:start position:0%
+11
+GHz<00:07:20.160><c> of</c><00:07:20.400><c> the</c><00:07:20.560><c> GPU.</c><00:07:21.199><c> It's</c><00:07:21.520><c> a</c><00:07:21.680><c> lot.</c><00:07:22.319><c> Look</c><00:07:22.560><c> at</c><00:07:22.720><c> the</c>
+
+00:07:22.870 --> 00:07:22.880 align:start position:0%
+GHz of the GPU. It's a lot. Look at the
+ 
+
+00:07:22.880 --> 00:07:26.230 align:start position:0%
+GHz of the GPU. It's a lot. Look at the
+RAM.<00:07:23.199><c> It</c><00:07:23.360><c> shows</c><00:07:23.840><c> 23</c><00:07:24.560><c> what</c>
+
+00:07:26.230 --> 00:07:26.240 align:start position:0%
+RAM. It shows 23 what
+ 
+
+00:07:26.240 --> 00:07:30.070 align:start position:0%
+RAM. It shows 23 what
+of<00:07:26.479><c> the</c>
+
+00:07:30.070 --> 00:07:30.080 align:start position:0%
+ 
+ 
+
+00:07:30.080 --> 00:07:36.230 align:start position:0%
+ 
+CPU<00:07:31.440><c> it's</c><00:07:31.759><c> consume</c><00:07:33.039><c> lot</c><00:07:33.280><c> of</c><00:07:33.440><c> energy</c>
+
+00:07:36.230 --> 00:07:36.240 align:start position:0%
+CPU it's consume lot of energy
+ 
+
+00:07:36.240 --> 00:08:07.990 align:start position:0%
+CPU it's consume lot of energy
+but<00:07:36.560><c> it's</c><00:07:36.880><c> fast</c>
+
+00:08:07.990 --> 00:08:08.000 align:start position:0%
+ 
+ 
+
+00:08:08.000 --> 00:08:11.350 align:start position:0%
+ 
+Okay,<00:08:08.400><c> it's</c><00:08:08.720><c> fine</c><00:08:09.280><c> right</c><00:08:09.520><c> now.</c>
+
+00:08:11.350 --> 00:08:11.360 align:start position:0%
+Okay, it's fine right now.
+ 
+
+00:08:11.360 --> 00:08:14.070 align:start position:0%
+Okay, it's fine right now.
+VIE<00:08:12.080><c> decoder</c>
+
+00:08:14.070 --> 00:08:14.080 align:start position:0%
+VIE decoder
+ 
+
+00:08:14.080 --> 00:08:18.390 align:start position:0%
+VIE decoder
+video<00:08:14.560><c> combine</c><00:08:15.120><c> after</c><00:08:15.440><c> this</c><00:08:16.560><c> and</c><00:08:16.800><c> the</c><00:08:17.120><c> video</c><00:08:17.840><c> R</c>
+
+00:08:18.390 --> 00:08:18.400 align:start position:0%
+video combine after this and the video R
+ 
+
+00:08:18.400 --> 00:08:25.029 align:start position:0%
+video combine after this and the video R
+is<00:08:18.720><c> done.</c>
+
+00:08:25.029 --> 00:08:25.039 align:start position:0%
+ 
+ 
+
+00:08:25.039 --> 00:08:31.749 align:start position:0%
+ 
+It<00:08:25.440><c> consumes</c><00:08:26.160><c> a</c><00:08:26.319><c> lot</c><00:08:26.639><c> of</c><00:08:26.800><c> the</c><00:08:26.960><c> GPU</c><00:08:27.440><c> memory.</c>
+
+00:08:31.749 --> 00:08:31.759 align:start position:0%
+ 
+ 
+
+00:08:31.759 --> 00:08:47.670 align:start position:0%
+ 
+How<00:08:31.840><c> many?</c>
+
+00:08:47.670 --> 00:08:47.680 align:start position:0%
+ 
+ 
+
+00:08:47.680 --> 00:08:49.750 align:start position:0%
+ 
+Okay,<00:08:48.000><c> it's</c><00:08:48.320><c> fine.</c><00:08:48.720><c> This</c><00:08:48.880><c> is</c><00:08:49.040><c> the</c><00:08:49.279><c> video</c><00:08:49.519><c> of</c>
+
+00:08:49.750 --> 00:08:49.760 align:start position:0%
+Okay, it's fine. This is the video of
+ 
+
+00:08:49.760 --> 00:08:55.990 align:start position:0%
+Okay, it's fine. This is the video of
+the<00:08:50.080><c> car.</c><00:08:51.519><c> Wow,</c><00:08:52.480><c> the</c><00:08:52.720><c> quality</c><00:08:53.200><c> is</c><00:08:54.240><c> good.</c><00:08:55.120><c> Now,</c>
+
+00:08:55.990 --> 00:08:56.000 align:start position:0%
+the car. Wow, the quality is good. Now,
+ 
+
+00:08:56.000 --> 00:08:59.269 align:start position:0%
+the car. Wow, the quality is good. Now,
+how<00:08:56.399><c> can</c><00:08:56.720><c> I</c><00:08:57.120><c> find</c><00:08:57.600><c> this</c><00:08:58.000><c> video?</c><00:08:58.720><c> I</c><00:08:58.959><c> cannot</c>
+
+00:08:59.269 --> 00:08:59.279 align:start position:0%
+how can I find this video? I cannot
+ 
+
+00:08:59.279 --> 00:09:01.670 align:start position:0%
+how can I find this video? I cannot
+download<00:08:59.839><c> from</c><00:09:00.080><c> this.</c>
+
+00:09:01.670 --> 00:09:01.680 align:start position:0%
+download from this.
+ 
+
+00:09:01.680 --> 00:09:06.310 align:start position:0%
+download from this.
+Uh,<00:09:02.160><c> okay.</c><00:09:02.800><c> We</c><00:09:03.120><c> have</c><00:09:03.200><c> to</c><00:09:03.440><c> go</c><00:09:03.680><c> here.</c>
+
+00:09:06.310 --> 00:09:06.320 align:start position:0%
+Uh, okay. We have to go here.
+ 
+
+00:09:06.320 --> 00:09:09.430 align:start position:0%
+Uh, okay. We have to go here.
+Copy<00:09:06.880><c> output</c><00:09:07.519><c> file</c><00:09:07.839><c> path.</c>
+
+00:09:09.430 --> 00:09:09.440 align:start position:0%
+Copy output file path.
+ 
+
+00:09:09.440 --> 00:09:12.310 align:start position:0%
+Copy output file path.
+Go<00:09:09.600><c> to</c><00:09:09.839><c> any</c><00:09:10.080><c> window.</c>
+
+00:09:12.310 --> 00:09:12.320 align:start position:0%
+Go to any window.
+ 
+
+00:09:12.320 --> 00:09:14.870 align:start position:0%
+Go to any window.
+Paste<00:09:12.640><c> it.</c>
+
+00:09:14.870 --> 00:09:14.880 align:start position:0%
+Paste it.
+ 
+
+00:09:14.880 --> 00:09:17.509 align:start position:0%
+Paste it.
+Delete<00:09:15.279><c> this.</c>
+
+00:09:17.509 --> 00:09:17.519 align:start position:0%
+Delete this.
+ 
+
+00:09:17.519 --> 00:09:22.389 align:start position:0%
+Delete this.
+This<00:09:17.760><c> is</c><00:09:18.000><c> my</c><00:09:18.720><c> video.</c>
+
+00:09:22.389 --> 00:09:22.399 align:start position:0%
+ 
+ 
+
+00:09:22.399 --> 00:09:29.509 align:start position:0%
+ 
+It's<00:09:22.720><c> 12</c><00:09:23.040><c> seconds.</c>
+
+00:09:29.509 --> 00:09:29.519 align:start position:0%
+ 
+ 
+
+00:09:29.519 --> 00:09:31.190 align:start position:0%
+ 
+Okay,<00:09:29.839><c> thank</c><00:09:30.000><c> you</c><00:09:30.160><c> guys</c><00:09:30.320><c> for</c><00:09:30.560><c> watching</c><00:09:30.880><c> this</c>
+
+00:09:31.190 --> 00:09:31.200 align:start position:0%
+Okay, thank you guys for watching this
+ 
+
+00:09:31.200 --> 00:09:33.750 align:start position:0%
+Okay, thank you guys for watching this
+all<00:09:31.440><c> for</c><00:09:31.680><c> this</c><00:09:31.920><c> tutorial.</c><00:09:32.800><c> See</c><00:09:32.959><c> you</c><00:09:33.120><c> later</c><00:09:33.440><c> in</c>
+
+00:09:33.750 --> 00:09:33.760 align:start position:0%
+all for this tutorial. See you later in
+ 
+
+00:09:33.760 --> 00:09:37.080 align:start position:0%
+all for this tutorial. See you later in
+the<00:09:33.920><c> next</c><00:09:34.080><c> tutorial.</c>
+

@@ -1,0 +1,594 @@
+1
+00:00:00,120 --> 00:00:02,110
+
+Hello, this is Coco.
+
+2
+00:00:02,110 --> 00:00:04,550
+Hello, this is Coco.
+ 
+
+3
+00:00:04,550 --> 00:00:04,560
+
+ 
+
+4
+00:00:04,560 --> 00:00:07,309
+
+How can you tell if someone has blocked you on KakaoTalk?
+
+5
+00:00:07,309 --> 00:00:07,319
+How can you tell if someone has blocked you on KakaoTalk?
+ 
+
+6
+00:00:07,319 --> 00:00:09,270
+How can you tell if someone has blocked you on KakaoTalk?
+To find the answer to this question, I have
+
+7
+00:00:09,270 --> 00:00:09,280
+To find the answer to this question, I have
+ 
+
+8
+00:00:09,280 --> 00:00:12,030
+To find the answer to this question, I have
+prepared two mobile phones. One is
+
+9
+00:00:12,030 --> 00:00:12,040
+prepared two mobile phones. One is
+ 
+
+10
+00:00:12,040 --> 00:00:15,230
+prepared two mobile phones. One is
+the phone to block, and the other is the phone to be blocked. I will
+
+11
+00:00:15,230 --> 00:00:17,470
+the phone to block, and the other is the phone to be blocked. I will
+ 
+
+12
+00:00:17,470 --> 00:00:17,480
+
+ 
+
+13
+00:00:17,480 --> 00:00:20,429
+
+personally verify the effect of blocking on KakaoTalk using these two phones. To
+
+14
+00:00:20,429 --> 00:00:20,439
+personally verify the effect of blocking on KakaoTalk using these two phones. To
+ 
+
+15
+00:00:20,439 --> 00:00:23,470
+personally verify the effect of blocking on KakaoTalk using these two phones. To
+block
+
+16
+00:00:23,470 --> 00:00:25,870
+block
+ 
+
+17
+00:00:25,870 --> 00:00:25,880
+
+ 
+
+18
+00:00:25,880 --> 00:00:28,269
+
+someone on KakaoTalk, tap the three dots at the top right of their profile and
+
+19
+00:00:28,269 --> 00:00:28,279
+someone on KakaoTalk, tap the three dots at the top right of their profile and
+ 
+
+20
+00:00:28,279 --> 00:00:31,310
+someone on KakaoTalk, tap the three dots at the top right of their profile and
+select "More." You will see that there are two types of blocking options:
+
+21
+00:00:31,310 --> 00:00:33,630
+select "More." You will see that there are two types of blocking options:
+ 
+
+22
+00:00:33,630 --> 00:00:33,640
+
+ 
+
+23
+00:00:33,640 --> 00:00:37,110
+
+blocking messages and blocking both messages and the profile.
+
+24
+00:00:37,110 --> 00:00:37,120
+blocking messages and blocking both messages and the profile.
+ 
+
+25
+00:00:37,120 --> 00:00:39,869
+blocking messages and blocking both messages and the profile.
+Now, let's see
+
+26
+00:00:39,869 --> 00:00:39,879
+Now, let's see
+ 
+
+27
+00:00:39,879 --> 00:00:42,709
+Now, let's see
+what happens when we block someone through a test.
+
+28
+00:00:42,709 --> 00:00:42,719
+what happens when we block someone through a test.
+ 
+
+29
+00:00:42,719 --> 00:00:45,190
+what happens when we block someone through a test.
+For the first test, I
+
+30
+00:00:45,190 --> 00:00:45,200
+For the first test, I
+ 
+
+31
+00:00:45,200 --> 00:00:49,029
+For the first test, I
+will block both messages and the profile. You can see that the
+
+32
+00:00:49,029 --> 00:00:49,039
+will block both messages and the profile. You can see that the
+ 
+
+33
+00:00:49,039 --> 00:00:51,750
+will block both messages and the profile. You can see that the
+profile picture has disappeared from the profile icon, and the
+
+34
+00:00:51,750 --> 00:00:51,760
+profile picture has disappeared from the profile icon, and the
+ 
+
+35
+00:00:51,760 --> 00:00:54,430
+profile picture has disappeared from the profile icon, and the
+KakaoPay icon has disappeared when you enter the profile.
+
+36
+00:00:54,430 --> 00:00:54,440
+KakaoPay icon has disappeared when you enter the profile.
+ 
+
+37
+00:00:54,440 --> 00:00:57,790
+KakaoPay icon has disappeared when you enter the profile.
+For comparison, I will
+
+38
+00:00:57,790 --> 00:00:57,800
+For comparison, I will
+ 
+
+39
+00:00:57,800 --> 00:01:00,509
+For comparison, I will
+try unblocking. The right side is
+
+40
+00:01:00,509 --> 00:01:00,519
+try unblocking. The right side is
+ 
+
+41
+00:01:00,519 --> 00:01:02,990
+try unblocking. The right side is
+before blocking, and the left side is
+
+42
+00:01:02,990 --> 00:01:03,000
+before blocking, and the left side is
+ 
+
+43
+00:01:03,000 --> 00:01:05,630
+before blocking, and the left side is
+after.
+
+44
+00:01:05,630 --> 00:01:05,640
+after.
+ 
+
+45
+00:01:05,640 --> 00:01:08,390
+after.
+You can see that the profile and the KakaoPay icon have changed.
+
+46
+00:01:08,390 --> 00:01:08,400
+You can see that the profile and the KakaoPay icon have changed.
+ 
+
+47
+00:01:08,400 --> 00:01:10,550
+You can see that the profile and the KakaoPay icon have changed.
+For the second test, I will block messages.
+
+48
+00:01:10,550 --> 00:01:10,560
+For the second test, I will block messages.
+ 
+
+49
+00:01:10,560 --> 00:01:13,109
+For the second test, I will block messages.
+When messages are blocked, there is
+
+50
+00:01:13,109 --> 00:01:15,469
+When messages are blocked, there is
+ 
+
+51
+00:01:15,469 --> 00:01:17,550
+
+ 
+
+52
+00:01:17,550 --> 00:01:17,560
+
+ 
+
+53
+00:01:17,560 --> 00:01:20,749
+
+no visible change in the profile picture or the KakaoPay icon in the profile information. To verify, I type a message in an existing chat room.
+
+54
+00:01:20,749 --> 00:01:20,759
+no visible change in the profile picture or the KakaoPay icon in the profile information. To verify, I type a message in an existing chat room.
+ 
+
+55
+00:01:20,759 --> 00:01:21,870
+no visible change in the profile picture or the KakaoPay icon in the profile information. To verify, I type a message in an existing chat room.
+
+56
+00:01:21,870 --> 00:01:24,910
+
+ 
+
+57
+00:01:24,910 --> 00:01:24,920
+
+ 
+
+58
+00:01:24,920 --> 00:01:28,030
+
+The message is not delivered to the phone that blocked messages. Next, let's
+
+59
+00:01:28,030 --> 00:01:28,040
+The message is not delivered to the phone that blocked messages. Next, let's
+ 
+
+60
+00:01:28,040 --> 00:01:30,590
+The message is not delivered to the phone that blocked messages. Next, let's
+check the changes in a group chat room. The
+
+61
+00:01:30,590 --> 00:01:30,600
+check the changes in a group chat room. The
+ 
+
+62
+00:01:30,600 --> 00:01:33,429
+check the changes in a group chat room. The
+participant information remains the
+
+63
+00:01:33,429 --> 00:01:33,439
+participant information remains the
+ 
+
+64
+00:01:33,439 --> 00:01:35,590
+participant information remains the
+same as before, so it is impossible to confirm that a block has occurred.
+
+65
+00:01:35,590 --> 00:01:35,600
+same as before, so it is impossible to confirm that a block has occurred.
+ 
+
+66
+00:01:35,600 --> 00:01:39,030
+same as before, so it is impossible to confirm that a block has occurred.
+So, I type a message.
+
+67
+00:01:39,030 --> 00:01:39,040
+So, I type a message.
+ 
+
+68
+00:01:39,040 --> 00:01:41,830
+So, I type a message.
+Surprisingly, I can see that the message is delivered to the blocked phone.
+
+69
+00:01:41,830 --> 00:01:41,840
+Surprisingly, I can see that the message is delivered to the blocked phone.
+ 
+
+70
+00:01:41,840 --> 00:01:44,670
+Surprisingly, I can see that the message is delivered to the blocked phone.
+Yes,
+
+71
+00:01:44,670 --> 00:01:44,680
+Yes,
+ 
+
+72
+00:01:44,680 --> 00:01:47,109
+Yes,
+this time I will create a group chat room with three people, including myself. A
+
+73
+00:01:47,109 --> 00:01:49,230
+this time I will create a group chat room with three people, including myself. A
+ 
+
+74
+00:01:49,230 --> 00:01:49,240
+
+ 
+
+75
+00:01:49,240 --> 00:01:51,590
+
+chat room with at least two people is necessary to verify that the chat room functions properly, provided
+
+76
+00:01:51,590 --> 00:01:51,600
+chat room with at least two people is necessary to verify that the chat room functions properly, provided
+ 
+
+77
+00:01:51,600 --> 00:01:54,510
+chat room with at least two people is necessary to verify that the chat room functions properly, provided
+there is a non-blocked contact to send messages to.
+
+78
+00:01:54,510 --> 00:01:57,029
+there is a non-blocked contact to send messages to.
+ 
+
+79
+00:01:57,029 --> 00:01:57,039
+
+ 
+
+80
+00:01:57,039 --> 00:01:59,149
+
+To verify, I will
+
+81
+00:01:59,149 --> 00:01:59,159
+To verify, I will
+ 
+
+82
+00:01:59,159 --> 00:02:02,190
+To verify, I will
+enter a message. In a normal case, I
+
+83
+00:02:02,190 --> 00:02:04,910
+enter a message. In a normal case, I
+ 
+
+84
+00:02:04,910 --> 00:02:04,920
+
+ 
+
+85
+00:02:04,920 --> 00:02:07,870
+
+can send the message to the person in the chat room immediately upon entering it. However, if they are blocked, I
+
+86
+00:02:07,870 --> 00:02:07,880
+can send the message to the person in the chat room immediately upon entering it. However, if they are blocked, I
+ 
+
+87
+00:02:07,880 --> 00:02:10,869
+can send the message to the person in the chat room immediately upon entering it. However, if they are blocked, I
+cannot send messages, and you can
+
+88
+00:02:10,869 --> 00:02:10,879
+cannot send messages, and you can
+ 
+
+89
+00:02:10,879 --> 00:02:13,309
+cannot send messages, and you can
+see that their profile is not displayed among the contacts. I will conclude the
+
+90
+00:02:13,309 --> 00:02:13,319
+see that their profile is not displayed among the contacts. I will conclude the
+ 
+
+91
+00:02:13,319 --> 00:02:16,350
+see that their profile is not displayed among the contacts. I will conclude the
+test here and
+
+92
+00:02:16,350 --> 00:02:16,360
+test here and
+ 
+
+93
+00:02:16,360 --> 00:02:18,990
+test here and
+summarize today's content. If
+
+94
+00:02:18,990 --> 00:02:19,000
+summarize today's content. If
+ 
+
+95
+00:02:19,000 --> 00:02:21,790
+summarize today's content. If
+both messages and the profile are blocked,
+
+96
+00:02:21,790 --> 00:02:21,800
+both messages and the profile are blocked,
+ 
+
+97
+00:02:21,800 --> 00:02:24,270
+both messages and the profile are blocked,
+when you check the other person's profile picture, the picture
+
+98
+00:02:24,270 --> 00:02:24,280
+when you check the other person's profile picture, the picture
+ 
+
+99
+00:02:24,280 --> 00:02:26,869
+when you check the other person's profile picture, the picture
+disappears, and the KakaoPay icon vanishes from the profile information.
+
+100
+00:02:26,869 --> 00:02:29,350
+disappears, and the KakaoPay icon vanishes from the profile information.
+ 
+
+101
+00:02:29,350 --> 00:02:29,360
+
+ 
+
+102
+00:02:29,360 --> 00:02:32,110
+
+If only messages are blocked, you can send messages in the existing chat room,
+
+103
+00:02:32,110 --> 00:02:32,120
+If only messages are blocked, you can send messages in the existing chat room,
+ 
+
+104
+00:02:32,120 --> 00:02:34,470
+If only messages are blocked, you can send messages in the existing chat room,
+open a new chat room, and
+
+105
+00:02:34,470 --> 00:02:34,480
+open a new chat room, and
+ 
+
+106
+00:02:34,480 --> 00:02:37,750
+open a new chat room, and
+enter a message; if messages are blocked, you
+
+107
+00:02:37,750 --> 00:02:37,760
+enter a message; if messages are blocked, you
+ 
+
+108
+00:02:37,760 --> 00:02:40,869
+enter a message; if messages are blocked, you
+cannot view the blocked profile. That is all. I
+
+109
+00:02:40,869 --> 00:02:42,910
+cannot view the blocked profile. That is all. I
+ 
+
+110
+00:02:42,910 --> 00:02:45,430
+
+ 
+
+111
+00:02:45,430 --> 00:02:45,440
+
+ 
+
+112
+00:02:45,440 --> 00:02:47,350
+
+have shared information through actual testing on how blocking someone on KakaoTalk appears to them. If you liked today's content, please
+
+113
+00:02:47,350 --> 00:02:47,360
+have shared information through actual testing on how blocking someone on KakaoTalk appears to them. If you liked today's content, please
+ 
+
+114
+00:02:47,360 --> 00:02:49,630
+have shared information through actual testing on how blocking someone on KakaoTalk appears to them. If you liked today's content, please
+subscribe and like.
+
+115
+00:02:49,630 --> 00:02:51,589
+subscribe and like.
+ 
+
+116
+00:02:51,589 --> 00:02:51,599
+
+ 
+
+117
+00:02:51,599 --> 00:02:54,390
+
+I will update videos with information helpful for your daily life next time. This is IT
+
+118
+00:02:54,390 --> 00:02:54,400
+I will update videos with information helpful for your daily life next time. This is IT
+ 
+
+119
+00:02:54,400 --> 00:02:58,360
+I will update videos with information helpful for your daily life next time. This is IT
+expert Hogu.
+

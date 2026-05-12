@@ -1,0 +1,1144 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.910 align:start position:0%
+ 
+Hi<00:00:00.280><c> guys,</c><00:00:00.560><c> in</c><00:00:00.680><c> this</c><00:00:00.920><c> tutorial</c><00:00:01.360><c> I'll</c><00:00:01.480><c> show</c><00:00:01.720><c> you</c>
+
+00:00:01.910 --> 00:00:01.920 align:start position:0%
+Hi guys, in this tutorial I'll show you
+ 
+
+00:00:01.920 --> 00:00:05.830 align:start position:0%
+Hi guys, in this tutorial I'll show you
+how<00:00:02.120><c> to</c><00:00:02.320><c> install</c><00:00:03.120><c> Ollama</c><00:00:04.280><c> and</c><00:00:04.520><c> how</c><00:00:05.080><c> we</c><00:00:05.200><c> use</c>
+
+00:00:05.830 --> 00:00:05.840 align:start position:0%
+how to install Ollama and how we use
+ 
+
+00:00:05.840 --> 00:00:09.150 align:start position:0%
+how to install Ollama and how we use
+Cloud<00:00:06.320><c> Sonnet</c><00:00:07.320><c> 4.6</c>
+
+00:00:09.150 --> 00:00:09.160 align:start position:0%
+Cloud Sonnet 4.6
+ 
+
+00:00:09.160 --> 00:00:10.390 align:start position:0%
+Cloud Sonnet 4.6
+model
+
+00:00:10.390 --> 00:00:10.400 align:start position:0%
+model
+ 
+
+00:00:10.400 --> 00:00:13.790 align:start position:0%
+model
+uh<00:00:10.800><c> offline</c><00:00:11.560><c> for</c><00:00:11.800><c> free.</c><00:00:12.400><c> Okay,</c><00:00:12.760><c> let's</c><00:00:13.000><c> go.</c>
+
+00:00:13.790 --> 00:00:13.800 align:start position:0%
+uh offline for free. Okay, let's go.
+ 
+
+00:00:13.800 --> 00:00:15.790 align:start position:0%
+uh offline for free. Okay, let's go.
+Okay,<00:00:14.160><c> first</c><00:00:14.400><c> thing's</c><00:00:14.600><c> first,</c><00:00:14.920><c> go</c><00:00:15.120><c> here</c><00:00:15.680><c> to</c>
+
+00:00:15.790 --> 00:00:15.800 align:start position:0%
+Okay, first thing's first, go here to
+ 
+
+00:00:15.800 --> 00:00:17.990 align:start position:0%
+Okay, first thing's first, go here to
+Google<00:00:16.120><c> Chrome</c><00:00:16.600><c> and</c><00:00:16.720><c> search</c><00:00:16.960><c> for</c><00:00:17.200><c> Ollama.</c>
+
+00:00:17.990 --> 00:00:18.000 align:start position:0%
+Google Chrome and search for Ollama.
+ 
+
+00:00:18.000 --> 00:00:20.150 align:start position:0%
+Google Chrome and search for Ollama.
+After<00:00:18.280><c> that,</c><00:00:18.600><c> let's</c><00:00:18.840><c> go</c><00:00:19.480><c> to</c><00:00:19.600><c> the</c><00:00:19.720><c> Ollama</c>
+
+00:00:20.150 --> 00:00:20.160 align:start position:0%
+After that, let's go to the Ollama
+ 
+
+00:00:20.160 --> 00:00:22.550 align:start position:0%
+After that, let's go to the Ollama
+website<00:00:20.720><c> as</c><00:00:20.880><c> you</c><00:00:21.000><c> can</c><00:00:21.200><c> see.</c>
+
+00:00:22.550 --> 00:00:22.560 align:start position:0%
+website as you can see.
+ 
+
+00:00:22.560 --> 00:00:23.110 align:start position:0%
+website as you can see.
+Uh
+
+00:00:23.110 --> 00:00:23.120 align:start position:0%
+Uh
+ 
+
+00:00:23.120 --> 00:00:26.790 align:start position:0%
+Uh
+and<00:00:23.440><c> let's</c><00:00:23.840><c> see</c><00:00:24.280><c> here</c><00:00:24.840><c> hit</c><00:00:25.040><c> download.</c>
+
+00:00:26.790 --> 00:00:26.800 align:start position:0%
+and let's see here hit download.
+ 
+
+00:00:26.800 --> 00:00:29.550 align:start position:0%
+and let's see here hit download.
+If<00:00:27.000><c> you</c><00:00:27.120><c> have</c><00:00:27.320><c> Mac,</c><00:00:28.040><c> you</c><00:00:28.200><c> can</c><00:00:28.760><c> click</c><00:00:29.080><c> this</c><00:00:29.360><c> one</c>
+
+00:00:29.550 --> 00:00:29.560 align:start position:0%
+If you have Mac, you can click this one
+ 
+
+00:00:29.560 --> 00:00:32.710 align:start position:0%
+If you have Mac, you can click this one
+and<00:00:29.680><c> download</c><00:00:30.160><c> for</c><00:00:30.600><c> the</c><00:00:30.720><c> Mac.</c><00:00:31.600><c> Linux</c><00:00:32.119><c> for</c><00:00:32.400><c> us,</c>
+
+00:00:32.710 --> 00:00:32.720 align:start position:0%
+and download for the Mac. Linux for us,
+ 
+
+00:00:32.720 --> 00:00:35.430 align:start position:0%
+and download for the Mac. Linux for us,
+we<00:00:32.840><c> have</c><00:00:33.040><c> Windows.</c><00:00:33.840><c> Select</c><00:00:34.200><c> this</c><00:00:34.440><c> one</c><00:00:35.000><c> and</c>
+
+00:00:35.430 --> 00:00:35.440 align:start position:0%
+we have Windows. Select this one and
+ 
+
+00:00:35.440 --> 00:00:39.150 align:start position:0%
+we have Windows. Select this one and
+download<00:00:35.960><c> for</c><00:00:36.440><c> Windows.</c>
+
+00:00:39.150 --> 00:00:39.160 align:start position:0%
+ 
+ 
+
+00:00:39.160 --> 00:00:41.110 align:start position:0%
+ 
+Okay,<00:00:39.560><c> it's</c><00:00:39.840><c> take</c><00:00:40.080><c> some</c><00:00:40.320><c> time</c><00:00:40.560><c> to</c><00:00:40.680><c> download</c>
+
+00:00:41.110 --> 00:00:41.120 align:start position:0%
+Okay, it's take some time to download
+ 
+
+00:00:41.120 --> 00:00:46.670 align:start position:0%
+Okay, it's take some time to download
+this<00:00:41.520><c> file.</c><00:00:42.240><c> It's</c><00:00:42.520><c> 1.8</c><00:00:43.640><c> GB.</c>
+
+00:00:46.670 --> 00:00:46.680 align:start position:0%
+ 
+ 
+
+00:00:46.680 --> 00:00:48.830 align:start position:0%
+ 
+Okay,<00:00:47.200><c> fine.</c><00:00:47.640><c> Downloading</c><00:00:48.160><c> is</c><00:00:48.360><c> finished.</c>
+
+00:00:48.830 --> 00:00:48.840 align:start position:0%
+Okay, fine. Downloading is finished.
+ 
+
+00:00:48.840 --> 00:00:51.310 align:start position:0%
+Okay, fine. Downloading is finished.
+Let's<00:00:49.120><c> see.</c><00:00:49.720><c> Okay,</c><00:00:50.000><c> this</c><00:00:50.240><c> is</c><00:00:50.320><c> my</c><00:00:50.880><c> Ollama</c>
+
+00:00:51.310 --> 00:00:51.320 align:start position:0%
+Let's see. Okay, this is my Ollama
+ 
+
+00:00:51.320 --> 00:00:55.630 align:start position:0%
+Let's see. Okay, this is my Ollama
+setup.<00:00:51.840><c> Double</c><00:00:52.040><c> click</c><00:00:52.280><c> right</c><00:00:52.520><c> here.</c>
+
+00:00:55.630 --> 00:00:55.640 align:start position:0%
+ 
+ 
+
+00:00:55.640 --> 00:00:58.230 align:start position:0%
+ 
+Okay,<00:00:56.000><c> let's</c><00:00:56.280><c> install</c><00:00:56.680><c> this</c><00:00:57.040><c> Ollama.</c>
+
+00:00:58.230 --> 00:00:58.240 align:start position:0%
+Okay, let's install this Ollama.
+ 
+
+00:00:58.240 --> 00:01:00.710 align:start position:0%
+Okay, let's install this Ollama.
+Click<00:00:58.520><c> install</c><00:00:59.120><c> and</c><00:00:59.360><c> the</c><00:00:59.400><c> installation</c><00:01:00.120><c> is</c>
+
+00:01:00.710 --> 00:01:00.720 align:start position:0%
+Click install and the installation is
+ 
+
+00:01:00.720 --> 00:01:05.630 align:start position:0%
+Click install and the installation is
+beginning.
+
+00:01:05.630 --> 00:01:05.640 align:start position:0%
+ 
+ 
+
+00:01:05.640 --> 00:01:08.030 align:start position:0%
+ 
+Okay,<00:01:06.160><c> fine.</c><00:01:06.800><c> The</c><00:01:06.920><c> installation</c><00:01:07.480><c> of</c><00:01:07.800><c> the</c>
+
+00:01:08.030 --> 00:01:08.040 align:start position:0%
+Okay, fine. The installation of the
+ 
+
+00:01:08.040 --> 00:01:10.830 align:start position:0%
+Okay, fine. The installation of the
+Ollama<00:01:08.800><c> is</c><00:01:09.320><c> finished.</c>
+
+00:01:10.830 --> 00:01:10.840 align:start position:0%
+Ollama is finished.
+ 
+
+00:01:10.840 --> 00:01:13.310 align:start position:0%
+Ollama is finished.
+Now<00:01:11.160><c> you</c><00:01:11.240><c> can</c><00:01:11.440><c> choose</c><00:01:11.760><c> one</c><00:01:12.040><c> of</c><00:01:12.240><c> those</c><00:01:12.680><c> models.</c>
+
+00:01:13.310 --> 00:01:13.320 align:start position:0%
+Now you can choose one of those models.
+ 
+
+00:01:13.320 --> 00:01:16.350 align:start position:0%
+Now you can choose one of those models.
+For<00:01:13.560><c> us,</c><00:01:13.800><c> we</c><00:01:13.920><c> want</c><00:01:14.160><c> to</c><00:01:14.240><c> choose</c><00:01:14.840><c> Cloud</c>
+
+00:01:16.350 --> 00:01:16.360 align:start position:0%
+For us, we want to choose Cloud
+ 
+
+00:01:16.360 --> 00:01:17.630 align:start position:0%
+For us, we want to choose Cloud
+model
+
+00:01:17.630 --> 00:01:17.640 align:start position:0%
+model
+ 
+
+00:01:17.640 --> 00:01:19.870 align:start position:0%
+model
+to<00:01:17.840><c> install</c><00:01:18.360><c> in</c><00:01:18.560><c> Ollama.</c>
+
+00:01:19.870 --> 00:01:19.880 align:start position:0%
+to install in Ollama.
+ 
+
+00:01:19.880 --> 00:01:21.990 align:start position:0%
+to install in Ollama.
+Uh<00:01:20.280><c> okay,</c><00:01:20.560><c> you</c><00:01:20.680><c> need</c><00:01:20.960><c> to</c>
+
+00:01:21.990 --> 00:01:22.000 align:start position:0%
+Uh okay, you need to
+ 
+
+00:01:22.000 --> 00:01:24.750 align:start position:0%
+Uh okay, you need to
+run<00:01:22.440><c> the</c><00:01:22.560><c> command</c><00:01:23.480><c> prompt</c><00:01:24.000><c> as</c><00:01:24.200><c> you</c><00:01:24.280><c> can</c><00:01:24.440><c> see</c>
+
+00:01:24.750 --> 00:01:24.760 align:start position:0%
+run the command prompt as you can see
+ 
+
+00:01:24.760 --> 00:01:26.350 align:start position:0%
+run the command prompt as you can see
+right<00:01:25.040><c> here.</c>
+
+00:01:26.350 --> 00:01:26.360 align:start position:0%
+right here.
+ 
+
+00:01:26.360 --> 00:01:29.630 align:start position:0%
+right here.
+And<00:01:26.520><c> run</c><00:01:26.720><c> as</c><00:01:26.960><c> administrator.</c><00:01:28.320><c> Click</c><00:01:28.560><c> yes.</c>
+
+00:01:29.630 --> 00:01:29.640 align:start position:0%
+And run as administrator. Click yes.
+ 
+
+00:01:29.640 --> 00:01:31.070 align:start position:0%
+And run as administrator. Click yes.
+Okay.
+
+00:01:31.070 --> 00:01:31.080 align:start position:0%
+Okay.
+ 
+
+00:01:31.080 --> 00:01:33.870 align:start position:0%
+Okay.
+The<00:01:31.400><c> only</c><00:01:31.640><c> thing</c><00:01:32.040><c> I</c><00:01:32.160><c> want</c><00:01:32.400><c> to</c><00:01:32.520><c> do</c><00:01:32.800><c> is</c><00:01:33.120><c> to</c><00:01:33.280><c> copy</c>
+
+00:01:33.870 --> 00:01:33.880 align:start position:0%
+The only thing I want to do is to copy
+ 
+
+00:01:33.880 --> 00:01:35.950 align:start position:0%
+The only thing I want to do is to copy
+one<00:01:34.120><c> of</c><00:01:34.280><c> those</c><00:01:34.520><c> models.</c><00:01:34.920><c> For</c><00:01:35.120><c> me,</c><00:01:35.280><c> it's</c><00:01:35.480><c> Cloud.</c>
+
+00:01:35.950 --> 00:01:35.960 align:start position:0%
+one of those models. For me, it's Cloud.
+ 
+
+00:01:35.960 --> 00:01:38.350 align:start position:0%
+one of those models. For me, it's Cloud.
+Copy<00:01:36.520><c> and</c><00:01:36.760><c> go</c><00:01:36.960><c> right</c><00:01:37.320><c> here.</c>
+
+00:01:38.350 --> 00:01:38.360 align:start position:0%
+Copy and go right here.
+ 
+
+00:01:38.360 --> 00:01:41.270 align:start position:0%
+Copy and go right here.
+And<00:01:38.680><c> paste</c><00:01:39.040><c> this</c><00:01:39.320><c> one</c><00:01:39.520><c> right</c><00:01:39.800><c> here.</c>
+
+00:01:41.270 --> 00:01:41.280 align:start position:0%
+And paste this one right here.
+ 
+
+00:01:41.280 --> 00:01:44.150 align:start position:0%
+And paste this one right here.
+And<00:01:41.520><c> click</c><00:01:41.840><c> yes.</c>
+
+00:01:44.150 --> 00:01:44.160 align:start position:0%
+And click yes.
+ 
+
+00:01:44.160 --> 00:01:46.230 align:start position:0%
+And click yes.
+Uh<00:01:44.520><c> okay,</c><00:01:44.880><c> as</c><00:01:45.040><c> you</c><00:01:45.160><c> can</c><00:01:45.360><c> see,</c><00:01:45.600><c> this</c><00:01:45.960><c> is</c><00:01:46.040><c> an</c>
+
+00:01:46.230 --> 00:01:46.240 align:start position:0%
+Uh okay, as you can see, this is an
+ 
+
+00:01:46.240 --> 00:01:49.350 align:start position:0%
+Uh okay, as you can see, this is an
+error.<00:01:46.920><c> Uh</c><00:01:47.080><c> Cloud</c><00:01:47.440><c> not</c><00:01:47.960><c> installed.</c><00:01:49.040><c> We</c><00:01:49.160><c> have</c>
+
+00:01:49.350 --> 00:01:49.360 align:start position:0%
+error. Uh Cloud not installed. We have
+ 
+
+00:01:49.360 --> 00:01:51.710 align:start position:0%
+error. Uh Cloud not installed. We have
+to<00:01:49.480><c> go</c><00:01:49.720><c> right</c><00:01:50.080><c> here</c><00:01:50.360><c> and</c><00:01:50.520><c> install</c><00:01:50.960><c> it</c><00:01:51.440><c> in</c>
+
+00:01:51.710 --> 00:01:51.720 align:start position:0%
+to go right here and install it in
+ 
+
+00:01:51.720 --> 00:01:53.630 align:start position:0%
+to go right here and install it in
+Ollama.<00:01:52.080><c> How</c><00:01:52.280><c> to</c><00:01:52.400><c> do</c><00:01:52.520><c> that?</c><00:01:53.120><c> We</c><00:01:53.200><c> have</c><00:01:53.320><c> to</c><00:01:53.440><c> go</c>
+
+00:01:53.630 --> 00:01:53.640 align:start position:0%
+Ollama. How to do that? We have to go
+ 
+
+00:01:53.640 --> 00:01:54.670 align:start position:0%
+Ollama. How to do that? We have to go
+here
+
+00:01:54.670 --> 00:01:54.680 align:start position:0%
+here
+ 
+
+00:01:54.680 --> 00:01:57.910 align:start position:0%
+here
+and<00:01:54.960><c> documentation.</c>
+
+00:01:57.910 --> 00:01:57.920 align:start position:0%
+and documentation.
+ 
+
+00:01:57.920 --> 00:01:59.710 align:start position:0%
+and documentation.
+And<00:01:58.280><c> search</c><00:01:58.680><c> for</c>
+
+00:01:59.710 --> 00:01:59.720 align:start position:0%
+And search for
+ 
+
+00:01:59.720 --> 00:02:01.790 align:start position:0%
+And search for
+Cloud<00:02:00.360><c> right</c><00:02:00.720><c> here.</c>
+
+00:02:01.790 --> 00:02:01.800 align:start position:0%
+Cloud right here.
+ 
+
+00:02:01.800 --> 00:02:03.710 align:start position:0%
+Cloud right here.
+Uh<00:02:01.920><c> this</c><00:02:02.160><c> one,</c><00:02:02.360><c> Cloud</c><00:02:02.640><c> code.</c>
+
+00:02:03.710 --> 00:02:03.720 align:start position:0%
+Uh this one, Cloud code.
+ 
+
+00:02:03.720 --> 00:02:06.670 align:start position:0%
+Uh this one, Cloud code.
+Okay,<00:02:04.680><c> this</c><00:02:04.960><c> is</c><00:02:05.040><c> how</c><00:02:05.160><c> to</c><00:02:05.240><c> install</c><00:02:05.720><c> Cloud.</c><00:02:06.560><c> The</c>
+
+00:02:06.670 --> 00:02:06.680 align:start position:0%
+Okay, this is how to install Cloud. The
+ 
+
+00:02:06.680 --> 00:02:09.550 align:start position:0%
+Okay, this is how to install Cloud. The
+installation<00:02:07.240><c> of</c><00:02:07.400><c> Cloud</c><00:02:08.080><c> for</c><00:02:08.360><c> Mac,</c><00:02:09.039><c> we</c><00:02:09.240><c> have</c>
+
+00:02:09.550 --> 00:02:09.560 align:start position:0%
+installation of Cloud for Mac, we have
+ 
+
+00:02:09.560 --> 00:02:12.070 align:start position:0%
+installation of Cloud for Mac, we have
+to<00:02:09.679><c> copy</c><00:02:10.039><c> this</c><00:02:10.360><c> one</c><00:02:10.600><c> in</c><00:02:10.759><c> the</c><00:02:10.880><c> terminal.</c><00:02:11.880><c> For</c>
+
+00:02:12.070 --> 00:02:12.080 align:start position:0%
+to copy this one in the terminal. For
+ 
+
+00:02:12.080 --> 00:02:13.470 align:start position:0%
+to copy this one in the terminal. For
+the<00:02:12.200><c> Windows,</c>
+
+00:02:13.470 --> 00:02:13.480 align:start position:0%
+the Windows,
+ 
+
+00:02:13.480 --> 00:02:15.870 align:start position:0%
+the Windows,
+the<00:02:13.680><c> simple</c><00:02:13.960><c> thing</c><00:02:14.280><c> I</c><00:02:14.400><c> want</c><00:02:14.680><c> to</c><00:02:14.800><c> do</c><00:02:15.080><c> is</c><00:02:15.400><c> to</c><00:02:15.520><c> copy</c>
+
+00:02:15.870 --> 00:02:15.880 align:start position:0%
+the simple thing I want to do is to copy
+ 
+
+00:02:15.880 --> 00:02:19.950 align:start position:0%
+the simple thing I want to do is to copy
+this<00:02:16.200><c> one</c><00:02:16.600><c> and</c><00:02:16.880><c> add</c><00:02:17.320><c> to</c><00:02:17.480><c> my</c><00:02:17.720><c> command</c><00:02:18.640><c> prompt</c>
+
+00:02:19.950 --> 00:02:19.960 align:start position:0%
+this one and add to my command prompt
+ 
+
+00:02:19.960 --> 00:02:22.990 align:start position:0%
+this one and add to my command prompt
+like<00:02:20.320><c> this.</c>
+
+00:02:22.990 --> 00:02:23.000 align:start position:0%
+ 
+ 
+
+00:02:23.000 --> 00:02:27.110 align:start position:0%
+ 
+And<00:02:23.440><c> hit</c><00:02:23.720><c> install.</c>
+
+00:02:27.110 --> 00:02:27.120 align:start position:0%
+ 
+ 
+
+00:02:27.120 --> 00:02:30.030 align:start position:0%
+ 
+Okay,<00:02:27.480><c> we</c><00:02:27.600><c> have</c><00:02:27.800><c> another</c><00:02:28.280><c> error</c><00:02:29.120><c> because</c><00:02:29.720><c> the</c>
+
+00:02:30.030 --> 00:02:30.040 align:start position:0%
+Okay, we have another error because the
+ 
+
+00:02:30.040 --> 00:02:32.910 align:start position:0%
+Okay, we have another error because the
+ERM<00:02:30.440><c> command</c><00:02:30.920><c> is</c><00:02:31.160><c> not</c><00:02:31.640><c> recognized</c><00:02:32.360><c> by</c><00:02:32.680><c> the</c>
+
+00:02:32.910 --> 00:02:32.920 align:start position:0%
+ERM command is not recognized by the
+ 
+
+00:02:32.920 --> 00:02:35.590 align:start position:0%
+ERM command is not recognized by the
+terminal.<00:02:33.560><c> How</c><00:02:33.760><c> to</c><00:02:33.880><c> fix</c><00:02:34.120><c> this</c><00:02:34.360><c> problem?</c><00:02:35.280><c> Okay,</c>
+
+00:02:35.590 --> 00:02:35.600 align:start position:0%
+terminal. How to fix this problem? Okay,
+ 
+
+00:02:35.600 --> 00:02:38.670 align:start position:0%
+terminal. How to fix this problem? Okay,
+you<00:02:35.720><c> can</c><00:02:36.400><c> fix</c><00:02:36.840><c> this</c><00:02:37.080><c> command</c><00:02:37.520><c> because</c><00:02:38.000><c> the</c><00:02:38.160><c> ERM</c>
+
+00:02:38.670 --> 00:02:38.680 align:start position:0%
+you can fix this command because the ERM
+ 
+
+00:02:38.680 --> 00:02:41.790 align:start position:0%
+you can fix this command because the ERM
+is<00:02:38.880><c> a</c><00:02:39.000><c> PowerShell</c><00:02:40.200><c> command,</c><00:02:40.800><c> not</c><00:02:41.160><c> a</c><00:02:41.400><c> simple</c>
+
+00:02:41.790 --> 00:02:41.800 align:start position:0%
+is a PowerShell command, not a simple
+ 
+
+00:02:41.800 --> 00:02:44.590 align:start position:0%
+is a PowerShell command, not a simple
+terminal<00:02:42.320><c> command.</c><00:02:43.160><c> You</c><00:02:43.280><c> can</c><00:02:43.480><c> fix</c><00:02:43.760><c> it</c><00:02:43.920><c> by</c>
+
+00:02:44.590 --> 00:02:44.600 align:start position:0%
+terminal command. You can fix it by
+ 
+
+00:02:44.600 --> 00:02:46.270 align:start position:0%
+terminal command. You can fix it by
+going<00:02:44.920><c> right</c><00:02:45.240><c> here</c>
+
+00:02:46.270 --> 00:02:46.280 align:start position:0%
+going right here
+ 
+
+00:02:46.280 --> 00:02:48.710 align:start position:0%
+going right here
+PowerShell.
+
+00:02:48.710 --> 00:02:48.720 align:start position:0%
+PowerShell.
+ 
+
+00:02:48.720 --> 00:02:52.230 align:start position:0%
+PowerShell.
+This<00:02:49.120><c> dash</c><00:02:49.520><c> command</c><00:02:50.200><c> and</c><00:02:50.600><c> make</c><00:02:50.840><c> this</c><00:02:51.120><c> one</c>
+
+00:02:52.230 --> 00:02:52.240 align:start position:0%
+This dash command and make this one
+ 
+
+00:02:52.240 --> 00:02:54.510 align:start position:0%
+This dash command and make this one
+ERM<00:02:53.440><c> and</c>
+
+00:02:54.510 --> 00:02:54.520 align:start position:0%
+ERM and
+ 
+
+00:02:54.520 --> 00:02:57.830 align:start position:0%
+ERM and
+and<00:02:54.800><c> the</c><00:02:55.280><c> output,</c><00:02:56.120><c> make</c><00:02:56.520><c> this</c><00:02:56.800><c> one.</c><00:02:57.400><c> Now</c><00:02:57.520><c> let's</c>
+
+00:02:57.830 --> 00:02:57.840 align:start position:0%
+and the output, make this one. Now let's
+ 
+
+00:02:57.840 --> 00:03:45.510 align:start position:0%
+and the output, make this one. Now let's
+see<00:02:58.000><c> it</c><00:02:58.160><c> works</c><00:02:58.520><c> or</c><00:02:58.600><c> not.</c>
+
+00:03:45.510 --> 00:03:45.520 align:start position:0%
+ 
+ 
+
+00:03:45.520 --> 00:03:48.230 align:start position:0%
+ 
+As<00:03:45.840><c> you</c><00:03:45.920><c> can</c><00:03:46.120><c> see,</c><00:03:46.320><c> it</c><00:03:46.480><c> works</c><00:03:46.920><c> fine.</c><00:03:47.800><c> You</c><00:03:48.080><c> can</c>
+
+00:03:48.230 --> 00:03:48.240 align:start position:0%
+As you can see, it works fine. You can
+ 
+
+00:03:48.240 --> 00:03:50.870 align:start position:0%
+As you can see, it works fine. You can
+fix<00:03:48.560><c> the</c><00:03:48.720><c> problem</c><00:03:49.040><c> this</c><00:03:49.280><c> problem</c><00:03:49.720><c> by</c>
+
+00:03:50.870 --> 00:03:50.880 align:start position:0%
+fix the problem this problem by
+ 
+
+00:03:50.880 --> 00:03:53.190 align:start position:0%
+fix the problem this problem by
+make<00:03:51.200><c> this</c><00:03:51.400><c> command</c><00:03:51.760><c> PowerShell</c><00:03:52.880><c> dash</c>
+
+00:03:53.190 --> 00:03:53.200 align:start position:0%
+make this command PowerShell dash
+ 
+
+00:03:53.200 --> 00:03:55.590 align:start position:0%
+make this command PowerShell dash
+command<00:03:53.880><c> and</c><00:03:54.080><c> make</c><00:03:54.440><c> your</c>
+
+00:03:55.590 --> 00:03:55.600 align:start position:0%
+command and make your
+ 
+
+00:03:55.600 --> 00:03:59.030 align:start position:0%
+command and make your
+code<00:03:56.040><c> from</c><00:03:56.360><c> the</c><00:03:56.600><c> Ollama.</c>
+
+00:03:59.030 --> 00:03:59.040 align:start position:0%
+code from the Ollama.
+ 
+
+00:03:59.040 --> 00:04:01.190 align:start position:0%
+code from the Ollama.
+Uh<00:03:59.440><c> this</c><00:03:59.720><c> one.</c>
+
+00:04:01.190 --> 00:04:01.200 align:start position:0%
+Uh this one.
+ 
+
+00:04:01.200 --> 00:04:02.670 align:start position:0%
+Uh this one.
+Add<00:04:01.560><c> it</c><00:04:01.640><c> right</c><00:04:01.920><c> here.</c>
+
+00:04:02.670 --> 00:04:02.680 align:start position:0%
+Add it right here.
+ 
+
+00:04:02.680 --> 00:04:04.830 align:start position:0%
+Add it right here.
+Well,<00:04:02.920><c> you</c><00:04:03.000><c> can</c><00:04:03.240><c> copy</c><00:04:03.680><c> it</c><00:04:03.800><c> directly</c><00:04:04.400><c> by</c>
+
+00:04:04.830 --> 00:04:04.840 align:start position:0%
+Well, you can copy it directly by
+ 
+
+00:04:04.840 --> 00:04:13.870 align:start position:0%
+Well, you can copy it directly by
+clicking<00:04:05.280><c> the</c><00:04:05.600><c> right</c><00:04:05.920><c> here</c><00:04:06.280><c> and</c><00:04:06.520><c> copy</c><00:04:06.920><c> it.</c>
+
+00:04:13.870 --> 00:04:13.880 align:start position:0%
+ 
+ 
+
+00:04:13.880 --> 00:04:16.990 align:start position:0%
+ 
+Uh<00:04:14.160><c> now</c><00:04:14.400><c> it's</c><00:04:14.640><c> installing</c><00:04:15.560><c> the</c><00:04:15.720><c> Cloud</c><00:04:16.320><c> kit</c>
+
+00:04:16.990 --> 00:04:17.000 align:start position:0%
+Uh now it's installing the Cloud kit
+ 
+
+00:04:17.000 --> 00:04:18.870 align:start position:0%
+Uh now it's installing the Cloud kit
+code<00:04:17.400><c> and</c><00:04:17.560><c> latest</c>
+
+00:04:18.870 --> 00:04:18.880 align:start position:0%
+code and latest
+ 
+
+00:04:18.880 --> 00:04:20.949 align:start position:0%
+code and latest
+with<00:04:19.160><c> latest.</c>
+
+00:04:20.949 --> 00:04:20.959 align:start position:0%
+with latest.
+ 
+
+00:04:20.959 --> 00:04:24.670 align:start position:0%
+with latest.
+It's<00:04:21.239><c> take</c><00:04:21.440><c> some</c><00:04:21.680><c> time.</c>
+
+00:04:24.670 --> 00:04:24.680 align:start position:0%
+ 
+ 
+
+00:04:24.680 --> 00:04:27.830 align:start position:0%
+ 
+Uh<00:04:25.120><c> fine.</c><00:04:25.520><c> As</c><00:04:25.720><c> you</c><00:04:25.800><c> can</c><00:04:26.040><c> see,</c><00:04:26.720><c> the</c><00:04:26.920><c> Cloud</c><00:04:27.600><c> is</c>
+
+00:04:27.830 --> 00:04:27.840 align:start position:0%
+Uh fine. As you can see, the Cloud is
+ 
+
+00:04:27.840 --> 00:04:32.390 align:start position:0%
+Uh fine. As you can see, the Cloud is
+installed<00:04:28.760><c> successfully</c><00:04:30.040><c> in</c><00:04:30.240><c> this</c><00:04:30.560><c> location.</c>
+
+00:04:32.390 --> 00:04:32.400 align:start position:0%
+installed successfully in this location.
+ 
+
+00:04:32.400 --> 00:04:34.230 align:start position:0%
+installed successfully in this location.
+Uh<00:04:33.080><c> okay.</c>
+
+00:04:34.230 --> 00:04:34.240 align:start position:0%
+Uh okay.
+ 
+
+00:04:34.240 --> 00:04:36.550 align:start position:0%
+Uh okay.
+Now<00:04:34.480><c> let's</c><00:04:35.080><c> launch</c><00:04:35.480><c> it.</c>
+
+00:04:36.550 --> 00:04:36.560 align:start position:0%
+Now let's launch it.
+ 
+
+00:04:36.560 --> 00:04:39.190 align:start position:0%
+Now let's launch it.
+Let's<00:04:36.880><c> go</c><00:04:37.080><c> here.</c>
+
+00:04:39.190 --> 00:04:39.200 align:start position:0%
+Let's go here.
+ 
+
+00:04:39.200 --> 00:04:42.630 align:start position:0%
+Let's go here.
+Restart<00:04:39.720><c> the</c><00:04:39.800><c> Ollama</c><00:04:40.160><c> first.</c>
+
+00:04:42.630 --> 00:04:42.640 align:start position:0%
+Restart the Ollama first.
+ 
+
+00:04:42.640 --> 00:04:50.590 align:start position:0%
+Restart the Ollama first.
+Go<00:04:42.960><c> here</c><00:04:43.280><c> and</c><00:04:43.480><c> search</c><00:04:43.800><c> for</c><00:04:44.200><c> our</c><00:04:44.920><c> Ollama.</c>
+
+00:04:50.590 --> 00:04:50.600 align:start position:0%
+ 
+ 
+
+00:04:50.600 --> 00:04:52.310 align:start position:0%
+ 
+Uh<00:04:50.840><c> this</c><00:04:51.200><c> one.</c>
+
+00:04:52.310 --> 00:04:52.320 align:start position:0%
+Uh this one.
+ 
+
+00:04:52.320 --> 00:04:55.390 align:start position:0%
+Uh this one.
+Okay,<00:04:52.800><c> let's</c><00:04:53.160><c> make</c><00:04:53.520><c> it</c>
+
+00:04:55.390 --> 00:04:55.400 align:start position:0%
+Okay, let's make it
+ 
+
+00:04:55.400 --> 00:04:57.990 align:start position:0%
+Okay, let's make it
+pin<00:04:55.720><c> to</c><00:04:55.840><c> the</c><00:04:55.960><c> taskbar</c>
+
+00:04:57.990 --> 00:04:58.000 align:start position:0%
+pin to the taskbar
+ 
+
+00:04:58.000 --> 00:05:02.150 align:start position:0%
+pin to the taskbar
+and<00:04:58.360><c> launch</c><00:04:58.640><c> it.</c>
+
+00:05:02.150 --> 00:05:02.160 align:start position:0%
+ 
+ 
+
+00:05:02.160 --> 00:05:04.830 align:start position:0%
+ 
+Okay,<00:05:02.640><c> Ollama</c><00:05:03.080><c> launch</c><00:05:04.000><c> Cloud</c>
+
+00:05:04.830 --> 00:05:04.840 align:start position:0%
+Okay, Ollama launch Cloud
+ 
+
+00:05:04.840 --> 00:05:11.190 align:start position:0%
+Okay, Ollama launch Cloud
+and<00:05:05.080><c> this</c><00:05:05.400><c> one.</c><00:05:06.280><c> Can</c><00:05:06.520><c> make</c><00:05:07.000><c> it</c><00:05:07.360><c> right</c><00:05:07.800><c> here.</c>
+
+00:05:11.190 --> 00:05:11.200 align:start position:0%
+ 
+ 
+
+00:05:11.200 --> 00:05:14.750 align:start position:0%
+ 
+Not<00:05:11.560><c> like</c><00:05:11.800><c> this.</c>
+
+00:05:14.750 --> 00:05:14.760 align:start position:0%
+ 
+ 
+
+00:05:14.760 --> 00:05:18.670 align:start position:0%
+ 
+Paste.
+
+00:05:18.670 --> 00:05:18.680 align:start position:0%
+ 
+ 
+
+00:05:18.680 --> 00:05:22.510 align:start position:0%
+ 
+Uh<00:05:19.200><c> okay.</c><00:05:20.160><c> Uh</c><00:05:20.400><c> select</c><00:05:20.800><c> model</c><00:05:21.160><c> for</c><00:05:21.480><c> Cloud.</c><00:05:22.400><c> You</c>
+
+00:05:22.510 --> 00:05:22.520 align:start position:0%
+Uh okay. Uh select model for Cloud. You
+ 
+
+00:05:22.520 --> 00:05:25.630 align:start position:0%
+Uh okay. Uh select model for Cloud. You
+can<00:05:22.720><c> use</c><00:05:23.200><c> any</c><00:05:23.520><c> model</c><00:05:23.920><c> from</c><00:05:24.280><c> those</c>
+
+00:05:25.630 --> 00:05:25.640 align:start position:0%
+can use any model from those
+ 
+
+00:05:25.640 --> 00:05:30.310 align:start position:0%
+can use any model from those
+to<00:05:25.840><c> use</c><00:05:26.120><c> with</c><00:05:26.440><c> the</c><00:05:27.280><c> Cloud.</c>
+
+00:05:30.310 --> 00:05:30.320 align:start position:0%
+ 
+ 
+
+00:05:30.320 --> 00:05:33.830 align:start position:0%
+ 
+Okay,<00:05:30.720><c> for</c><00:05:31.000><c> the</c><00:05:31.160><c> best</c><00:05:31.480><c> model</c><00:05:31.840><c> for</c><00:05:32.240><c> us,</c><00:05:33.480><c> I</c><00:05:33.560><c> think</c>
+
+00:05:33.830 --> 00:05:33.840 align:start position:0%
+Okay, for the best model for us, I think
+ 
+
+00:05:33.840 --> 00:05:40.270 align:start position:0%
+Okay, for the best model for us, I think
+this<00:05:34.160><c> one,</c><00:05:35.040><c> Akemi.</c>
+
+00:05:40.270 --> 00:05:40.280 align:start position:0%
+ 
+ 
+
+00:05:40.280 --> 00:05:42.510 align:start position:0%
+ 
+You<00:05:40.560><c> must</c><00:05:40.880><c> sign</c><00:05:41.160><c> in.</c><00:05:41.880><c> Continue</c><00:05:42.320><c> with</c><00:05:42.440><c> the</c>
+
+00:05:42.510 --> 00:05:42.520 align:start position:0%
+You must sign in. Continue with the
+ 
+
+00:05:42.520 --> 00:05:43.670 align:start position:0%
+You must sign in. Continue with the
+Google.
+
+00:05:43.670 --> 00:05:43.680 align:start position:0%
+Google.
+ 
+
+00:05:43.680 --> 00:05:52.710 align:start position:0%
+Google.
+Use<00:05:44.040><c> any</c><00:05:44.200><c> account.</c>
+
+00:05:52.710 --> 00:05:52.720 align:start position:0%
+ 
+ 
+
+00:05:52.720 --> 00:05:59.630 align:start position:0%
+ 
+Okay,<00:05:53.160><c> connected.</c>
+
+00:05:59.630 --> 00:05:59.640 align:start position:0%
+ 
+ 
+
+00:05:59.640 --> 00:06:02.310 align:start position:0%
+ 
+Okay,<00:06:00.080><c> now</c><00:06:00.320><c> it's</c><00:06:00.560><c> connected</c><00:06:01.280><c> to</c><00:06:01.400><c> this</c><00:06:01.680><c> account</c>
+
+00:06:02.310 --> 00:06:02.320 align:start position:0%
+Okay, now it's connected to this account
+ 
+
+00:06:02.320 --> 00:06:03.910 align:start position:0%
+Okay, now it's connected to this account
+to<00:06:02.440><c> my</c><00:06:02.920><c> Ollama.</c>
+
+00:06:03.910 --> 00:06:03.920 align:start position:0%
+to my Ollama.
+ 
+
+00:06:03.920 --> 00:06:07.030 align:start position:0%
+to my Ollama.
+But<00:06:04.760><c> there</c><00:06:05.040><c> is</c><00:06:05.400><c> a</c><00:06:05.560><c> problem.</c>
+
+00:06:07.030 --> 00:06:07.040 align:start position:0%
+But there is a problem.
+ 
+
+00:06:07.040 --> 00:06:11.030 align:start position:0%
+But there is a problem.
+Okay,<00:06:07.440><c> let's</c><00:06:07.680><c> search</c><00:06:07.960><c> for</c><00:06:08.200><c> Cloud.</c>
+
+00:06:11.030 --> 00:06:11.040 align:start position:0%
+ 
+ 
+
+00:06:11.040 --> 00:06:13.790 align:start position:0%
+ 
+For<00:06:11.240><c> me,</c><00:06:11.440><c> I</c><00:06:11.520><c> want</c>
+
+00:06:13.790 --> 00:06:13.800 align:start position:0%
+For me, I want
+ 
+
+00:06:13.800 --> 00:06:18.310 align:start position:0%
+For me, I want
+I<00:06:14.040><c> don't</c><00:06:14.400><c> want</c><00:06:14.680><c> to</c><00:06:14.840><c> use</c><00:06:15.280><c> all</c><00:06:15.400><c> those</c><00:06:16.080><c> models.</c>
+
+00:06:18.310 --> 00:06:18.320 align:start position:0%
+I don't want to use all those models.
+ 
+
+00:06:18.320 --> 00:06:20.910 align:start position:0%
+I don't want to use all those models.
+I<00:06:18.600><c> want</c><00:06:18.880><c> to</c><00:06:19.000><c> use</c><00:06:19.360><c> this</c><00:06:20.160><c> uh</c>
+
+00:06:20.910 --> 00:06:20.920 align:start position:0%
+I want to use this uh
+ 
+
+00:06:20.920 --> 00:06:25.190 align:start position:0%
+I want to use this uh
+uh<00:06:21.320><c> model</c><00:06:21.680><c> from</c><00:06:22.000><c> the</c><00:06:22.160><c> documentation.</c>
+
+00:06:25.190 --> 00:06:25.200 align:start position:0%
+ 
+ 
+
+00:06:25.200 --> 00:06:27.110 align:start position:0%
+ 
+This<00:06:25.640><c> one.</c>
+
+00:06:27.110 --> 00:06:27.120 align:start position:0%
+This one.
+ 
+
+00:06:27.120 --> 00:06:30.870 align:start position:0%
+This one.
+Uh<00:06:27.760><c> not</c><00:06:28.160><c> this</c><00:06:28.880><c> this</c><00:06:29.120><c> model.</c>
+
+00:06:30.870 --> 00:06:30.880 align:start position:0%
+Uh not this this model.
+ 
+
+00:06:30.880 --> 00:06:34.510 align:start position:0%
+Uh not this this model.
+Let's<00:06:31.080><c> search</c><00:06:31.400><c> for</c><00:06:31.600><c> Cloud.</c>
+
+00:06:34.510 --> 00:06:34.520 align:start position:0%
+ 
+ 
+
+00:06:34.520 --> 00:06:36.110 align:start position:0%
+ 
+A<00:06:34.840><c> us.</c>
+
+00:06:36.110 --> 00:06:36.120 align:start position:0%
+A us.
+ 
+
+00:06:36.120 --> 00:06:39.150 align:start position:0%
+A us.
+Okay,<00:06:36.520><c> I</c><00:06:36.600><c> want</c><00:06:36.920><c> to</c><00:06:37.040><c> use</c><00:06:37.400><c> this</c><00:06:37.840><c> one,</c><00:06:38.840><c> Cloud</c>
+
+00:06:39.150 --> 00:06:39.160 align:start position:0%
+Okay, I want to use this one, Cloud
+ 
+
+00:06:39.160 --> 00:06:40.790 align:start position:0%
+Okay, I want to use this one, Cloud
+Sonnet
+
+00:06:40.790 --> 00:06:40.800 align:start position:0%
+Sonnet
+ 
+
+00:06:40.800 --> 00:06:43.070 align:start position:0%
+Sonnet
+uh<00:06:41.200><c> 4.6.</c>
+
+00:06:43.070 --> 00:06:43.080 align:start position:0%
+uh 4.6.
+ 
+
+00:06:43.080 --> 00:06:45.030 align:start position:0%
+uh 4.6.
+This<00:06:43.400><c> one.</c>
+
+00:06:45.030 --> 00:06:45.040 align:start position:0%
+This one.
+ 
+
+00:06:45.040 --> 00:06:48.630 align:start position:0%
+This one.
+Okay,<00:06:45.440><c> how</c><00:06:45.640><c> to</c><00:06:45.800><c> use</c><00:06:45.960><c> this</c><00:06:46.600><c> uh</c><00:06:47.120><c> Cloud?</c>
+
+00:06:48.630 --> 00:06:48.640 align:start position:0%
+Okay, how to use this uh Cloud?
+ 
+
+00:06:48.640 --> 00:06:52.110 align:start position:0%
+Okay, how to use this uh Cloud?
+Okay,<00:06:49.640><c> we</c><00:06:49.720><c> can</c><00:06:49.960><c> run</c><00:06:50.200><c> it</c><00:06:50.600><c> from</c><00:06:50.960><c> it</c><00:06:51.080><c> like</c><00:06:51.360><c> this.</c>
+
+00:06:52.110 --> 00:06:52.120 align:start position:0%
+Okay, we can run it from it like this.
+ 
+
+00:06:52.120 --> 00:06:59.870 align:start position:0%
+Okay, we can run it from it like this.
+And<00:06:52.240><c> let's</c><00:06:52.480><c> see</c><00:06:52.600><c> it</c><00:06:52.760><c> works</c><00:06:53.080><c> or</c><00:06:53.200><c> not.</c>
+
+00:06:59.870 --> 00:06:59.880 align:start position:0%
+ 
+ 
+
+00:06:59.880 --> 00:07:04.590 align:start position:0%
+ 
+Uh<00:07:00.120><c> where</c><00:07:00.280><c> is</c><00:07:00.560><c> my</c>
+
+00:07:04.590 --> 00:07:04.600 align:start position:0%
+ 
+ 
+
+00:07:04.600 --> 00:07:09.710 align:start position:0%
+ 
+Control<00:07:05.200><c> C.</c><00:07:06.280><c> I</c><00:07:06.480><c> close</c><00:07:06.840><c> this.</c>
+
+00:07:09.710 --> 00:07:09.720 align:start position:0%
+ 
+ 
+
+00:07:09.720 --> 00:07:11.510 align:start position:0%
+ 
+And
+
+00:07:11.510 --> 00:07:11.520 align:start position:0%
+And
+ 
+
+00:07:11.520 --> 00:07:15.870 align:start position:0%
+And
+restart<00:07:12.120><c> this</c><00:07:12.440><c> one.</c>
+
+00:07:15.870 --> 00:07:15.880 align:start position:0%
+ 
+ 
+
+00:07:15.880 --> 00:07:17.510 align:start position:0%
+ 
+And<00:07:16.280><c> paste</c>
+
+00:07:17.510 --> 00:07:17.520 align:start position:0%
+And paste
+ 
+
+00:07:17.520 --> 00:07:20.710 align:start position:0%
+And paste
+Why<00:07:17.840><c> it's</c><00:07:18.080><c> not</c><00:07:18.920><c> work</c><00:07:19.160><c> this?</c>
+
+00:07:20.710 --> 00:07:20.720 align:start position:0%
+Why it's not work this?
+ 
+
+00:07:20.720 --> 00:07:26.110 align:start position:0%
+Why it's not work this?
+Copy.
+
+00:07:26.110 --> 00:07:26.120 align:start position:0%
+ 
+ 
+
+00:07:26.120 --> 00:07:29.390 align:start position:0%
+ 
+Okay,<00:07:26.760><c> as</c><00:07:26.920><c> you</c><00:07:27.000><c> can</c><00:07:27.200><c> see,</c><00:07:27.440><c> it's</c><00:07:28.320><c> downloading</c>
+
+00:07:29.390 --> 00:07:29.400 align:start position:0%
+Okay, as you can see, it's downloading
+ 
+
+00:07:29.400 --> 00:07:31.350 align:start position:0%
+Okay, as you can see, it's downloading
+this<00:07:29.840><c> model.</c>
+
+00:07:31.350 --> 00:07:31.360 align:start position:0%
+this model.
+ 
+
+00:07:31.360 --> 00:07:33.470 align:start position:0%
+this model.
+The<00:07:31.560><c> Cloud</c><00:07:31.880><c> Sonnet</c>
+
+00:07:33.470 --> 00:07:33.480 align:start position:0%
+The Cloud Sonnet
+ 
+
+00:07:33.480 --> 00:08:52.030 align:start position:0%
+The Cloud Sonnet
+4.6.
+
+00:08:52.030 --> 00:08:52.040 align:start position:0%
+ 
+ 
+
+00:08:52.040 --> 00:08:54.590 align:start position:0%
+ 
+Okay,<00:08:52.520><c> as</c><00:08:52.680><c> you</c><00:08:52.760><c> can</c><00:08:52.920><c> see,</c><00:08:53.040><c> it</c><00:08:53.160><c> works.</c><00:08:54.160><c> Now,</c><00:08:54.440><c> for</c>
+
+00:08:54.590 --> 00:08:54.600 align:start position:0%
+Okay, as you can see, it works. Now, for
+ 
+
+00:08:54.600 --> 00:08:57.590 align:start position:0%
+Okay, as you can see, it works. Now, for
+example,
+
+00:08:57.590 --> 00:08:57.600 align:start position:0%
+ 
+ 
+
+00:08:57.600 --> 00:09:00.910 align:start position:0%
+ 
+uh<00:08:58.120><c> okay,</c><00:08:58.440><c> guys.</c><00:08:59.360><c> You</c><00:08:59.520><c> can</c><00:08:59.760><c> run</c><00:09:00.040><c> it</c><00:09:00.560><c> another</c>
+
+00:09:00.910 --> 00:09:00.920 align:start position:0%
+uh okay, guys. You can run it another
+ 
+
+00:09:00.920 --> 00:09:03.430 align:start position:0%
+uh okay, guys. You can run it another
+time<00:09:01.360><c> by</c><00:09:01.920><c> going</c><00:09:02.160><c> here</c><00:09:02.400><c> to</c><00:09:02.520><c> the</c><00:09:02.600><c> command</c><00:09:03.000><c> prompt</c>
+
+00:09:03.430 --> 00:09:03.440 align:start position:0%
+time by going here to the command prompt
+ 
+
+00:09:03.440 --> 00:09:09.710 align:start position:0%
+time by going here to the command prompt
+Ollama<00:09:03.920><c> run</c><00:09:04.680><c> Cloud</c><00:09:05.040><c> Sonnet</c><00:09:05.640><c> 4.6</c><00:09:06.760><c> reduce</c><00:09:07.160><c> it.</c>
+
+00:09:09.710 --> 00:09:09.720 align:start position:0%
+ 
+ 
+
+00:09:09.720 --> 00:09:12.550 align:start position:0%
+ 
+As<00:09:10.000><c> you</c><00:09:10.080><c> can</c><00:09:10.280><c> see,</c><00:09:10.440><c> it</c><00:09:10.760><c> runs</c><00:09:11.640><c> uh</c><00:09:11.720><c> fine.</c><00:09:12.360><c> Thank</c>
+
+00:09:12.550 --> 00:09:12.560 align:start position:0%
+As you can see, it runs uh fine. Thank
+ 
+
+00:09:12.560 --> 00:09:14.750 align:start position:0%
+As you can see, it runs uh fine. Thank
+you<00:09:12.640><c> guys</c><00:09:12.880><c> for</c><00:09:13.040><c> watching.</c><00:09:14.160><c> Uh</c>
+
+00:09:14.750 --> 00:09:14.760 align:start position:0%
+you guys for watching. Uh
+ 
+
+00:09:14.760 --> 00:09:18.280 align:start position:0%
+you guys for watching. Uh
+See<00:09:14.960><c> you</c><00:09:15.080><c> later</c><00:09:15.400><c> in</c><00:09:15.480><c> the</c><00:09:15.600><c> next</c><00:09:15.920><c> video.</c>
+

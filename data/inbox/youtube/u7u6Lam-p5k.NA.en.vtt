@@ -1,0 +1,648 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:05.894 --> 00:00:08.629 align:start position:0%
+ 
+[music]
+
+00:00:08.629 --> 00:00:08.639 align:start position:0%
+ 
+ 
+
+00:00:08.639 --> 00:00:12.070 align:start position:0%
+ 
+Hi<00:00:08.960><c> guys,</c><00:00:09.519><c> in</c><00:00:09.760><c> this</c><00:00:09.920><c> storm</c><00:00:10.480><c> I</c><00:00:11.200><c> show</c><00:00:11.440><c> you</c><00:00:11.759><c> the</c>
+
+00:00:12.070 --> 00:00:12.080 align:start position:0%
+Hi guys, in this storm I show you the
+ 
+
+00:00:12.080 --> 00:00:16.310 align:start position:0%
+Hi guys, in this storm I show you the
+fast<00:00:12.480><c> way</c><00:00:13.280><c> how</c><00:00:13.920><c> to</c><00:00:14.160><c> can</c><00:00:14.960><c> how</c><00:00:15.280><c> how</c><00:00:15.519><c> you</c><00:00:15.759><c> can</c>
+
+00:00:16.310 --> 00:00:16.320 align:start position:0%
+fast way how to can how how you can
+ 
+
+00:00:16.320 --> 00:00:19.910 align:start position:0%
+fast way how to can how how you can
+generate<00:00:17.039><c> and</c><00:00:17.359><c> import</c><00:00:18.720><c> high</c><00:00:19.039><c> quality</c><00:00:19.520><c> height</c>
+
+00:00:19.910 --> 00:00:19.920 align:start position:0%
+generate and import high quality height
+ 
+
+00:00:19.920 --> 00:00:23.990 align:start position:0%
+generate and import high quality height
+maps<00:00:21.039><c> in</c><00:00:21.279><c> the</c><00:00:21.359><c> Unreal</c><00:00:21.760><c> Engine</c><00:00:22.160><c> 5.7.</c>
+
+00:00:23.990 --> 00:00:24.000 align:start position:0%
+maps in the Unreal Engine 5.7.
+ 
+
+00:00:24.000 --> 00:00:27.269 align:start position:0%
+maps in the Unreal Engine 5.7.
+Okay,<00:00:24.320><c> let's</c><00:00:24.640><c> go.</c><00:00:26.080><c> Okay,</c><00:00:26.480><c> first</c><00:00:26.720><c> thing</c><00:00:26.880><c> first,</c>
+
+00:00:27.269 --> 00:00:27.279 align:start position:0%
+Okay, let's go. Okay, first thing first,
+ 
+
+00:00:27.279 --> 00:00:31.830 align:start position:0%
+Okay, let's go. Okay, first thing first,
+open<00:00:27.439><c> the</c><00:00:27.680><c> editor.</c><00:00:28.800><c> Create</c>
+
+00:00:31.830 --> 00:00:31.840 align:start position:0%
+ 
+ 
+
+00:00:31.840 --> 00:00:33.750 align:start position:0%
+ 
+new<00:00:32.079><c> project.</c>
+
+00:00:33.750 --> 00:00:33.760 align:start position:0%
+new project.
+ 
+
+00:00:33.760 --> 00:00:35.990 align:start position:0%
+new project.
+The<00:00:34.000><c> selected</c><00:00:34.559><c> person.</c><00:00:35.040><c> Hit</c><00:00:35.280><c> create</c><00:00:35.680><c> the</c>
+
+00:00:35.990 --> 00:00:36.000 align:start position:0%
+The selected person. Hit create the
+ 
+
+00:00:36.000 --> 00:00:38.069 align:start position:0%
+The selected person. Hit create the
+project.
+
+00:00:38.069 --> 00:00:38.079 align:start position:0%
+project.
+ 
+
+00:00:38.079 --> 00:00:43.670 align:start position:0%
+project.
+After<00:00:38.399><c> that</c><00:00:38.800><c> go</c><00:00:39.120><c> to</c><00:00:39.440><c> file,</c><00:00:40.640><c> select</c><00:00:41.040><c> new</c><00:00:41.360><c> level.</c>
+
+00:00:43.670 --> 00:00:43.680 align:start position:0%
+After that go to file, select new level.
+ 
+
+00:00:43.680 --> 00:00:47.830 align:start position:0%
+After that go to file, select new level.
+Choose<00:00:44.800><c> basic</c><00:00:45.280><c> level.</c>
+
+00:00:47.830 --> 00:00:47.840 align:start position:0%
+Choose basic level.
+ 
+
+00:00:47.840 --> 00:00:50.950 align:start position:0%
+Choose basic level.
+Delete<00:00:48.239><c> this.</c>
+
+00:00:50.950 --> 00:00:50.960 align:start position:0%
+Delete this.
+ 
+
+00:00:50.960 --> 00:00:54.790 align:start position:0%
+Delete this.
+Now<00:00:51.200><c> let's</c><00:00:51.520><c> go</c><00:00:51.920><c> here.</c><00:00:52.800><c> Save</c><00:00:53.120><c> on.</c><00:00:53.600><c> Rename</c><00:00:54.320><c> the</c>
+
+00:00:54.790 --> 00:00:54.800 align:start position:0%
+Now let's go here. Save on. Rename the
+ 
+
+00:00:54.800 --> 00:00:57.029 align:start position:0%
+Now let's go here. Save on. Rename the
+the<00:00:55.199><c> levels</c>
+
+00:00:57.029 --> 00:00:57.039 align:start position:0%
+the levels
+ 
+
+00:00:57.039 --> 00:01:00.869 align:start position:0%
+the levels
+LV01.
+
+00:01:00.869 --> 00:01:00.879 align:start position:0%
+ 
+ 
+
+00:01:00.879 --> 00:01:07.109 align:start position:0%
+ 
+After<00:01:01.280><c> that,</c><00:01:02.559><c> let's</c><00:01:02.960><c> go</c><00:01:03.680><c> right</c><00:01:04.080><c> here.</c>
+
+00:01:07.109 --> 00:01:07.119 align:start position:0%
+ 
+ 
+
+00:01:07.119 --> 00:01:13.670 align:start position:0%
+ 
+Selection<00:01:07.520><c> mode.</c><00:01:07.840><c> Choose</c><00:01:08.080><c> landscape</c><00:01:08.640><c> mode.</c>
+
+00:01:13.670 --> 00:01:13.680 align:start position:0%
+ 
+ 
+
+00:01:13.680 --> 00:01:16.390 align:start position:0%
+ 
+Okay.<00:01:14.080><c> Import</c><00:01:14.479><c> from</c><00:01:14.799><c> file.</c><00:01:15.760><c> Now</c><00:01:16.080><c> want</c><00:01:16.240><c> to</c>
+
+00:01:16.390 --> 00:01:16.400 align:start position:0%
+Okay. Import from file. Now want to
+ 
+
+00:01:16.400 --> 00:01:19.030 align:start position:0%
+Okay. Import from file. Now want to
+generate<00:01:16.960><c> landscape.</c>
+
+00:01:19.030 --> 00:01:19.040 align:start position:0%
+generate landscape.
+ 
+
+00:01:19.040 --> 00:01:21.270 align:start position:0%
+generate landscape.
+What<00:01:19.200><c> you</c><00:01:19.439><c> need</c><00:01:19.600><c> to</c><00:01:19.840><c> do</c><00:01:20.000><c> this</c><00:01:20.400><c> is</c><00:01:20.640><c> to</c><00:01:20.880><c> go</c><00:01:21.040><c> to</c>
+
+00:01:21.270 --> 00:01:21.280 align:start position:0%
+What you need to do this is to go to
+ 
+
+00:01:21.280 --> 00:01:24.469 align:start position:0%
+What you need to do this is to go to
+this<00:01:21.680><c> website.</c><00:01:23.040><c> You</c><00:01:23.280><c> can</c><00:01:23.680><c> get</c><00:01:23.840><c> the</c><00:01:24.080><c> link</c><00:01:24.240><c> in</c>
+
+00:01:24.469 --> 00:01:24.479 align:start position:0%
+this website. You can get the link in
+ 
+
+00:01:24.479 --> 00:01:29.350 align:start position:0%
+this website. You can get the link in
+the<00:01:24.720><c> description.</c>
+
+00:01:29.350 --> 00:01:29.360 align:start position:0%
+ 
+ 
+
+00:01:29.360 --> 00:01:31.990 align:start position:0%
+ 
+You<00:01:29.680><c> can</c><00:01:29.920><c> choose</c><00:01:30.479><c> any</c><00:01:30.799><c> height</c><00:01:31.119><c> mod</c><00:01:31.439><c> from</c><00:01:31.680><c> the</c>
+
+00:01:31.990 --> 00:01:32.000 align:start position:0%
+You can choose any height mod from the
+ 
+
+00:01:32.000 --> 00:01:33.830 align:start position:0%
+You can choose any height mod from the
+word.
+
+00:01:33.830 --> 00:01:33.840 align:start position:0%
+word.
+ 
+
+00:01:33.840 --> 00:01:36.230 align:start position:0%
+word.
+Tap<00:01:34.159><c> the</c><00:01:34.400><c> latitude</c><00:01:34.960><c> and</c><00:01:35.280><c> longitude</c><00:01:36.000><c> right</c>
+
+00:01:36.230 --> 00:01:36.240 align:start position:0%
+Tap the latitude and longitude right
+ 
+
+00:01:36.240 --> 00:01:38.950 align:start position:0%
+Tap the latitude and longitude right
+here.
+
+00:01:38.950 --> 00:01:38.960 align:start position:0%
+here.
+ 
+
+00:01:38.960 --> 00:01:42.469 align:start position:0%
+here.
+And<00:01:39.360><c> the</c><00:01:39.600><c> output</c><00:01:40.079><c> width</c><00:01:40.560><c> and</c><00:01:41.280><c> output</c><00:01:41.759><c> height.</c>
+
+00:01:42.469 --> 00:01:42.479 align:start position:0%
+And the output width and output height.
+ 
+
+00:01:42.479 --> 00:01:46.069 align:start position:0%
+And the output width and output height.
+Okay.<00:01:42.799><c> For</c><00:01:42.960><c> the</c><00:01:43.200><c> output</c><00:01:43.600><c> heat</c><00:01:44.799><c> and</c><00:01:45.119><c> width</c><00:01:45.840><c> we</c>
+
+00:01:46.069 --> 00:01:46.079 align:start position:0%
+Okay. For the output heat and width we
+ 
+
+00:01:46.079 --> 00:01:50.389 align:start position:0%
+Okay. For the output heat and width we
+can<00:01:46.240><c> get</c><00:01:47.200><c> from</c><00:01:47.520><c> here.</c><00:01:48.640><c> Okay.</c><00:01:49.040><c> for</c><00:01:49.280><c> me</c><00:01:49.600><c> is</c><00:01:50.240><c> it's</c>
+
+00:01:50.389 --> 00:01:50.399 align:start position:0%
+can get from here. Okay. for me is it's
+ 
+
+00:01:50.399 --> 00:01:53.590 align:start position:0%
+can get from here. Okay. for me is it's
+on
+
+00:01:53.590 --> 00:01:53.600 align:start position:0%
+ 
+ 
+
+00:01:53.600 --> 00:01:56.950 align:start position:0%
+ 
+val
+
+00:01:56.950 --> 00:01:56.960 align:start position:0%
+ 
+ 
+
+00:01:56.960 --> 00:01:59.590 align:start position:0%
+ 
+if<00:01:57.200><c> you</c><00:01:57.280><c> want</c><00:01:57.520><c> you</c><00:01:57.680><c> can</c><00:01:57.840><c> change</c><00:01:58.960><c> for</c><00:01:59.200><c> me</c><00:01:59.439><c> I</c>
+
+00:01:59.590 --> 00:01:59.600 align:start position:0%
+if you want you can change for me I
+ 
+
+00:01:59.600 --> 00:02:04.469 align:start position:0%
+if you want you can change for me I
+won't<00:01:59.840><c> set</c><00:02:00.159><c> it</c><00:02:00.399><c> for</c><00:02:00.640><c> the</c><00:02:00.799><c> moment</c><00:02:01.759><c> like</c><00:02:02.079><c> this</c>
+
+00:02:04.469 --> 00:02:04.479 align:start position:0%
+won't set it for the moment like this
+ 
+
+00:02:04.479 --> 00:02:07.910 align:start position:0%
+won't set it for the moment like this
+uh<00:02:04.799><c> okay</c><00:02:05.920><c> after</c><00:02:06.320><c> that</c><00:02:06.960><c> uh</c><00:02:07.119><c> you</c><00:02:07.280><c> can</c><00:02:07.439><c> generate</c>
+
+00:02:07.910 --> 00:02:07.920 align:start position:0%
+uh okay after that uh you can generate
+ 
+
+00:02:07.920 --> 00:02:11.110 align:start position:0%
+uh okay after that uh you can generate
+head<00:02:08.239><c> map</c><00:02:08.640><c> or</c><00:02:08.959><c> albido</c><00:02:09.599><c> like</c><00:02:09.840><c> this</c><00:02:10.479><c> for</c><00:02:10.800><c> map</c>
+
+00:02:11.110 --> 00:02:11.120 align:start position:0%
+head map or albido like this for map
+ 
+
+00:02:11.120 --> 00:02:15.110 align:start position:0%
+head map or albido like this for map
+preview<00:02:11.440><c> type</c><00:02:11.760><c> you</c><00:02:12.000><c> can</c><00:02:12.239><c> choose</c><00:02:12.640><c> any</c>
+
+00:02:15.110 --> 00:02:15.120 align:start position:0%
+preview type you can choose any
+ 
+
+00:02:15.120 --> 00:02:18.229 align:start position:0%
+preview type you can choose any
+map<00:02:15.440><c> from</c><00:02:15.680><c> those</c>
+
+00:02:18.229 --> 00:02:18.239 align:start position:0%
+map from those
+ 
+
+00:02:18.239 --> 00:02:23.030 align:start position:0%
+map from those
+for<00:02:18.400><c> example</c><00:02:19.040><c> Let's</c><00:02:19.599><c> choose</c><00:02:19.920><c> this</c><00:02:20.160><c> one.</c>
+
+00:02:23.030 --> 00:02:23.040 align:start position:0%
+for example Let's choose this one.
+ 
+
+00:02:23.040 --> 00:02:27.030 align:start position:0%
+for example Let's choose this one.
+Yeah,<00:02:23.360><c> let's</c><00:02:23.680><c> choose</c><00:02:24.000><c> this</c><00:02:24.480><c> canon.</c>
+
+00:02:27.030 --> 00:02:27.040 align:start position:0%
+Yeah, let's choose this canon.
+ 
+
+00:02:27.040 --> 00:02:32.869 align:start position:0%
+Yeah, let's choose this canon.
+I<00:02:27.280><c> think</c><00:02:27.440><c> it's</c><00:02:27.840><c> fine.</c>
+
+00:02:32.869 --> 00:02:32.879 align:start position:0%
+ 
+ 
+
+00:02:32.879 --> 00:02:37.030 align:start position:0%
+ 
+Okay,<00:02:33.120><c> now</c><00:02:33.360><c> let's</c><00:02:34.000><c> generate</c><00:02:34.560><c> height</c><00:02:34.879><c> map.</c>
+
+00:02:37.030 --> 00:02:37.040 align:start position:0%
+Okay, now let's generate height map.
+ 
+
+00:02:37.040 --> 00:02:39.750 align:start position:0%
+Okay, now let's generate height map.
+I<00:02:37.200><c> think</c><00:02:37.360><c> it's</c><00:02:37.680><c> done.</c><00:02:38.959><c> Okay,</c><00:02:39.280><c> this</c><00:02:39.440><c> is</c><00:02:39.599><c> my</c>
+
+00:02:39.750 --> 00:02:39.760 align:start position:0%
+I think it's done. Okay, this is my
+ 
+
+00:02:39.760 --> 00:02:43.270 align:start position:0%
+I think it's done. Okay, this is my
+height<00:02:40.080><c> map.</c><00:02:40.640><c> Let's</c><00:02:40.959><c> add</c><00:02:41.120><c> it</c><00:02:41.280><c> to</c><00:02:41.519><c> the</c><00:02:41.840><c> engine.</c>
+
+00:02:43.270 --> 00:02:43.280 align:start position:0%
+height map. Let's add it to the engine.
+ 
+
+00:02:43.280 --> 00:02:48.150 align:start position:0%
+height map. Let's add it to the engine.
+Import<00:02:43.760><c> from</c><00:02:44.080><c> file</c><00:02:44.480><c> height</c><00:02:44.800><c> map</c><00:02:45.120><c> file.</c>
+
+00:02:48.150 --> 00:02:48.160 align:start position:0%
+ 
+ 
+
+00:02:48.160 --> 00:02:54.390 align:start position:0%
+ 
+This<00:02:48.400><c> is</c><00:02:48.560><c> the</c><00:02:48.720><c> fest</c><00:02:49.280><c> way</c><00:02:49.760><c> fest</c><00:02:51.200><c> this</c>
+
+00:02:54.390 --> 00:02:54.400 align:start position:0%
+ 
+ 
+
+00:02:54.400 --> 00:02:58.710 align:start position:0%
+ 
+is<00:02:55.280><c> fast</c><00:02:55.680><c> way</c><00:02:55.920><c> to</c><00:02:56.160><c> this</c><00:02:56.560><c> do</c><00:02:56.800><c> this.</c><00:02:57.760><c> Okay,</c><00:02:58.400><c> let's</c>
+
+00:02:58.710 --> 00:02:58.720 align:start position:0%
+is fast way to this do this. Okay, let's
+ 
+
+00:02:58.720 --> 00:03:02.149 align:start position:0%
+is fast way to this do this. Okay, let's
+go<00:02:58.959><c> here</c>
+
+00:03:02.149 --> 00:03:02.159 align:start position:0%
+ 
+ 
+
+00:03:02.159 --> 00:03:05.350 align:start position:0%
+ 
+and<00:03:02.480><c> let's</c><00:03:02.720><c> make</c><00:03:02.879><c> the</c><00:03:03.120><c> perview</c><00:03:03.599><c> right</c><00:03:03.840><c> here</c><00:03:04.640><c> in</c>
+
+00:03:05.350 --> 00:03:05.360 align:start position:0%
+and let's make the perview right here in
+ 
+
+00:03:05.360 --> 00:03:11.030 align:start position:0%
+and let's make the perview right here in
+this.
+
+00:03:11.030 --> 00:03:11.040 align:start position:0%
+ 
+ 
+
+00:03:11.040 --> 00:03:22.869 align:start position:0%
+ 
+Change<00:03:11.360><c> the</c><00:03:11.519><c> speed</c><00:03:11.840><c> of</c><00:03:12.080><c> the</c><00:03:12.400><c> camera.</c>
+
+00:03:22.869 --> 00:03:22.879 align:start position:0%
+ 
+ 
+
+00:03:22.879 --> 00:03:25.830 align:start position:0%
+ 
+At<00:03:23.040><c> first</c><00:03:23.360><c> look,</c><00:03:23.760><c> it</c><00:03:24.000><c> looks</c><00:03:24.400><c> like</c><00:03:24.640><c> like</c><00:03:25.040><c> this.</c>
+
+00:03:25.830 --> 00:03:25.840 align:start position:0%
+At first look, it looks like like this.
+ 
+
+00:03:25.840 --> 00:03:38.390 align:start position:0%
+At first look, it looks like like this.
+And<00:03:26.080><c> let's</c><00:03:26.319><c> see.</c>
+
+00:03:38.390 --> 00:03:38.400 align:start position:0%
+ 
+ 
+
+00:03:38.400 --> 00:03:42.309 align:start position:0%
+ 
+Okay,<00:03:39.280><c> it's</c><00:03:39.599><c> fine.</c><00:03:40.720><c> But</c><00:03:40.879><c> there</c><00:03:41.120><c> is</c><00:03:41.599><c> a</c><00:03:41.840><c> problem</c>
+
+00:03:42.309 --> 00:03:42.319 align:start position:0%
+Okay, it's fine. But there is a problem
+ 
+
+00:03:42.319 --> 00:03:46.390 align:start position:0%
+Okay, it's fine. But there is a problem
+with<00:03:42.560><c> that.</c><00:03:43.599><c> Let's</c><00:03:44.000><c> fix</c><00:03:44.400><c> this</c>
+
+00:03:46.390 --> 00:03:46.400 align:start position:0%
+with that. Let's fix this
+ 
+
+00:03:46.400 --> 00:03:50.070 align:start position:0%
+with that. Let's fix this
+with<00:03:46.640><c> the</c><00:03:46.879><c> height</c><00:03:48.000><c> of</c><00:03:48.239><c> the</c><00:03:48.400><c> Z-axis.</c>
+
+00:03:50.070 --> 00:03:50.080 align:start position:0%
+with the height of the Z-axis.
+ 
+
+00:03:50.080 --> 00:03:52.949 align:start position:0%
+with the height of the Z-axis.
+Let's<00:03:50.400><c> return</c><00:03:50.959><c> to</c><00:03:51.040><c> the</c><00:03:51.120><c> landscape.</c><00:03:52.239><c> Uh,</c>
+
+00:03:52.949 --> 00:03:52.959 align:start position:0%
+Let's return to the landscape. Uh,
+ 
+
+00:03:52.959 --> 00:03:56.550 align:start position:0%
+Let's return to the landscape. Uh,
+sorry.<00:03:53.760><c> Select</c><00:03:54.159><c> this.</c>
+
+00:03:56.550 --> 00:03:56.560 align:start position:0%
+sorry. Select this.
+ 
+
+00:03:56.560 --> 00:03:59.830 align:start position:0%
+sorry. Select this.
+Delete<00:03:57.040><c> this</c><00:03:57.280><c> and</c><00:03:57.519><c> skip</c><00:03:58.159><c> by</c><00:03:58.400><c> pressing</c><00:03:58.799><c> delete.</c>
+
+00:03:59.830 --> 00:03:59.840 align:start position:0%
+Delete this and skip by pressing delete.
+ 
+
+00:03:59.840 --> 00:04:02.070 align:start position:0%
+Delete this and skip by pressing delete.
+Go<00:04:00.080><c> here.</c>
+
+00:04:02.070 --> 00:04:02.080 align:start position:0%
+Go here.
+ 
+
+00:04:02.080 --> 00:04:06.390 align:start position:0%
+Go here.
+And<00:04:02.480><c> now</c>
+
+00:04:06.390 --> 00:04:06.400 align:start position:0%
+ 
+ 
+
+00:04:06.400 --> 00:04:09.270 align:start position:0%
+ 
+let's<00:04:06.720><c> choose</c><00:04:07.040><c> this</c><00:04:07.360><c> one</c>
+
+00:04:09.270 --> 00:04:09.280 align:start position:0%
+let's choose this one
+ 
+
+00:04:09.280 --> 00:04:14.149 align:start position:0%
+let's choose this one
+50<00:04:10.560><c> for</c><00:04:10.720><c> example.</c>
+
+00:04:14.149 --> 00:04:14.159 align:start position:0%
+ 
+ 
+
+00:04:14.159 --> 00:04:17.830 align:start position:0%
+ 
+And<00:04:14.400><c> let's</c><00:04:14.720><c> see.</c>
+
+00:04:17.830 --> 00:04:17.840 align:start position:0%
+ 
+ 
+
+00:04:17.840 --> 00:04:20.310 align:start position:0%
+ 
+Not<00:04:18.160><c> this.</c>
+
+00:04:20.310 --> 00:04:20.320 align:start position:0%
+Not this.
+ 
+
+00:04:20.320 --> 00:04:51.830 align:start position:0%
+Not this.
+50.<00:04:21.280><c> It</c><00:04:21.440><c> important.</c>
+
+00:04:51.830 --> 00:04:51.840 align:start position:0%
+ 
+ 
+
+00:04:51.840 --> 00:04:55.430 align:start position:0%
+ 
+Let's<00:04:52.160><c> delete</c>
+
+00:04:55.430 --> 00:04:55.440 align:start position:0%
+ 
+ 
+
+00:04:55.440 --> 00:05:00.550 align:start position:0%
+ 
+this<00:04:55.759><c> one.</c><00:04:57.199><c> 50.</c>
+
+00:05:00.550 --> 00:05:00.560 align:start position:0%
+ 
+ 
+
+00:05:00.560 --> 00:05:05.030 align:start position:0%
+ 
+Okay.<00:05:01.600><c> 100.</c>
+
+00:05:05.030 --> 00:05:05.040 align:start position:0%
+ 
+ 
+
+00:05:05.040 --> 00:05:10.469 align:start position:0%
+ 
+100.
+
+00:05:10.469 --> 00:05:10.479 align:start position:0%
+ 
+ 
+
+00:05:10.479 --> 00:05:13.029 align:start position:0%
+ 
+Okay.<00:05:10.880><c> Fine.</c>
+
+00:05:13.029 --> 00:05:13.039 align:start position:0%
+Okay. Fine.
+ 
+
+00:05:13.039 --> 00:05:15.749 align:start position:0%
+Okay. Fine.
+The<00:05:13.280><c> scaling</c><00:05:13.680><c> is</c><00:05:13.919><c> fine.</c><00:05:14.720><c> Okay.</c><00:05:15.280><c> You</c><00:05:15.520><c> must</c>
+
+00:05:15.749 --> 00:05:15.759 align:start position:0%
+The scaling is fine. Okay. You must
+ 
+
+00:05:15.759 --> 00:05:18.950 align:start position:0%
+The scaling is fine. Okay. You must
+change<00:05:16.000><c> the</c><00:05:16.240><c> Z-axis</c><00:05:17.120><c> only.</c>
+
+00:05:18.950 --> 00:05:18.960 align:start position:0%
+change the Z-axis only.
+ 
+
+00:05:18.960 --> 00:05:21.590 align:start position:0%
+change the Z-axis only.
+Okay,<00:05:19.280><c> let's</c><00:05:19.600><c> see</c>
+
+00:05:21.590 --> 00:05:21.600 align:start position:0%
+Okay, let's see
+ 
+
+00:05:21.600 --> 00:05:38.070 align:start position:0%
+Okay, let's see
+what<00:05:21.919><c> is</c><00:05:22.080><c> the</c><00:05:22.400><c> difference</c><00:05:22.720><c> between</c><00:05:23.199><c> us.</c><00:05:24.479><c> Okay,</c>
+
+00:05:38.070 --> 00:05:38.080 align:start position:0%
+ 
+ 
+
+00:05:38.080 --> 00:05:41.110 align:start position:0%
+ 
+I<00:05:38.400><c> think</c><00:05:38.560><c> it's</c><00:05:38.880><c> fine.</c><00:05:40.320><c> Okay,</c><00:05:40.639><c> thank</c><00:05:40.800><c> you</c><00:05:40.960><c> guys</c>
+
+00:05:41.110 --> 00:05:41.120 align:start position:0%
+I think it's fine. Okay, thank you guys
+ 
+
+00:05:41.120 --> 00:05:43.270 align:start position:0%
+I think it's fine. Okay, thank you guys
+for<00:05:41.360><c> watching</c><00:05:41.680><c> this</c><00:05:42.000><c> all</c><00:05:42.240><c> for</c><00:05:42.400><c> this</c><00:05:42.639><c> tutorial.</c>
+
+00:05:43.270 --> 00:05:43.280 align:start position:0%
+for watching this all for this tutorial.
+ 
+
+00:05:43.280 --> 00:05:45.350 align:start position:0%
+for watching this all for this tutorial.
+Subscribe<00:05:43.680><c> for</c><00:05:43.919><c> the</c><00:05:44.160><c> channel</c><00:05:44.720><c> for</c><00:05:45.039><c> more</c>
+
+00:05:45.350 --> 00:05:45.360 align:start position:0%
+Subscribe for the channel for more
+ 
+
+00:05:45.360 --> 00:05:48.230 align:start position:0%
+Subscribe for the channel for more
+useful<00:05:45.840><c> tutorial</c><00:05:46.400><c> like</c><00:05:46.720><c> this.</c>
+
+00:05:48.230 --> 00:05:48.240 align:start position:0%
+useful tutorial like this.
+ 
+
+00:05:48.240 --> 00:05:50.950 align:start position:0%
+useful tutorial like this.
+And<00:05:48.560><c> you</c><00:05:48.800><c> can</c>
+
+00:05:50.950 --> 00:05:50.960 align:start position:0%
+And you can
+ 
+
+00:05:50.960 --> 00:05:54.080 align:start position:0%
+And you can
+Okay,<00:05:51.360><c> bye.</c>
+

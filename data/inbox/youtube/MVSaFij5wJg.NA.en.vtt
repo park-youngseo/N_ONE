@@ -1,0 +1,2056 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:07.759 --> 00:00:10.150 align:start position:0%
+ 
+Hello<00:00:08.080><c> everyone.</c><00:00:09.040><c> In</c><00:00:09.200><c> this</c><00:00:09.360><c> part,</c><00:00:09.599><c> we</c><00:00:09.840><c> want</c><00:00:09.920><c> to</c>
+
+00:00:10.150 --> 00:00:10.160 align:start position:0%
+Hello everyone. In this part, we want to
+ 
+
+00:00:10.160 --> 00:00:12.990 align:start position:0%
+Hello everyone. In this part, we want to
+create<00:00:10.840><c> the</c><00:00:11.840><c> button</c>
+
+00:00:12.990 --> 00:00:13.000 align:start position:0%
+create the button
+ 
+
+00:00:13.000 --> 00:00:15.509 align:start position:0%
+create the button
+functionalities.<00:00:14.000><c> We</c><00:00:14.240><c> have</c><00:00:14.639><c> we</c><00:00:14.799><c> have</c><00:00:14.880><c> to</c><00:00:15.120><c> work</c>
+
+00:00:15.509 --> 00:00:15.519 align:start position:0%
+functionalities. We have we have to work
+ 
+
+00:00:15.519 --> 00:00:18.950 align:start position:0%
+functionalities. We have we have to work
+on<00:00:15.759><c> programming</c><00:00:16.720><c> all</c><00:00:16.960><c> the</c><00:00:17.240><c> buttons</c><00:00:18.240><c> of</c><00:00:18.720><c> the</c>
+
+00:00:18.950 --> 00:00:18.960 align:start position:0%
+on programming all the buttons of the
+ 
+
+00:00:18.960 --> 00:00:21.950 align:start position:0%
+on programming all the buttons of the
+shadows,<00:00:19.680><c> texture,</c><00:00:20.320><c> frame</c><00:00:20.560><c> rates,</c>
+
+00:00:21.950 --> 00:00:21.960 align:start position:0%
+shadows, texture, frame rates,
+ 
+
+00:00:21.960 --> 00:00:26.630 align:start position:0%
+shadows, texture, frame rates,
+persp.<00:00:23.080><c> Okay.</c><00:00:24.080><c> Uh</c><00:00:24.480><c> first</c><00:00:24.720><c> of</c><00:00:24.800><c> all,</c><00:00:24.960><c> we</c><00:00:25.320><c> have</c><00:00:26.320><c> to</c>
+
+00:00:26.630 --> 00:00:26.640 align:start position:0%
+persp. Okay. Uh first of all, we have to
+ 
+
+00:00:26.640 --> 00:00:31.509 align:start position:0%
+persp. Okay. Uh first of all, we have to
+go<00:00:26.880><c> to</c><00:00:27.039><c> the</c><00:00:27.279><c> graph</c><00:00:27.599><c> right</c><00:00:27.920><c> here.</c>
+
+00:00:31.509 --> 00:00:31.519 align:start position:0%
+ 
+ 
+
+00:00:31.519 --> 00:00:33.950 align:start position:0%
+ 
+And<00:00:32.000><c> we</c><00:00:32.320><c> have</c><00:00:32.480><c> to</c>
+
+00:00:33.950 --> 00:00:33.960 align:start position:0%
+And we have to
+ 
+
+00:00:33.960 --> 00:00:36.310 align:start position:0%
+And we have to
+create<00:00:34.960><c> add</c><00:00:35.200><c> functionality</c><00:00:35.760><c> to</c><00:00:36.000><c> those</c>
+
+00:00:36.310 --> 00:00:36.320 align:start position:0%
+create add functionality to those
+ 
+
+00:00:36.320 --> 00:00:37.950 align:start position:0%
+create add functionality to those
+buttons.
+
+00:00:37.950 --> 00:00:37.960 align:start position:0%
+buttons.
+ 
+
+00:00:37.960 --> 00:00:41.350 align:start position:0%
+buttons.
+Okay,<00:00:38.960><c> let's</c><00:00:39.520><c> begin</c><00:00:39.840><c> with</c><00:00:40.000><c> the</c><00:00:40.200><c> shutters.</c><00:00:41.200><c> Go</c>
+
+00:00:41.350 --> 00:00:41.360 align:start position:0%
+Okay, let's begin with the shutters. Go
+ 
+
+00:00:41.360 --> 00:00:45.470 align:start position:0%
+Okay, let's begin with the shutters. Go
+to<00:00:41.520><c> this</c><00:00:41.879><c> di</c><00:00:42.879><c> select</c>
+
+00:00:45.470 --> 00:00:45.480 align:start position:0%
+ 
+ 
+
+00:00:45.480 --> 00:00:51.229 align:start position:0%
+ 
+low.<00:00:46.480><c> Go</c>
+
+00:00:51.229 --> 00:00:51.239 align:start position:0%
+ 
+ 
+
+00:00:51.239 --> 00:00:55.069 align:start position:0%
+ 
+down.<00:00:52.239><c> First</c><00:00:52.480><c> one</c><00:00:52.960><c> shadows</c>
+
+00:00:55.069 --> 00:00:55.079 align:start position:0%
+down. First one shadows
+ 
+
+00:00:55.079 --> 00:00:59.510 align:start position:0%
+down. First one shadows
+low.<00:00:56.079><c> Okay.</c><00:00:56.480><c> And</c><00:00:56.719><c> go</c><00:00:56.960><c> right</c><00:00:57.280><c> here.</c>
+
+00:00:59.510 --> 00:00:59.520 align:start position:0%
+low. Okay. And go right here.
+ 
+
+00:00:59.520 --> 00:01:00.510 align:start position:0%
+low. Okay. And go right here.
+Shadow
+
+00:01:00.510 --> 00:01:00.520 align:start position:0%
+Shadow
+ 
+
+00:01:00.520 --> 00:01:04.509 align:start position:0%
+Shadow
+medium.<00:01:01.520><c> Go</c><00:01:01.680><c> to</c><00:01:01.840><c> the</c><00:01:02.000><c> event</c><00:01:02.399><c> on</c><00:01:02.640><c> click</c>
+
+00:01:04.509 --> 00:01:04.519 align:start position:0%
+medium. Go to the event on click
+ 
+
+00:01:04.519 --> 00:01:09.710 align:start position:0%
+medium. Go to the event on click
+it<00:01:05.519><c> shadow</c>
+
+00:01:09.710 --> 00:01:09.720 align:start position:0%
+ 
+ 
+
+00:01:09.720 --> 00:01:12.750 align:start position:0%
+ 
+high<00:01:10.720><c> shadow</c>
+
+00:01:12.750 --> 00:01:12.760 align:start position:0%
+high shadow
+ 
+
+00:01:12.760 --> 00:01:15.070 align:start position:0%
+high shadow
+epic<00:01:13.760><c> and</c>
+
+00:01:15.070 --> 00:01:15.080 align:start position:0%
+epic and
+ 
+
+00:01:15.080 --> 00:01:20.429 align:start position:0%
+epic and
+finally<00:01:16.080><c> shadow</c>
+
+00:01:20.429 --> 00:01:20.439 align:start position:0%
+ 
+ 
+
+00:01:20.439 --> 00:01:23.190 align:start position:0%
+ 
+cinematic.<00:01:21.439><c> Okay,</c><00:01:22.159><c> let's</c><00:01:22.479><c> add</c><00:01:22.880><c> shadow</c>
+
+00:01:23.190 --> 00:01:23.200 align:start position:0%
+cinematic. Okay, let's add shadow
+ 
+
+00:01:23.200 --> 00:01:24.950 align:start position:0%
+cinematic. Okay, let's add shadow
+quality.<00:01:23.680><c> First</c><00:01:23.840><c> of</c><00:01:24.000><c> all,</c><00:01:24.159><c> we</c><00:01:24.400><c> have</c><00:01:24.479><c> to</c><00:01:24.640><c> get</c>
+
+00:01:24.950 --> 00:01:24.960 align:start position:0%
+quality. First of all, we have to get
+ 
+
+00:01:24.960 --> 00:01:33.749 align:start position:0%
+quality. First of all, we have to get
+the<00:01:25.280><c> game</c><00:01:25.600><c> user</c><00:01:25.920><c> settings.</c>
+
+00:01:33.749 --> 00:01:33.759 align:start position:0%
+ 
+ 
+
+00:01:33.759 --> 00:01:35.950 align:start position:0%
+ 
+From<00:01:34.000><c> the</c><00:01:34.240><c> return</c>
+
+00:01:35.950 --> 00:01:35.960 align:start position:0%
+From the return
+ 
+
+00:01:35.960 --> 00:01:42.749 align:start position:0%
+From the return
+value<00:01:36.960><c> we</c><00:01:37.200><c> have</c><00:01:37.280><c> to</c><00:01:37.439><c> set</c><00:01:37.759><c> shadow</c>
+
+00:01:42.749 --> 00:01:42.759 align:start position:0%
+ 
+ 
+
+00:01:42.759 --> 00:01:46.310 align:start position:0%
+ 
+quality.<00:01:43.759><c> Okay.</c><00:01:44.560><c> For</c><00:01:44.799><c> the</c><00:01:44.960><c> shutter</c><00:01:45.360><c> quality</c>
+
+00:01:46.310 --> 00:01:46.320 align:start position:0%
+quality. Okay. For the shutter quality
+ 
+
+00:01:46.320 --> 00:01:50.069 align:start position:0%
+quality. Okay. For the shutter quality
+for<00:01:46.880><c> the</c><00:01:47.439><c> quality</c><00:01:48.000><c> is</c><00:01:48.240><c> begins</c><00:01:48.880><c> by</c><00:01:49.280><c> zero</c><00:01:49.759><c> to</c>
+
+00:01:50.069 --> 00:01:50.079 align:start position:0%
+for the quality is begins by zero to
+ 
+
+00:01:50.079 --> 00:01:53.630 align:start position:0%
+for the quality is begins by zero to
+four.<00:01:50.799><c> Zero</c><00:01:51.119><c> for</c><00:01:51.360><c> the</c><00:01:51.600><c> low</c><00:01:51.840><c> axis</c><00:01:52.640><c> and</c><00:01:52.799><c> low</c>
+
+00:01:53.630 --> 00:01:53.640 align:start position:0%
+four. Zero for the low axis and low
+ 
+
+00:01:53.640 --> 00:01:59.069 align:start position:0%
+four. Zero for the low axis and low
+quality.<00:01:54.640><c> One</c><00:01:55.600><c> for</c><00:01:55.920><c> the</c>
+
+00:01:59.069 --> 00:01:59.079 align:start position:0%
+ 
+ 
+
+00:01:59.079 --> 00:02:02.510 align:start position:0%
+ 
+medium<00:02:00.079><c> sorry</c>
+
+00:02:02.510 --> 00:02:02.520 align:start position:0%
+medium sorry
+ 
+
+00:02:02.520 --> 00:02:04.030 align:start position:0%
+medium sorry
+make
+
+00:02:04.030 --> 00:02:04.040 align:start position:0%
+make
+ 
+
+00:02:04.040 --> 00:02:07.109 align:start position:0%
+make
+two<00:02:05.040><c> for</c><00:02:05.280><c> the</c><00:02:05.520><c> highest</c><00:02:06.079><c> and</c><00:02:06.399><c> three</c><00:02:06.719><c> for</c><00:02:06.960><c> the</c>
+
+00:02:07.109 --> 00:02:07.119 align:start position:0%
+two for the highest and three for the
+ 
+
+00:02:07.119 --> 00:02:09.190 align:start position:0%
+two for the highest and three for the
+apric<00:02:07.520><c> and</c><00:02:07.680><c> four</c><00:02:07.920><c> for</c><00:02:08.080><c> the</c><00:02:08.319><c> seimatic.</c><00:02:08.959><c> Okay</c>
+
+00:02:09.190 --> 00:02:09.200 align:start position:0%
+apric and four for the seimatic. Okay
+ 
+
+00:02:09.200 --> 00:02:13.270 align:start position:0%
+apric and four for the seimatic. Okay
+let's<00:02:09.879><c> begin.</c><00:02:10.879><c> Okay</c><00:02:11.520><c> it's</c><00:02:11.840><c> set</c><00:02:12.160><c> by</c><00:02:12.400><c> default</c><00:02:12.800><c> to</c>
+
+00:02:13.270 --> 00:02:13.280 align:start position:0%
+let's begin. Okay it's set by default to
+ 
+
+00:02:13.280 --> 00:02:15.589 align:start position:0%
+let's begin. Okay it's set by default to
+value<00:02:13.760><c> to</c><00:02:14.000><c> zero.</c>
+
+00:02:15.589 --> 00:02:15.599 align:start position:0%
+value to zero.
+ 
+
+00:02:15.599 --> 00:02:20.350 align:start position:0%
+value to zero.
+Ctrl<00:02:16.080><c> C.</c><00:02:17.040><c> Ctrl</c>
+
+00:02:20.350 --> 00:02:20.360 align:start position:0%
+ 
+ 
+
+00:02:20.360 --> 00:02:24.030 align:start position:0%
+ 
+V.<00:02:21.360><c> Okay.</c><00:02:21.840><c> Ctrl</c><00:02:22.239><c> V.</c><00:02:23.120><c> And</c>
+
+00:02:24.030 --> 00:02:24.040 align:start position:0%
+V. Okay. Ctrl V. And
+ 
+
+00:02:24.040 --> 00:02:28.510 align:start position:0%
+V. Okay. Ctrl V. And
+finally,<00:02:25.040><c> Ctrl</c>
+
+00:02:28.510 --> 00:02:28.520 align:start position:0%
+ 
+ 
+
+00:02:28.520 --> 00:02:31.470 align:start position:0%
+ 
+VR
+
+00:02:31.470 --> 00:02:31.480 align:start position:0%
+VR
+ 
+
+00:02:31.480 --> 00:02:36.910 align:start position:0%
+VR
+V.<00:02:32.480><c> Okay.</c><00:02:32.879><c> Drag</c><00:02:33.120><c> all</c><00:02:33.360><c> of</c>
+
+00:02:36.910 --> 00:02:36.920 align:start position:0%
+ 
+ 
+
+00:02:36.920 --> 00:02:40.470 align:start position:0%
+ 
+this.<00:02:37.920><c> And</c><00:02:38.160><c> now</c><00:02:39.040><c> let's</c><00:02:39.440><c> apply</c><00:02:39.760><c> the</c><00:02:40.080><c> setting</c>
+
+00:02:40.470 --> 00:02:40.480 align:start position:0%
+this. And now let's apply the setting
+ 
+
+00:02:40.480 --> 00:02:43.470 align:start position:0%
+this. And now let's apply the setting
+for<00:02:40.800><c> all</c><00:02:41.040><c> of</c><00:02:41.200><c> this.</c>
+
+00:02:43.470 --> 00:02:43.480 align:start position:0%
+for all of this.
+ 
+
+00:02:43.480 --> 00:02:48.910 align:start position:0%
+for all of this.
+apply
+
+00:02:48.910 --> 00:02:48.920 align:start position:0%
+ 
+ 
+
+00:02:48.920 --> 00:02:51.790 align:start position:0%
+ 
+settings.<00:02:49.920><c> Okay.</c><00:02:50.319><c> For</c><00:02:50.560><c> the</c>
+
+00:02:51.790 --> 00:02:51.800 align:start position:0%
+settings. Okay. For the
+ 
+
+00:02:51.800 --> 00:03:00.350 align:start position:0%
+settings. Okay. For the
+target,<00:02:52.800><c> let's</c><00:02:53.200><c> make</c><00:02:53.440><c> it</c><00:02:53.680><c> like</c>
+
+00:03:00.350 --> 00:03:00.360 align:start position:0%
+ 
+ 
+
+00:03:00.360 --> 00:03:04.430 align:start position:0%
+ 
+this.<00:03:01.360><c> This</c><00:03:01.599><c> value</c><00:03:01.920><c> is</c>
+
+00:03:04.430 --> 00:03:04.440 align:start position:0%
+ 
+ 
+
+00:03:04.440 --> 00:03:26.869 align:start position:0%
+ 
+one.<00:03:05.440><c> Ctrl</c><00:03:05.840><c> C.</c><00:03:06.480><c> Ctrl</c><00:03:06.959><c> V.</c>
+
+00:03:26.869 --> 00:03:26.879 align:start position:0%
+ 
+ 
+
+00:03:26.879 --> 00:03:30.350 align:start position:0%
+ 
+Okay.<00:03:27.519><c> Make</c><00:03:27.760><c> it</c><00:03:27.920><c> like</c>
+
+00:03:30.350 --> 00:03:30.360 align:start position:0%
+ 
+ 
+
+00:03:30.360 --> 00:03:40.910 align:start position:0%
+ 
+this.<00:03:31.360><c> Ctrl</c><00:03:31.840><c> C.</c><00:03:32.239><c> Ctrl</c>
+
+00:03:40.910 --> 00:03:40.920 align:start position:0%
+ 
+ 
+
+00:03:40.920 --> 00:03:49.589 align:start position:0%
+ 
+V.<00:03:41.920><c> You</c><00:03:42.159><c> can</c><00:03:42.319><c> make</c><00:03:42.480><c> it</c><00:03:42.640><c> like</c><00:03:42.879><c> this.</c>
+
+00:03:49.589 --> 00:03:49.599 align:start position:0%
+ 
+ 
+
+00:03:49.599 --> 00:03:51.070 align:start position:0%
+ 
+This<00:03:49.840><c> is</c>
+
+00:03:51.070 --> 00:03:51.080 align:start position:0%
+This is
+ 
+
+00:03:51.080 --> 00:03:53.309 align:start position:0%
+This is
+two,
+
+00:03:53.309 --> 00:03:53.319 align:start position:0%
+two,
+ 
+
+00:03:53.319 --> 00:04:06.589 align:start position:0%
+two,
+three,<00:03:54.319><c> and</c><00:03:54.640><c> finally</c>
+
+00:04:06.589 --> 00:04:06.599 align:start position:0%
+ 
+ 
+
+00:04:06.599 --> 00:04:16.310 align:start position:0%
+ 
+four.<00:04:07.599><c> Control</c><00:04:08.000><c> C.</c><00:04:08.400><c> Control</c><00:04:08.799><c> V.</c>
+
+00:04:16.310 --> 00:04:16.320 align:start position:0%
+ 
+ 
+
+00:04:16.320 --> 00:04:18.949 align:start position:0%
+ 
+Okay,<00:04:16.720><c> after</c><00:04:17.040><c> doing</c><00:04:17.359><c> this,</c><00:04:18.239><c> make</c><00:04:18.479><c> sure</c><00:04:18.639><c> to</c>
+
+00:04:18.949 --> 00:04:18.959 align:start position:0%
+Okay, after doing this, make sure to
+ 
+
+00:04:18.959 --> 00:04:28.030 align:start position:0%
+Okay, after doing this, make sure to
+then<00:04:19.280><c> check</c><00:04:19.600><c> this</c>
+
+00:04:28.030 --> 00:04:28.040 align:start position:0%
+ 
+ 
+
+00:04:28.040 --> 00:04:30.590 align:start position:0%
+ 
+one.
+
+00:04:30.590 --> 00:04:30.600 align:start position:0%
+one.
+ 
+
+00:04:30.600 --> 00:04:35.629 align:start position:0%
+one.
+Okay.<00:04:31.600><c> Okay.</c><00:04:31.919><c> Now,</c><00:04:32.639><c> let's</c><00:04:32.960><c> command</c><00:04:33.440><c> all</c><00:04:33.680><c> of</c>
+
+00:04:35.629 --> 00:04:35.639 align:start position:0%
+Okay. Okay. Now, let's command all of
+ 
+
+00:04:35.639 --> 00:04:38.670 align:start position:0%
+Okay. Okay. Now, let's command all of
+those.<00:04:36.639><c> Select</c><00:04:37.120><c> all</c><00:04:37.600><c> and</c><00:04:37.919><c> press</c>
+
+00:04:38.670 --> 00:04:38.680 align:start position:0%
+those. Select all and press
+ 
+
+00:04:38.680 --> 00:04:53.070 align:start position:0%
+those. Select all and press
+C.<00:04:39.759><c> And</c><00:04:40.000><c> set</c><00:04:40.240><c> this</c><00:04:40.479><c> one</c><00:04:41.120><c> to</c><00:04:41.360><c> shutter</c>
+
+00:04:53.070 --> 00:04:53.080 align:start position:0%
+ 
+ 
+
+00:04:53.080 --> 00:04:55.670 align:start position:0%
+ 
+quality.<00:04:54.080><c> Okay.</c><00:04:54.320><c> And</c><00:04:54.479><c> let's</c><00:04:54.720><c> see</c><00:04:54.960><c> it</c><00:04:55.199><c> works</c><00:04:55.520><c> or</c>
+
+00:04:55.670 --> 00:04:55.680 align:start position:0%
+quality. Okay. And let's see it works or
+ 
+
+00:04:55.680 --> 00:04:59.230 align:start position:0%
+quality. Okay. And let's see it works or
+not.<00:04:56.000><c> Hit</c><00:04:56.320><c> compile</c><00:04:56.800><c> and</c><00:04:57.040><c> save</c>
+
+00:04:59.230 --> 00:04:59.240 align:start position:0%
+not. Hit compile and save
+ 
+
+00:04:59.240 --> 00:05:01.310 align:start position:0%
+not. Hit compile and save
+all.
+
+00:05:01.310 --> 00:05:01.320 align:start position:0%
+all.
+ 
+
+00:05:01.320 --> 00:05:04.830 align:start position:0%
+all.
+Now<00:05:02.320><c> let's</c><00:05:02.639><c> add</c><00:05:02.960><c> with</c><00:05:03.720><c> twister</c>
+
+00:05:04.830 --> 00:05:04.840 align:start position:0%
+Now let's add with twister
+ 
+
+00:05:04.840 --> 00:05:08.950 align:start position:0%
+Now let's add with twister
+functionality.<00:05:05.840><c> Okay.</c>
+
+00:05:08.950 --> 00:05:08.960 align:start position:0%
+ 
+ 
+
+00:05:08.960 --> 00:05:11.270 align:start position:0%
+ 
+We<00:05:09.120><c> have</c><00:05:09.280><c> to</c><00:05:09.440><c> switch</c><00:05:09.680><c> between</c><00:05:10.240><c> uh</c><00:05:10.479><c> those</c><00:05:10.880><c> one</c>
+
+00:05:11.270 --> 00:05:11.280 align:start position:0%
+We have to switch between uh those one
+ 
+
+00:05:11.280 --> 00:05:14.469 align:start position:0%
+We have to switch between uh those one
+settings<00:05:12.000><c> and</c><00:05:12.240><c> the</c><00:05:12.320><c> main</c><00:05:12.639><c> menu.</c><00:05:12.960><c> We</c><00:05:13.120><c> go</c><00:05:13.479><c> here</c>
+
+00:05:14.469 --> 00:05:14.479 align:start position:0%
+settings and the main menu. We go here
+ 
+
+00:05:14.479 --> 00:05:15.950 align:start position:0%
+settings and the main menu. We go here
+to<00:05:14.639><c> my</c><00:05:14.800><c> widget</c>
+
+00:05:15.950 --> 00:05:15.960 align:start position:0%
+to my widget
+ 
+
+00:05:15.960 --> 00:05:20.270 align:start position:0%
+to my widget
+switcher<00:05:16.960><c> active</c><00:05:17.360><c> widget</c><00:05:17.759><c> by</c><00:05:18.000><c> index</c><00:05:18.400><c> set</c><00:05:18.720><c> to</c>
+
+00:05:20.270 --> 00:05:20.280 align:start position:0%
+switcher active widget by index set to
+ 
+
+00:05:20.280 --> 00:05:22.870 align:start position:0%
+switcher active widget by index set to
+zero.<00:05:21.280><c> We</c><00:05:21.440><c> have</c><00:05:21.600><c> to</c><00:05:21.680><c> switch</c><00:05:22.000><c> between</c><00:05:22.400><c> this</c><00:05:22.639><c> and</c>
+
+00:05:22.870 --> 00:05:22.880 align:start position:0%
+zero. We have to switch between this and
+ 
+
+00:05:22.880 --> 00:05:24.110 align:start position:0%
+zero. We have to switch between this and
+the<00:05:23.120><c> setting</c>
+
+00:05:24.110 --> 00:05:24.120 align:start position:0%
+the setting
+ 
+
+00:05:24.120 --> 00:05:27.029 align:start position:0%
+the setting
+menu.<00:05:25.120><c> Okay.</c><00:05:25.440><c> To</c><00:05:25.680><c> do</c><00:05:25.840><c> that,</c><00:05:26.320><c> we</c><00:05:26.560><c> have</c><00:05:26.720><c> to</c><00:05:26.880><c> go</c>
+
+00:05:27.029 --> 00:05:27.039 align:start position:0%
+menu. Okay. To do that, we have to go
+ 
+
+00:05:27.039 --> 00:05:30.350 align:start position:0%
+menu. Okay. To do that, we have to go
+here<00:05:27.360><c> to</c><00:05:27.600><c> the</c>
+
+00:05:30.350 --> 00:05:30.360 align:start position:0%
+ 
+ 
+
+00:05:30.360 --> 00:05:38.629 align:start position:0%
+ 
+graph.<00:05:31.360><c> Select</c><00:05:31.680><c> the</c><00:05:31.919><c> back</c><00:05:32.240><c> button.</c>
+
+00:05:38.629 --> 00:05:38.639 align:start position:0%
+ 
+ 
+
+00:05:38.639 --> 00:05:40.870 align:start position:0%
+ 
+Where<00:05:38.800><c> is</c><00:05:39.039><c> the</c><00:05:39.199><c> back?</c><00:05:40.000><c> Okay,</c><00:05:40.240><c> let's</c><00:05:40.479><c> select</c>
+
+00:05:40.870 --> 00:05:40.880 align:start position:0%
+Where is the back? Okay, let's select
+ 
+
+00:05:40.880 --> 00:05:41.950 align:start position:0%
+Where is the back? Okay, let's select
+from
+
+00:05:41.950 --> 00:05:41.960 align:start position:0%
+from
+ 
+
+00:05:41.960 --> 00:05:50.670 align:start position:0%
+from
+this.<00:05:42.960><c> Let's</c><00:05:43.280><c> go</c><00:05:43.560><c> here.</c><00:05:44.560><c> Select</c><00:05:45.039><c> second</c>
+
+00:05:50.670 --> 00:05:50.680 align:start position:0%
+ 
+ 
+
+00:05:50.680 --> 00:05:56.430 align:start position:0%
+ 
+overlay.<00:05:51.680><c> And</c><00:05:51.919><c> let's</c><00:05:52.240><c> go</c>
+
+00:05:56.430 --> 00:05:56.440 align:start position:0%
+ 
+ 
+
+00:05:56.440 --> 00:05:59.670 align:start position:0%
+ 
+down.<00:05:57.440><c> This</c><00:05:57.600><c> is</c><00:05:57.759><c> back</c><00:05:58.080><c> button.</c><00:05:59.039><c> And</c><00:05:59.280><c> the</c><00:05:59.520><c> other</c>
+
+00:05:59.670 --> 00:05:59.680 align:start position:0%
+down. This is back button. And the other
+ 
+
+00:05:59.680 --> 00:06:03.590 align:start position:0%
+down. This is back button. And the other
+one<00:05:59.919><c> is</c><00:06:00.240><c> sitting</c><00:06:01.039><c> button.</c>
+
+00:06:03.590 --> 00:06:03.600 align:start position:0%
+one is sitting button.
+ 
+
+00:06:03.600 --> 00:06:07.950 align:start position:0%
+one is sitting button.
+Let's<00:06:03.919><c> go</c><00:06:04.199><c> here.</c><00:06:05.199><c> Select</c><00:06:05.600><c> this</c>
+
+00:06:07.950 --> 00:06:07.960 align:start position:0%
+ 
+ 
+
+00:06:07.960 --> 00:06:10.230 align:start position:0%
+ 
+thing.<00:06:08.960><c> We</c><00:06:09.199><c> have</c><00:06:09.360><c> to</c><00:06:09.520><c> switch</c><00:06:09.759><c> between</c>
+
+00:06:10.230 --> 00:06:10.240 align:start position:0%
+thing. We have to switch between
+ 
+
+00:06:10.240 --> 00:06:16.830 align:start position:0%
+thing. We have to switch between
+settings<00:06:10.720><c> and</c><00:06:11.039><c> main</c><00:06:11.319><c> menu.</c><00:06:12.319><c> I'll</c><00:06:12.560><c> click</c>
+
+00:06:16.830 --> 00:06:16.840 align:start position:0%
+ 
+ 
+
+00:06:16.840 --> 00:06:19.230 align:start position:0%
+ 
+it.
+
+00:06:19.230 --> 00:06:19.240 align:start position:0%
+it.
+ 
+
+00:06:19.240 --> 00:06:23.710 align:start position:0%
+it.
+Okay.<00:06:20.240><c> Now,</c><00:06:20.479><c> let's</c><00:06:20.880><c> set</c><00:06:21.360><c> uh</c><00:06:21.840><c> set</c><00:06:22.240><c> my</c><00:06:22.680><c> widget</c>
+
+00:06:23.710 --> 00:06:23.720 align:start position:0%
+Okay. Now, let's set uh set my widget
+ 
+
+00:06:23.720 --> 00:06:27.270 align:start position:0%
+Okay. Now, let's set uh set my widget
+widget.<00:06:24.720><c> Select</c><00:06:25.120><c> this</c><00:06:25.400><c> one</c><00:06:26.400><c> and</c><00:06:26.560><c> drag</c><00:06:26.880><c> it</c><00:06:27.039><c> from</c>
+
+00:06:27.270 --> 00:06:27.280 align:start position:0%
+widget. Select this one and drag it from
+ 
+
+00:06:27.280 --> 00:06:31.110 align:start position:0%
+widget. Select this one and drag it from
+here<00:06:28.000><c> to</c><00:06:28.160><c> here</c><00:06:29.039><c> to</c><00:06:29.280><c> this</c><00:06:29.440><c> place.</c>
+
+00:06:31.110 --> 00:06:31.120 align:start position:0%
+here to here to this place.
+ 
+
+00:06:31.120 --> 00:06:33.469 align:start position:0%
+here to here to this place.
+and<00:06:31.360><c> set</c><00:06:31.600><c> active</c>
+
+00:06:33.469 --> 00:06:33.479 align:start position:0%
+and set active
+ 
+
+00:06:33.479 --> 00:06:40.909 align:start position:0%
+and set active
+widget.<00:06:34.479><c> Active</c><00:06:34.880><c> widget</c><00:06:35.360><c> by</c>
+
+00:06:40.909 --> 00:06:40.919 align:start position:0%
+ 
+ 
+
+00:06:40.919 --> 00:06:44.070 align:start position:0%
+ 
+index.<00:06:41.919><c> The</c><00:06:42.240><c> first</c><00:06:42.479><c> one</c><00:06:43.199><c> when</c><00:06:43.440><c> I</c><00:06:43.680><c> select</c><00:06:43.919><c> the</c>
+
+00:06:44.070 --> 00:06:44.080 align:start position:0%
+index. The first one when I select the
+ 
+
+00:06:44.080 --> 00:06:46.070 align:start position:0%
+index. The first one when I select the
+back<00:06:44.319><c> button,</c><00:06:44.800><c> it's</c><00:06:45.199><c> switch</c><00:06:45.520><c> to</c><00:06:45.680><c> the</c><00:06:45.840><c> main</c>
+
+00:06:46.070 --> 00:06:46.080 align:start position:0%
+back button, it's switch to the main
+ 
+
+00:06:46.080 --> 00:06:49.550 align:start position:0%
+back button, it's switch to the main
+menu.<00:06:46.639><c> Set</c><00:06:46.880><c> index</c><00:06:47.280><c> to</c>
+
+00:06:49.550 --> 00:06:49.560 align:start position:0%
+ 
+ 
+
+00:06:49.560 --> 00:06:55.629 align:start position:0%
+ 
+zero.<00:06:50.560><c> Okay.</c><00:06:51.039><c> Ctrl</c><00:06:51.440><c> C</c><00:06:51.680><c> and</c><00:06:52.000><c> Ctrl</c>
+
+00:06:55.629 --> 00:06:55.639 align:start position:0%
+ 
+ 
+
+00:06:55.639 --> 00:06:59.589 align:start position:0%
+ 
+D.<00:06:56.639><c> The</c><00:06:56.880><c> index</c><00:06:57.199><c> of</c><00:06:57.360><c> this</c><00:06:57.520><c> thing</c><00:06:57.759><c> is</c><00:06:58.080><c> one.</c><00:06:59.280><c> Let's</c>
+
+00:06:59.589 --> 00:06:59.599 align:start position:0%
+D. The index of this thing is one. Let's
+ 
+
+00:06:59.599 --> 00:07:02.430 align:start position:0%
+D. The index of this thing is one. Let's
+set<00:06:59.840><c> it</c><00:07:00.000><c> to</c>
+
+00:07:02.430 --> 00:07:02.440 align:start position:0%
+set it to
+ 
+
+00:07:02.440 --> 00:07:05.749 align:start position:0%
+set it to
+one.<00:07:03.440><c> Okay.</c><00:07:03.840><c> Compile</c><00:07:04.319><c> and</c><00:07:04.560><c> save.</c><00:07:05.120><c> And</c><00:07:05.360><c> let's</c>
+
+00:07:05.749 --> 00:07:05.759 align:start position:0%
+one. Okay. Compile and save. And let's
+ 
+
+00:07:05.759 --> 00:07:10.110 align:start position:0%
+one. Okay. Compile and save. And let's
+test
+
+00:07:10.110 --> 00:07:10.120 align:start position:0%
+ 
+ 
+
+00:07:10.120 --> 00:07:12.029 align:start position:0%
+ 
+it.
+
+00:07:12.029 --> 00:07:12.039 align:start position:0%
+it.
+ 
+
+00:07:12.039 --> 00:07:14.950 align:start position:0%
+it.
+Then<00:07:13.080><c> settings.</c><00:07:14.080><c> When</c><00:07:14.240><c> I</c><00:07:14.479><c> press</c><00:07:14.639><c> the</c><00:07:14.800><c> back</c>
+
+00:07:14.950 --> 00:07:14.960 align:start position:0%
+Then settings. When I press the back
+ 
+
+00:07:14.960 --> 00:07:17.110 align:start position:0%
+Then settings. When I press the back
+button,<00:07:15.280><c> it</c><00:07:15.520><c> returns</c><00:07:16.000><c> the</c><00:07:16.160><c> main</c><00:07:16.319><c> menu.</c><00:07:16.880><c> It</c>
+
+00:07:17.110 --> 00:07:17.120 align:start position:0%
+button, it returns the main menu. It
+ 
+
+00:07:17.120 --> 00:07:18.430 align:start position:0%
+button, it returns the main menu. It
+works
+
+00:07:18.430 --> 00:07:18.440 align:start position:0%
+works
+ 
+
+00:07:18.440 --> 00:07:23.390 align:start position:0%
+works
+fine.<00:07:19.440><c> Okay.</c><00:07:19.840><c> Let's</c><00:07:20.160><c> return</c>
+
+00:07:23.390 --> 00:07:23.400 align:start position:0%
+ 
+ 
+
+00:07:23.400 --> 00:07:26.230 align:start position:0%
+ 
+here.<00:07:24.400><c> Let's</c><00:07:24.720><c> comment</c><00:07:25.120><c> this</c><00:07:25.840><c> which</c><00:07:26.080><c> is</c>
+
+00:07:26.230 --> 00:07:26.240 align:start position:0%
+here. Let's comment this which is
+ 
+
+00:07:26.240 --> 00:07:36.150 align:start position:0%
+here. Let's comment this which is
+switcher<00:07:26.720><c> by</c><00:07:26.880><c> index.</c>
+
+00:07:36.150 --> 00:07:36.160 align:start position:0%
+ 
+ 
+
+00:07:36.160 --> 00:07:40.350 align:start position:0%
+ 
+by
+
+00:07:40.350 --> 00:07:40.360 align:start position:0%
+ 
+ 
+
+00:07:40.360 --> 00:07:44.189 align:start position:0%
+ 
+index.<00:07:41.720><c> Okay.</c><00:07:42.720><c> And</c><00:07:42.880><c> now</c><00:07:43.199><c> let's</c><00:07:43.520><c> test</c><00:07:43.840><c> my</c>
+
+00:07:44.189 --> 00:07:44.199 align:start position:0%
+index. Okay. And now let's test my
+ 
+
+00:07:44.199 --> 00:07:47.309 align:start position:0%
+index. Okay. And now let's test my
+shadow<00:07:45.199><c> quality.</c><00:07:45.680><c> It's</c><00:07:45.840><c> for</c>
+
+00:07:47.309 --> 00:07:47.319 align:start position:0%
+shadow quality. It's for
+ 
+
+00:07:47.319 --> 00:07:49.390 align:start position:0%
+shadow quality. It's for
+some.<00:07:48.319><c> Let's</c><00:07:48.639><c> go</c>
+
+00:07:49.390 --> 00:07:49.400 align:start position:0%
+some. Let's go
+ 
+
+00:07:49.400 --> 00:07:51.790 align:start position:0%
+some. Let's go
+here.<00:07:50.400><c> Let's</c><00:07:50.639><c> go</c><00:07:50.880><c> to</c>
+
+00:07:51.790 --> 00:07:51.800 align:start position:0%
+here. Let's go to
+ 
+
+00:07:51.800 --> 00:07:54.550 align:start position:0%
+here. Let's go to
+snadow<00:07:52.800><c> quality</c><00:07:53.199><c> to</c><00:07:53.440><c> low.</c><00:07:54.000><c> Return</c><00:07:54.319><c> right</c>
+
+00:07:54.550 --> 00:07:54.560 align:start position:0%
+snadow quality to low. Return right
+ 
+
+00:07:54.560 --> 00:07:56.230 align:start position:0%
+snadow quality to low. Return right
+here.
+
+00:07:56.230 --> 00:07:56.240 align:start position:0%
+here.
+ 
+
+00:07:56.240 --> 00:08:00.189 align:start position:0%
+here.
+Go<00:07:56.479><c> to</c><00:07:56.720><c> start</c>
+
+00:08:00.189 --> 00:08:00.199 align:start position:0%
+ 
+ 
+
+00:08:00.199 --> 00:08:03.830 align:start position:0%
+ 
+game.<00:08:01.199><c> When</c><00:08:01.440><c> we</c><00:08:01.759><c> are</c><00:08:02.160><c> we</c><00:08:02.400><c> are</c><00:08:02.639><c> see</c><00:08:03.199><c> we</c><00:08:03.440><c> have</c><00:08:03.599><c> no</c>
+
+00:08:03.830 --> 00:08:03.840 align:start position:0%
+game. When we are we are see we have no
+ 
+
+00:08:03.840 --> 00:08:05.469 align:start position:0%
+game. When we are we are see we have no
+shadows.<00:08:04.400><c> It</c><00:08:04.639><c> works</c>
+
+00:08:05.469 --> 00:08:05.479 align:start position:0%
+shadows. It works
+ 
+
+00:08:05.479 --> 00:08:08.150 align:start position:0%
+shadows. It works
+fine.<00:08:06.479><c> Okay.</c><00:08:06.879><c> When</c><00:08:07.120><c> you</c><00:08:07.280><c> go</c><00:08:07.520><c> here</c><00:08:07.919><c> the</c>
+
+00:08:08.150 --> 00:08:08.160 align:start position:0%
+fine. Okay. When you go here the
+ 
+
+00:08:08.160 --> 00:08:10.430 align:start position:0%
+fine. Okay. When you go here the
+scalability<00:08:09.120><c> it's</c>
+
+00:08:10.430 --> 00:08:10.440 align:start position:0%
+scalability it's
+ 
+
+00:08:10.440 --> 00:08:12.350 align:start position:0%
+scalability it's
+slow.
+
+00:08:12.350 --> 00:08:12.360 align:start position:0%
+slow.
+ 
+
+00:08:12.360 --> 00:08:14.830 align:start position:0%
+slow.
+Now<00:08:13.360><c> let's</c>
+
+00:08:14.830 --> 00:08:14.840 align:start position:0%
+Now let's
+ 
+
+00:08:14.840 --> 00:08:19.790 align:start position:0%
+Now let's
+move<00:08:15.840><c> to</c><00:08:16.080><c> texture</c>
+
+00:08:19.790 --> 00:08:19.800 align:start position:0%
+ 
+ 
+
+00:08:19.800 --> 00:08:22.790 align:start position:0%
+ 
+quality.<00:08:20.800><c> Go</c><00:08:21.120><c> right</c><00:08:21.360><c> here.</c><00:08:22.080><c> Where</c><00:08:22.319><c> is</c><00:08:22.479><c> my</c>
+
+00:08:22.790 --> 00:08:22.800 align:start position:0%
+quality. Go right here. Where is my
+ 
+
+00:08:22.800 --> 00:08:35.550 align:start position:0%
+quality. Go right here. Where is my
+texture?
+
+00:08:35.550 --> 00:08:35.560 align:start position:0%
+ 
+ 
+
+00:08:35.560 --> 00:08:39.469 align:start position:0%
+ 
+Maybe<00:08:36.560><c> this</c><00:08:36.800><c> horizontal</c>
+
+00:08:39.469 --> 00:08:39.479 align:start position:0%
+ 
+ 
+
+00:08:39.479 --> 00:08:42.190 align:start position:0%
+ 
+box.<00:08:40.479><c> This</c>
+
+00:08:42.190 --> 00:08:42.200 align:start position:0%
+box. This
+ 
+
+00:08:42.200 --> 00:08:44.910 align:start position:0%
+box. This
+one<00:08:43.200><c> text</c>
+
+00:08:44.910 --> 00:08:44.920 align:start position:0%
+one text
+ 
+
+00:08:44.920 --> 00:08:50.030 align:start position:0%
+one text
+low.<00:08:45.920><c> Go</c>
+
+00:08:50.030 --> 00:08:50.040 align:start position:0%
+ 
+ 
+
+00:08:50.040 --> 00:08:53.590 align:start position:0%
+ 
+down.<00:08:51.040><c> Okay.</c>
+
+00:08:53.590 --> 00:08:53.600 align:start position:0%
+down. Okay.
+ 
+
+00:08:53.600 --> 00:08:55.949 align:start position:0%
+down. Okay.
+texture
+
+00:08:55.949 --> 00:08:55.959 align:start position:0%
+texture
+ 
+
+00:08:55.959 --> 00:08:58.269 align:start position:0%
+texture
+medium<00:08:56.959><c> texture</c>
+
+00:08:58.269 --> 00:08:58.279 align:start position:0%
+medium texture
+ 
+
+00:08:58.279 --> 00:09:03.790 align:start position:0%
+medium texture
+high<00:08:59.279><c> texture</c><00:08:59.760><c> opic</c><00:09:00.720><c> and</c><00:09:01.040><c> texture</c>
+
+00:09:03.790 --> 00:09:03.800 align:start position:0%
+ 
+ 
+
+00:09:03.800 --> 00:09:07.350 align:start position:0%
+ 
+cinematic.<00:09:04.800><c> Let's</c><00:09:05.120><c> do</c><00:09:05.279><c> the</c><00:09:05.519><c> same</c><00:09:06.040><c> process</c><00:09:07.040><c> but</c>
+
+00:09:07.350 --> 00:09:07.360 align:start position:0%
+cinematic. Let's do the same process but
+ 
+
+00:09:07.360 --> 00:09:10.230 align:start position:0%
+cinematic. Let's do the same process but
+in<00:09:07.600><c> this</c><00:09:07.760><c> case</c><00:09:08.000><c> we</c><00:09:08.240><c> have</c><00:09:08.320><c> to</c><00:09:08.560><c> set</c><00:09:09.120><c> uh</c><00:09:09.360><c> set</c><00:09:09.680><c> the</c>
+
+00:09:10.230 --> 00:09:10.240 align:start position:0%
+in this case we have to set uh set the
+ 
+
+00:09:10.240 --> 00:09:17.750 align:start position:0%
+in this case we have to set uh set the
+texture<00:09:10.720><c> quality.</c>
+
+00:09:17.750 --> 00:09:17.760 align:start position:0%
+ 
+ 
+
+00:09:17.760 --> 00:09:27.389 align:start position:0%
+ 
+game
+
+00:09:27.389 --> 00:09:27.399 align:start position:0%
+ 
+ 
+
+00:09:27.399 --> 00:09:32.110 align:start position:0%
+ 
+settings.<00:09:28.399><c> I</c><00:09:28.720><c> get</c>
+
+00:09:32.110 --> 00:09:32.120 align:start position:0%
+ 
+ 
+
+00:09:32.120 --> 00:09:35.949 align:start position:0%
+ 
+game<00:09:33.120><c> game</c><00:09:33.360><c> user</c>
+
+00:09:35.949 --> 00:09:35.959 align:start position:0%
+ 
+ 
+
+00:09:35.959 --> 00:09:39.509 align:start position:0%
+ 
+settings.<00:09:36.959><c> From</c><00:09:37.279><c> this</c><00:09:37.720><c> one,</c><00:09:38.720><c> we</c><00:09:38.959><c> have</c><00:09:39.120><c> to</c><00:09:39.279><c> set</c>
+
+00:09:39.509 --> 00:09:39.519 align:start position:0%
+settings. From this one, we have to set
+ 
+
+00:09:39.519 --> 00:09:43.470 align:start position:0%
+settings. From this one, we have to set
+the
+
+00:09:43.470 --> 00:09:43.480 align:start position:0%
+ 
+ 
+
+00:09:43.480 --> 00:09:49.670 align:start position:0%
+ 
+text<00:09:44.480><c> quality.</c>
+
+00:09:49.670 --> 00:09:49.680 align:start position:0%
+ 
+ 
+
+00:09:49.680 --> 00:09:58.670 align:start position:0%
+ 
+Okay.<00:09:50.000><c> From</c><00:09:50.320><c> this</c><00:09:50.560><c> we</c><00:09:50.800><c> have</c><00:09:50.959><c> to</c><00:09:51.120><c> apply</c>
+
+00:09:58.670 --> 00:09:58.680 align:start position:0%
+ 
+ 
+
+00:09:58.680 --> 00:10:01.550 align:start position:0%
+ 
+settings.
+
+00:10:01.550 --> 00:10:01.560 align:start position:0%
+settings.
+ 
+
+00:10:01.560 --> 00:10:05.630 align:start position:0%
+settings.
+Okay.<00:10:02.560><c> Make</c><00:10:02.800><c> it</c><00:10:02.959><c> like</c>
+
+00:10:05.630 --> 00:10:05.640 align:start position:0%
+ 
+ 
+
+00:10:05.640 --> 00:10:09.030 align:start position:0%
+ 
+this.<00:10:06.640><c> Now</c><00:10:06.880><c> we</c><00:10:07.120><c> have</c><00:10:07.279><c> to</c><00:10:07.440><c> do</c><00:10:07.760><c> is</c><00:10:08.399><c> to</c><00:10:08.560><c> duplicate</c>
+
+00:10:09.030 --> 00:10:09.040 align:start position:0%
+this. Now we have to do is to duplicate
+ 
+
+00:10:09.040 --> 00:10:12.990 align:start position:0%
+this. Now we have to do is to duplicate
+this<00:10:09.279><c> one</c><00:10:09.600><c> to</c><00:10:09.839><c> the</c>
+
+00:10:12.990 --> 00:10:13.000 align:start position:0%
+ 
+ 
+
+00:10:13.000 --> 00:10:43.990 align:start position:0%
+ 
+others.<00:10:14.000><c> Okay.</c><00:10:14.399><c> and</c><00:10:14.640><c> change</c><00:10:14.880><c> the</c><00:10:15.040><c> index</c>
+
+00:10:43.990 --> 00:10:44.000 align:start position:0%
+ 
+ 
+
+00:10:44.000 --> 00:10:45.590 align:start position:0%
+ 
+Okay.<00:10:44.480><c> Hello</c>
+
+00:10:45.590 --> 00:10:45.600 align:start position:0%
+Okay. Hello
+ 
+
+00:10:45.600 --> 00:10:50.030 align:start position:0%
+Okay. Hello
+For<00:10:45.920><c> mediums</c><00:10:46.640><c> this</c><00:10:47.240><c> one</c><00:10:48.240><c> and</c><00:10:48.480><c> take</c><00:10:48.640><c> a</c><00:10:48.800><c> value</c>
+
+00:10:50.030 --> 00:10:50.040 align:start position:0%
+For mediums this one and take a value
+ 
+
+00:10:50.040 --> 00:10:54.269 align:start position:0%
+For mediums this one and take a value
+one,
+
+00:10:54.269 --> 00:10:54.279 align:start position:0%
+ 
+ 
+
+00:10:54.279 --> 00:10:58.190 align:start position:0%
+ 
+two,
+
+00:10:58.190 --> 00:10:58.200 align:start position:0%
+ 
+ 
+
+00:10:58.200 --> 00:11:04.670 align:start position:0%
+ 
+three,<00:10:59.200><c> and</c><00:10:59.560><c> finally</c>
+
+00:11:04.670 --> 00:11:04.680 align:start position:0%
+ 
+ 
+
+00:11:04.680 --> 00:11:09.269 align:start position:0%
+ 
+four.<00:11:05.680><c> Okay,</c><00:11:06.399><c> comment</c><00:11:06.800><c> all</c><00:11:06.959><c> of</c><00:11:07.160><c> this</c><00:11:08.160><c> and</c><00:11:09.120><c> make</c>
+
+00:11:09.269 --> 00:11:09.279 align:start position:0%
+four. Okay, comment all of this and make
+ 
+
+00:11:09.279 --> 00:11:19.110 align:start position:0%
+four. Okay, comment all of this and make
+it<00:11:09.600><c> texture</c><00:11:10.079><c> quality.</c>
+
+00:11:19.110 --> 00:11:19.120 align:start position:0%
+ 
+ 
+
+00:11:19.120 --> 00:11:21.790 align:start position:0%
+ 
+Compile
+
+00:11:21.790 --> 00:11:21.800 align:start position:0%
+ 
+ 
+
+00:11:21.800 --> 00:11:25.590 align:start position:0%
+ 
+antiode<00:11:22.800><c> make</c><00:11:23.040><c> this</c><00:11:23.360><c> one</c><00:11:23.760><c> right</c><00:11:24.360><c> here.</c><00:11:25.360><c> What</c>
+
+00:11:25.590 --> 00:11:25.600 align:start position:0%
+antiode make this one right here. What
+ 
+
+00:11:25.600 --> 00:11:26.070 align:start position:0%
+antiode make this one right here. What
+is<00:11:25.760><c> the</c>
+
+00:11:26.070 --> 00:11:26.080 align:start position:0%
+is the
+ 
+
+00:11:26.080 --> 00:11:35.630 align:start position:0%
+is the
+[Music]
+
+00:11:35.630 --> 00:11:35.640 align:start position:0%
+ 
+ 
+
+00:11:35.640 --> 00:11:38.470 align:start position:0%
+ 
+problem?<00:11:36.640><c> Now</c><00:11:36.959><c> let's</c><00:11:37.200><c> go</c><00:11:37.360><c> to</c><00:11:37.440><c> design.</c><00:11:38.160><c> Let's</c>
+
+00:11:38.470 --> 00:11:38.480 align:start position:0%
+problem? Now let's go to design. Let's
+ 
+
+00:11:38.480 --> 00:11:41.310 align:start position:0%
+problem? Now let's go to design. Let's
+move<00:11:38.720><c> to</c><00:11:38.959><c> frame</c><00:11:39.839><c> rates</c><00:11:40.320><c> per</c>
+
+00:11:41.310 --> 00:11:41.320 align:start position:0%
+move to frame rates per
+ 
+
+00:11:41.320 --> 00:11:44.110 align:start position:0%
+move to frame rates per
+second.<00:11:42.320><c> Go</c>
+
+00:11:44.110 --> 00:11:44.120 align:start position:0%
+second. Go
+ 
+
+00:11:44.120 --> 00:11:52.750 align:start position:0%
+second. Go
+here<00:11:45.120><c> and</c><00:11:45.360><c> select</c><00:11:45.680><c> my</c><00:11:45.920><c> frame</c><00:11:46.160><c> rates</c><00:11:46.480><c> per</c>
+
+00:11:52.750 --> 00:11:52.760 align:start position:0%
+ 
+ 
+
+00:11:52.760 --> 00:11:58.509 align:start position:0%
+ 
+second.<00:11:53.760><c> Okay,</c><00:11:54.000><c> let's</c><00:11:54.320><c> begin</c><00:11:54.800><c> by</c><00:11:55.279><c> 30</c>
+
+00:11:58.509 --> 00:11:58.519 align:start position:0%
+ 
+ 
+
+00:11:58.519 --> 00:12:01.870 align:start position:0%
+ 
+fps,<00:11:59.519><c> 60</c><00:11:59.880><c> fps,</c><00:12:00.880><c> 90</c>
+
+00:12:01.870 --> 00:12:01.880 align:start position:0%
+fps, 60 fps, 90
+ 
+
+00:12:01.880 --> 00:12:07.750 align:start position:0%
+fps, 60 fps, 90
+fps,<00:12:02.880><c> and</c><00:12:03.279><c> finally</c><00:12:04.000><c> unlimited</c><00:12:04.800><c> FPS.</c>
+
+00:12:07.750 --> 00:12:07.760 align:start position:0%
+fps, and finally unlimited FPS.
+ 
+
+00:12:07.760 --> 00:12:12.829 align:start position:0%
+fps, and finally unlimited FPS.
+This<00:12:07.920><c> one</c><00:12:08.160><c> unedited</c>
+
+00:12:12.829 --> 00:12:12.839 align:start position:0%
+ 
+ 
+
+00:12:12.839 --> 00:12:17.389 align:start position:0%
+ 
+but<00:12:14.040><c> okay.</c><00:12:15.040><c> Get</c>
+
+00:12:17.389 --> 00:12:17.399 align:start position:0%
+but okay. Get
+ 
+
+00:12:17.399 --> 00:12:21.030 align:start position:0%
+but okay. Get
+game<00:12:18.399><c> user</c><00:12:18.920><c> settings.</c><00:12:19.920><c> Now</c><00:12:20.160><c> we</c><00:12:20.399><c> have</c><00:12:20.560><c> to</c><00:12:20.800><c> make</c>
+
+00:12:21.030 --> 00:12:21.040 align:start position:0%
+game user settings. Now we have to make
+ 
+
+00:12:21.040 --> 00:12:21.950 align:start position:0%
+game user settings. Now we have to make
+the<00:12:21.279><c> frame</c>
+
+00:12:21.950 --> 00:12:21.960 align:start position:0%
+the frame
+ 
+
+00:12:21.960 --> 00:12:23.069 align:start position:0%
+the frame
+[Music]
+
+00:12:23.069 --> 00:12:23.079 align:start position:0%
+[Music]
+ 
+
+00:12:23.079 --> 00:12:24.910 align:start position:0%
+[Music]
+rates.
+
+00:12:24.910 --> 00:12:24.920 align:start position:0%
+rates.
+ 
+
+00:12:24.920 --> 00:12:27.870 align:start position:0%
+rates.
+Set<00:12:25.920><c> frame</c><00:12:26.320><c> rate</c><00:12:26.560><c> is</c>
+
+00:12:27.870 --> 00:12:27.880 align:start position:0%
+Set frame rate is
+ 
+
+00:12:27.880 --> 00:12:31.430 align:start position:0%
+Set frame rate is
+limit.<00:12:28.880><c> Okay.</c><00:12:29.200><c> The</c><00:12:29.360><c> first</c><00:12:29.519><c> one</c><00:12:29.760><c> is</c><00:12:30.160><c> uh</c><00:12:30.560><c> 30</c><00:12:30.880><c> fps.</c>
+
+00:12:31.430 --> 00:12:31.440 align:start position:0%
+limit. Okay. The first one is uh 30 fps.
+ 
+
+00:12:31.440 --> 00:12:36.629 align:start position:0%
+limit. Okay. The first one is uh 30 fps.
+We<00:12:31.680><c> have</c><00:12:31.760><c> to</c><00:12:31.920><c> set</c><00:12:32.160><c> this</c><00:12:32.399><c> one</c><00:12:33.200><c> 30</c><00:12:33.519><c> fps.</c>
+
+00:12:36.629 --> 00:12:36.639 align:start position:0%
+ 
+ 
+
+00:12:36.639 --> 00:12:38.590 align:start position:0%
+ 
+Make<00:12:36.880><c> it</c><00:12:37.040><c> the</c><00:12:37.200><c> target</c><00:12:37.519><c> like</c>
+
+00:12:38.590 --> 00:12:38.600 align:start position:0%
+Make it the target like
+ 
+
+00:12:38.600 --> 00:12:41.470 align:start position:0%
+Make it the target like
+this.<00:12:39.600><c> And</c><00:12:39.920><c> finally,</c>
+
+00:12:41.470 --> 00:12:41.480 align:start position:0%
+this. And finally,
+ 
+
+00:12:41.480 --> 00:12:44.350 align:start position:0%
+this. And finally,
+apply
+
+00:12:44.350 --> 00:12:44.360 align:start position:0%
+apply
+ 
+
+00:12:44.360 --> 00:12:46.949 align:start position:0%
+apply
+settings.<00:12:45.360><c> Make</c><00:12:45.600><c> sure</c><00:12:46.320><c> this</c><00:12:46.560><c> one</c><00:12:46.720><c> is</c>
+
+00:12:46.949 --> 00:12:46.959 align:start position:0%
+settings. Make sure this one is
+ 
+
+00:12:46.959 --> 00:13:04.949 align:start position:0%
+settings. Make sure this one is
+unchecked.
+
+00:13:04.949 --> 00:13:04.959 align:start position:0%
+ 
+ 
+
+00:13:04.959 --> 00:13:13.629 align:start position:0%
+ 
+Ctrl<00:13:05.560><c> Ctrl</c>
+
+00:13:13.629 --> 00:13:13.639 align:start position:0%
+ 
+ 
+
+00:13:13.639 --> 00:13:17.629 align:start position:0%
+ 
+V.
+
+00:13:17.629 --> 00:13:17.639 align:start position:0%
+ 
+ 
+
+00:13:17.639 --> 00:13:20.509 align:start position:0%
+ 
+Okay.<00:13:18.639><c> Drag</c><00:13:18.959><c> all</c><00:13:19.120><c> of</c>
+
+00:13:20.509 --> 00:13:20.519 align:start position:0%
+Okay. Drag all of
+ 
+
+00:13:20.519 --> 00:13:27.269 align:start position:0%
+Okay. Drag all of
+this.<00:13:21.519><c> Now</c><00:13:21.839><c> this</c><00:13:22.079><c> one</c><00:13:22.240><c> is</c><00:13:22.480><c> 60</c><00:13:22.880><c> fps.</c>
+
+00:13:27.269 --> 00:13:27.279 align:start position:0%
+ 
+ 
+
+00:13:27.279 --> 00:13:28.509 align:start position:0%
+ 
+90
+
+00:13:28.509 --> 00:13:28.519 align:start position:0%
+90
+ 
+
+00:13:28.519 --> 00:13:32.150 align:start position:0%
+90
+fps<00:13:29.519><c> and</c><00:13:29.839><c> finally</c><00:13:30.560><c> set</c><00:13:30.800><c> this</c><00:13:31.200><c> to</c><00:13:31.440><c> zero</c><00:13:31.839><c> to</c><00:13:32.079><c> make</c>
+
+00:13:32.150 --> 00:13:32.160 align:start position:0%
+fps and finally set this to zero to make
+ 
+
+00:13:32.160 --> 00:13:37.389 align:start position:0%
+fps and finally set this to zero to make
+it
+
+00:13:37.389 --> 00:13:37.399 align:start position:0%
+ 
+ 
+
+00:13:37.399 --> 00:13:42.430 align:start position:0%
+ 
+unlimited.<00:13:38.399><c> Select</c><00:13:38.800><c> all</c><00:13:38.959><c> of</c><00:13:39.120><c> this.</c><00:13:40.079><c> Command</c>
+
+00:13:42.430 --> 00:13:42.440 align:start position:0%
+ 
+ 
+
+00:13:42.440 --> 00:13:49.150 align:start position:0%
+ 
+it.<00:13:43.440><c> This</c><00:13:43.600><c> is</c><00:13:44.200><c> frame</c>
+
+00:13:49.150 --> 00:13:49.160 align:start position:0%
+ 
+ 
+
+00:13:49.160 --> 00:13:57.750 align:start position:0%
+ 
+rate<00:13:50.160><c> second.</c>
+
+00:13:57.750 --> 00:13:57.760 align:start position:0%
+ 
+ 
+
+00:13:57.760 --> 00:14:01.710 align:start position:0%
+ 
+Select<00:13:58.079><c> all</c><00:13:58.240><c> of</c><00:13:58.399><c> this</c><00:13:59.279><c> and</c><00:13:59.600><c> make</c><00:13:59.760><c> it</c><00:14:00.160><c> right</c>
+
+00:14:01.710 --> 00:14:01.720 align:start position:0%
+Select all of this and make it right
+ 
+
+00:14:01.720 --> 00:14:03.389 align:start position:0%
+Select all of this and make it right
+there.
+
+00:14:03.389 --> 00:14:03.399 align:start position:0%
+there.
+ 
+
+00:14:03.399 --> 00:14:06.949 align:start position:0%
+there.
+Okay.<00:14:04.399><c> Uh</c><00:14:05.040><c> make</c><00:14:05.279><c> this</c><00:14:05.519><c> uncheck</c><00:14:06.079><c> it.</c><00:14:06.399><c> I</c><00:14:06.639><c> forget</c>
+
+00:14:06.949 --> 00:14:06.959 align:start position:0%
+Okay. Uh make this uncheck it. I forget
+ 
+
+00:14:06.959 --> 00:14:14.590 align:start position:0%
+Okay. Uh make this uncheck it. I forget
+to<00:14:07.120><c> add</c>
+
+00:14:14.590 --> 00:14:14.600 align:start position:0%
+ 
+ 
+
+00:14:14.600 --> 00:14:16.590 align:start position:0%
+ 
+it.<00:14:15.600><c> Okay.</c>
+
+00:14:16.590 --> 00:14:16.600 align:start position:0%
+it. Okay.
+ 
+
+00:14:16.600 --> 00:14:20.629 align:start position:0%
+it. Okay.
+Fine.<00:14:17.600><c> Compile</c><00:14:18.240><c> and</c><00:14:18.399><c> see</c><00:14:19.000><c> all.</c><00:14:20.000><c> Let's</c><00:14:20.240><c> go</c><00:14:20.480><c> to</c>
+
+00:14:20.629 --> 00:14:20.639 align:start position:0%
+Fine. Compile and see all. Let's go to
+ 
+
+00:14:20.639 --> 00:14:22.949 align:start position:0%
+Fine. Compile and see all. Let's go to
+designer.
+
+00:14:22.949 --> 00:14:22.959 align:start position:0%
+designer.
+ 
+
+00:14:22.959 --> 00:14:25.670 align:start position:0%
+designer.
+You<00:14:23.120><c> have</c><00:14:23.279><c> to</c><00:14:23.440><c> make</c><00:14:23.600><c> this</c><00:14:23.920><c> one</c><00:14:24.720><c> the</c><00:14:24.959><c> final</c><00:14:25.279><c> one.</c>
+
+00:14:25.670 --> 00:14:25.680 align:start position:0%
+You have to make this one the final one.
+ 
+
+00:14:25.680 --> 00:14:27.150 align:start position:0%
+You have to make this one the final one.
+The
+
+00:14:27.150 --> 00:14:27.160 align:start position:0%
+The
+ 
+
+00:14:27.160 --> 00:14:30.030 align:start position:0%
+The
+molds.<00:14:28.160><c> Select</c><00:14:28.480><c> the</c><00:14:28.720><c> first</c>
+
+00:14:30.030 --> 00:14:30.040 align:start position:0%
+molds. Select the first
+ 
+
+00:14:30.040 --> 00:14:33.310 align:start position:0%
+molds. Select the first
+button.<00:14:31.040><c> I'll</c><00:14:31.199><c> click</c>
+
+00:14:33.310 --> 00:14:33.320 align:start position:0%
+button. I'll click
+ 
+
+00:14:33.320 --> 00:14:36.389 align:start position:0%
+button. I'll click
+it.<00:14:34.320><c> And</c><00:14:34.560><c> the</c><00:14:34.800><c> second</c><00:14:35.360><c> button</c><00:14:35.760><c> is</c><00:14:35.920><c> the</c><00:14:36.079><c> full</c>
+
+00:14:36.389 --> 00:14:36.399 align:start position:0%
+it. And the second button is the full
+ 
+
+00:14:36.399 --> 00:14:39.550 align:start position:0%
+it. And the second button is the full
+screen<00:14:37.160><c> button.</c><00:14:38.160><c> Go</c>
+
+00:14:39.550 --> 00:14:39.560 align:start position:0%
+screen button. Go
+ 
+
+00:14:39.560 --> 00:14:44.590 align:start position:0%
+screen button. Go
+down.<00:14:40.560><c> I'll</c><00:14:40.800><c> take</c>
+
+00:14:44.590 --> 00:14:44.600 align:start position:0%
+ 
+ 
+
+00:14:44.600 --> 00:14:51.269 align:start position:0%
+ 
+it.<00:14:45.600><c> Let's</c><00:14:45.920><c> begin</c><00:14:46.600><c> for</c><00:14:47.600><c> the</c><00:14:47.839><c> first</c><00:14:48.160><c> one.</c>
+
+00:14:51.269 --> 00:14:51.279 align:start position:0%
+ 
+ 
+
+00:14:51.279 --> 00:14:54.110 align:start position:0%
+ 
+and<00:14:51.600><c> get</c>
+
+00:14:54.110 --> 00:14:54.120 align:start position:0%
+ 
+ 
+
+00:14:54.120 --> 00:15:01.069 align:start position:0%
+ 
+user<00:14:55.120><c> game</c>
+
+00:15:01.069 --> 00:15:01.079 align:start position:0%
+ 
+ 
+
+00:15:01.079 --> 00:15:04.670 align:start position:0%
+ 
+settings.<00:15:02.079><c> Okay.</c><00:15:02.480><c> From</c>
+
+00:15:04.670 --> 00:15:04.680 align:start position:0%
+settings. Okay. From
+ 
+
+00:15:04.680 --> 00:15:08.110 align:start position:0%
+settings. Okay. From
+this<00:15:05.680><c> set</c><00:15:06.000><c> full</c><00:15:06.320><c> screen</c>
+
+00:15:08.110 --> 00:15:08.120 align:start position:0%
+this set full screen
+ 
+
+00:15:08.120 --> 00:15:11.509 align:start position:0%
+this set full screen
+mode<00:15:09.120><c> for</c><00:15:09.440><c> the</c><00:15:09.839><c> first</c><00:15:10.079><c> one</c><00:15:10.320><c> we</c><00:15:10.480><c> have</c><00:15:10.639><c> to</c><00:15:10.800><c> add</c><00:15:11.279><c> to</c>
+
+00:15:11.509 --> 00:15:11.519 align:start position:0%
+mode for the first one we have to add to
+ 
+
+00:15:11.519 --> 00:15:13.150 align:start position:0%
+mode for the first one we have to add to
+window
+
+00:15:13.150 --> 00:15:13.160 align:start position:0%
+window
+ 
+
+00:15:13.160 --> 00:15:16.030 align:start position:0%
+window
+mode<00:15:14.160><c> and</c><00:15:14.560><c> finally</c>
+
+00:15:16.030 --> 00:15:16.040 align:start position:0%
+mode and finally
+ 
+
+00:15:16.040 --> 00:15:19.990 align:start position:0%
+mode and finally
+apply<00:15:17.040><c> settings.</c>
+
+00:15:19.990 --> 00:15:20.000 align:start position:0%
+apply settings.
+ 
+
+00:15:20.000 --> 00:15:20.810 align:start position:0%
+apply settings.
+I<00:15:20.240><c> check</c><00:15:20.480><c> this</c>
+
+00:15:20.810 --> 00:15:20.820 align:start position:0%
+I check this
+ 
+
+00:15:20.820 --> 00:15:29.230 align:start position:0%
+I check this
+[Music]
+
+00:15:29.230 --> 00:15:29.240 align:start position:0%
+ 
+ 
+
+00:15:29.240 --> 00:15:33.389 align:start position:0%
+ 
+one.<00:15:30.240><c> Ctrl</c><00:15:30.560><c> C</c><00:15:30.800><c> and</c><00:15:31.040><c> Ctrl</c>
+
+00:15:33.389 --> 00:15:33.399 align:start position:0%
+one. Ctrl C and Ctrl
+ 
+
+00:15:33.399 --> 00:15:34.990 align:start position:0%
+one. Ctrl C and Ctrl
+D.
+
+00:15:34.990 --> 00:15:35.000 align:start position:0%
+D.
+ 
+
+00:15:35.000 --> 00:15:42.990 align:start position:0%
+D.
+Okay,<00:15:36.000><c> this</c><00:15:36.240><c> is</c><00:15:36.480><c> one</c><00:15:36.959><c> to</c><00:15:37.120><c> full</c>
+
+00:15:42.990 --> 00:15:43.000 align:start position:0%
+ 
+ 
+
+00:15:43.000 --> 00:15:45.590 align:start position:0%
+ 
+screen.<00:15:44.000><c> Come</c><00:15:44.160><c> on</c><00:15:44.320><c> out</c><00:15:44.480><c> of</c><00:15:44.639><c> this</c><00:15:44.880><c> and</c><00:15:45.040><c> set</c><00:15:45.360><c> this</c>
+
+00:15:45.590 --> 00:15:45.600 align:start position:0%
+screen. Come on out of this and set this
+ 
+
+00:15:45.600 --> 00:15:56.870 align:start position:0%
+screen. Come on out of this and set this
+one<00:15:45.839><c> modes.</c>
+
+00:15:56.870 --> 00:15:56.880 align:start position:0%
+ 
+ 
+
+00:15:56.880 --> 00:15:59.829 align:start position:0%
+ 
+Save<00:15:57.199><c> all</c><00:15:57.680><c> and</c><00:15:57.920><c> return</c><00:15:58.320><c> here.</c><00:15:58.880><c> The</c><00:15:59.199><c> final</c><00:15:59.600><c> one</c>
+
+00:15:59.829 --> 00:15:59.839 align:start position:0%
+Save all and return here. The final one
+ 
+
+00:15:59.839 --> 00:16:03.110 align:start position:0%
+Save all and return here. The final one
+is<00:16:00.160><c> apply</c><00:16:00.560><c> best</c><00:16:01.240><c> settings.</c><00:16:02.240><c> For</c><00:16:02.480><c> this</c><00:16:02.720><c> button,</c>
+
+00:16:03.110 --> 00:16:03.120 align:start position:0%
+is apply best settings. For this button,
+ 
+
+00:16:03.120 --> 00:16:06.870 align:start position:0%
+is apply best settings. For this button,
+we<00:16:03.360><c> have</c><00:16:03.440><c> to</c><00:16:04.120><c> use</c><00:16:05.120><c> your</c><00:16:05.480><c> benchmark</c><00:16:06.480><c> your</c>
+
+00:16:06.870 --> 00:16:06.880 align:start position:0%
+we have to use your benchmark your
+ 
+
+00:16:06.880 --> 00:16:10.030 align:start position:0%
+we have to use your benchmark your
+computer<00:16:07.440><c> and</c><00:16:07.759><c> set</c><00:16:08.160><c> when</c><00:16:08.399><c> you</c><00:16:08.639><c> click</c><00:16:08.880><c> it,</c><00:16:09.360><c> it</c>
+
+00:16:10.030 --> 00:16:10.040 align:start position:0%
+computer and set when you click it, it
+ 
+
+00:16:10.040 --> 00:16:13.269 align:start position:0%
+computer and set when you click it, it
+set<00:16:11.040><c> the</c><00:16:11.360><c> best</c><00:16:11.920><c> uh</c><00:16:12.160><c> quality,</c><00:16:12.720><c> best</c><00:16:12.959><c> settings</c>
+
+00:16:13.269 --> 00:16:13.279 align:start position:0%
+set the best uh quality, best settings
+ 
+
+00:16:13.279 --> 00:16:14.990 align:start position:0%
+set the best uh quality, best settings
+for<00:16:13.600><c> your</c>
+
+00:16:14.990 --> 00:16:15.000 align:start position:0%
+for your
+ 
+
+00:16:15.000 --> 00:16:17.110 align:start position:0%
+for your
+computer.<00:16:16.000><c> Okay.</c>
+
+00:16:17.110 --> 00:16:17.120 align:start position:0%
+computer. Okay.
+ 
+
+00:16:17.120 --> 00:16:22.350 align:start position:0%
+computer. Okay.
+To<00:16:17.360><c> do</c><00:16:17.519><c> that</c><00:16:17.759><c> we</c><00:16:18.000><c> have</c><00:16:18.160><c> to</c><00:16:18.320><c> get</c><00:16:18.639><c> user</c><00:16:19.040><c> game</c>
+
+00:16:22.350 --> 00:16:22.360 align:start position:0%
+ 
+ 
+
+00:16:22.360 --> 00:16:26.749 align:start position:0%
+ 
+settings<00:16:23.360><c> game</c><00:16:23.600><c> user</c>
+
+00:16:26.749 --> 00:16:26.759 align:start position:0%
+ 
+ 
+
+00:16:26.759 --> 00:16:31.870 align:start position:0%
+ 
+settings<00:16:27.759><c> from</c><00:16:28.160><c> this</c><00:16:28.399><c> one.</c><00:16:28.959><c> Let's</c><00:16:29.279><c> run</c><00:16:30.240><c> a</c>
+
+00:16:31.870 --> 00:16:31.880 align:start position:0%
+settings from this one. Let's run a
+ 
+
+00:16:31.880 --> 00:16:36.269 align:start position:0%
+settings from this one. Let's run a
+benchmark<00:16:32.880><c> your</c><00:16:33.199><c> hardware</c>
+
+00:16:36.269 --> 00:16:36.279 align:start position:0%
+ 
+ 
+
+00:16:36.279 --> 00:16:38.910 align:start position:0%
+ 
+benchmark<00:16:37.279><c> and</c>
+
+00:16:38.910 --> 00:16:38.920 align:start position:0%
+benchmark and
+ 
+
+00:16:38.920 --> 00:16:41.389 align:start position:0%
+benchmark and
+apply
+
+00:16:41.389 --> 00:16:41.399 align:start position:0%
+apply
+ 
+
+00:16:41.399 --> 00:16:47.269 align:start position:0%
+apply
+hardware<00:16:42.399><c> benchmark</c><00:16:43.040><c> results.</c>
+
+00:16:47.269 --> 00:16:47.279 align:start position:0%
+ 
+ 
+
+00:16:47.279 --> 00:16:59.230 align:start position:0%
+ 
+Connect<00:16:47.839><c> right</c>
+
+00:16:59.230 --> 00:16:59.240 align:start position:0%
+ 
+ 
+
+00:16:59.240 --> 00:17:09.309 align:start position:0%
+ 
+here.<00:17:00.240><c> Okay.</c><00:17:01.199><c> Ctrl</c><00:17:01.519><c> C</c><00:17:01.759><c> and</c><00:17:02.000><c> command</c><00:17:02.399><c> of</c><00:17:02.639><c> this.</c>
+
+00:17:09.309 --> 00:17:09.319 align:start position:0%
+ 
+ 
+
+00:17:09.319 --> 00:17:21.069 align:start position:0%
+ 
+Apply<00:17:10.319><c> best</c><00:17:10.720><c> game.</c>
+
+00:17:21.069 --> 00:17:21.079 align:start position:0%
+ 
+ 
+
+00:17:21.079 --> 00:17:26.189 align:start position:0%
+ 
+settings.<00:17:22.079><c> Okay,</c><00:17:22.640><c> fine.</c><00:17:23.120><c> Let's</c><00:17:23.360><c> test</c>
+
+00:17:26.189 --> 00:17:26.199 align:start position:0%
+ 
+ 
+
+00:17:26.199 --> 00:17:28.350 align:start position:0%
+ 
+out<00:17:27.199><c> apply.</c>
+
+00:17:28.350 --> 00:17:28.360 align:start position:0%
+out apply.
+ 
+
+00:17:28.360 --> 00:17:32.710 align:start position:0%
+out apply.
+Compile<00:17:29.360><c> and</c><00:17:29.600><c> save</c><00:17:30.039><c> all.</c><00:17:31.039><c> Let's</c><00:17:31.280><c> go</c><00:17:31.520><c> here.</c><00:17:32.480><c> Now</c>
+
+00:17:32.710 --> 00:17:32.720 align:start position:0%
+Compile and save all. Let's go here. Now
+ 
+
+00:17:32.720 --> 00:17:35.990 align:start position:0%
+Compile and save all. Let's go here. Now
+to<00:17:33.120><c> settings.</c><00:17:34.000><c> I</c><00:17:34.320><c> want</c><00:17:34.480><c> to</c><00:17:34.720><c> set</c><00:17:35.440><c> for</c><00:17:35.600><c> example</c>
+
+00:17:35.990 --> 00:17:36.000 align:start position:0%
+to settings. I want to set for example
+ 
+
+00:17:36.000 --> 00:17:39.669 align:start position:0%
+to settings. I want to set for example
+set<00:17:36.400><c> quality</c><00:17:37.039><c> to</c><00:17:37.360><c> high,</c><00:17:38.080><c> texture</c><00:17:38.640><c> low,</c><00:17:39.440><c> and</c>
+
+00:17:39.669 --> 00:17:39.679 align:start position:0%
+set quality to high, texture low, and
+ 
+
+00:17:39.679 --> 00:17:42.710 align:start position:0%
+set quality to high, texture low, and
+frame<00:17:40.000><c> rates</c><00:17:40.480><c> for,000</c><00:17:41.280><c> second.</c><00:17:42.000><c> And</c><00:17:42.400><c> let's</c>
+
+00:17:42.710 --> 00:17:42.720 align:start position:0%
+frame rates for,000 second. And let's
+ 
+
+00:17:42.720 --> 00:17:46.110 align:start position:0%
+frame rates for,000 second. And let's
+set<00:17:43.039><c> to</c><00:17:43.280><c> full</c>
+
+00:17:46.110 --> 00:17:46.120 align:start position:0%
+ 
+ 
+
+00:17:46.120 --> 00:17:49.870 align:start position:0%
+ 
+screen.<00:17:47.120><c> Back.</c><00:17:47.760><c> Start</c>
+
+00:17:49.870 --> 00:17:49.880 align:start position:0%
+screen. Back. Start
+ 
+
+00:17:49.880 --> 00:17:54.950 align:start position:0%
+screen. Back. Start
+game.<00:17:50.880><c> Okay,</c><00:17:51.600><c> it's</c><00:17:52.280><c> fine.</c><00:17:53.280><c> Let's</c><00:17:53.760><c> just</c><00:17:54.640><c> let's</c>
+
+00:17:54.950 --> 00:17:54.960 align:start position:0%
+game. Okay, it's fine. Let's just let's
+ 
+
+00:17:54.960 --> 00:17:58.430 align:start position:0%
+game. Okay, it's fine. Let's just let's
+go<00:17:55.120><c> to</c><00:17:55.360><c> this</c>
+
+00:17:58.430 --> 00:17:58.440 align:start position:0%
+ 
+ 
+
+00:17:58.440 --> 00:18:03.750 align:start position:0%
+ 
+liability<00:17:59.720><c> and</c><00:18:00.720><c> look</c><00:18:00.960><c> at</c><00:18:01.120><c> this</c><00:18:01.799><c> shadows</c><00:18:02.799><c> high</c>
+
+00:18:03.750 --> 00:18:03.760 align:start position:0%
+liability and look at this shadows high
+ 
+
+00:18:03.760 --> 00:18:05.669 align:start position:0%
+liability and look at this shadows high
+texture.
+
+00:18:05.669 --> 00:18:05.679 align:start position:0%
+texture.
+ 
+
+00:18:05.679 --> 00:18:12.110 align:start position:0%
+texture.
+We<00:18:06.000><c> have</c><00:18:06.160><c> to</c><00:18:06.320><c> make</c><00:18:06.640><c> the</c>
+
+00:18:12.110 --> 00:18:12.120 align:start position:0%
+ 
+ 
+
+00:18:12.120 --> 00:18:14.470 align:start position:0%
+ 
+dough.<00:18:13.120><c> Okay.</c><00:18:13.440><c> Thank</c><00:18:13.600><c> you</c><00:18:13.840><c> guys</c><00:18:14.000><c> for</c><00:18:14.160><c> watching</c>
+
+00:18:14.470 --> 00:18:14.480 align:start position:0%
+dough. Okay. Thank you guys for watching
+ 
+
+00:18:14.480 --> 00:18:16.029 align:start position:0%
+dough. Okay. Thank you guys for watching
+this<00:18:14.799><c> all</c><00:18:15.039><c> for</c><00:18:15.280><c> this</c>
+
+00:18:16.029 --> 00:18:16.039 align:start position:0%
+this all for this
+ 
+
+00:18:16.039 --> 00:18:18.190 align:start position:0%
+this all for this
+tutorial.<00:18:17.039><c> On</c><00:18:17.280><c> the</c><00:18:17.440><c> next</c>
+
+00:18:18.190 --> 00:18:18.200 align:start position:0%
+tutorial. On the next
+ 
+
+00:18:18.200 --> 00:18:21.750 align:start position:0%
+tutorial. On the next
+tutorial,<00:18:19.200><c> when</c><00:18:19.440><c> I</c><00:18:19.600><c> apply</c><00:18:20.559><c> enabling</c><00:18:21.200><c> buttons</c>
+
+00:18:21.750 --> 00:18:21.760 align:start position:0%
+tutorial, when I apply enabling buttons
+ 
+
+00:18:21.760 --> 00:18:23.830 align:start position:0%
+tutorial, when I apply enabling buttons
+and<00:18:22.000><c> disabling</c><00:18:22.720><c> button,</c><00:18:23.200><c> for</c><00:18:23.280><c> example,</c><00:18:23.679><c> when</c>
+
+00:18:23.830 --> 00:18:23.840 align:start position:0%
+and disabling button, for example, when
+ 
+
+00:18:23.840 --> 00:18:26.470 align:start position:0%
+and disabling button, for example, when
+I<00:18:24.000><c> click</c><00:18:24.960><c> below,</c><00:18:25.440><c> it's</c><00:18:25.919><c> disabled</c>
+
+00:18:26.470 --> 00:18:26.480 align:start position:0%
+I click below, it's disabled
+ 
+
+00:18:26.480 --> 00:18:30.029 align:start position:0%
+I click below, it's disabled
+automatically<00:18:27.200><c> and</c><00:18:28.160><c> applies</c><00:18:29.039><c> in</c><00:18:29.280><c> the</c>
+
+00:18:30.029 --> 00:18:30.039 align:start position:0%
+automatically and applies in the
+ 
+
+00:18:30.039 --> 00:18:32.390 align:start position:0%
+automatically and applies in the
+settings.<00:18:31.039><c> Subscribe</c><00:18:31.440><c> to</c><00:18:31.600><c> the</c><00:18:31.840><c> channel</c><00:18:32.080><c> and</c>
+
+00:18:32.390 --> 00:18:32.400 align:start position:0%
+settings. Subscribe to the channel and
+ 
+
+00:18:32.400 --> 00:18:34.950 align:start position:0%
+settings. Subscribe to the channel and
+support<00:18:32.720><c> me</c><00:18:33.360><c> on</c><00:18:33.600><c> the</c><00:18:33.760><c> Patreon.</c><00:18:34.320><c> The</c><00:18:34.480><c> link</c><00:18:34.720><c> in</c>
+
+00:18:34.950 --> 00:18:34.960 align:start position:0%
+support me on the Patreon. The link in
+ 
+
+00:18:34.960 --> 00:18:38.080 align:start position:0%
+support me on the Patreon. The link in
+the<00:18:35.200><c> description.</c>
+

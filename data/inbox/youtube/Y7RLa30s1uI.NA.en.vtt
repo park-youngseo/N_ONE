@@ -1,0 +1,312 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.560 --> 00:00:02.869 align:start position:0%
+ 
+Hi<00:00:00.880><c> guys,</c><00:00:01.120><c> in</c><00:00:01.280><c> this</c><00:00:01.360><c> tutorial</c><00:00:01.680><c> we</c><00:00:01.760><c> want</c><00:00:02.080><c> to</c>
+
+00:00:02.869 --> 00:00:02.879 align:start position:0%
+Hi guys, in this tutorial we want to
+ 
+
+00:00:02.879 --> 00:00:07.749 align:start position:0%
+Hi guys, in this tutorial we want to
+install<00:00:03.600><c> N8N</c><00:00:04.319><c> locally</c><00:00:05.359><c> using</c><00:00:05.920><c> uh</c><00:00:06.640><c> uh</c><00:00:06.799><c> Docker.</c>
+
+00:00:07.749 --> 00:00:07.759 align:start position:0%
+install N8N locally using uh uh Docker.
+ 
+
+00:00:07.759 --> 00:00:11.990 align:start position:0%
+install N8N locally using uh uh Docker.
+Okay,<00:00:08.080><c> let's</c><00:00:08.320><c> go.</c><00:00:09.599><c> Uh</c><00:00:09.920><c> before</c><00:00:10.320><c> we</c><00:00:10.559><c> install</c><00:00:11.120><c> N8N</c>
+
+00:00:11.990 --> 00:00:12.000 align:start position:0%
+Okay, let's go. Uh before we install N8N
+ 
+
+00:00:12.000 --> 00:00:13.830 align:start position:0%
+Okay, let's go. Uh before we install N8N
+using<00:00:12.320><c> Docker,</c>
+
+00:00:13.830 --> 00:00:13.840 align:start position:0%
+using Docker,
+ 
+
+00:00:13.840 --> 00:00:16.230 align:start position:0%
+using Docker,
+you<00:00:14.080><c> can</c><00:00:14.320><c> watch</c><00:00:14.559><c> the</c><00:00:14.799><c> previous</c><00:00:15.200><c> tutorial</c><00:00:16.080><c> the</c>
+
+00:00:16.230 --> 00:00:16.240 align:start position:0%
+you can watch the previous tutorial the
+ 
+
+00:00:16.240 --> 00:00:18.950 align:start position:0%
+you can watch the previous tutorial the
+link<00:00:16.560><c> on</c><00:00:16.800><c> the</c><00:00:17.039><c> description</c><00:00:18.080><c> how</c><00:00:18.320><c> to</c><00:00:18.480><c> download</c>
+
+00:00:18.950 --> 00:00:18.960 align:start position:0%
+link on the description how to download
+ 
+
+00:00:18.960 --> 00:00:22.550 align:start position:0%
+link on the description how to download
+and<00:00:19.199><c> install</c><00:00:20.000><c> Docker</c><00:00:20.560><c> desktop</c><00:00:21.439><c> in</c><00:00:21.760><c> your</c>
+
+00:00:22.550 --> 00:00:22.560 align:start position:0%
+and install Docker desktop in your
+ 
+
+00:00:22.560 --> 00:00:26.630 align:start position:0%
+and install Docker desktop in your
+Windows<00:00:23.279><c> machine.</c><00:00:24.720><c> Okay,</c><00:00:25.039><c> let's</c><00:00:25.359><c> go.</c>
+
+00:00:26.630 --> 00:00:26.640 align:start position:0%
+Windows machine. Okay, let's go.
+ 
+
+00:00:26.640 --> 00:00:33.590 align:start position:0%
+Windows machine. Okay, let's go.
+First<00:00:26.960><c> thing</c><00:00:27.199><c> first,</c><00:00:28.240><c> open</c><00:00:28.640><c> desktop</c><00:00:29.599><c> docker.</c>
+
+00:00:33.590 --> 00:00:33.600 align:start position:0%
+ 
+ 
+
+00:00:33.600 --> 00:00:35.830 align:start position:0%
+ 
+After<00:00:33.920><c> opening</c><00:00:34.399><c> the</c><00:00:34.559><c> desktop</c><00:00:35.120><c> docker,</c><00:00:35.600><c> let's</c>
+
+00:00:35.830 --> 00:00:35.840 align:start position:0%
+After opening the desktop docker, let's
+ 
+
+00:00:35.840 --> 00:00:43.030 align:start position:0%
+After opening the desktop docker, let's
+search<00:00:36.239><c> here</c><00:00:36.800><c> the</c><00:00:36.960><c> search</c><00:00:37.280><c> button</c><00:00:38.160><c> N8.</c>
+
+00:00:43.030 --> 00:00:43.040 align:start position:0%
+ 
+ 
+
+00:00:43.040 --> 00:00:47.110 align:start position:0%
+ 
+Okay.<00:00:43.520><c> And</c><00:00:43.760><c> choose</c><00:00:44.079><c> this</c><00:00:44.320><c> version</c><00:00:45.200><c> N8/</c>
+
+00:00:47.110 --> 00:00:47.120 align:start position:0%
+Okay. And choose this version N8/
+ 
+
+00:00:47.120 --> 00:00:48.790 align:start position:0%
+Okay. And choose this version N8/
+N8N.
+
+00:00:48.790 --> 00:00:48.800 align:start position:0%
+N8N.
+ 
+
+00:00:48.800 --> 00:00:51.830 align:start position:0%
+N8N.
+Hit<00:00:49.120><c> P.</c>
+
+00:00:51.830 --> 00:00:51.840 align:start position:0%
+Hit P.
+ 
+
+00:00:51.840 --> 00:00:53.830 align:start position:0%
+Hit P.
+Click<00:00:52.239><c> once</c>
+
+00:00:53.830 --> 00:00:53.840 align:start position:0%
+Click once
+ 
+
+00:00:53.840 --> 00:00:56.869 align:start position:0%
+Click once
+and<00:00:54.239><c> click</c><00:00:54.559><c> boot</c><00:00:55.039><c> and</c><00:00:55.360><c> the</c><00:00:55.600><c> installation</c><00:00:56.320><c> is</c>
+
+00:00:56.869 --> 00:00:56.879 align:start position:0%
+and click boot and the installation is
+ 
+
+00:00:56.879 --> 00:00:59.670 align:start position:0%
+and click boot and the installation is
+begin.
+
+00:00:59.670 --> 00:00:59.680 align:start position:0%
+begin.
+ 
+
+00:00:59.680 --> 00:01:02.150 align:start position:0%
+begin.
+Okay,<00:01:00.160><c> fine.</c><00:01:00.559><c> The</c><00:01:00.800><c> installation</c><00:01:01.359><c> is</c><00:01:01.760><c> finished</c>
+
+00:01:02.150 --> 00:01:02.160 align:start position:0%
+Okay, fine. The installation is finished
+ 
+
+00:01:02.160 --> 00:01:05.350 align:start position:0%
+Okay, fine. The installation is finished
+of<00:01:02.399><c> N8.</c><00:01:02.960><c> And</c><00:01:03.199><c> let's</c><00:01:03.440><c> run.</c>
+
+00:01:05.350 --> 00:01:05.360 align:start position:0%
+of N8. And let's run.
+ 
+
+00:01:05.360 --> 00:01:08.310 align:start position:0%
+of N8. And let's run.
+Okay.<00:01:06.000><c> Optional</c><00:01:06.720><c> setting.</c><00:01:07.439><c> You</c><00:01:07.600><c> can</c><00:01:07.760><c> set</c><00:01:08.000><c> this</c>
+
+00:01:08.310 --> 00:01:08.320 align:start position:0%
+Okay. Optional setting. You can set this
+ 
+
+00:01:08.320 --> 00:01:10.070 align:start position:0%
+Okay. Optional setting. You can set this
+one
+
+00:01:10.070 --> 00:01:10.080 align:start position:0%
+one
+ 
+
+00:01:10.080 --> 00:01:12.390 align:start position:0%
+one
+678.
+
+00:01:12.390 --> 00:01:12.400 align:start position:0%
+678.
+ 
+
+00:01:12.400 --> 00:01:18.950 align:start position:0%
+678.
+This<00:01:12.640><c> is</c><00:01:12.799><c> the</c><00:01:13.119><c> fourth</c><00:01:13.760><c> antra</c>
+
+00:01:18.950 --> 00:01:18.960 align:start position:0%
+ 
+ 
+
+00:01:18.960 --> 00:01:25.510 align:start position:0%
+ 
+allow.
+
+00:01:25.510 --> 00:01:25.520 align:start position:0%
+ 
+ 
+
+00:01:25.520 --> 00:01:28.469 align:start position:0%
+ 
+Uh<00:01:26.080><c> now</c><00:01:26.320><c> you</c><00:01:26.560><c> can</c><00:01:26.720><c> get</c><00:01:26.880><c> it</c><00:01:27.119><c> from</c><00:01:27.439><c> this</c><00:01:27.840><c> uh</c><00:01:28.080><c> link</c>
+
+00:01:28.469 --> 00:01:28.479 align:start position:0%
+Uh now you can get it from this uh link
+ 
+
+00:01:28.479 --> 00:01:31.749 align:start position:0%
+Uh now you can get it from this uh link
+localhost/theport.
+
+00:01:31.749 --> 00:01:31.759 align:start position:0%
+ 
+ 
+
+00:01:31.759 --> 00:01:35.350 align:start position:0%
+ 
+Okay.<00:01:32.159><c> Write</c><00:01:32.400><c> your</c><00:01:32.799><c> email,</c><00:01:33.840><c> your</c><00:01:34.240><c> name</c><00:01:35.040><c> and</c>
+
+00:01:35.350 --> 00:01:35.360 align:start position:0%
+Okay. Write your email, your name and
+ 
+
+00:01:35.360 --> 00:01:40.069 align:start position:0%
+Okay. Write your email, your name and
+your<00:01:36.079><c> password.</c>
+
+00:01:40.069 --> 00:01:40.079 align:start position:0%
+ 
+ 
+
+00:01:40.079 --> 00:01:43.590 align:start position:0%
+ 
+Hit<00:01:40.400><c> next.</c>
+
+00:01:43.590 --> 00:01:43.600 align:start position:0%
+ 
+ 
+
+00:01:43.600 --> 00:01:46.789 align:start position:0%
+ 
+Okay.<00:01:44.000><c> Choose</c><00:01:44.240><c> what</c><00:01:44.400><c> do</c><00:01:44.560><c> you</c><00:01:44.720><c> want</c><00:01:44.880><c> from</c><00:01:45.200><c> this?</c>
+
+00:01:46.789 --> 00:01:46.799 align:start position:0%
+Okay. Choose what do you want from this?
+ 
+
+00:01:46.799 --> 00:01:52.870 align:start position:0%
+Okay. Choose what do you want from this?
+I'll<00:01:47.040><c> clear</c><00:01:47.439><c> those.</c>
+
+00:01:52.870 --> 00:01:52.880 align:start position:0%
+ 
+ 
+
+00:01:52.880 --> 00:01:55.830 align:start position:0%
+ 
+Okay.<00:01:53.200><c> You</c><00:01:53.439><c> can</c><00:01:53.520><c> get</c><00:01:54.000><c> your</c><00:01:54.320><c> free</c><00:01:54.560><c> license</c><00:01:55.119><c> by</c>
+
+00:01:55.830 --> 00:01:55.840 align:start position:0%
+Okay. You can get your free license by
+ 
+
+00:01:55.840 --> 00:01:58.709 align:start position:0%
+Okay. You can get your free license by
+typing<00:01:56.399><c> your</c><00:01:56.720><c> email</c><00:01:57.040><c> right</c><00:01:57.360><c> here</c><00:01:57.759><c> and</c><00:01:58.079><c> send</c><00:01:58.479><c> me</c>
+
+00:01:58.709 --> 00:01:58.719 align:start position:0%
+typing your email right here and send me
+ 
+
+00:01:58.719 --> 00:02:01.510 align:start position:0%
+typing your email right here and send me
+a<00:01:58.960><c> free</c><00:01:59.200><c> license.</c><00:02:00.000><c> Can</c><00:02:00.159><c> get</c><00:02:00.320><c> it</c><00:02:00.479><c> in</c><00:02:00.719><c> your</c>
+
+00:02:01.510 --> 00:02:01.520 align:start position:0%
+a free license. Can get it in your
+ 
+
+00:02:01.520 --> 00:02:04.389 align:start position:0%
+a free license. Can get it in your
+email.<00:02:02.320><c> Okay.</c><00:02:02.640><c> Fine.</c>
+
+00:02:04.389 --> 00:02:04.399 align:start position:0%
+email. Okay. Fine.
+ 
+
+00:02:04.399 --> 00:02:09.029 align:start position:0%
+email. Okay. Fine.
+Uh<00:02:04.960><c> the</c><00:02:05.200><c> installation</c><00:02:05.759><c> of</c><00:02:06.079><c> N8N</c><00:02:07.040><c> is</c><00:02:07.680><c> finished.</c>
+
+00:02:09.029 --> 00:02:09.039 align:start position:0%
+Uh the installation of N8N is finished.
+ 
+
+00:02:09.039 --> 00:02:10.710 align:start position:0%
+Uh the installation of N8N is finished.
+Thank<00:02:09.200><c> you</c><00:02:09.360><c> guys</c><00:02:09.520><c> for</c><00:02:09.759><c> watching.</c><00:02:10.239><c> Subscribe</c>
+
+00:02:10.710 --> 00:02:10.720 align:start position:0%
+Thank you guys for watching. Subscribe
+ 
+
+00:02:10.720 --> 00:02:12.710 align:start position:0%
+Thank you guys for watching. Subscribe
+for<00:02:10.959><c> the</c><00:02:11.200><c> channel</c>
+
+00:02:12.710 --> 00:02:12.720 align:start position:0%
+for the channel
+ 
+
+00:02:12.720 --> 00:02:16.800 align:start position:0%
+for the channel
+for<00:02:13.040><c> more</c><00:02:13.280><c> tutorials</c><00:02:14.000><c> like</c><00:02:14.239><c> this.</c>
+

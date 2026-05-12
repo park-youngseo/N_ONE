@@ -1,0 +1,2472 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.719 --> 00:00:02.310 align:start position:0%
+ 
+Hi<00:00:00.960><c> guys,</c><00:00:01.199><c> in</c><00:00:01.360><c> this</c><00:00:01.439><c> tutorial</c><00:00:01.760><c> I</c><00:00:01.920><c> want</c><00:00:02.000><c> to</c><00:00:02.159><c> show</c>
+
+00:00:02.310 --> 00:00:02.320 align:start position:0%
+Hi guys, in this tutorial I want to show
+ 
+
+00:00:02.320 --> 00:00:06.309 align:start position:0%
+Hi guys, in this tutorial I want to show
+you<00:00:02.560><c> how</c><00:00:02.800><c> to</c><00:00:02.960><c> create</c><00:00:03.600><c> uh</c>
+
+00:00:06.309 --> 00:00:06.319 align:start position:0%
+you how to create uh
+ 
+
+00:00:06.319 --> 00:00:09.430 align:start position:0%
+you how to create uh
+walls,<00:00:06.879><c> realistic</c><00:00:07.440><c> walls</c><00:00:07.759><c> like</c><00:00:08.000><c> this</c><00:00:08.639><c> fences</c>
+
+00:00:09.430 --> 00:00:09.440 align:start position:0%
+walls, realistic walls like this fences
+ 
+
+00:00:09.440 --> 00:00:13.669 align:start position:0%
+walls, realistic walls like this fences
+for<00:00:09.840><c> our</c><00:00:10.400><c> levels</c><00:00:11.040><c> and</c><00:00:11.599><c> add</c><00:00:12.000><c> mountains</c>
+
+00:00:13.669 --> 00:00:13.679 align:start position:0%
+for our levels and add mountains
+ 
+
+00:00:13.679 --> 00:00:16.230 align:start position:0%
+for our levels and add mountains
+uh<00:00:13.840><c> right</c><00:00:14.080><c> here</c><00:00:14.400><c> as</c><00:00:14.719><c> you</c><00:00:14.880><c> can</c><00:00:15.120><c> see.</c><00:00:15.759><c> And</c><00:00:15.920><c> this</c>
+
+00:00:16.230 --> 00:00:16.240 align:start position:0%
+uh right here as you can see. And this
+ 
+
+00:00:16.240 --> 00:00:19.349 align:start position:0%
+uh right here as you can see. And this
+third<00:00:16.560><c> part</c><00:00:17.039><c> of</c><00:00:17.760><c> our</c><00:00:18.080><c> environment</c><00:00:18.800><c> artist</c>
+
+00:00:19.349 --> 00:00:19.359 align:start position:0%
+third part of our environment artist
+ 
+
+00:00:19.359 --> 00:00:22.550 align:start position:0%
+third part of our environment artist
+course<00:00:20.320><c> you</c><00:00:20.480><c> can</c><00:00:20.720><c> see</c><00:00:20.880><c> the</c><00:00:21.119><c> previous</c><00:00:21.520><c> part</c><00:00:22.240><c> to</c>
+
+00:00:22.550 --> 00:00:22.560 align:start position:0%
+course you can see the previous part to
+ 
+
+00:00:22.560 --> 00:00:26.310 align:start position:0%
+course you can see the previous part to
+show<00:00:23.439><c> how</c><00:00:23.680><c> things</c><00:00:24.080><c> works</c><00:00:24.560><c> and</c><00:00:25.519><c> come</c><00:00:25.760><c> here</c><00:00:26.000><c> to</c>
+
+00:00:26.310 --> 00:00:26.320 align:start position:0%
+show how things works and come here to
+ 
+
+00:00:26.320 --> 00:00:33.110 align:start position:0%
+show how things works and come here to
+continue<00:00:26.880><c> the</c><00:00:27.199><c> work.</c><00:00:27.840><c> Okay,</c><00:00:28.240><c> let's</c><00:00:28.560><c> go.</c>
+
+00:00:33.110 --> 00:00:33.120 align:start position:0%
+ 
+ 
+
+00:00:33.120 --> 00:00:36.709 align:start position:0%
+ 
+Uh<00:00:33.520><c> okay</c><00:00:34.000><c> guys</c><00:00:34.640><c> in</c><00:00:34.960><c> this</c><00:00:35.120><c> tutorial</c><00:00:36.399><c> want</c><00:00:36.480><c> to</c>
+
+00:00:36.709 --> 00:00:36.719 align:start position:0%
+Uh okay guys in this tutorial want to
+ 
+
+00:00:36.719 --> 00:00:41.430 align:start position:0%
+Uh okay guys in this tutorial want to
+create<00:00:36.960><c> this</c><00:00:37.440><c> uh</c><00:00:37.760><c> fence</c><00:00:39.040><c> as</c><00:00:39.280><c> you</c><00:00:39.440><c> can</c><00:00:39.680><c> see</c>
+
+00:00:41.430 --> 00:00:41.440 align:start position:0%
+create this uh fence as you can see
+ 
+
+00:00:41.440 --> 00:00:46.229 align:start position:0%
+create this uh fence as you can see
+and<00:00:41.760><c> these</c><00:00:42.079><c> walls</c><00:00:43.440><c> okay</c><00:00:44.079><c> around</c><00:00:44.559><c> this.</c><00:00:45.920><c> Okay,</c>
+
+00:00:46.229 --> 00:00:46.239 align:start position:0%
+and these walls okay around this. Okay,
+ 
+
+00:00:46.239 --> 00:00:48.950 align:start position:0%
+and these walls okay around this. Okay,
+let's<00:00:46.559><c> go.</c><00:00:46.960><c> Let's</c><00:00:47.280><c> create</c><00:00:47.600><c> those.</c><00:00:48.480><c> And</c><00:00:48.719><c> this</c>
+
+00:00:48.950 --> 00:00:48.960 align:start position:0%
+let's go. Let's create those. And this
+ 
+
+00:00:48.960 --> 00:00:51.029 align:start position:0%
+let's go. Let's create those. And this
+mountain<00:00:49.360><c> will</c><00:00:49.680><c> import</c><00:00:50.000><c> a</c><00:00:50.320><c> mountain</c><00:00:50.719><c> like</c>
+
+00:00:51.029 --> 00:00:51.039 align:start position:0%
+mountain will import a mountain like
+ 
+
+00:00:51.039 --> 00:00:52.630 align:start position:0%
+mountain will import a mountain like
+this
+
+00:00:52.630 --> 00:00:52.640 align:start position:0%
+this
+ 
+
+00:00:52.640 --> 00:00:55.510 align:start position:0%
+this
+from<00:00:52.960><c> the</c><00:00:53.120><c> Fab</c><00:00:53.440><c> Marketplace.</c><00:00:54.239><c> And</c><00:00:54.640><c> let's</c>
+
+00:00:55.510 --> 00:00:55.520 align:start position:0%
+from the Fab Marketplace. And let's
+ 
+
+00:00:55.520 --> 00:00:59.910 align:start position:0%
+from the Fab Marketplace. And let's
+Okay,<00:00:56.079><c> first</c><00:00:56.320><c> thing</c><00:00:56.480><c> first.</c><00:00:56.960><c> Let's</c><00:00:57.199><c> go</c><00:00:57.600><c> here.</c>
+
+00:00:59.910 --> 00:00:59.920 align:start position:0%
+Okay, first thing first. Let's go here.
+ 
+
+00:00:59.920 --> 00:01:01.910 align:start position:0%
+Okay, first thing first. Let's go here.
+Okay.<00:01:00.480><c> And</c><00:01:00.640><c> the</c><00:01:00.800><c> previous</c><00:01:01.199><c> part,</c><00:01:01.520><c> we</c><00:01:01.680><c> want</c><00:01:01.760><c> to</c>
+
+00:01:01.910 --> 00:01:01.920 align:start position:0%
+Okay. And the previous part, we want to
+ 
+
+00:01:01.920 --> 00:01:03.590 align:start position:0%
+Okay. And the previous part, we want to
+stop<00:01:02.079><c> it</c><00:01:02.239><c> right</c><00:01:02.480><c> here.</c><00:01:02.719><c> You</c><00:01:02.960><c> can</c><00:01:03.120><c> watch</c><00:01:03.359><c> the</c>
+
+00:01:03.590 --> 00:01:03.600 align:start position:0%
+stop it right here. You can watch the
+ 
+
+00:01:03.600 --> 00:01:07.190 align:start position:0%
+stop it right here. You can watch the
+previous<00:01:04.000><c> part.</c><00:01:04.479><c> You</c><00:01:04.640><c> can</c><00:01:04.879><c> see</c><00:01:05.040><c> how</c>
+
+00:01:07.190 --> 00:01:07.200 align:start position:0%
+previous part. You can see how
+ 
+
+00:01:07.200 --> 00:01:10.710 align:start position:0%
+previous part. You can see how
+I<00:01:07.760><c> create</c><00:01:08.320><c> those</c>
+
+00:01:10.710 --> 00:01:10.720 align:start position:0%
+I create those
+ 
+
+00:01:10.720 --> 00:01:15.030 align:start position:0%
+I create those
+water,<00:01:11.520><c> this</c><00:01:11.840><c> ground,</c><00:01:12.320><c> and</c><00:01:12.640><c> this</c><00:01:13.840><c> uh</c><00:01:14.080><c> tunnel.</c>
+
+00:01:15.030 --> 00:01:15.040 align:start position:0%
+water, this ground, and this uh tunnel.
+ 
+
+00:01:15.040 --> 00:01:19.190 align:start position:0%
+water, this ground, and this uh tunnel.
+Okay.<00:01:15.520><c> Now</c><00:01:15.680><c> let's</c><00:01:16.000><c> create</c><00:01:16.560><c> other</c><00:01:16.880><c> things.</c>
+
+00:01:19.190 --> 00:01:19.200 align:start position:0%
+Okay. Now let's create other things.
+ 
+
+00:01:19.200 --> 00:01:22.070 align:start position:0%
+Okay. Now let's create other things.
+Well,<00:01:19.360><c> let's</c><00:01:19.600><c> return</c><00:01:20.080><c> here.</c>
+
+00:01:22.070 --> 00:01:22.080 align:start position:0%
+Well, let's return here.
+ 
+
+00:01:22.080 --> 00:01:24.950 align:start position:0%
+Well, let's return here.
+You<00:01:22.320><c> can</c><00:01:22.560><c> download</c><00:01:23.040><c> this</c><00:01:23.280><c> one</c>
+
+00:01:24.950 --> 00:01:24.960 align:start position:0%
+You can download this one
+ 
+
+00:01:24.960 --> 00:01:27.910 align:start position:0%
+You can download this one
+uh<00:01:25.040><c> this</c><00:01:25.280><c> military</c><00:01:25.759><c> fence</c><00:01:26.159><c> gate</c><00:01:27.360><c> the</c><00:01:27.600><c> project</c>
+
+00:01:27.910 --> 00:01:27.920 align:start position:0%
+uh this military fence gate the project
+ 
+
+00:01:27.920 --> 00:01:29.510 align:start position:0%
+uh this military fence gate the project
+files.
+
+00:01:29.510 --> 00:01:29.520 align:start position:0%
+files.
+ 
+
+00:01:29.520 --> 00:01:35.429 align:start position:0%
+files.
+Okay,<00:01:29.840><c> first</c><00:01:30.080><c> of</c><00:01:30.159><c> all</c><00:01:30.400><c> let's</c><00:01:30.880><c> uh</c>
+
+00:01:35.429 --> 00:01:35.439 align:start position:0%
+ 
+ 
+
+00:01:35.439 --> 00:01:40.550 align:start position:0%
+ 
+now<00:01:35.680><c> let's</c><00:01:36.000><c> go</c><00:01:36.240><c> here</c><00:01:36.640><c> and</c><00:01:36.960><c> open</c><00:01:37.360><c> our</c><00:01:37.680><c> fans.</c>
+
+00:01:40.550 --> 00:01:40.560 align:start position:0%
+now let's go here and open our fans.
+ 
+
+00:01:40.560 --> 00:01:42.069 align:start position:0%
+now let's go here and open our fans.
+Okay,
+
+00:01:42.069 --> 00:01:42.079 align:start position:0%
+Okay,
+ 
+
+00:01:42.079 --> 00:01:44.469 align:start position:0%
+Okay,
+you<00:01:42.320><c> have</c><00:01:42.479><c> to</c><00:01:42.640><c> merge</c><00:01:43.200><c> those</c><00:01:43.520><c> files</c><00:01:43.920><c> using</c><00:01:44.240><c> the</c>
+
+00:01:44.469 --> 00:01:44.479 align:start position:0%
+you have to merge those files using the
+ 
+
+00:01:44.479 --> 00:01:49.350 align:start position:0%
+you have to merge those files using the
+FPX<00:01:45.200><c> uh</c><00:01:46.240><c> the</c><00:01:46.479><c> blender.</c><00:01:47.200><c> Open</c><00:01:47.520><c> the</c><00:01:47.680><c> blender</c>
+
+00:01:49.350 --> 00:01:49.360 align:start position:0%
+FPX uh the blender. Open the blender
+ 
+
+00:01:49.360 --> 00:01:52.710 align:start position:0%
+FPX uh the blender. Open the blender
+and<00:01:49.680><c> import</c><00:01:50.079><c> the</c><00:01:50.240><c> FX</c><00:01:50.799><c> file.</c>
+
+00:01:52.710 --> 00:01:52.720 align:start position:0%
+and import the FX file.
+ 
+
+00:01:52.720 --> 00:01:56.789 align:start position:0%
+and import the FX file.
+Okay,<00:01:53.439><c> general</c><00:01:54.000><c> right</c><00:01:54.240><c> here.</c><00:01:55.600><c> Delete</c><00:01:56.240><c> those</c>
+
+00:01:56.789 --> 00:01:56.799 align:start position:0%
+Okay, general right here. Delete those
+ 
+
+00:01:56.799 --> 00:01:59.030 align:start position:0%
+Okay, general right here. Delete those
+by<00:01:57.119><c> pressing</c><00:01:57.520><c> delete</c>
+
+00:01:59.030 --> 00:01:59.040 align:start position:0%
+by pressing delete
+ 
+
+00:01:59.040 --> 00:02:02.069 align:start position:0%
+by pressing delete
+here<00:01:59.360><c> file.</c><00:02:00.159><c> Import</c>
+
+00:02:02.069 --> 00:02:02.079 align:start position:0%
+here file. Import
+ 
+
+00:02:02.079 --> 00:02:06.789 align:start position:0%
+here file. Import
+on<00:02:02.719><c> FX</c><00:02:03.200><c> file.</c><00:02:03.759><c> Go</c><00:02:03.920><c> to</c><00:02:04.079><c> desktop</c><00:02:05.119><c> military</c><00:02:05.680><c> fans.</c>
+
+00:02:06.789 --> 00:02:06.799 align:start position:0%
+on FX file. Go to desktop military fans.
+ 
+
+00:02:06.799 --> 00:02:14.949 align:start position:0%
+on FX file. Go to desktop military fans.
+Uh<00:02:07.119><c> this</c><00:02:07.280><c> one.</c>
+
+00:02:14.949 --> 00:02:14.959 align:start position:0%
+ 
+ 
+
+00:02:14.959 --> 00:02:18.630 align:start position:0%
+ 
+Okay,<00:02:15.440><c> there</c><00:02:15.680><c> is</c><00:02:15.840><c> two</c><00:02:16.080><c> fences.</c>
+
+00:02:18.630 --> 00:02:18.640 align:start position:0%
+Okay, there is two fences.
+ 
+
+00:02:18.640 --> 00:02:23.670 align:start position:0%
+Okay, there is two fences.
+Okay,<00:02:18.879><c> I</c><00:02:19.040><c> want</c><00:02:19.280><c> to</c><00:02:19.360><c> use</c><00:02:19.520><c> one</c><00:02:19.760><c> of</c><00:02:19.920><c> the</c>
+
+00:02:23.670 --> 00:02:23.680 align:start position:0%
+ 
+ 
+
+00:02:23.680 --> 00:02:30.229 align:start position:0%
+ 
+let's<00:02:24.000><c> see</c><00:02:24.239><c> it's</c><00:02:25.680><c> okay.</c><00:02:26.000><c> Fine.</c>
+
+00:02:30.229 --> 00:02:30.239 align:start position:0%
+ 
+ 
+
+00:02:30.239 --> 00:02:36.309 align:start position:0%
+ 
+Second<00:02:30.640><c> one.</c><00:02:31.200><c> I</c><00:02:31.280><c> want</c><00:02:31.599><c> to</c><00:02:31.760><c> delete</c><00:02:32.080><c> this.</c>
+
+00:02:36.309 --> 00:02:36.319 align:start position:0%
+ 
+ 
+
+00:02:36.319 --> 00:02:38.790 align:start position:0%
+ 
+Pressing<00:02:36.720><c> delete.</c>
+
+00:02:38.790 --> 00:02:38.800 align:start position:0%
+Pressing delete.
+ 
+
+00:02:38.800 --> 00:02:40.550 align:start position:0%
+Pressing delete.
+Okay.<00:02:39.200><c> Now</c><00:02:39.440><c> make</c><00:02:39.599><c> sure</c><00:02:39.760><c> you</c><00:02:40.000><c> are</c><00:02:40.160><c> in</c><00:02:40.400><c> the</c>
+
+00:02:40.550 --> 00:02:40.560 align:start position:0%
+Okay. Now make sure you are in the
+ 
+
+00:02:40.560 --> 00:02:45.430 align:start position:0%
+Okay. Now make sure you are in the
+object<00:02:40.959><c> mode</c><00:02:41.680><c> like</c><00:02:42.000><c> this</c><00:02:43.040><c> and</c><00:02:44.000><c> press</c><00:02:44.319><c> Z</c><00:02:44.959><c> to</c><00:02:45.200><c> go</c>
+
+00:02:45.430 --> 00:02:45.440 align:start position:0%
+object mode like this and press Z to go
+ 
+
+00:02:45.440 --> 00:02:48.630 align:start position:0%
+object mode like this and press Z to go
+here<00:02:45.680><c> to</c><00:02:45.840><c> the</c><00:02:46.000><c> wireframe</c><00:02:46.720><c> mode.</c><00:02:48.080><c> After</c><00:02:48.400><c> doing</c>
+
+00:02:48.630 --> 00:02:48.640 align:start position:0%
+here to the wireframe mode. After doing
+ 
+
+00:02:48.640 --> 00:02:51.190 align:start position:0%
+here to the wireframe mode. After doing
+this,<00:02:49.040><c> select</c><00:02:49.360><c> all</c><00:02:49.760><c> of</c><00:02:50.319><c> those</c><00:02:50.560><c> files</c><00:02:50.959><c> by</c>
+
+00:02:51.190 --> 00:02:51.200 align:start position:0%
+this, select all of those files by
+ 
+
+00:02:51.200 --> 00:02:53.750 align:start position:0%
+this, select all of those files by
+pressing<00:02:51.599><c> this</c><00:02:51.840><c> cursor.</c><00:02:52.720><c> Bless</c><00:02:53.120><c> the</c><00:02:53.360><c> method</c>
+
+00:02:53.750 --> 00:02:53.760 align:start position:0%
+pressing this cursor. Bless the method
+ 
+
+00:02:53.760 --> 00:02:57.750 align:start position:0%
+pressing this cursor. Bless the method
+button<00:02:54.160><c> and</c><00:02:54.239><c> the</c><00:02:54.480><c> mouse.</c><00:02:55.200><c> Okay.</c><00:02:55.680><c> Fine.</c>
+
+00:02:57.750 --> 00:02:57.760 align:start position:0%
+button and the mouse. Okay. Fine.
+ 
+
+00:02:57.760 --> 00:03:00.790 align:start position:0%
+button and the mouse. Okay. Fine.
+While<00:02:58.080><c> this</c><00:02:58.480><c> all</c><00:02:58.720><c> objects</c><00:02:59.360><c> are</c><00:02:59.599><c> selected.</c>
+
+00:03:00.790 --> 00:03:00.800 align:start position:0%
+While this all objects are selected.
+ 
+
+00:03:00.800 --> 00:03:03.910 align:start position:0%
+While this all objects are selected.
+Okay.<00:03:01.200><c> Now</c><00:03:01.360><c> let's</c><00:03:01.680><c> join</c><00:03:02.080><c> them</c><00:03:02.239><c> in</c><00:03:02.480><c> one</c><00:03:02.720><c> object.</c>
+
+00:03:03.910 --> 00:03:03.920 align:start position:0%
+Okay. Now let's join them in one object.
+ 
+
+00:03:03.920 --> 00:03:07.589 align:start position:0%
+Okay. Now let's join them in one object.
+Go<00:03:04.159><c> here</c><00:03:04.319><c> to</c><00:03:04.560><c> join.</c><00:03:05.200><c> Ctrl</c><00:03:05.760><c> G</c><00:03:06.000><c> or</c><00:03:06.319><c> press</c><00:03:06.640><c> join.</c>
+
+00:03:07.589 --> 00:03:07.599 align:start position:0%
+Go here to join. Ctrl G or press join.
+ 
+
+00:03:07.599 --> 00:03:12.790 align:start position:0%
+Go here to join. Ctrl G or press join.
+Okay.<00:03:07.920><c> Now</c><00:03:08.159><c> it's</c><00:03:08.879><c> a</c><00:03:09.120><c> single</c><00:03:10.000><c> uh</c><00:03:10.239><c> file</c>
+
+00:03:12.790 --> 00:03:12.800 align:start position:0%
+Okay. Now it's a single uh file
+ 
+
+00:03:12.800 --> 00:03:16.149 align:start position:0%
+Okay. Now it's a single uh file
+one<00:03:13.040><c> I</c><00:03:13.280><c> join</c><00:03:13.680><c> them.</c><00:03:14.640><c> Okay.</c><00:03:15.120><c> Let's</c><00:03:15.440><c> move</c><00:03:15.680><c> it</c><00:03:15.920><c> by</c>
+
+00:03:16.149 --> 00:03:16.159 align:start position:0%
+one I join them. Okay. Let's move it by
+ 
+
+00:03:16.159 --> 00:03:19.110 align:start position:0%
+one I join them. Okay. Let's move it by
+pressing<00:03:16.640><c> here.</c><00:03:17.200><c> Fine.</c>
+
+00:03:19.110 --> 00:03:19.120 align:start position:0%
+pressing here. Fine.
+ 
+
+00:03:19.120 --> 00:03:24.710 align:start position:0%
+pressing here. Fine.
+Uh<00:03:20.239><c> okay.</c><00:03:20.720><c> After</c><00:03:21.200><c> joining</c><00:03:22.000><c> them</c><00:03:23.040><c> let's</c><00:03:23.360><c> see</c>
+
+00:03:24.710 --> 00:03:24.720 align:start position:0%
+Uh okay. After joining them let's see
+ 
+
+00:03:24.720 --> 00:03:27.270 align:start position:0%
+Uh okay. After joining them let's see
+what<00:03:24.959><c> I</c><00:03:25.200><c> want</c><00:03:25.360><c> to</c><00:03:25.519><c> do.</c>
+
+00:03:27.270 --> 00:03:27.280 align:start position:0%
+what I want to do.
+ 
+
+00:03:27.280 --> 00:03:29.670 align:start position:0%
+what I want to do.
+Nothing.
+
+00:03:29.670 --> 00:03:29.680 align:start position:0%
+Nothing.
+ 
+
+00:03:29.680 --> 00:03:34.149 align:start position:0%
+Nothing.
+Uh<00:03:30.080><c> now</c><00:03:30.319><c> let's</c><00:03:30.560><c> go</c><00:03:30.720><c> here</c><00:03:31.680><c> a</c><00:03:31.920><c> file</c>
+
+00:03:34.149 --> 00:03:34.159 align:start position:0%
+Uh now let's go here a file
+ 
+
+00:03:34.159 --> 00:03:39.110 align:start position:0%
+Uh now let's go here a file
+export
+
+00:03:39.110 --> 00:03:39.120 align:start position:0%
+ 
+ 
+
+00:03:39.120 --> 00:03:42.470 align:start position:0%
+ 
+as<00:03:39.680><c> refx</c><00:03:40.319><c> file.</c>
+
+00:03:42.470 --> 00:03:42.480 align:start position:0%
+as refx file.
+ 
+
+00:03:42.480 --> 00:03:44.550 align:start position:0%
+as refx file.
+Okay
+
+00:03:44.550 --> 00:03:44.560 align:start position:0%
+Okay
+ 
+
+00:03:44.560 --> 00:03:52.229 align:start position:0%
+Okay
+object
+
+00:03:52.229 --> 00:03:52.239 align:start position:0%
+ 
+ 
+
+00:03:52.239 --> 00:03:56.070 align:start position:0%
+ 
+only.
+
+00:03:56.070 --> 00:03:56.080 align:start position:0%
+ 
+ 
+
+00:03:56.080 --> 00:03:58.789 align:start position:0%
+ 
+Okay,<00:03:56.400><c> return</c><00:03:56.560><c> to</c><00:03:56.879><c> right</c><00:03:57.200><c> here.</c><00:03:57.920><c> And</c><00:03:58.159><c> let's</c><00:03:58.560><c> go</c>
+
+00:03:58.789 --> 00:03:58.799 align:start position:0%
+Okay, return to right here. And let's go
+ 
+
+00:03:58.799 --> 00:04:02.149 align:start position:0%
+Okay, return to right here. And let's go
+here<00:03:59.120><c> to</c><00:03:59.360><c> this</c><00:03:59.680><c> animation</c><00:04:00.640><c> is</c><00:04:01.439><c> and</c><00:04:01.680><c> I</c><00:04:01.840><c> take</c>
+
+00:04:02.149 --> 00:04:02.159 align:start position:0%
+here to this animation is and I take
+ 
+
+00:04:02.159 --> 00:04:06.869 align:start position:0%
+here to this animation is and I take
+this<00:04:02.319><c> one.</c><00:04:03.007><c> [snorts]</c>
+
+00:04:06.869 --> 00:04:06.879 align:start position:0%
+ 
+ 
+
+00:04:06.879 --> 00:04:12.149 align:start position:0%
+ 
+Go<00:04:07.120><c> here</c><00:04:07.519><c> and</c><00:04:07.840><c> export</c><00:04:08.319><c> it.</c>
+
+00:04:12.149 --> 00:04:12.159 align:start position:0%
+ 
+ 
+
+00:04:12.159 --> 00:04:19.590 align:start position:0%
+ 
+That's<00:04:13.360><c> limit.</c>
+
+00:04:19.590 --> 00:04:19.600 align:start position:0%
+ 
+ 
+
+00:04:19.600 --> 00:04:23.430 align:start position:0%
+ 
+And<00:04:19.840><c> let's</c><00:04:20.160><c> see</c><00:04:20.400><c> it's</c><00:04:20.639><c> single</c><00:04:21.040><c> file</c><00:04:21.519><c> or</c><00:04:21.759><c> not.</c>
+
+00:04:23.430 --> 00:04:23.440 align:start position:0%
+And let's see it's single file or not.
+ 
+
+00:04:23.440 --> 00:04:26.629 align:start position:0%
+And let's see it's single file or not.
+Save.<00:04:24.800><c> Okay.</c>
+
+00:04:26.629 --> 00:04:26.639 align:start position:0%
+Save. Okay.
+ 
+
+00:04:26.639 --> 00:04:29.110 align:start position:0%
+Save. Okay.
+Okay,<00:04:26.880><c> the</c><00:04:27.120><c> fans</c><00:04:27.520><c> is</c><00:04:27.840><c> imported</c><00:04:28.479><c> successfully</c>
+
+00:04:29.110 --> 00:04:29.120 align:start position:0%
+Okay, the fans is imported successfully
+ 
+
+00:04:29.120 --> 00:04:32.870 align:start position:0%
+Okay, the fans is imported successfully
+on<00:04:29.280><c> the</c><00:04:29.520><c> desktop</c><00:04:30.720><c> in</c><00:04:30.960><c> this</c><00:04:31.199><c> file.</c><00:04:32.400><c> Uh</c><00:04:32.639><c> now</c>
+
+00:04:32.870 --> 00:04:32.880 align:start position:0%
+on the desktop in this file. Uh now
+ 
+
+00:04:32.880 --> 00:04:36.710 align:start position:0%
+on the desktop in this file. Uh now
+let's<00:04:33.120><c> return</c><00:04:33.440><c> here</c><00:04:33.680><c> to</c><00:04:33.759><c> the</c><00:04:34.320><c> engine.</c>
+
+00:04:36.710 --> 00:04:36.720 align:start position:0%
+let's return here to the engine.
+ 
+
+00:04:36.720 --> 00:04:40.790 align:start position:0%
+let's return here to the engine.
+Now<00:04:37.040><c> let's</c><00:04:37.360><c> go</c><00:04:37.520><c> here</c><00:04:37.759><c> to</c><00:04:37.919><c> content</c><00:04:38.479><c> drawer.</c>
+
+00:04:40.790 --> 00:04:40.800 align:start position:0%
+Now let's go here to content drawer.
+ 
+
+00:04:40.800 --> 00:04:43.350 align:start position:0%
+Now let's go here to content drawer.
+Select<00:04:41.440><c> the</c><00:04:41.919><c> character</c><00:04:42.320><c> as</c><00:04:42.560><c> a</c><00:04:42.720><c> reference.</c><00:04:43.199><c> I'm</c>
+
+00:04:43.350 --> 00:04:43.360 align:start position:0%
+Select the character as a reference. I'm
+ 
+
+00:04:43.360 --> 00:04:46.710 align:start position:0%
+Select the character as a reference. I'm
+going<00:04:43.520><c> to</c><00:04:43.680><c> choose</c><00:04:43.919><c> this</c><00:04:44.960><c> character,</c><00:04:46.160><c> my</c><00:04:46.400><c> main</c>
+
+00:04:46.710 --> 00:04:46.720 align:start position:0%
+going to choose this character, my main
+ 
+
+00:04:46.720 --> 00:04:48.390 align:start position:0%
+going to choose this character, my main
+character
+
+00:04:48.390 --> 00:04:48.400 align:start position:0%
+character
+ 
+
+00:04:48.400 --> 00:04:51.510 align:start position:0%
+character
+for<00:04:48.639><c> the</c><00:04:48.880><c> project.</c><00:04:50.320><c> Uh</c><00:04:50.639><c> make</c><00:04:50.880><c> the</c><00:04:51.120><c> character</c>
+
+00:04:51.510 --> 00:04:51.520 align:start position:0%
+for the project. Uh make the character
+ 
+
+00:04:51.520 --> 00:04:53.909 align:start position:0%
+for the project. Uh make the character
+right<00:04:51.759><c> here.</c>
+
+00:04:53.909 --> 00:04:53.919 align:start position:0%
+right here.
+ 
+
+00:04:53.919 --> 00:04:59.270 align:start position:0%
+right here.
+after<00:04:54.240><c> that</c><00:04:55.680><c> and</c><00:04:56.080><c> let's</c><00:04:56.880><c> create</c><00:04:57.520><c> phone</c>
+
+00:04:59.270 --> 00:04:59.280 align:start position:0%
+after that and let's create phone
+ 
+
+00:04:59.280 --> 00:05:09.430 align:start position:0%
+after that and let's create phone
+modu
+
+00:05:09.430 --> 00:05:09.440 align:start position:0%
+ 
+ 
+
+00:05:09.440 --> 00:05:11.590 align:start position:0%
+ 
+set<00:05:09.680><c> the</c><00:05:09.919><c> color.</c>
+
+00:05:11.590 --> 00:05:11.600 align:start position:0%
+set the color.
+ 
+
+00:05:11.600 --> 00:05:14.310 align:start position:0%
+set the color.
+Let's<00:05:11.919><c> set</c><00:05:12.320><c> this</c><00:05:12.560><c> color.</c>
+
+00:05:14.310 --> 00:05:14.320 align:start position:0%
+Let's set this color.
+ 
+
+00:05:14.320 --> 00:05:17.990 align:start position:0%
+Let's set this color.
+Go<00:05:14.560><c> right</c><00:05:14.800><c> here.</c>
+
+00:05:17.990 --> 00:05:18.000 align:start position:0%
+ 
+ 
+
+00:05:18.000 --> 00:05:20.390 align:start position:0%
+ 
+Uh<00:05:18.400><c> return</c><00:05:18.560><c> to</c><00:05:18.880><c> here.</c><00:05:19.120><c> Select</c><00:05:19.440><c> the</c><00:05:19.600><c> desktop</c>
+
+00:05:20.390 --> 00:05:20.400 align:start position:0%
+Uh return to here. Select the desktop
+ 
+
+00:05:20.400 --> 00:05:23.510 align:start position:0%
+Uh return to here. Select the desktop
+and<00:05:20.639><c> drag</c><00:05:20.960><c> this</c><00:05:21.280><c> part</c><00:05:21.520><c> right</c><00:05:21.759><c> here.</c>
+
+00:05:23.510 --> 00:05:23.520 align:start position:0%
+and drag this part right here.
+ 
+
+00:05:23.520 --> 00:05:25.749 align:start position:0%
+and drag this part right here.
+After<00:05:23.919><c> dragging</c><00:05:24.320><c> this</c><00:05:24.560><c> file,</c><00:05:25.039><c> let's</c><00:05:25.280><c> hit</c>
+
+00:05:25.749 --> 00:05:25.759 align:start position:0%
+After dragging this file, let's hit
+ 
+
+00:05:25.759 --> 00:05:28.710 align:start position:0%
+After dragging this file, let's hit
+import.<00:05:26.800><c> This</c><00:05:27.039><c> is</c><00:05:27.120><c> my</c><00:05:27.360><c> first.</c><00:05:28.160><c> This</c><00:05:28.320><c> is</c><00:05:28.560><c> the</c>
+
+00:05:28.710 --> 00:05:28.720 align:start position:0%
+import. This is my first. This is the
+ 
+
+00:05:28.720 --> 00:05:30.390 align:start position:0%
+import. This is my first. This is the
+fence.
+
+00:05:30.390 --> 00:05:30.400 align:start position:0%
+fence.
+ 
+
+00:05:30.400 --> 00:05:32.310 align:start position:0%
+fence.
+Okay.<00:05:30.720><c> Now,</c><00:05:30.960><c> let's</c><00:05:31.199><c> add</c><00:05:31.440><c> our</c><00:05:31.680><c> fence</c><00:05:32.000><c> right</c>
+
+00:05:32.310 --> 00:05:32.320 align:start position:0%
+Okay. Now, let's add our fence right
+ 
+
+00:05:32.320 --> 00:05:35.350 align:start position:0%
+Okay. Now, let's add our fence right
+here.
+
+00:05:35.350 --> 00:05:35.360 align:start position:0%
+ 
+ 
+
+00:05:35.360 --> 00:05:41.670 align:start position:0%
+ 
+Press<00:05:35.680><c> R.</c><00:05:37.120><c> Scale</c><00:05:37.440><c> it</c><00:05:37.600><c> up.</c><00:05:38.400><c> Okay.</c><00:05:38.800><c> F.</c>
+
+00:05:41.670 --> 00:05:41.680 align:start position:0%
+Press R. Scale it up. Okay. F.
+ 
+
+00:05:41.680 --> 00:05:44.310 align:start position:0%
+Press R. Scale it up. Okay. F.
+Press<00:05:42.080><c> E.</c>
+
+00:05:44.310 --> 00:05:44.320 align:start position:0%
+Press E.
+ 
+
+00:05:44.320 --> 00:05:49.749 align:start position:0%
+Press E.
+Rotate<00:05:44.720><c> it</c><00:05:45.360><c> 90°.</c>
+
+00:05:49.749 --> 00:05:49.759 align:start position:0%
+ 
+ 
+
+00:05:49.759 --> 00:05:54.150 align:start position:0%
+ 
+Okay.<00:05:50.240><c> And</c><00:05:50.479><c> let's</c><00:05:50.720><c> go</c><00:05:50.960><c> here</c><00:05:51.440><c> to</c>
+
+00:05:54.150 --> 00:05:54.160 align:start position:0%
+Okay. And let's go here to
+ 
+
+00:05:54.160 --> 00:06:02.230 align:start position:0%
+Okay. And let's go here to
+I<00:05:54.320><c> think</c><00:05:54.479><c> it</c><00:05:54.639><c> will</c><00:05:54.960><c> make</c><00:05:55.199><c> it</c><00:05:55.520><c> five.</c>
+
+00:06:02.230 --> 00:06:02.240 align:start position:0%
+ 
+ 
+
+00:06:02.240 --> 00:06:04.150 align:start position:0%
+ 
+Okay,
+
+00:06:04.150 --> 00:06:04.160 align:start position:0%
+Okay,
+ 
+
+00:06:04.160 --> 00:06:09.029 align:start position:0%
+Okay,
+I<00:06:04.400><c> think</c><00:06:04.560><c> it's</c><00:06:04.960><c> fine.</c>
+
+00:06:09.029 --> 00:06:09.039 align:start position:0%
+ 
+ 
+
+00:06:09.039 --> 00:06:12.390 align:start position:0%
+ 
+Okay,<00:06:09.360><c> now</c><00:06:09.600><c> let's</c><00:06:10.080><c> uh</c><00:06:11.280><c> duplicate</c><00:06:11.759><c> this</c><00:06:12.000><c> fence.</c>
+
+00:06:12.390 --> 00:06:12.400 align:start position:0%
+Okay, now let's uh duplicate this fence.
+ 
+
+00:06:12.400 --> 00:06:14.550 align:start position:0%
+Okay, now let's uh duplicate this fence.
+Press<00:06:12.800><c> alt</c>
+
+00:06:14.550 --> 00:06:14.560 align:start position:0%
+Press alt
+ 
+
+00:06:14.560 --> 00:06:18.469 align:start position:0%
+Press alt
+alt<00:06:14.960><c> and</c><00:06:15.199><c> press</c>
+
+00:06:18.469 --> 00:06:18.479 align:start position:0%
+ 
+ 
+
+00:06:18.479 --> 00:06:22.550 align:start position:0%
+ 
+right<00:06:18.720><c> here.</c><00:06:19.199><c> Duplicate</c><00:06:19.840><c> it</c>
+
+00:06:22.550 --> 00:06:22.560 align:start position:0%
+right here. Duplicate it
+ 
+
+00:06:22.560 --> 00:06:26.870 align:start position:0%
+right here. Duplicate it
+another<00:06:23.039><c> time.</c>
+
+00:06:26.870 --> 00:06:26.880 align:start position:0%
+ 
+ 
+
+00:06:26.880 --> 00:06:46.710 align:start position:0%
+ 
+Another<00:06:27.199><c> time.</c>
+
+00:06:46.710 --> 00:06:46.720 align:start position:0%
+ 
+ 
+
+00:06:46.720 --> 00:06:49.749 align:start position:0%
+ 
+Okay,<00:06:47.039><c> let's</c><00:06:47.280><c> return</c><00:06:47.600><c> to</c><00:06:47.840><c> the</c><00:06:48.000><c> game.</c>
+
+00:06:49.749 --> 00:06:49.759 align:start position:0%
+Okay, let's return to the game.
+ 
+
+00:06:49.759 --> 00:06:52.870 align:start position:0%
+Okay, let's return to the game.
+And<00:06:49.919><c> let's</c><00:06:50.240><c> see.</c>
+
+00:06:52.870 --> 00:06:52.880 align:start position:0%
+And let's see.
+ 
+
+00:06:52.880 --> 00:06:59.430 align:start position:0%
+And let's see.
+Uh,<00:06:53.440><c> okay.</c>
+
+00:06:59.430 --> 00:06:59.440 align:start position:0%
+ 
+ 
+
+00:06:59.440 --> 00:07:02.150 align:start position:0%
+ 
+What's<00:06:59.840><c> it</c><00:07:00.080><c> problem?</c><00:07:00.560><c> The</c><00:07:00.720><c> game</c><00:07:01.120><c> is</c><00:07:01.520><c> stop.</c><00:07:01.840><c> But</c>
+
+00:07:02.150 --> 00:07:02.160 align:start position:0%
+What's it problem? The game is stop. But
+ 
+
+00:07:02.160 --> 00:07:04.950 align:start position:0%
+What's it problem? The game is stop. But
+okay,<00:07:02.400><c> it</c><00:07:02.639><c> works.</c>
+
+00:07:04.950 --> 00:07:04.960 align:start position:0%
+okay, it works.
+ 
+
+00:07:04.960 --> 00:07:08.070 align:start position:0%
+okay, it works.
+Okay.<00:07:05.280><c> Now,</c><00:07:05.520><c> let's</c><00:07:05.759><c> make</c><00:07:06.240><c> this</c><00:07:06.479><c> fence</c><00:07:07.680><c> and</c>
+
+00:07:08.070 --> 00:07:08.080 align:start position:0%
+Okay. Now, let's make this fence and
+ 
+
+00:07:08.080 --> 00:07:10.710 align:start position:0%
+Okay. Now, let's make this fence and
+let's<00:07:08.319><c> drag</c><00:07:08.639><c> this</c><00:07:09.199><c> mountain</c>
+
+00:07:10.710 --> 00:07:10.720 align:start position:0%
+let's drag this mountain
+ 
+
+00:07:10.720 --> 00:07:17.189 align:start position:0%
+let's drag this mountain
+uh<00:07:10.880><c> right</c><00:07:11.199><c> here</c><00:07:11.599><c> and</c><00:07:11.840><c> this</c><00:07:12.400><c> wall.</c><00:07:12.960><c> Okay,</c>
+
+00:07:17.189 --> 00:07:17.199 align:start position:0%
+ 
+ 
+
+00:07:17.199 --> 00:07:19.270 align:start position:0%
+ 
+we<00:07:17.440><c> have</c><00:07:17.680><c> this.</c>
+
+00:07:19.270 --> 00:07:19.280 align:start position:0%
+we have this.
+ 
+
+00:07:19.280 --> 00:07:23.749 align:start position:0%
+we have this.
+Okay,
+
+00:07:23.749 --> 00:07:23.759 align:start position:0%
+ 
+ 
+
+00:07:23.759 --> 00:07:41.350 align:start position:0%
+ 
+let's<00:07:24.160><c> continue.</c>
+
+00:07:41.350 --> 00:07:41.360 align:start position:0%
+ 
+ 
+
+00:07:41.360 --> 00:07:46.150 align:start position:0%
+ 
+Press<00:07:41.840><c> Alt</c>
+
+00:07:46.150 --> 00:07:46.160 align:start position:0%
+ 
+ 
+
+00:07:46.160 --> 00:07:52.390 align:start position:0%
+ 
+and<00:07:47.039><c> duplicate</c><00:07:47.599><c> it</c><00:07:47.840><c> all</c><00:07:48.080><c> the</c><00:07:48.240><c> way.</c>
+
+00:07:52.390 --> 00:07:52.400 align:start position:0%
+ 
+ 
+
+00:07:52.400 --> 00:08:06.710 align:start position:0%
+ 
+Make<00:07:52.720><c> this</c>
+
+00:08:06.710 --> 00:08:06.720 align:start position:0%
+ 
+ 
+
+00:08:06.720 --> 00:08:09.990 align:start position:0%
+ 
+by<00:08:06.960><c> pressing</c><00:08:07.440><c> R.</c><00:08:07.680><c> You</c><00:08:07.840><c> can</c><00:08:08.080><c> duplicate</c><00:08:09.520><c> as</c><00:08:09.840><c> you</c>
+
+00:08:09.990 --> 00:08:10.000 align:start position:0%
+by pressing R. You can duplicate as you
+ 
+
+00:08:10.000 --> 00:08:25.670 align:start position:0%
+by pressing R. You can duplicate as you
+want.
+
+00:08:25.670 --> 00:08:25.680 align:start position:0%
+ 
+ 
+
+00:08:25.680 --> 00:08:30.469 align:start position:0%
+ 
+Okay,<00:08:26.000><c> I</c><00:08:26.160><c> think</c><00:08:26.319><c> it's</c><00:08:27.440><c> a</c><00:08:27.680><c> fine.</c>
+
+00:08:30.469 --> 00:08:30.479 align:start position:0%
+Okay, I think it's a fine.
+ 
+
+00:08:30.479 --> 00:08:34.550 align:start position:0%
+Okay, I think it's a fine.
+Now<00:08:30.960><c> we</c><00:08:31.199><c> have</c><00:08:31.360><c> to</c><00:08:31.520><c> create</c><00:08:31.840><c> this</c><00:08:32.080><c> one.</c>
+
+00:08:34.550 --> 00:08:34.560 align:start position:0%
+Now we have to create this one.
+ 
+
+00:08:34.560 --> 00:08:36.709 align:start position:0%
+Now we have to create this one.
+A<00:08:34.800><c> simple</c><00:08:35.120><c> file.</c>
+
+00:08:36.709 --> 00:08:36.719 align:start position:0%
+A simple file.
+ 
+
+00:08:36.719 --> 00:08:38.709 align:start position:0%
+A simple file.
+Okay.<00:08:37.039><c> To</c><00:08:37.279><c> do</c><00:08:37.440><c> that,</c><00:08:37.680><c> we</c><00:08:37.919><c> have</c><00:08:38.000><c> to</c><00:08:38.159><c> download</c>
+
+00:08:38.709 --> 00:08:38.719 align:start position:0%
+Okay. To do that, we have to download
+ 
+
+00:08:38.719 --> 00:08:43.829 align:start position:0%
+Okay. To do that, we have to download
+this<00:08:39.279><c> fence</c><00:08:39.919><c> from</c><00:08:41.200><c> the</c><00:08:41.519><c> fab</c><00:08:42.399><c> place.</c><00:08:43.519><c> Search</c>
+
+00:08:43.829 --> 00:08:43.839 align:start position:0%
+this fence from the fab place. Search
+ 
+
+00:08:43.839 --> 00:08:47.430 align:start position:0%
+this fence from the fab place. Search
+for<00:08:44.159><c> fence.</c>
+
+00:08:47.430 --> 00:08:47.440 align:start position:0%
+ 
+ 
+
+00:08:47.440 --> 00:08:49.030 align:start position:0%
+ 
+This<00:08:47.600><c> is</c><00:08:47.600><c> easy</c><00:08:47.920><c> for</c><00:08:48.080><c> this</c><00:08:48.320><c> fans.</c><00:08:48.640><c> You</c><00:08:48.800><c> can</c>
+
+00:08:49.030 --> 00:08:49.040 align:start position:0%
+This is easy for this fans. You can
+ 
+
+00:08:49.040 --> 00:08:53.509 align:start position:0%
+This is easy for this fans. You can
+download<00:08:49.440><c> it</c><00:08:50.000><c> here.</c><00:08:50.880><c> This</c><00:08:51.200><c> one</c><00:08:52.320><c> is</c><00:08:52.880><c> for</c><00:08:53.200><c> free</c>
+
+00:08:53.509 --> 00:08:53.519 align:start position:0%
+download it here. This one is for free
+ 
+
+00:08:53.519 --> 00:08:57.829 align:start position:0%
+download it here. This one is for free
+and<00:08:53.760><c> up</c><00:08:54.640><c> our</c><00:08:54.959><c> project</c><00:08:55.440><c> for</c><00:08:55.600><c> me.</c>
+
+00:08:57.829 --> 00:08:57.839 align:start position:0%
+and up our project for me.
+ 
+
+00:08:57.839 --> 00:09:02.389 align:start position:0%
+and up our project for me.
+Okay.<00:08:58.320><c> Let</c><00:08:58.480><c> me</c><00:08:58.959><c> the</c><00:08:59.120><c> content</c>
+
+00:09:02.389 --> 00:09:02.399 align:start position:0%
+ 
+ 
+
+00:09:02.399 --> 00:09:04.470 align:start position:0%
+ 
+link<00:09:02.640><c> fans</c>
+
+00:09:04.470 --> 00:09:04.480 align:start position:0%
+link fans
+ 
+
+00:09:04.480 --> 00:09:06.949 align:start position:0%
+link fans
+static<00:09:04.880><c> mesh</c><00:09:05.360><c> and</c><00:09:05.519><c> drag</c><00:09:05.839><c> this</c><00:09:06.000><c> static</c><00:09:06.399><c> mesh</c><00:09:06.720><c> in</c>
+
+00:09:06.949 --> 00:09:06.959 align:start position:0%
+static mesh and drag this static mesh in
+ 
+
+00:09:06.959 --> 00:09:17.190 align:start position:0%
+static mesh and drag this static mesh in
+this<00:09:07.680><c> uh</c><00:09:07.839><c> place.</c>
+
+00:09:17.190 --> 00:09:17.200 align:start position:0%
+ 
+ 
+
+00:09:17.200 --> 00:09:20.150 align:start position:0%
+ 
+Drag<00:09:17.519><c> it</c><00:09:17.600><c> right</c><00:09:17.920><c> here.</c><00:09:18.160><c> Now</c><00:09:18.320><c> it's</c><00:09:18.640><c> fine.</c>
+
+00:09:20.150 --> 00:09:20.160 align:start position:0%
+Drag it right here. Now it's fine.
+ 
+
+00:09:20.160 --> 00:09:25.110 align:start position:0%
+Drag it right here. Now it's fine.
+Uh<00:09:20.560><c> now</c><00:09:20.800><c> let's</c><00:09:21.120><c> create</c><00:09:21.519><c> this</c><00:09:22.160><c> uh</c><00:09:23.360><c> wall.</c>
+
+00:09:25.110 --> 00:09:25.120 align:start position:0%
+Uh now let's create this uh wall.
+ 
+
+00:09:25.120 --> 00:09:29.030 align:start position:0%
+Uh now let's create this uh wall.
+This<00:09:25.440><c> wall.</c>
+
+00:09:29.030 --> 00:09:29.040 align:start position:0%
+ 
+ 
+
+00:09:29.040 --> 00:09:31.509 align:start position:0%
+ 
+Okay.<00:09:29.360><c> How</c><00:09:29.600><c> to</c><00:09:29.920><c> do</c><00:09:30.080><c> that?</c><00:09:30.399><c> We</c><00:09:30.640><c> have</c><00:09:30.800><c> to</c><00:09:30.959><c> go</c><00:09:31.120><c> here</c>
+
+00:09:31.509 --> 00:09:31.519 align:start position:0%
+Okay. How to do that? We have to go here
+ 
+
+00:09:31.519 --> 00:09:36.070 align:start position:0%
+Okay. How to do that? We have to go here
+to<00:09:31.760><c> the</c><00:09:32.000><c> mod</c><00:09:32.320><c> make</c><00:09:32.560><c> tool</c>
+
+00:09:36.070 --> 00:09:36.080 align:start position:0%
+ 
+ 
+
+00:09:36.080 --> 00:09:40.389 align:start position:0%
+ 
+and<00:09:36.399><c> select</c><00:09:36.800><c> all.</c>
+
+00:09:40.389 --> 00:09:40.399 align:start position:0%
+ 
+ 
+
+00:09:40.399 --> 00:09:44.870 align:start position:0%
+ 
+You<00:09:40.640><c> create</c><00:09:41.519><c> this</c><00:09:41.839><c> one</c>
+
+00:09:44.870 --> 00:09:44.880 align:start position:0%
+ 
+ 
+
+00:09:44.880 --> 00:09:48.070 align:start position:0%
+ 
+and
+
+00:09:48.070 --> 00:09:48.080 align:start position:0%
+ 
+ 
+
+00:09:48.080 --> 00:09:54.310 align:start position:0%
+ 
+let's<00:09:48.320><c> select</c><00:09:48.720><c> all</c><00:09:49.200><c> to</c><00:09:49.440><c> duplicate.</c>
+
+00:09:54.310 --> 00:09:54.320 align:start position:0%
+ 
+ 
+
+00:09:54.320 --> 00:09:57.670 align:start position:0%
+ 
+Press<00:09:54.560><c> E</c><00:09:54.800><c> to</c><00:09:54.959><c> extrude</c><00:09:55.440><c> it.</c><00:09:55.760><c> I</c><00:09:56.000><c> want</c><00:09:56.160><c> to</c><00:09:56.320><c> extrude</c>
+
+00:09:57.670 --> 00:09:57.680 align:start position:0%
+Press E to extrude it. I want to extrude
+ 
+
+00:09:57.680 --> 00:10:03.190 align:start position:0%
+Press E to extrude it. I want to extrude
+4<00:09:57.920><c> m</c><00:09:58.880><c> 100</c><00:09:59.440><c> by</c><00:09:59.600><c> one.</c>
+
+00:10:03.190 --> 00:10:03.200 align:start position:0%
+ 
+ 
+
+00:10:03.200 --> 00:10:14.870 align:start position:0%
+ 
+Okay,<00:10:03.839><c> this</c><00:10:04.080><c> 4</c><00:10:04.399><c> m</c><00:10:04.800><c> is</c><00:10:05.040><c> fine.</c>
+
+00:10:14.870 --> 00:10:14.880 align:start position:0%
+ 
+ 
+
+00:10:14.880 --> 00:10:16.870 align:start position:0%
+ 
+accept.
+
+00:10:16.870 --> 00:10:16.880 align:start position:0%
+accept.
+ 
+
+00:10:16.880 --> 00:10:22.150 align:start position:0%
+accept.
+Select<00:10:17.279><c> this</c><00:10:17.440><c> one</c><00:10:17.760><c> and</c><00:10:17.920><c> make</c><00:10:18.160><c> it</c>
+
+00:10:22.150 --> 00:10:22.160 align:start position:0%
+ 
+ 
+
+00:10:22.160 --> 00:10:33.190 align:start position:0%
+ 
+here
+
+00:10:33.190 --> 00:10:33.200 align:start position:0%
+ 
+ 
+
+00:10:33.200 --> 00:10:45.030 align:start position:0%
+ 
+and<00:10:33.519><c> I</c><00:10:33.760><c> get</c><00:10:34.000><c> right</c><00:10:34.240><c> here.</c>
+
+00:10:45.030 --> 00:10:45.040 align:start position:0%
+ 
+ 
+
+00:10:45.040 --> 00:10:50.150 align:start position:0%
+ 
+Okay,<00:10:45.360><c> fine.</c>
+
+00:10:50.150 --> 00:10:50.160 align:start position:0%
+ 
+ 
+
+00:10:50.160 --> 00:10:54.710 align:start position:0%
+ 
+This<00:10:50.399><c> is</c><00:10:50.640><c> first</c><00:10:51.200><c> one</c>
+
+00:10:54.710 --> 00:10:54.720 align:start position:0%
+ 
+ 
+
+00:10:54.720 --> 00:10:57.829 align:start position:0%
+ 
+brush.<00:10:55.120><c> I'll</c><00:10:55.279><c> set</c>
+
+00:10:57.829 --> 00:10:57.839 align:start position:0%
+brush. I'll set
+ 
+
+00:10:57.839 --> 00:11:00.550 align:start position:0%
+brush. I'll set
+this<00:10:58.240><c> one.</c>
+
+00:11:00.550 --> 00:11:00.560 align:start position:0%
+this one.
+ 
+
+00:11:00.560 --> 00:11:09.990 align:start position:0%
+this one.
+What?
+
+00:11:09.990 --> 00:11:10.000 align:start position:0%
+ 
+ 
+
+00:11:10.000 --> 00:11:15.190 align:start position:0%
+ 
+And<00:11:10.320><c> let's</c><00:11:10.640><c> complete</c><00:11:11.040><c> this</c><00:11:11.279><c> part</c>
+
+00:11:15.190 --> 00:11:15.200 align:start position:0%
+ 
+ 
+
+00:11:15.200 --> 00:11:20.389 align:start position:0%
+ 
+later<00:11:16.640><c> on</c><00:11:17.120><c> killed</c>
+
+00:11:20.389 --> 00:11:20.399 align:start position:0%
+ 
+ 
+
+00:11:20.399 --> 00:11:24.389 align:start position:0%
+ 
+except
+
+00:11:24.389 --> 00:11:24.399 align:start position:0%
+ 
+ 
+
+00:11:24.399 --> 00:11:28.870 align:start position:0%
+ 
+okay<00:11:24.800><c> this</c><00:11:25.040><c> one</c><00:11:25.279><c> is</c><00:11:26.000><c> made</c>
+
+00:11:28.870 --> 00:11:28.880 align:start position:0%
+okay this one is made
+ 
+
+00:11:28.880 --> 00:11:30.870 align:start position:0%
+okay this one is made
+here<00:11:29.279><c> on</c>
+
+00:11:30.870 --> 00:11:30.880 align:start position:0%
+here on
+ 
+
+00:11:30.880 --> 00:11:34.870 align:start position:0%
+here on
+now<00:11:31.200><c> able</c><00:11:31.600><c> to</c><00:11:31.680><c> deplicate</c><00:11:32.160><c> this</c><00:11:32.399><c> one.</c><00:11:32.720><c> disarmed</c>
+
+00:11:34.870 --> 00:11:34.880 align:start position:0%
+now able to deplicate this one. disarmed
+ 
+
+00:11:34.880 --> 00:11:42.870 align:start position:0%
+now able to deplicate this one. disarmed
+and<00:11:35.120><c> drag</c><00:11:35.440><c> it</c><00:11:35.680><c> right</c><00:11:35.920><c> here</c><00:11:36.079><c> in</c><00:11:36.399><c> this</c><00:11:36.560><c> place.</c>
+
+00:11:42.870 --> 00:11:42.880 align:start position:0%
+ 
+ 
+
+00:11:42.880 --> 00:11:44.630 align:start position:0%
+ 
+Okay.
+
+00:11:44.630 --> 00:11:44.640 align:start position:0%
+Okay.
+ 
+
+00:11:44.640 --> 00:11:51.110 align:start position:0%
+Okay.
+Now<00:11:44.959><c> let's</c><00:11:45.200><c> return</c><00:11:45.600><c> right</c><00:11:45.839><c> here.</c>
+
+00:11:51.110 --> 00:11:51.120 align:start position:0%
+ 
+ 
+
+00:11:51.120 --> 00:11:54.790 align:start position:0%
+ 
+Okay.<00:11:51.519><c> To</c><00:11:51.600><c> select</c><00:11:51.920><c> this</c><00:11:52.240><c> ground</c>
+
+00:11:54.790 --> 00:11:54.800 align:start position:0%
+Okay. To select this ground
+ 
+
+00:11:54.800 --> 00:11:59.990 align:start position:0%
+Okay. To select this ground
+is<00:11:55.120><c> select</c><00:11:55.600><c> and</c><00:11:56.240><c> mod</c><00:11:57.120><c> tool.</c><00:11:57.519><c> It</c><00:11:57.839><c> makes</c><00:11:58.240><c> broker.</c>
+
+00:11:59.990 --> 00:12:00.000 align:start position:0%
+is select and mod tool. It makes broker.
+ 
+
+00:12:00.000 --> 00:12:03.269 align:start position:0%
+is select and mod tool. It makes broker.
+You<00:12:00.160><c> have</c><00:12:00.320><c> to</c><00:12:00.560><c> select</c><00:12:00.959><c> all</c><00:12:02.320><c> and</c><00:12:02.720><c> use</c><00:12:03.040><c> the</c>
+
+00:12:03.269 --> 00:12:03.279 align:start position:0%
+You have to select all and use the
+ 
+
+00:12:03.279 --> 00:12:11.110 align:start position:0%
+You have to select all and use the
+modeling<00:12:03.760><c> to</c><00:12:04.800><c> go</c><00:12:05.040><c> to</c><00:12:05.519><c> create</c><00:12:06.480><c> the</c><00:12:06.639><c> same</c><00:12:06.959><c> things</c>
+
+00:12:11.110 --> 00:12:11.120 align:start position:0%
+ 
+ 
+
+00:12:11.120 --> 00:12:14.710 align:start position:0%
+ 
+through<00:12:11.360><c> it</c>
+
+00:12:14.710 --> 00:12:14.720 align:start position:0%
+ 
+ 
+
+00:12:14.720 --> 00:12:18.150 align:start position:0%
+ 
+but<00:12:15.120><c> except</c>
+
+00:12:18.150 --> 00:12:18.160 align:start position:0%
+ 
+ 
+
+00:12:18.160 --> 00:12:20.949 align:start position:0%
+ 
+okay<00:12:18.560><c> fine</c>
+
+00:12:20.949 --> 00:12:20.959 align:start position:0%
+okay fine
+ 
+
+00:12:20.959 --> 00:12:25.910 align:start position:0%
+okay fine
+stage<00:12:22.240><c> successful.</c>
+
+00:12:25.910 --> 00:12:25.920 align:start position:0%
+ 
+ 
+
+00:12:25.920 --> 00:12:29.509 align:start position:0%
+ 
+Uh<00:12:26.320><c> now</c><00:12:26.560><c> let's</c><00:12:26.880><c> save</c><00:12:27.200><c> this</c><00:12:27.600><c> one.</c><00:12:28.720><c> Select</c><00:12:29.279><c> and</c>
+
+00:12:29.509 --> 00:12:29.519 align:start position:0%
+Uh now let's save this one. Select and
+ 
+
+00:12:29.519 --> 00:12:47.750 align:start position:0%
+Uh now let's save this one. Select and
+go<00:12:29.839><c> here.</c><00:12:31.040><c> Browse.</c><00:12:31.440><c> I</c><00:12:31.680><c> said</c><00:12:32.079><c> sit</c>
+
+00:12:47.750 --> 00:12:47.760 align:start position:0%
+ 
+ 
+
+00:12:47.760 --> 00:12:50.230 align:start position:0%
+ 
+material<00:12:48.079><c> out</c><00:12:48.240><c> to</c><00:12:48.480><c> our</c><00:12:48.720><c> world</c><00:12:49.519><c> and</c><00:12:49.680><c> we</c><00:12:49.920><c> have</c><00:12:50.079><c> to</c>
+
+00:12:50.230 --> 00:12:50.240 align:start position:0%
+material out to our world and we have to
+ 
+
+00:12:50.240 --> 00:12:52.870 align:start position:0%
+material out to our world and we have to
+use<00:12:50.560><c> the</c><00:12:50.720><c> same</c>
+
+00:12:52.870 --> 00:12:52.880 align:start position:0%
+use the same
+ 
+
+00:12:52.880 --> 00:12:55.910 align:start position:0%
+use the same
+return<00:12:53.519><c> to</c><00:12:53.680><c> selection.</c>
+
+00:12:55.910 --> 00:12:55.920 align:start position:0%
+return to selection.
+ 
+
+00:12:55.920 --> 00:13:01.670 align:start position:0%
+return to selection.
+Select<00:12:56.399><c> both</c><00:12:56.800><c> of</c><00:12:57.120><c> them</c>
+
+00:13:01.670 --> 00:13:01.680 align:start position:0%
+ 
+ 
+
+00:13:01.680 --> 00:13:06.230 align:start position:0%
+ 
+and<00:13:02.480><c> I</c><00:13:02.720><c> have</c><00:13:02.959><c> here</c><00:13:03.279><c> in</c><00:13:04.079><c> number</c><00:13:04.399><c> zero.</c>
+
+00:13:06.230 --> 00:13:06.240 align:start position:0%
+and I have here in number zero.
+ 
+
+00:13:06.240 --> 00:13:13.190 align:start position:0%
+and I have here in number zero.
+Go<00:13:06.480><c> here.</c><00:13:07.680><c> Calm</c><00:13:07.920><c> down.</c>
+
+00:13:13.190 --> 00:13:13.200 align:start position:0%
+ 
+ 
+
+00:13:13.200 --> 00:13:15.990 align:start position:0%
+ 
+I<00:13:13.360><c> guess</c><00:13:13.680><c> count</c><00:13:14.079><c> surfaces</c>
+
+00:13:15.990 --> 00:13:16.000 align:start position:0%
+I guess count surfaces
+ 
+
+00:13:16.000 --> 00:13:19.110 align:start position:0%
+I guess count surfaces
+up<00:13:16.160><c> here.</c><00:13:16.480><c> Damage</c><00:13:16.720><c> it</c><00:13:17.120><c> a</c><00:13:17.200><c> little</c><00:13:17.519><c> smaller.</c>
+
+00:13:19.110 --> 00:13:19.120 align:start position:0%
+up here. Damage it a little smaller.
+ 
+
+00:13:19.120 --> 00:13:23.350 align:start position:0%
+up here. Damage it a little smaller.
+One<00:13:19.279><c> change</c><00:13:19.680><c> this</c><00:13:21.120><c> one</c><00:13:21.360><c> click</c><00:13:21.600><c> right</c><00:13:21.839><c> here</c><00:13:22.959><c> and</c>
+
+00:13:23.350 --> 00:13:23.360 align:start position:0%
+One change this one click right here and
+ 
+
+00:13:23.360 --> 00:13:25.990 align:start position:0%
+One change this one click right here and
+one<00:13:23.600><c> click</c><00:13:23.920><c> right</c><00:13:24.160><c> here.</c>
+
+00:13:25.990 --> 00:13:26.000 align:start position:0%
+one click right here.
+ 
+
+00:13:26.000 --> 00:13:31.190 align:start position:0%
+one click right here.
+Let's<00:13:26.320><c> see.</c>
+
+00:13:31.190 --> 00:13:31.200 align:start position:0%
+ 
+ 
+
+00:13:31.200 --> 00:13:33.990 align:start position:0%
+ 
+Okay,<00:13:31.440><c> there's</c><00:13:31.680><c> a</c><00:13:31.920><c> problem</c><00:13:32.160><c> with</c><00:13:33.279><c> the</c><00:13:33.519><c> one.</c>
+
+00:13:33.990 --> 00:13:34.000 align:start position:0%
+Okay, there's a problem with the one.
+ 
+
+00:13:34.000 --> 00:13:43.990 align:start position:0%
+Okay, there's a problem with the one.
+Let's
+
+00:13:43.990 --> 00:13:44.000 align:start position:0%
+ 
+ 
+
+00:13:44.000 --> 00:13:46.470 align:start position:0%
+ 
+right<00:13:44.160><c> here</c>
+
+00:13:46.470 --> 00:13:46.480 align:start position:0%
+right here
+ 
+
+00:13:46.480 --> 00:13:50.069 align:start position:0%
+right here
+right<00:13:46.720><c> here.</c><00:13:46.959><c> We</c><00:13:47.200><c> have</c><00:13:47.360><c> problem</c><00:13:47.680><c> with</c><00:13:48.079><c> piling.</c>
+
+00:13:50.069 --> 00:13:50.079 align:start position:0%
+right here. We have problem with piling.
+ 
+
+00:13:50.079 --> 00:13:55.910 align:start position:0%
+right here. We have problem with piling.
+Let's<00:13:50.320><c> add</c><00:13:50.480><c> the</c><00:13:50.639><c> map</c><00:13:51.279><c> here.</c><00:13:52.560><c> The</c><00:13:52.800><c> second</c><00:13:53.440><c> one</c>
+
+00:13:55.910 --> 00:13:55.920 align:start position:0%
+Let's add the map here. The second one
+ 
+
+00:13:55.920 --> 00:14:01.189 align:start position:0%
+Let's add the map here. The second one
+to<00:13:56.079><c> make</c><00:13:56.399><c> this.</c>
+
+00:14:01.189 --> 00:14:01.199 align:start position:0%
+ 
+ 
+
+00:14:01.199 --> 00:14:03.030 align:start position:0%
+ 
+Okay.
+
+00:14:03.030 --> 00:14:03.040 align:start position:0%
+Okay.
+ 
+
+00:14:03.040 --> 00:14:17.590 align:start position:0%
+Okay.
+Uh,<00:14:03.519><c> select</c><00:14:04.000><c> all</c><00:14:04.160><c> of</c><00:14:04.399><c> those</c><00:14:04.720><c> wallets.</c>
+
+00:14:17.590 --> 00:14:17.600 align:start position:0%
+ 
+ 
+
+00:14:17.600 --> 00:14:20.870 align:start position:0%
+ 
+And<00:14:18.320><c> let's</c><00:14:18.560><c> fill</c><00:14:18.880><c> here.</c>
+
+00:14:20.870 --> 00:14:20.880 align:start position:0%
+And let's fill here.
+ 
+
+00:14:20.880 --> 00:14:25.430 align:start position:0%
+And let's fill here.
+Double<00:14:21.120><c> click</c><00:14:21.360><c> right</c><00:14:21.600><c> here.</c>
+
+00:14:25.430 --> 00:14:25.440 align:start position:0%
+ 
+ 
+
+00:14:25.440 --> 00:14:44.230 align:start position:0%
+ 
+And<00:14:25.600><c> let's</c><00:14:25.839><c> change</c><00:14:26.160><c> the</c><00:14:26.320><c> timing.</c>
+
+00:14:44.230 --> 00:14:44.240 align:start position:0%
+ 
+ 
+
+00:14:44.240 --> 00:14:46.550 align:start position:0%
+ 
+0.05.
+
+00:14:46.550 --> 00:14:46.560 align:start position:0%
+0.05.
+ 
+
+00:14:46.560 --> 00:14:50.629 align:start position:0%
+0.05.
+That's<00:14:47.600><c> okay.</c><00:14:48.720><c> Now</c><00:14:48.880><c> we</c><00:14:49.120><c> have</c><00:14:49.360><c> fixed</c><00:14:50.000><c> the</c>
+
+00:14:50.629 --> 00:14:50.639 align:start position:0%
+That's okay. Now we have fixed the
+ 
+
+00:14:50.639 --> 00:14:53.509 align:start position:0%
+That's okay. Now we have fixed the
+problem<00:14:50.880><c> of</c><00:14:51.120><c> the</c><00:14:51.360><c> tie</c><00:14:51.839><c> in.</c>
+
+00:14:53.509 --> 00:14:53.519 align:start position:0%
+problem of the tie in.
+ 
+
+00:14:53.519 --> 00:14:59.829 align:start position:0%
+problem of the tie in.
+Now<00:14:53.760><c> let's</c><00:14:54.000><c> go</c><00:14:54.160><c> here</c><00:14:54.320><c> to</c><00:14:54.560><c> the</c><00:14:54.720><c> normal</c>
+
+00:14:59.829 --> 00:14:59.839 align:start position:0%
+ 
+ 
+
+00:14:59.839 --> 00:15:02.389 align:start position:0%
+ 
+then<00:15:00.399><c> realistic</c>
+
+00:15:02.389 --> 00:15:02.399 align:start position:0%
+then realistic
+ 
+
+00:15:02.399 --> 00:15:13.509 align:start position:0%
+then realistic
+bring<00:15:02.639><c> with</c>
+
+00:15:13.509 --> 00:15:13.519 align:start position:0%
+ 
+ 
+
+00:15:13.519 --> 00:15:15.910 align:start position:0%
+ 
+What's<00:15:13.920><c> the</c><00:15:14.079><c> problem</c><00:15:14.399><c> of</c><00:15:14.639><c> this?</c><00:15:15.360><c> Let's</c><00:15:15.680><c> fix</c>
+
+00:15:15.910 --> 00:15:15.920 align:start position:0%
+What's the problem of this? Let's fix
+ 
+
+00:15:15.920 --> 00:15:19.509 align:start position:0%
+What's the problem of this? Let's fix
+it.<00:15:16.639><c> If</c><00:15:16.880><c> there</c><00:15:17.040><c> is</c><00:15:17.199><c> anything</c>
+
+00:15:19.509 --> 00:15:19.519 align:start position:0%
+it. If there is anything
+ 
+
+00:15:19.519 --> 00:15:21.910 align:start position:0%
+it. If there is anything
+problem
+
+00:15:21.910 --> 00:15:21.920 align:start position:0%
+problem
+ 
+
+00:15:21.920 --> 00:15:27.269 align:start position:0%
+problem
+uh<00:15:22.320><c> okay,</c><00:15:23.680><c> let's</c><00:15:23.920><c> duplicate</c><00:15:24.399><c> this</c>
+
+00:15:27.269 --> 00:15:27.279 align:start position:0%
+uh okay, let's duplicate this
+ 
+
+00:15:27.279 --> 00:15:32.790 align:start position:0%
+uh okay, let's duplicate this
+roy<00:15:28.399><c> mod</c><00:15:29.199><c> 0.1.</c>
+
+00:15:32.790 --> 00:15:32.800 align:start position:0%
+ 
+ 
+
+00:15:32.800 --> 00:15:36.310 align:start position:0%
+ 
+Select<00:15:34.160><c> this</c><00:15:34.880><c> and</c><00:15:35.199><c> go</c><00:15:35.440><c> here</c><00:15:35.600><c> to</c><00:15:35.760><c> the</c><00:15:35.920><c> element</c>
+
+00:15:36.310 --> 00:15:36.320 align:start position:0%
+Select this and go here to the element
+ 
+
+00:15:36.320 --> 00:15:37.990 align:start position:0%
+Select this and go here to the element
+zero.
+
+00:15:37.990 --> 00:15:38.000 align:start position:0%
+zero.
+ 
+
+00:15:38.000 --> 00:15:43.269 align:start position:0%
+zero.
+One<00:15:38.320><c> click</c><00:15:38.560><c> right</c><00:15:38.800><c> here</c><00:15:39.600><c> and</c><00:15:39.920><c> one</c><00:15:40.160><c> click</c><00:15:40.480><c> here.</c>
+
+00:15:43.269 --> 00:15:43.279 align:start position:0%
+One click right here and one click here.
+ 
+
+00:15:43.279 --> 00:15:45.829 align:start position:0%
+One click right here and one click here.
+Double<00:15:43.519><c> click</c><00:15:43.760><c> here</c><00:15:44.880><c> and</c><00:15:45.120><c> let's</c><00:15:45.440><c> change</c>
+
+00:15:45.829 --> 00:15:45.839 align:start position:0%
+Double click here and let's change
+ 
+
+00:15:45.839 --> 00:15:55.269 align:start position:0%
+Double click here and let's change
+values<00:15:46.800><c> to</c><00:15:46.959><c> fix</c><00:15:47.279><c> this</c><00:15:47.600><c> problem.</c><00:15:48.959><c> Okay.</c>
+
+00:15:55.269 --> 00:15:55.279 align:start position:0%
+ 
+ 
+
+00:15:55.279 --> 00:16:01.350 align:start position:0%
+ 
+Okay.<00:15:55.519><c> I</c><00:15:55.680><c> think</c><00:15:55.839><c> it</c><00:15:56.000><c> was</c><00:15:56.240><c> fine.</c>
+
+00:16:01.350 --> 00:16:01.360 align:start position:0%
+ 
+ 
+
+00:16:01.360 --> 00:16:02.790 align:start position:0%
+ 
+Okay.<00:16:01.680><c> And</c><00:16:01.759><c> now</c><00:16:01.920><c> we</c><00:16:02.079><c> are</c><00:16:02.240><c> done</c><00:16:02.480><c> with</c><00:16:02.639><c> the</c>
+
+00:16:02.790 --> 00:16:02.800 align:start position:0%
+Okay. And now we are done with the
+ 
+
+00:16:02.800 --> 00:16:06.310 align:start position:0%
+Okay. And now we are done with the
+creating<00:16:03.279><c> rules.</c><00:16:04.639><c> This</c><00:16:04.800><c> is</c><00:16:05.600><c> let's</c><00:16:06.000><c> complete</c>
+
+00:16:06.310 --> 00:16:06.320 align:start position:0%
+creating rules. This is let's complete
+ 
+
+00:16:06.320 --> 00:16:09.110 align:start position:0%
+creating rules. This is let's complete
+our<00:16:06.560><c> fence.</c>
+
+00:16:09.110 --> 00:16:09.120 align:start position:0%
+our fence.
+ 
+
+00:16:09.120 --> 00:16:13.269 align:start position:0%
+our fence.
+Select<00:16:09.519><c> this.</c><00:16:09.920><c> Press</c><00:16:10.480><c> alt.</c><00:16:11.440><c> Duplicate</c><00:16:12.079><c> this.</c>
+
+00:16:13.269 --> 00:16:13.279 align:start position:0%
+Select this. Press alt. Duplicate this.
+ 
+
+00:16:13.279 --> 00:16:22.790 align:start position:0%
+Select this. Press alt. Duplicate this.
+Press<00:16:13.600><c> and</c><00:16:13.920><c> hold</c><00:16:14.240><c> alt.</c>
+
+00:16:22.790 --> 00:16:22.800 align:start position:0%
+ 
+ 
+
+00:16:22.800 --> 00:16:31.110 align:start position:0%
+ 
+Complete<00:16:23.279><c> this.</c>
+
+00:16:31.110 --> 00:16:31.120 align:start position:0%
+ 
+ 
+
+00:16:31.120 --> 00:16:34.470 align:start position:0%
+ 
+Enough
+
+00:16:34.470 --> 00:16:34.480 align:start position:0%
+ 
+ 
+
+00:16:34.480 --> 00:16:37.189 align:start position:0%
+ 
+seems<00:16:34.720><c> like</c><00:16:34.880><c> a</c><00:16:35.040><c> wall</c><00:16:35.279><c> in</c><00:16:35.519><c> this</c><00:16:35.759><c> place.</c><00:16:36.880><c> Select</c>
+
+00:16:37.189 --> 00:16:37.199 align:start position:0%
+seems like a wall in this place. Select
+ 
+
+00:16:37.199 --> 00:16:42.069 align:start position:0%
+seems like a wall in this place. Select
+this<00:16:37.440><c> wall.</c><00:16:38.880><c> Press</c><00:16:39.279><c> Alt</c><00:16:40.000><c> and</c><00:16:40.320><c> drag</c><00:16:40.639><c> this</c><00:16:40.959><c> one</c>
+
+00:16:42.069 --> 00:16:42.079 align:start position:0%
+this wall. Press Alt and drag this one
+ 
+
+00:16:42.079 --> 00:16:45.110 align:start position:0%
+this wall. Press Alt and drag this one
+right<00:16:42.480><c> here.</c>
+
+00:16:45.110 --> 00:16:45.120 align:start position:0%
+right here.
+ 
+
+00:16:45.120 --> 00:16:48.550 align:start position:0%
+right here.
+Okay,<00:16:45.759><c> let's</c><00:16:46.079><c> see.</c>
+
+00:16:48.550 --> 00:16:48.560 align:start position:0%
+Okay, let's see.
+ 
+
+00:16:48.560 --> 00:16:53.030 align:start position:0%
+Okay, let's see.
+Okay,<00:16:48.959><c> fine.</c>
+
+00:16:53.030 --> 00:16:53.040 align:start position:0%
+ 
+ 
+
+00:16:53.040 --> 00:16:56.310 align:start position:0%
+ 
+The<00:16:53.279><c> final</c><00:16:53.680><c> thing</c><00:16:53.920><c> I</c><00:16:54.240><c> want</c><00:16:54.320><c> to</c><00:16:54.560><c> do</c><00:16:54.880><c> is</c><00:16:55.440><c> add</c><00:16:56.079><c> a</c>
+
+00:16:56.310 --> 00:16:56.320 align:start position:0%
+The final thing I want to do is add a
+ 
+
+00:16:56.320 --> 00:16:57.990 align:start position:0%
+The final thing I want to do is add a
+mountain.
+
+00:16:57.990 --> 00:16:58.000 align:start position:0%
+mountain.
+ 
+
+00:16:58.000 --> 00:17:05.909 align:start position:0%
+mountain.
+Okay.
+
+00:17:05.909 --> 00:17:05.919 align:start position:0%
+ 
+ 
+
+00:17:05.919 --> 00:17:09.510 align:start position:0%
+ 
+Save<00:17:06.319><c> all</c>
+
+00:17:09.510 --> 00:17:09.520 align:start position:0%
+ 
+ 
+
+00:17:09.520 --> 00:17:15.750 align:start position:0%
+ 
+right<00:17:09.839><c> here</c><00:17:11.199><c> to</c><00:17:11.439><c> content</c><00:17:11.919><c> code</c><00:17:12.319><c> F.</c>
+
+00:17:15.750 --> 00:17:15.760 align:start position:0%
+ 
+ 
+
+00:17:15.760 --> 00:17:24.150 align:start position:0%
+ 
+Search<00:17:16.160><c> for</c><00:17:16.319><c> cling</c>
+
+00:17:24.150 --> 00:17:24.160 align:start position:0%
+ 
+ 
+
+00:17:24.160 --> 00:17:29.110 align:start position:0%
+ 
+grief<00:17:24.799><c> is</c><00:17:25.360><c> good</c><00:17:25.760><c> but</c><00:17:26.160><c> it's</c><00:17:26.480><c> not</c><00:17:26.720><c> free</c>
+
+00:17:29.110 --> 00:17:29.120 align:start position:0%
+grief is good but it's not free
+ 
+
+00:17:29.120 --> 00:17:31.750 align:start position:0%
+grief is good but it's not free
+version.
+
+00:17:31.750 --> 00:17:31.760 align:start position:0%
+version.
+ 
+
+00:17:31.760 --> 00:17:33.669 align:start position:0%
+version.
+Okay,
+
+00:17:33.669 --> 00:17:33.679 align:start position:0%
+Okay,
+ 
+
+00:17:33.679 --> 00:17:39.750 align:start position:0%
+Okay,
+let's<00:17:34.000><c> choose</c><00:17:34.400><c> one.</c>
+
+00:17:39.750 --> 00:17:39.760 align:start position:0%
+ 
+ 
+
+00:17:39.760 --> 00:17:44.470 align:start position:0%
+ 
+Let's<00:17:40.080><c> see</c><00:17:40.480><c> this</c><00:17:40.720><c> one.</c>
+
+00:17:44.470 --> 00:17:44.480 align:start position:0%
+ 
+ 
+
+00:17:44.480 --> 00:17:47.510 align:start position:0%
+ 
+I<00:17:44.720><c> do</c><00:17:44.880><c> my</c><00:17:45.039><c> push</c>
+
+00:17:47.510 --> 00:17:47.520 align:start position:0%
+I do my push
+ 
+
+00:17:47.520 --> 00:18:03.430 align:start position:0%
+I do my push
+this<00:17:47.840><c> one.</c>
+
+00:18:03.430 --> 00:18:03.440 align:start position:0%
+ 
+ 
+
+00:18:03.440 --> 00:18:08.310 align:start position:0%
+ 
+Okay,<00:18:04.000><c> let's</c><00:18:04.240><c> see</c><00:18:04.480><c> this</c><00:18:04.720><c> one</c>
+
+00:18:08.310 --> 00:18:08.320 align:start position:0%
+ 
+ 
+
+00:18:08.320 --> 00:18:20.390 align:start position:0%
+ 
+project.
+
+00:18:20.390 --> 00:18:20.400 align:start position:0%
+ 
+ 
+
+00:18:20.400 --> 00:18:25.990 align:start position:0%
+ 
+Move<00:18:20.799><c> this</c><00:18:21.440><c> and</c><00:18:21.760><c> return</c><00:18:22.160><c> right</c><00:18:22.480><c> here</c>
+
+00:18:25.990 --> 00:18:26.000 align:start position:0%
+ 
+ 
+
+00:18:26.000 --> 00:18:29.190 align:start position:0%
+ 
+into<00:18:26.400><c> the</c><00:18:26.640><c> far.</c>
+
+00:18:29.190 --> 00:18:29.200 align:start position:0%
+into the far.
+ 
+
+00:18:29.200 --> 00:18:35.430 align:start position:0%
+into the far.
+Okay,<00:18:30.559><c> let's</c><00:18:30.799><c> go.</c>
+
+00:18:35.430 --> 00:18:35.440 align:start position:0%
+ 
+ 
+
+00:18:35.440 --> 00:18:39.110 align:start position:0%
+ 
+You<00:18:35.679><c> hit</c><00:18:36.000><c> 3D</c><00:18:37.120><c> Nordic</c>
+
+00:18:39.110 --> 00:18:39.120 align:start position:0%
+You hit 3D Nordic
+ 
+
+00:18:39.120 --> 00:18:41.990 align:start position:0%
+You hit 3D Nordic
+static<00:18:39.520><c> brushes.</c><00:18:40.240><c> Let's</c><00:18:40.720><c> add</c><00:18:41.120><c> this</c><00:18:41.360><c> is</c><00:18:41.520><c> to</c><00:18:41.760><c> the</c>
+
+00:18:41.990 --> 00:18:42.000 align:start position:0%
+static brushes. Let's add this is to the
+ 
+
+00:18:42.000 --> 00:18:53.430 align:start position:0%
+static brushes. Let's add this is to the
+kid<00:18:43.039><c> place</c><00:18:43.440><c> here.</c>
+
+00:18:53.430 --> 00:18:53.440 align:start position:0%
+ 
+ 
+
+00:18:53.440 --> 00:18:58.310 align:start position:0%
+ 
+Uh<00:18:53.760><c> let's</c><00:18:54.000><c> see</c><00:18:54.320><c> our</c><00:18:54.880><c> character.</c><00:18:55.919><c> Okay.</c>
+
+00:18:58.310 --> 00:18:58.320 align:start position:0%
+Uh let's see our character. Okay.
+ 
+
+00:18:58.320 --> 00:19:05.029 align:start position:0%
+Uh let's see our character. Okay.
+Okay.<00:18:59.600><c> Let's</c><00:18:59.919><c> meet</c><00:19:00.400><c> again.</c>
+
+00:19:05.029 --> 00:19:05.039 align:start position:0%
+ 
+ 
+
+00:19:05.039 --> 00:19:09.750 align:start position:0%
+ 
+Press<00:19:05.440><c> R.</c>
+
+00:19:09.750 --> 00:19:09.760 align:start position:0%
+ 
+ 
+
+00:19:09.760 --> 00:19:18.150 align:start position:0%
+ 
+I<00:19:10.080><c> continue</c><00:19:11.440><c> and</c><00:19:11.679><c> drag</c><00:19:12.000><c> it</c><00:19:12.240><c> right</c><00:19:12.799><c> here.</c>
+
+00:19:18.150 --> 00:19:18.160 align:start position:0%
+ 
+ 
+
+00:19:18.160 --> 00:19:24.950 align:start position:0%
+ 
+Press<00:19:18.480><c> R</c><00:19:18.720><c> to</c><00:19:18.960><c> duplicate.</c>
+
+00:19:24.950 --> 00:19:24.960 align:start position:0%
+ 
+ 
+
+00:19:24.960 --> 00:19:28.549 align:start position:0%
+ 
+This<00:19:25.120><c> one</c><00:19:25.440><c> is</c><00:19:25.600><c> fine.</c><00:19:26.480><c> Let's</c><00:19:26.799><c> ch</c>
+
+00:19:28.549 --> 00:19:28.559 align:start position:0%
+This one is fine. Let's ch
+ 
+
+00:19:28.559 --> 00:19:30.710 align:start position:0%
+This one is fine. Let's ch
+I<00:19:28.799><c> want</c><00:19:29.039><c> to</c>
+
+00:19:30.710 --> 00:19:30.720 align:start position:0%
+I want to
+ 
+
+00:19:30.720 --> 00:19:34.150 align:start position:0%
+I want to
+choose<00:19:30.880><c> the</c><00:19:31.120><c> second</c><00:19:31.440><c> one</c><00:19:31.840><c> and</c><00:19:32.080><c> see.</c>
+
+00:19:34.150 --> 00:19:34.160 align:start position:0%
+choose the second one and see.
+ 
+
+00:19:34.160 --> 00:19:37.270 align:start position:0%
+choose the second one and see.
+Okay,<00:19:34.480><c> good.</c><00:19:34.799><c> Found</c>
+
+00:19:37.270 --> 00:19:37.280 align:start position:0%
+Okay, good. Found
+ 
+
+00:19:37.280 --> 00:19:43.190 align:start position:0%
+Okay, good. Found
+this.<00:19:38.320><c> And</c><00:19:38.559><c> let's</c>
+
+00:19:43.190 --> 00:19:43.200 align:start position:0%
+ 
+ 
+
+00:19:43.200 --> 00:19:46.870 align:start position:0%
+ 
+This<00:19:43.360><c> is</c><00:19:43.520><c> very</c><00:19:43.760><c> small.</c><00:19:44.720><c> It's</c>
+
+00:19:46.870 --> 00:19:46.880 align:start position:0%
+This is very small. It's
+ 
+
+00:19:46.880 --> 00:19:55.190 align:start position:0%
+This is very small. It's
+h<00:19:47.280><c> not</c><00:19:47.520><c> very</c><00:19:47.840><c> small.</c><00:19:48.559><c> It's</c><00:19:48.799><c> here.</c>
+
+00:19:55.190 --> 00:19:55.200 align:start position:0%
+ 
+ 
+
+00:19:55.200 --> 00:20:00.070 align:start position:0%
+ 
+I<00:19:55.520><c> don't</c><00:19:55.679><c> want</c><00:19:56.000><c> to</c><00:19:56.080><c> use</c><00:19:56.400><c> this.</c>
+
+00:20:00.070 --> 00:20:00.080 align:start position:0%
+ 
+ 
+
+00:20:00.080 --> 00:20:03.830 align:start position:0%
+ 
+What's<00:20:00.400><c> this</c><00:20:00.640><c> problem?</c><00:20:01.360><c> This</c><00:20:01.520><c> fire.</c>
+
+00:20:03.830 --> 00:20:03.840 align:start position:0%
+What's this problem? This fire.
+ 
+
+00:20:03.840 --> 00:20:10.549 align:start position:0%
+What's this problem? This fire.
+Then<00:20:04.160><c> let's</c><00:20:04.799><c> select</c><00:20:05.120><c> the</c><00:20:05.280><c> cable</c><00:20:05.600><c> point</c><00:20:06.000><c> tool</c>
+
+00:20:10.549 --> 00:20:10.559 align:start position:0%
+ 
+ 
+
+00:20:10.559 --> 00:20:20.150 align:start position:0%
+ 
+and<00:20:10.799><c> let's</c><00:20:11.120><c> delete.</c><00:20:11.600><c> We</c><00:20:11.840><c> want</c><00:20:11.919><c> to</c><00:20:12.080><c> lose</c><00:20:12.320><c> this.</c>
+
+00:20:20.150 --> 00:20:20.160 align:start position:0%
+ 
+ 
+
+00:20:20.160 --> 00:20:37.190 align:start position:0%
+ 
+Let's<00:20:20.400><c> duplicate</c><00:20:20.880><c> this</c><00:20:21.120><c> file.</c><00:20:22.559><c> W</c><00:20:23.440><c> Alip</c>
+
+00:20:37.190 --> 00:20:37.200 align:start position:0%
+ 
+ 
+
+00:20:37.200 --> 00:20:40.549 align:start position:0%
+ 
+make<00:20:37.760><c> here.</c>
+
+00:20:40.549 --> 00:20:40.559 align:start position:0%
+make here.
+ 
+
+00:20:40.559 --> 00:20:49.029 align:start position:0%
+make here.
+Okay.
+
+00:20:49.029 --> 00:20:49.039 align:start position:0%
+ 
+ 
+
+00:20:49.039 --> 00:20:53.590 align:start position:0%
+ 
+Now<00:20:49.280><c> press</c><00:20:49.679><c> key</c><00:20:50.000><c> to</c><00:20:50.320><c> rotate</c><00:20:50.640><c> it</c><00:20:50.880><c> on.</c><00:20:51.280><c> Okay.</c>
+
+00:20:53.590 --> 00:20:53.600 align:start position:0%
+Now press key to rotate it on. Okay.
+ 
+
+00:20:53.600 --> 00:20:57.750 align:start position:0%
+Now press key to rotate it on. Okay.
+Press<00:20:54.080><c> alt</c><00:20:55.280><c> duplicate</c><00:20:55.919><c> this</c><00:20:56.240><c> one.</c>
+
+00:20:57.750 --> 00:20:57.760 align:start position:0%
+Press alt duplicate this one.
+ 
+
+00:20:57.760 --> 00:21:06.710 align:start position:0%
+Press alt duplicate this one.
+Drag<00:20:58.080><c> it</c><00:20:58.400><c> here.</c>
+
+00:21:06.710 --> 00:21:06.720 align:start position:0%
+ 
+ 
+
+00:21:06.720 --> 00:21:13.750 align:start position:0%
+ 
+Now<00:21:08.159><c> press</c><00:21:08.480><c> control</c><00:21:08.960><c> select</c><00:21:09.280><c> first</c><00:21:09.600><c> once.</c>
+
+00:21:13.750 --> 00:21:13.760 align:start position:0%
+ 
+ 
+
+00:21:13.760 --> 00:21:19.909 align:start position:0%
+ 
+Press<00:21:14.240><c> Alt</c><00:21:15.600><c> and</c>
+
+00:21:19.909 --> 00:21:19.919 align:start position:0%
+ 
+ 
+
+00:21:19.919 --> 00:21:36.950 align:start position:0%
+ 
+drag<00:21:20.240><c> it</c><00:21:20.400><c> right</c><00:21:20.720><c> here.</c>
+
+00:21:36.950 --> 00:21:36.960 align:start position:0%
+ 
+ 
+
+00:21:36.960 --> 00:21:46.870 align:start position:0%
+ 
+I'm<00:21:37.200><c> Kate.</c>
+
+00:21:46.870 --> 00:21:46.880 align:start position:0%
+ 
+ 
+
+00:21:46.880 --> 00:21:54.630 align:start position:0%
+ 
+No,<00:21:47.120><c> that's</c><00:21:47.520><c> not</c><00:21:47.679><c> another</c>
+
+00:21:54.630 --> 00:21:54.640 align:start position:0%
+ 
+ 
+
+00:21:54.640 --> 00:22:04.549 align:start position:0%
+ 
+she
+
+00:22:04.549 --> 00:22:04.559 align:start position:0%
+ 
+ 
+
+00:22:04.559 --> 00:22:13.510 align:start position:0%
+ 
+surprise.
+
+00:22:13.510 --> 00:22:13.520 align:start position:0%
+ 
+ 
+
+00:22:13.520 --> 00:22:38.549 align:start position:0%
+ 
+Richard<00:22:13.919><c> the</c><00:22:14.240><c> Worry</c><00:22:15.280><c> leaf.</c>
+
+00:22:38.549 --> 00:22:38.559 align:start position:0%
+ 
+ 
+
+00:22:38.559 --> 00:22:43.830 align:start position:0%
+ 
+Okay,<00:22:38.880><c> let's</c><00:22:39.200><c> use</c><00:22:40.240><c> those</c><00:22:40.559><c> playlist.</c>
+
+00:22:43.830 --> 00:22:43.840 align:start position:0%
+ 
+ 
+
+00:22:43.840 --> 00:22:48.390 align:start position:0%
+ 
+letter
+
+00:22:48.390 --> 00:22:48.400 align:start position:0%
+ 
+ 
+
+00:22:48.400 --> 00:22:51.270 align:start position:0%
+ 
+and<00:22:49.039><c> use</c><00:22:49.360><c> this</c>
+
+00:22:51.270 --> 00:22:51.280 align:start position:0%
+and use this
+ 
+
+00:22:51.280 --> 00:23:13.750 align:start position:0%
+and use this
+equip.
+
+00:23:13.750 --> 00:23:13.760 align:start position:0%
+ 
+ 
+
+00:23:13.760 --> 00:23:17.590 align:start position:0%
+ 
+Okay,<00:23:14.159><c> pressing</c><00:23:14.960><c> alt</c><00:23:16.240><c> and</c><00:23:16.480><c> let's</c><00:23:16.880><c> duplicate</c>
+
+00:23:17.590 --> 00:23:17.600 align:start position:0%
+Okay, pressing alt and let's duplicate
+ 
+
+00:23:17.600 --> 00:23:37.909 align:start position:0%
+Okay, pressing alt and let's duplicate
+this<00:23:18.799><c> object.</c>
+
+00:23:37.909 --> 00:23:37.919 align:start position:0%
+ 
+ 
+
+00:23:37.919 --> 00:23:48.230 align:start position:0%
+ 
+It's<00:23:38.080><c> time</c><00:23:38.320><c> to</c>
+
+00:23:48.230 --> 00:23:48.240 align:start position:0%
+ 
+ 
+
+00:23:48.240 --> 00:24:06.230 align:start position:0%
+ 
+this.
+
+00:24:06.230 --> 00:24:06.240 align:start position:0%
+ 
+ 
+
+00:24:06.240 --> 00:24:10.310 align:start position:0%
+ 
+What's<00:24:06.559><c> this</c><00:24:06.720><c> problem</c><00:24:07.039><c> over</c><00:24:07.360><c> this?</c>
+
+00:24:10.310 --> 00:24:10.320 align:start position:0%
+What's this problem over this?
+ 
+
+00:24:10.320 --> 00:24:12.789 align:start position:0%
+What's this problem over this?
+&gt;&gt; Okay,
+
+00:24:12.789 --> 00:24:12.799 align:start position:0%
+&gt;&gt; Okay,
+ 
+
+00:24:12.799 --> 00:24:23.269 align:start position:0%
+&gt;&gt; Okay,
+we<00:24:12.960><c> both</c>
+
+00:24:23.269 --> 00:24:23.279 align:start position:0%
+ 
+ 
+
+00:24:23.279 --> 00:24:28.070 align:start position:0%
+ 
+annotate<00:24:23.840><c> it</c><00:24:24.080><c> like</c><00:24:24.320><c> this.</c>
+
+00:24:28.070 --> 00:24:28.080 align:start position:0%
+ 
+ 
+
+00:24:28.080 --> 00:24:33.110 align:start position:0%
+ 
+And<00:24:28.320><c> let's</c><00:24:28.640><c> let</c><00:24:28.880><c> him</c><00:24:29.120><c> go</c><00:24:29.360><c> here.</c>
+
+00:24:33.110 --> 00:24:33.120 align:start position:0%
+ 
+ 
+
+00:24:33.120 --> 00:24:59.830 align:start position:0%
+ 
+&gt;&gt; Those<00:24:33.520><c> irides</c><00:24:33.919><c> are</c><00:24:34.159><c> heavy.</c>
+
+00:24:59.830 --> 00:24:59.840 align:start position:0%
+ 
+ 
+
+00:24:59.840 --> 00:25:05.669 align:start position:0%
+ 
+Okay
+
+00:25:05.669 --> 00:25:05.679 align:start position:0%
+ 
+ 
+
+00:25:05.679 --> 00:25:08.390 align:start position:0%
+ 
+for<00:25:05.919><c> you</c><00:25:06.159><c> is</c><00:25:06.400><c> as</c><00:25:06.640><c> we</c><00:25:06.880><c> want</c><00:25:07.440><c> for</c><00:25:07.679><c> me</c><00:25:07.840><c> it's</c><00:25:08.400><c> a</c>
+
+00:25:08.390 --> 00:25:08.400 align:start position:0%
+for you is as we want for me it's a
+ 
+
+00:25:08.400 --> 00:25:11.750 align:start position:0%
+for you is as we want for me it's a
+tutorial<00:25:09.120><c> I</c><00:25:09.360><c> want</c><00:25:09.600><c> to</c><00:25:09.840><c> show</c><00:25:10.000><c> you</c><00:25:10.320><c> how</c><00:25:11.360><c> things</c>
+
+00:25:11.750 --> 00:25:11.760 align:start position:0%
+tutorial I want to show you how things
+ 
+
+00:25:11.760 --> 00:25:14.070 align:start position:0%
+tutorial I want to show you how things
+works
+
+00:25:14.070 --> 00:25:14.080 align:start position:0%
+works
+ 
+
+00:25:14.080 --> 00:25:20.549 align:start position:0%
+works
+Press<00:25:14.559><c> on.</c>
+
+00:25:20.549 --> 00:25:20.559 align:start position:0%
+ 
+ 
+
+00:25:20.559 --> 00:25:25.110 align:start position:0%
+ 
+Okay.<00:25:20.960><c> And</c><00:25:21.120><c> let's</c><00:25:21.440><c> see.</c>
+
+00:25:25.110 --> 00:25:25.120 align:start position:0%
+ 
+ 
+
+00:25:25.120 --> 00:25:27.750 align:start position:0%
+ 
+Okay.<00:25:25.440><c> Save</c><00:25:25.760><c> all.</c><00:25:26.240><c> And</c><00:25:26.559><c> let's</c><00:25:27.039><c> return</c><00:25:27.440><c> right</c>
+
+00:25:27.750 --> 00:25:27.760 align:start position:0%
+Okay. Save all. And let's return right
+ 
+
+00:25:27.760 --> 00:25:31.430 align:start position:0%
+Okay. Save all. And let's return right
+here
+
+00:25:31.430 --> 00:25:31.440 align:start position:0%
+ 
+ 
+
+00:25:31.440 --> 00:25:35.750 align:start position:0%
+ 
+on<00:25:32.559><c> the</c><00:25:32.799><c> collection.</c>
+
+00:25:35.750 --> 00:25:35.760 align:start position:0%
+on the collection.
+ 
+
+00:25:35.760 --> 00:25:38.630 align:start position:0%
+on the collection.
+Ctrl
+
+00:25:38.630 --> 00:25:38.640 align:start position:0%
+Ctrl
+ 
+
+00:25:38.640 --> 00:25:42.310 align:start position:0%
+Ctrl
+A.<00:25:39.279><c> Select</c><00:25:39.600><c> all</c><00:25:39.760><c> of</c><00:25:40.000><c> them</c><00:25:40.720><c> and</c><00:25:41.039><c> go</c><00:25:41.279><c> here.</c>
+
+00:25:42.310 --> 00:25:42.320 align:start position:0%
+A. Select all of them and go here.
+ 
+
+00:25:42.320 --> 00:25:53.510 align:start position:0%
+A. Select all of them and go here.
+enable<00:25:43.360><c> for</c><00:25:43.520><c> those.</c>
+
+00:25:53.510 --> 00:25:53.520 align:start position:0%
+ 
+ 
+
+00:25:53.520 --> 00:25:56.070 align:start position:0%
+ 
+Okay,<00:25:53.919><c> fine.</c>
+
+00:25:56.070 --> 00:25:56.080 align:start position:0%
+Okay, fine.
+ 
+
+00:25:56.080 --> 00:25:59.669 align:start position:0%
+Okay, fine.
+No,<00:25:56.720><c> let's</c><00:25:57.120><c> press</c><00:25:57.600><c> okay</c><00:25:57.919><c> button</c><00:25:59.120><c> and</c><00:25:59.440><c> let's</c>
+
+00:25:59.669 --> 00:25:59.679 align:start position:0%
+No, let's press okay button and let's
+ 
+
+00:25:59.679 --> 00:26:06.070 align:start position:0%
+No, let's press okay button and let's
+see.
+
+00:26:06.070 --> 00:26:06.080 align:start position:0%
+ 
+ 
+
+00:26:06.080 --> 00:26:08.070 align:start position:0%
+ 
+Okay,<00:26:06.400><c> we</c><00:26:06.640><c> are</c><00:26:06.880><c> creating</c><00:26:07.279><c> mod.</c><00:26:07.600><c> This</c><00:26:07.760><c> is</c><00:26:07.919><c> this</c>
+
+00:26:08.070 --> 00:26:08.080 align:start position:0%
+Okay, we are creating mod. This is this
+ 
+
+00:26:08.080 --> 00:26:12.630 align:start position:0%
+Okay, we are creating mod. This is this
+is<00:26:08.240><c> tutorial.</c><00:26:09.360><c> creating</c><00:26:09.840><c> walls</c><00:26:11.039><c> and</c><00:26:11.919><c> other</c>
+
+00:26:12.630 --> 00:26:12.640 align:start position:0%
+is tutorial. creating walls and other
+ 
+
+00:26:12.640 --> 00:26:14.630 align:start position:0%
+is tutorial. creating walls and other
+things.<00:26:13.600><c> Okay,</c><00:26:13.919><c> thank</c><00:26:14.080><c> you</c><00:26:14.240><c> guys</c><00:26:14.400><c> for</c>
+
+00:26:14.630 --> 00:26:14.640 align:start position:0%
+things. Okay, thank you guys for
+ 
+
+00:26:14.640 --> 00:26:18.840 align:start position:0%
+things. Okay, thank you guys for
+watching<00:26:14.960><c> this</c><00:26:15.200><c> all</c><00:26:15.440><c> for</c><00:26:15.600><c> this</c><00:26:15.840><c> tutorial.</c>
+

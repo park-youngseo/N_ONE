@@ -1,0 +1,144 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.640 --> 00:00:02.230 align:start position:0%
+ 
+Hello<00:00:00.960><c> everyone.</c><00:00:01.360><c> In</c><00:00:01.520><c> this</c><00:00:01.680><c> video,</c><00:00:01.839><c> I</c><00:00:02.000><c> want</c><00:00:02.080><c> to</c>
+
+00:00:02.230 --> 00:00:02.240 align:start position:0%
+Hello everyone. In this video, I want to
+ 
+
+00:00:02.240 --> 00:00:07.190 align:start position:0%
+Hello everyone. In this video, I want to
+show<00:00:02.320><c> you</c><00:00:02.560><c> how</c><00:00:02.720><c> to</c><00:00:03.040><c> import</c><00:00:03.840><c> UI</c><00:00:04.319><c> assets</c>
+
+00:00:07.190 --> 00:00:07.200 align:start position:0%
+show you how to import UI assets
+ 
+
+00:00:07.200 --> 00:00:10.230 align:start position:0%
+show you how to import UI assets
+in<00:00:07.600><c> Unreal</c><00:00:08.080><c> Engine</c><00:00:08.480><c> project.</c>
+
+00:00:10.230 --> 00:00:10.240 align:start position:0%
+in Unreal Engine project.
+ 
+
+00:00:10.240 --> 00:00:12.310 align:start position:0%
+in Unreal Engine project.
+Okay.<00:00:10.639><c> To</c><00:00:10.880><c> do</c><00:00:11.040><c> that,</c><00:00:11.519><c> first</c><00:00:11.759><c> of</c><00:00:11.840><c> all,</c><00:00:12.080><c> let's</c>
+
+00:00:12.310 --> 00:00:12.320 align:start position:0%
+Okay. To do that, first of all, let's
+ 
+
+00:00:12.320 --> 00:00:17.510 align:start position:0%
+Okay. To do that, first of all, let's
+see<00:00:12.559><c> it</c><00:00:12.800><c> works</c><00:00:13.200><c> or</c><00:00:13.440><c> not.</c>
+
+00:00:17.510 --> 00:00:17.520 align:start position:0%
+ 
+ 
+
+00:00:17.520 --> 00:00:22.790 align:start position:0%
+ 
+This<00:00:17.680><c> is</c><00:00:17.920><c> my</c><00:00:18.400><c> assets</c><00:00:19.039><c> port</c><00:00:20.160><c> assets.</c>
+
+00:00:22.790 --> 00:00:22.800 align:start position:0%
+This is my assets port assets.
+ 
+
+00:00:22.800 --> 00:00:26.230 align:start position:0%
+This is my assets port assets.
+The<00:00:23.039><c> problem</c><00:00:23.680><c> f</c><00:00:24.240><c> imported.</c>
+
+00:00:26.230 --> 00:00:26.240 align:start position:0%
+The problem f imported.
+ 
+
+00:00:26.240 --> 00:00:28.070 align:start position:0%
+The problem f imported.
+Okay.
+
+00:00:28.070 --> 00:00:28.080 align:start position:0%
+Okay.
+ 
+
+00:00:28.080 --> 00:00:31.269 align:start position:0%
+Okay.
+Uh<00:00:28.480><c> to</c><00:00:28.720><c> fix</c><00:00:29.039><c> this</c><00:00:29.519><c> problem</c><00:00:30.400><c> we</c><00:00:30.720><c> have</c><00:00:30.880><c> to</c><00:00:31.039><c> go</c>
+
+00:00:31.269 --> 00:00:31.279 align:start position:0%
+Uh to fix this problem we have to go
+ 
+
+00:00:31.279 --> 00:00:35.510 align:start position:0%
+Uh to fix this problem we have to go
+here<00:00:31.679><c> in</c><00:00:31.920><c> my</c><00:00:32.239><c> project</c><00:00:33.200><c> select</c><00:00:33.600><c> any</c><00:00:33.840><c> folder</c>
+
+00:00:35.510 --> 00:00:35.520 align:start position:0%
+here in my project select any folder
+ 
+
+00:00:35.520 --> 00:00:39.270 align:start position:0%
+here in my project select any folder
+show<00:00:36.000><c> explorer.</c>
+
+00:00:39.270 --> 00:00:39.280 align:start position:0%
+ 
+ 
+
+00:00:39.280 --> 00:00:45.110 align:start position:0%
+ 
+Okay<00:00:39.600><c> this</c><00:00:39.840><c> is</c><00:00:40.239><c> go</c><00:00:40.480><c> to</c><00:00:40.800><c> content</c><00:00:41.840><c> like</c><00:00:42.160><c> this</c>
+
+00:00:45.110 --> 00:00:45.120 align:start position:0%
+Okay this is go to content like this
+ 
+
+00:00:45.120 --> 00:00:48.150 align:start position:0%
+Okay this is go to content like this
+minimize<00:00:45.680><c> this</c><00:00:46.000><c> one</c>
+
+00:00:48.150 --> 00:00:48.160 align:start position:0%
+minimize this one
+ 
+
+00:00:48.160 --> 00:00:52.150 align:start position:0%
+minimize this one
+any<00:00:48.719><c> any</c><00:00:49.120><c> uh</c><00:00:49.440><c> s</c><00:00:49.920><c> you</c><00:00:50.079><c> have</c><00:00:50.239><c> to</c><00:00:50.399><c> drag</c><00:00:50.640><c> it</c><00:00:51.600><c> in</c><00:00:51.920><c> the</c>
+
+00:00:52.150 --> 00:00:52.160 align:start position:0%
+any any uh s you have to drag it in the
+ 
+
+00:00:52.160 --> 00:00:56.630 align:start position:0%
+any any uh s you have to drag it in the
+project.<00:00:52.960><c> Okay</c><00:00:53.280><c> fine.</c>
+
+00:00:56.630 --> 00:00:56.640 align:start position:0%
+ 
+ 
+
+00:00:56.640 --> 00:01:00.950 align:start position:0%
+ 
+Look<00:00:57.199><c> at</c><00:00:57.520><c> this.</c><00:00:58.000><c> It</c><00:00:58.320><c> works</c><00:00:58.960><c> very</c><00:00:59.359><c> fine.</c><00:01:00.559><c> Okay.</c>
+
+00:01:00.950 --> 00:01:00.960 align:start position:0%
+Look at this. It works very fine. Okay.
+ 
+
+00:01:00.960 --> 00:01:02.869 align:start position:0%
+Look at this. It works very fine. Okay.
+Thank<00:01:01.039><c> you</c><00:01:01.280><c> guys</c><00:01:01.440><c> for</c><00:01:01.680><c> watching</c><00:01:02.000><c> this</c><00:01:02.320><c> all</c><00:01:02.559><c> for</c>
+
+00:01:02.869 --> 00:01:02.879 align:start position:0%
+Thank you guys for watching this all for
+ 
+
+00:01:02.879 --> 00:01:06.120 align:start position:0%
+Thank you guys for watching this all for
+this<00:01:03.120><c> tutorial.</c>
+

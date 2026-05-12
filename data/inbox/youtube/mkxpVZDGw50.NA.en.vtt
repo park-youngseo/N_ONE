@@ -1,0 +1,688 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.320 --> 00:00:04.070 align:start position:0%
+ 
+Hi<00:00:02.560><c> guys,</c><00:00:02.800><c> in</c><00:00:02.960><c> this</c><00:00:03.120><c> tutorial</c><00:00:03.439><c> I</c><00:00:03.600><c> want</c><00:00:03.760><c> to</c>
+
+00:00:04.070 --> 00:00:04.080 align:start position:0%
+Hi guys, in this tutorial I want to
+ 
+
+00:00:04.080 --> 00:00:08.870 align:start position:0%
+Hi guys, in this tutorial I want to
+install<00:00:05.040><c> the</c><00:00:05.200><c> sysium</c><00:00:06.319><c> plug</c><00:00:06.720><c> in</c>
+
+00:00:08.870 --> 00:00:08.880 align:start position:0%
+install the sysium plug in
+ 
+
+00:00:08.880 --> 00:00:12.870 align:start position:0%
+install the sysium plug in
+and<00:00:09.200><c> use</c><00:00:09.440><c> it</c><00:00:09.679><c> using</c><00:00:10.000><c> area</c><00:00:10.400><c> engine</c><00:00:10.880><c> 5.6</c><00:00:11.920><c> six</c>
+
+00:00:12.870 --> 00:00:12.880 align:start position:0%
+and use it using area engine 5.6 six
+ 
+
+00:00:12.880 --> 00:00:17.590 align:start position:0%
+and use it using area engine 5.6 six
+without<00:00:13.519><c> Google</c><00:00:13.759><c> Maps</c><00:00:14.240><c> API.</c>
+
+00:00:17.590 --> 00:00:17.600 align:start position:0%
+ 
+ 
+
+00:00:17.600 --> 00:00:20.710 align:start position:0%
+ 
+Okay,<00:00:18.000><c> first</c><00:00:18.240><c> thing</c><00:00:18.480><c> first,</c><00:00:19.439><c> open</c><00:00:19.760><c> the</c><00:00:20.320><c> go</c><00:00:20.480><c> to</c>
+
+00:00:20.710 --> 00:00:20.720 align:start position:0%
+Okay, first thing first, open the go to
+ 
+
+00:00:20.720 --> 00:00:23.750 align:start position:0%
+Okay, first thing first, open the go to
+games.<00:00:21.199><c> Select</c><00:00:21.600><c> empty</c><00:00:22.080><c> project.</c><00:00:23.119><c> Rename</c><00:00:23.519><c> the</c>
+
+00:00:23.750 --> 00:00:23.760 align:start position:0%
+games. Select empty project. Rename the
+ 
+
+00:00:23.760 --> 00:00:29.269 align:start position:0%
+games. Select empty project. Rename the
+project<00:00:25.039><c> CM</c><00:00:25.519><c> for</c><00:00:25.680><c> Al.</c><00:00:26.400><c> Hit</c><00:00:26.640><c> create.</c>
+
+00:00:29.269 --> 00:00:29.279 align:start position:0%
+project CM for Al. Hit create.
+ 
+
+00:00:29.279 --> 00:00:32.709 align:start position:0%
+project CM for Al. Hit create.
+Okay.<00:00:29.599><c> Now</c><00:00:29.840><c> let's</c><00:00:31.039><c> go</c><00:00:31.279><c> to</c><00:00:31.439><c> file.</c><00:00:32.160><c> Create</c><00:00:32.480><c> new</c>
+
+00:00:32.709 --> 00:00:32.719 align:start position:0%
+Okay. Now let's go to file. Create new
+ 
+
+00:00:32.719 --> 00:00:34.470 align:start position:0%
+Okay. Now let's go to file. Create new
+level.
+
+00:00:34.470 --> 00:00:34.480 align:start position:0%
+level.
+ 
+
+00:00:34.480 --> 00:00:37.830 align:start position:0%
+level.
+Create<00:00:35.120><c> empty</c><00:00:35.840><c> level.</c>
+
+00:00:37.830 --> 00:00:37.840 align:start position:0%
+Create empty level.
+ 
+
+00:00:37.840 --> 00:00:40.950 align:start position:0%
+Create empty level.
+Now<00:00:38.160><c> let's</c><00:00:38.480><c> save</c><00:00:38.800><c> this</c><00:00:39.040><c> current</c><00:00:39.440><c> level.</c><00:00:40.719><c> New</c>
+
+00:00:40.950 --> 00:00:40.960 align:start position:0%
+Now let's save this current level. New
+ 
+
+00:00:40.960 --> 00:00:44.150 align:start position:0%
+Now let's save this current level. New
+mark<00:00:41.440><c> for</c><00:00:41.520><c> example.</c>
+
+00:00:44.150 --> 00:00:44.160 align:start position:0%
+mark for example.
+ 
+
+00:00:44.160 --> 00:00:46.709 align:start position:0%
+mark for example.
+Save<00:00:44.559><c> all.</c><00:00:45.120><c> And</c><00:00:45.360><c> let's</c><00:00:45.680><c> return</c><00:00:46.000><c> here</c><00:00:46.320><c> to</c><00:00:46.480><c> the</c>
+
+00:00:46.709 --> 00:00:46.719 align:start position:0%
+Save all. And let's return here to the
+ 
+
+00:00:46.719 --> 00:00:49.510 align:start position:0%
+Save all. And let's return here to the
+Google<00:00:47.680><c> and</c><00:00:47.920><c> search</c><00:00:48.160><c> for</c><00:00:48.399><c> CM</c><00:00:48.879><c> for</c><00:00:49.120><c> Unreal</c>
+
+00:00:49.510 --> 00:00:49.520 align:start position:0%
+Google and search for CM for Unreal
+ 
+
+00:00:49.520 --> 00:00:52.869 align:start position:0%
+Google and search for CM for Unreal
+Engine.<00:00:50.239><c> Go</c><00:00:50.399><c> to</c><00:00:50.480><c> the</c><00:00:50.719><c> first</c><00:00:50.960><c> link</c>
+
+00:00:52.869 --> 00:00:52.879 align:start position:0%
+Engine. Go to the first link
+ 
+
+00:00:52.879 --> 00:00:55.510 align:start position:0%
+Engine. Go to the first link
+download<00:00:53.280><c> from</c><00:00:53.520><c> the</c><00:00:53.760><c> marketplace.</c><00:00:55.120><c> Go</c><00:00:55.360><c> to</c>
+
+00:00:55.510 --> 00:00:55.520 align:start position:0%
+download from the marketplace. Go to
+ 
+
+00:00:55.520 --> 00:01:00.869 align:start position:0%
+download from the marketplace. Go to
+this<00:00:55.840><c> link.</c>
+
+00:01:00.869 --> 00:01:00.879 align:start position:0%
+ 
+ 
+
+00:01:00.879 --> 00:01:02.790 align:start position:0%
+ 
+Okay.
+
+00:01:02.790 --> 00:01:02.800 align:start position:0%
+Okay.
+ 
+
+00:01:02.800 --> 00:01:06.070 align:start position:0%
+Okay.
+Add<00:01:03.039><c> the</c><00:01:03.199><c> to</c><00:01:03.760><c> my</c><00:01:04.080><c> library</c>
+
+00:01:06.070 --> 00:01:06.080 align:start position:0%
+Add the to my library
+ 
+
+00:01:06.080 --> 00:01:09.350 align:start position:0%
+Add the to my library
+and<00:01:06.400><c> install</c><00:01:06.799><c> it.</c><00:01:07.280><c> Let's</c><00:01:08.240><c> search</c><00:01:08.479><c> it</c><00:01:08.720><c> here.</c>
+
+00:01:09.350 --> 00:01:09.360 align:start position:0%
+and install it. Let's search it here.
+ 
+
+00:01:09.360 --> 00:01:14.070 align:start position:0%
+and install it. Let's search it here.
+This<00:01:09.680><c> is</c><00:01:09.840><c> a</c><00:01:10.240><c> cu</c><00:01:11.280><c> and</c><00:01:12.479><c> set</c><00:01:12.799><c> this</c><00:01:13.040><c> one</c><00:01:13.439><c> from</c><00:01:13.840><c> the</c>
+
+00:01:14.070 --> 00:01:14.080 align:start position:0%
+This is a cu and set this one from the
+ 
+
+00:01:14.080 --> 00:01:17.429 align:start position:0%
+This is a cu and set this one from the
+marketplace<00:01:14.880><c> fab</c><00:01:16.320><c> when</c><00:01:16.560><c> you</c><00:01:16.720><c> add</c><00:01:16.880><c> it</c><00:01:17.119><c> into</c>
+
+00:01:17.429 --> 00:01:17.439 align:start position:0%
+marketplace fab when you add it into
+ 
+
+00:01:17.439 --> 00:01:21.749 align:start position:0%
+marketplace fab when you add it into
+your<00:01:17.759><c> library.</c><00:01:18.320><c> We</c><00:01:18.560><c> can</c><00:01:18.640><c> get</c><00:01:18.799><c> it</c><00:01:19.119><c> from</c><00:01:19.439><c> here.</c>
+
+00:01:21.749 --> 00:01:21.759 align:start position:0%
+your library. We can get it from here.
+ 
+
+00:01:21.759 --> 00:01:28.070 align:start position:0%
+your library. We can get it from here.
+Go<00:01:22.080><c> to</c><00:01:22.400><c> add</c><00:01:22.880><c> fab</c>
+
+00:01:28.070 --> 00:01:28.080 align:start position:0%
+ 
+ 
+
+00:01:28.080 --> 00:01:32.230 align:start position:0%
+ 
+library.
+
+00:01:32.230 --> 00:01:32.240 align:start position:0%
+ 
+ 
+
+00:01:32.240 --> 00:01:36.149 align:start position:0%
+ 
+Install<00:01:32.720><c> it</c><00:01:33.280><c> here.</c>
+
+00:01:36.149 --> 00:01:36.159 align:start position:0%
+Install it here.
+ 
+
+00:01:36.159 --> 00:01:38.469 align:start position:0%
+Install it here.
+Okay.<00:01:36.640><c> After</c><00:01:36.960><c> installing</c><00:01:37.520><c> this,</c><00:01:38.000><c> we</c><00:01:38.240><c> have</c><00:01:38.320><c> to</c>
+
+00:01:38.469 --> 00:01:38.479 align:start position:0%
+Okay. After installing this, we have to
+ 
+
+00:01:38.479 --> 00:01:41.830 align:start position:0%
+Okay. After installing this, we have to
+go<00:01:38.720><c> here,</c><00:01:39.759><c> restart</c><00:01:40.159><c> the</c><00:01:40.400><c> engine</c><00:01:40.960><c> and</c><00:01:41.280><c> go</c><00:01:41.520><c> here</c>
+
+00:01:41.830 --> 00:01:41.840 align:start position:0%
+go here, restart the engine and go here
+ 
+
+00:01:41.840 --> 00:01:43.910 align:start position:0%
+go here, restart the engine and go here
+to<00:01:42.079><c> the</c><00:01:42.320><c> window</c>
+
+00:01:43.910 --> 00:01:43.920 align:start position:0%
+to the window
+ 
+
+00:01:43.920 --> 00:01:45.510 align:start position:0%
+to the window
+tools
+
+00:01:45.510 --> 00:01:45.520 align:start position:0%
+tools
+ 
+
+00:01:45.520 --> 00:01:50.870 align:start position:0%
+tools
+plug<00:01:45.759><c> in.</c><00:01:46.320><c> Search</c><00:01:46.560><c> for</c><00:01:46.880><c> CZU</c><00:01:47.360><c> plugin.</c>
+
+00:01:50.870 --> 00:01:50.880 align:start position:0%
+ 
+ 
+
+00:01:50.880 --> 00:01:55.270 align:start position:0%
+ 
+Take<00:01:51.200><c> this,</c><00:01:51.920><c> restart</c><00:01:52.240><c> the</c><00:01:52.479><c> engine.</c>
+
+00:01:55.270 --> 00:01:55.280 align:start position:0%
+Take this, restart the engine.
+ 
+
+00:01:55.280 --> 00:01:57.190 align:start position:0%
+Take this, restart the engine.
+Okay.<00:01:55.600><c> After</c><00:01:55.920><c> restarting</c><00:01:56.399><c> the</c><00:01:56.640><c> engine,</c><00:01:57.040><c> we</c>
+
+00:01:57.190 --> 00:01:57.200 align:start position:0%
+Okay. After restarting the engine, we
+ 
+
+00:01:57.200 --> 00:02:00.789 align:start position:0%
+Okay. After restarting the engine, we
+have<00:01:57.360><c> this</c><00:01:57.680><c> cium</c><00:01:58.240><c> right</c><00:01:58.479><c> here.</c><00:01:59.600><c> Close</c><00:01:59.920><c> this.</c>
+
+00:02:00.789 --> 00:02:00.799 align:start position:0%
+have this cium right here. Close this.
+ 
+
+00:02:00.799 --> 00:02:04.789 align:start position:0%
+have this cium right here. Close this.
+Connect<00:02:01.200><c> to</c><00:02:01.439><c> the</c><00:02:01.840><c> cium.</c>
+
+00:02:04.789 --> 00:02:04.799 align:start position:0%
+Connect to the cium.
+ 
+
+00:02:04.799 --> 00:02:06.789 align:start position:0%
+Connect to the cium.
+Okay.<00:02:05.200><c> Now</c>
+
+00:02:06.789 --> 00:02:06.799 align:start position:0%
+Okay. Now
+ 
+
+00:02:06.799 --> 00:02:08.710 align:start position:0%
+Okay. Now
+you<00:02:07.040><c> have</c><00:02:07.119><c> to</c><00:02:07.280><c> sign</c><00:02:07.439><c> in</c><00:02:07.680><c> in</c><00:02:07.840><c> the</c><00:02:08.000><c> system</c><00:02:08.399><c> mode.</c>
+
+00:02:08.710 --> 00:02:08.720 align:start position:0%
+you have to sign in in the system mode.
+ 
+
+00:02:08.720 --> 00:02:11.510 align:start position:0%
+you have to sign in in the system mode.
+Use<00:02:08.959><c> your</c><00:02:09.280><c> Epic</c><00:02:09.599><c> Games</c>
+
+00:02:11.510 --> 00:02:11.520 align:start position:0%
+Use your Epic Games
+ 
+
+00:02:11.520 --> 00:02:17.350 align:start position:0%
+Use your Epic Games
+account<00:02:11.920><c> to</c><00:02:12.160><c> sign</c><00:02:12.319><c> in.</c>
+
+00:02:17.350 --> 00:02:17.360 align:start position:0%
+ 
+ 
+
+00:02:17.360 --> 00:02:21.110 align:start position:0%
+ 
+Hello<00:02:17.440><c> allow.</c>
+
+00:02:21.110 --> 00:02:21.120 align:start position:0%
+ 
+ 
+
+00:02:21.120 --> 00:02:23.430 align:start position:0%
+ 
+Successfully<00:02:21.760><c> authorized.</c><00:02:22.400><c> That's</c><00:02:22.720><c> fine.</c>
+
+00:02:23.430 --> 00:02:23.440 align:start position:0%
+Successfully authorized. That's fine.
+ 
+
+00:02:23.440 --> 00:02:25.830 align:start position:0%
+Successfully authorized. That's fine.
+Now<00:02:23.599><c> let's</c><00:02:23.840><c> move</c><00:02:24.000><c> to</c><00:02:24.080><c> the</c><00:02:24.319><c> next</c><00:02:24.560><c> step.</c><00:02:25.520><c> Next</c>
+
+00:02:25.830 --> 00:02:25.840 align:start position:0%
+Now let's move to the next step. Next
+ 
+
+00:02:25.840 --> 00:02:29.910 align:start position:0%
+Now let's move to the next step. Next
+step<00:02:26.959><c> is</c><00:02:27.200><c> to</c><00:02:27.440><c> go</c><00:02:27.680><c> here</c><00:02:28.640><c> content</c><00:02:29.200><c> drawer.</c>
+
+00:02:29.910 --> 00:02:29.920 align:start position:0%
+step is to go here content drawer.
+ 
+
+00:02:29.920 --> 00:02:33.430 align:start position:0%
+step is to go here content drawer.
+Select<00:02:30.319><c> menu.</c>
+
+00:02:33.430 --> 00:02:33.440 align:start position:0%
+ 
+ 
+
+00:02:33.440 --> 00:02:36.229 align:start position:0%
+ 
+Add<00:02:33.760><c> this</c><00:02:34.080><c> one.</c><00:02:34.560><c> This</c><00:02:34.879><c> one.</c><00:02:35.280><c> This</c><00:02:35.519><c> one.</c><00:02:35.920><c> This</c>
+
+00:02:36.229 --> 00:02:36.239 align:start position:0%
+Add this one. This one. This one. This
+ 
+
+00:02:36.239 --> 00:02:37.750 align:start position:0%
+Add this one. This one. This one. This
+one.
+
+00:02:37.750 --> 00:02:37.760 align:start position:0%
+one.
+ 
+
+00:02:37.760 --> 00:02:41.030 align:start position:0%
+one.
+Okay,<00:02:38.480><c> I</c><00:02:38.800><c> think</c><00:02:38.959><c> it's</c><00:02:39.280><c> fine.</c>
+
+00:02:41.030 --> 00:02:41.040 align:start position:0%
+Okay, I think it's fine.
+ 
+
+00:02:41.040 --> 00:02:47.430 align:start position:0%
+Okay, I think it's fine.
+Now,<00:02:41.680><c> you</c><00:02:42.000><c> must</c><00:02:42.400><c> have</c><00:02:43.040><c> your</c><00:02:43.840><c> Google</c><00:02:44.959><c> Maps</c><00:02:45.440><c> API.</c>
+
+00:02:47.430 --> 00:02:47.440 align:start position:0%
+Now, you must have your Google Maps API.
+ 
+
+00:02:47.440 --> 00:02:49.750 align:start position:0%
+Now, you must have your Google Maps API.
+In<00:02:47.680><c> my</c><00:02:47.840><c> case,</c><00:02:48.160><c> I</c><00:02:48.400><c> don't</c><00:02:48.560><c> have</c><00:02:48.959><c> uh</c><00:02:49.120><c> this</c><00:02:49.440><c> Google</c>
+
+00:02:49.750 --> 00:02:49.760 align:start position:0%
+In my case, I don't have uh this Google
+ 
+
+00:02:49.760 --> 00:02:54.070 align:start position:0%
+In my case, I don't have uh this Google
+Maps<00:02:50.480><c> API.</c><00:02:51.840><c> There</c><00:02:52.080><c> is</c><00:02:52.239><c> an</c><00:02:52.480><c> alternative.</c><00:02:53.840><c> The</c>
+
+00:02:54.070 --> 00:02:54.080 align:start position:0%
+Maps API. There is an alternative. The
+ 
+
+00:02:54.080 --> 00:02:56.949 align:start position:0%
+Maps API. There is an alternative. The
+alternative<00:02:54.720><c> way</c><00:02:55.360><c> is</c><00:02:55.519><c> to</c><00:02:55.760><c> search</c><00:02:56.480><c> for</c><00:02:56.800><c> a</c>
+
+00:02:56.949 --> 00:02:56.959 align:start position:0%
+alternative way is to search for a
+ 
+
+00:02:56.959 --> 00:03:00.070 align:start position:0%
+alternative way is to search for a
+place.<00:02:57.360><c> For</c><00:02:57.360><c> example,</c><00:02:58.160><c> I</c><00:02:58.400><c> want</c><00:02:58.560><c> to</c><00:02:58.720><c> search</c><00:02:59.040><c> for</c>
+
+00:03:00.070 --> 00:03:00.080 align:start position:0%
+place. For example, I want to search for
+ 
+
+00:03:00.080 --> 00:03:04.149 align:start position:0%
+place. For example, I want to search for
+uh<00:03:00.319><c> New</c><00:03:00.560><c> York.</c>
+
+00:03:04.149 --> 00:03:04.159 align:start position:0%
+ 
+ 
+
+00:03:04.159 --> 00:03:07.910 align:start position:0%
+ 
+Uh,<00:03:04.560><c> New</c><00:03:04.800><c> York</c>
+
+00:03:07.910 --> 00:03:07.920 align:start position:0%
+ 
+ 
+
+00:03:07.920 --> 00:03:10.949 align:start position:0%
+ 
+is<00:03:08.239><c> this</c><00:03:08.560><c> one.</c>
+
+00:03:10.949 --> 00:03:10.959 align:start position:0%
+is this one.
+ 
+
+00:03:10.959 --> 00:03:15.990 align:start position:0%
+is this one.
+Search<00:03:11.280><c> any</c><00:03:11.599><c> place</c><00:03:11.840><c> in</c><00:03:12.080><c> New</c><00:03:12.319><c> York.</c>
+
+00:03:15.990 --> 00:03:16.000 align:start position:0%
+ 
+ 
+
+00:03:16.000 --> 00:03:20.229 align:start position:0%
+ 
+Copy<00:03:16.319><c> this</c><00:03:16.640><c> location.</c><00:03:17.040><c> For</c><00:03:17.120><c> example,</c>
+
+00:03:20.229 --> 00:03:20.239 align:start position:0%
+ 
+ 
+
+00:03:20.239 --> 00:03:23.750 align:start position:0%
+ 
+go<00:03:20.480><c> here.</c><00:03:20.879><c> Google</c><00:03:21.200><c> photoic</c><00:03:22.239><c> 3D</c><00:03:22.560><c> tiles.</c><00:03:23.360><c> Enable</c>
+
+00:03:23.750 --> 00:03:23.760 align:start position:0%
+go here. Google photoic 3D tiles. Enable
+ 
+
+00:03:23.760 --> 00:03:25.670 align:start position:0%
+go here. Google photoic 3D tiles. Enable
+this.
+
+00:03:25.670 --> 00:03:25.680 align:start position:0%
+this.
+ 
+
+00:03:25.680 --> 00:03:29.190 align:start position:0%
+this.
+Okay.<00:03:26.239><c> Create</c><00:03:26.640><c> new</c><00:03:26.879><c> token.</c><00:03:27.680><c> Choose</c><00:03:28.000><c> default</c>
+
+00:03:29.190 --> 00:03:29.200 align:start position:0%
+Okay. Create new token. Choose default
+ 
+
+00:03:29.200 --> 00:03:33.430 align:start position:0%
+Okay. Create new token. Choose default
+token.<00:03:30.480><c> Hit</c><00:03:30.799><c> create.</c>
+
+00:03:33.430 --> 00:03:33.440 align:start position:0%
+token. Hit create.
+ 
+
+00:03:33.440 --> 00:03:39.990 align:start position:0%
+token. Hit create.
+After<00:03:33.840><c> creating</c><00:03:34.400><c> this</c>
+
+00:03:39.990 --> 00:03:40.000 align:start position:0%
+ 
+ 
+
+00:03:40.000 --> 00:03:43.270 align:start position:0%
+ 
+now<00:03:40.799><c> we</c><00:03:41.120><c> have</c><00:03:41.280><c> to</c><00:03:41.440><c> go</c><00:03:41.680><c> here</c><00:03:42.720><c> click</c><00:03:43.040><c> this</c>
+
+00:03:43.270 --> 00:03:43.280 align:start position:0%
+now we have to go here click this
+ 
+
+00:03:43.280 --> 00:03:44.789 align:start position:0%
+now we have to go here click this
+reference
+
+00:03:44.789 --> 00:03:44.799 align:start position:0%
+reference
+ 
+
+00:03:44.799 --> 00:03:50.390 align:start position:0%
+reference
+we<00:03:45.040><c> add</c><00:03:45.760><c> latitude</c><00:03:46.720><c> and</c><00:03:47.920><c> longitude</c>
+
+00:03:50.390 --> 00:03:50.400 align:start position:0%
+we add latitude and longitude
+ 
+
+00:03:50.400 --> 00:03:59.030 align:start position:0%
+we add latitude and longitude
+okay<00:03:51.680><c> let's</c><00:03:52.080><c> create</c><00:03:53.120><c> here</c><00:03:53.760><c> text</c><00:03:54.080><c> file</c>
+
+00:03:59.030 --> 00:03:59.040 align:start position:0%
+ 
+ 
+
+00:03:59.040 --> 00:04:02.390 align:start position:0%
+ 
+map
+
+00:04:02.390 --> 00:04:02.400 align:start position:0%
+ 
+ 
+
+00:04:02.400 --> 00:04:07.509 align:start position:0%
+ 
+X<00:04:02.640><c> and</c><00:04:02.879><c> Y.</c><00:04:04.239><c> Okay,</c><00:04:04.480><c> this</c><00:04:04.720><c> is</c><00:04:04.799><c> my</c><00:04:05.120><c> X.</c>
+
+00:04:07.509 --> 00:04:07.519 align:start position:0%
+X and Y. Okay, this is my X.
+ 
+
+00:04:07.519 --> 00:04:09.670 align:start position:0%
+X and Y. Okay, this is my X.
+Copy.
+
+00:04:09.670 --> 00:04:09.680 align:start position:0%
+Copy.
+ 
+
+00:04:09.680 --> 00:04:12.630 align:start position:0%
+Copy.
+Go<00:04:09.920><c> right</c><00:04:10.239><c> here.</c>
+
+00:04:12.630 --> 00:04:12.640 align:start position:0%
+Go right here.
+ 
+
+00:04:12.640 --> 00:04:17.909 align:start position:0%
+Go right here.
+Paste<00:04:13.760><c> first</c><00:04:14.000><c> one.</c><00:04:15.280><c> Second</c><00:04:15.680><c> one</c><00:04:16.720><c> of</c><00:04:17.120><c> you.</c>
+
+00:04:17.909 --> 00:04:17.919 align:start position:0%
+Paste first one. Second one of you.
+ 
+
+00:04:17.919 --> 00:04:21.270 align:start position:0%
+Paste first one. Second one of you.
+Let's<00:04:18.239><c> go</c><00:04:18.479><c> here.</c>
+
+00:04:21.270 --> 00:04:21.280 align:start position:0%
+Let's go here.
+ 
+
+00:04:21.280 --> 00:04:24.390 align:start position:0%
+Let's go here.
+You<00:04:21.519><c> can</c><00:04:21.680><c> choose</c><00:04:22.000><c> any</c><00:04:22.320><c> place</c><00:04:23.360><c> and</c><00:04:23.680><c> add</c><00:04:23.919><c> it</c><00:04:24.160><c> like</c>
+
+00:04:24.390 --> 00:04:24.400 align:start position:0%
+You can choose any place and add it like
+ 
+
+00:04:24.400 --> 00:04:37.430 align:start position:0%
+You can choose any place and add it like
+this.
+
+00:04:37.430 --> 00:04:37.440 align:start position:0%
+ 
+ 
+
+00:04:37.440 --> 00:04:39.590 align:start position:0%
+ 
+Okay,<00:04:37.759><c> I</c><00:04:37.919><c> think</c><00:04:38.080><c> it's</c><00:04:38.400><c> fine.</c><00:04:38.800><c> It's</c><00:04:39.040><c> take</c><00:04:39.360><c> some</c>
+
+00:04:39.590 --> 00:04:39.600 align:start position:0%
+Okay, I think it's fine. It's take some
+ 
+
+00:04:39.600 --> 00:04:41.909 align:start position:0%
+Okay, I think it's fine. It's take some
+times
+
+00:04:41.909 --> 00:04:41.919 align:start position:0%
+times
+ 
+
+00:04:41.919 --> 00:04:44.390 align:start position:0%
+times
+to<00:04:42.160><c> generate</c><00:04:42.560><c> this</c><00:04:42.880><c> city</c><00:04:43.759><c> from</c><00:04:44.000><c> the</c><00:04:44.160><c> Google</c>
+
+00:04:44.390 --> 00:04:44.400 align:start position:0%
+to generate this city from the Google
+ 
+
+00:04:44.400 --> 00:04:45.909 align:start position:0%
+to generate this city from the Google
+Maps
+
+00:04:45.909 --> 00:04:45.919 align:start position:0%
+Maps
+ 
+
+00:04:45.919 --> 00:04:51.350 align:start position:0%
+Maps
+API.
+
+00:04:51.350 --> 00:04:51.360 align:start position:0%
+ 
+ 
+
+00:04:51.360 --> 00:04:56.870 align:start position:0%
+ 
+Change<00:04:51.600><c> the</c><00:04:51.759><c> speed</c><00:04:52.000><c> of</c><00:04:52.160><c> the</c><00:04:52.320><c> camera.</c>
+
+00:04:56.870 --> 00:04:56.880 align:start position:0%
+ 
+ 
+
+00:04:56.880 --> 00:05:06.070 align:start position:0%
+ 
+32.
+
+00:05:06.070 --> 00:05:06.080 align:start position:0%
+ 
+ 
+
+00:05:06.080 --> 00:05:09.189 align:start position:0%
+ 
+Okay,<00:05:06.400><c> it</c><00:05:06.720><c> works</c><00:05:07.520><c> fine.</c>
+
+00:05:09.189 --> 00:05:09.199 align:start position:0%
+Okay, it works fine.
+ 
+
+00:05:09.199 --> 00:05:11.909 align:start position:0%
+Okay, it works fine.
+Look<00:05:09.360><c> at</c><00:05:09.600><c> this.</c><00:05:10.400><c> It's</c><00:05:10.639><c> take</c><00:05:10.880><c> some</c><00:05:11.199><c> time</c><00:05:11.680><c> to</c>
+
+00:05:11.909 --> 00:05:11.919 align:start position:0%
+Look at this. It's take some time to
+ 
+
+00:05:11.919 --> 00:05:15.990 align:start position:0%
+Look at this. It's take some time to
+generate<00:05:12.479><c> all</c><00:05:12.639><c> these</c><00:05:13.280><c> details.</c>
+
+00:05:15.990 --> 00:05:16.000 align:start position:0%
+generate all these details.
+ 
+
+00:05:16.000 --> 00:05:19.909 align:start position:0%
+generate all these details.
+We<00:05:16.320><c> are</c><00:05:16.479><c> here</c><00:05:16.800><c> in</c><00:05:17.440><c> New</c><00:05:17.680><c> York.</c><00:05:18.560><c> It</c><00:05:18.880><c> looks</c><00:05:19.600><c> very</c>
+
+00:05:19.909 --> 00:05:19.919 align:start position:0%
+We are here in New York. It looks very
+ 
+
+00:05:19.919 --> 00:05:23.360 align:start position:0%
+We are here in New York. It looks very
+nice.<00:05:20.320><c> to</c><00:05:20.479><c> talk</c><00:05:20.720><c> sir.</c>
+

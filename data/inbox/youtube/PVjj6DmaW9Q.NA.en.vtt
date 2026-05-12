@@ -1,0 +1,648 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.800 --> 00:00:02.950 align:start position:0%
+ 
+Hi<00:00:01.120><c> guys,</c><00:00:01.680><c> in</c><00:00:01.839><c> this</c><00:00:02.000><c> tutorial</c><00:00:02.399><c> I</c><00:00:02.480><c> want</c><00:00:02.639><c> to</c><00:00:02.800><c> show</c>
+
+00:00:02.950 --> 00:00:02.960 align:start position:0%
+Hi guys, in this tutorial I want to show
+ 
+
+00:00:02.960 --> 00:00:06.390 align:start position:0%
+Hi guys, in this tutorial I want to show
+you<00:00:03.280><c> how</c><00:00:03.520><c> to</c><00:00:03.760><c> install</c><00:00:04.720><c> Cam</c><00:00:05.120><c> UI</c><00:00:05.520><c> portable</c><00:00:06.080><c> and</c>
+
+00:00:06.390 --> 00:00:06.400 align:start position:0%
+you how to install Cam UI portable and
+ 
+
+00:00:06.400 --> 00:00:09.270 align:start position:0%
+you how to install Cam UI portable and
+CAUI<00:00:07.759><c> manager.</c>
+
+00:00:09.270 --> 00:00:09.280 align:start position:0%
+CAUI manager.
+ 
+
+00:00:09.280 --> 00:00:13.030 align:start position:0%
+CAUI manager.
+Okay,<00:00:09.679><c> let's</c>
+
+00:00:13.030 --> 00:00:13.040 align:start position:0%
+ 
+ 
+
+00:00:13.040 --> 00:00:14.950 align:start position:0%
+ 
+Okay,<00:00:13.599><c> first</c><00:00:13.840><c> thing</c><00:00:14.000><c> first,</c><00:00:14.320><c> go</c><00:00:14.480><c> here</c><00:00:14.719><c> to</c>
+
+00:00:14.950 --> 00:00:14.960 align:start position:0%
+Okay, first thing first, go here to
+ 
+
+00:00:14.960 --> 00:00:17.830 align:start position:0%
+Okay, first thing first, go here to
+Google.<00:00:15.519><c> Search</c><00:00:15.759><c> for</c><00:00:16.000><c> Camp</c><00:00:16.320><c> UI.</c>
+
+00:00:17.830 --> 00:00:17.840 align:start position:0%
+Google. Search for Camp UI.
+ 
+
+00:00:17.840 --> 00:00:21.429 align:start position:0%
+Google. Search for Camp UI.
+Go<00:00:18.080><c> to</c><00:00:18.240><c> the</c><00:00:18.480><c> first</c><00:00:18.640><c> link</c><00:00:19.359><c> UI</c><00:00:20.080><c> UI</c><00:00:20.800><c> portable</c>
+
+00:00:21.429 --> 00:00:21.439 align:start position:0%
+Go to the first link UI UI portable
+ 
+
+00:00:21.439 --> 00:00:23.429 align:start position:0%
+Go to the first link UI UI portable
+Windows.
+
+00:00:23.429 --> 00:00:23.439 align:start position:0%
+Windows.
+ 
+
+00:00:23.439 --> 00:00:27.269 align:start position:0%
+Windows.
+Okay<00:00:24.160><c> to</c><00:00:24.400><c> download</c><00:00:24.720><c> this</c><00:00:25.119><c> computer</c><00:00:25.840><c> version</c>
+
+00:00:27.269 --> 00:00:27.279 align:start position:0%
+Okay to download this computer version
+ 
+
+00:00:27.279 --> 00:00:31.509 align:start position:0%
+Okay to download this computer version
+first<00:00:28.240><c> you</c><00:00:28.480><c> go</c><00:00:28.800><c> here</c><00:00:30.080><c> this</c><00:00:30.320><c> is</c><00:00:30.800><c> those</c><00:00:31.119><c> version</c>
+
+00:00:31.509 --> 00:00:31.519 align:start position:0%
+first you go here this is those version
+ 
+
+00:00:31.519 --> 00:00:36.870 align:start position:0%
+first you go here this is those version
+for<00:00:32.480><c> standard</c><00:00:33.040><c> Nvidia</c><00:00:33.760><c> GPU</c><00:00:35.200><c> and</c><00:00:35.520><c> this</c><00:00:35.760><c> for</c><00:00:36.239><c> AMD</c>
+
+00:00:36.870 --> 00:00:36.880 align:start position:0%
+for standard Nvidia GPU and this for AMD
+ 
+
+00:00:36.880 --> 00:00:40.709 align:start position:0%
+for standard Nvidia GPU and this for AMD
+GPU<00:00:37.840><c> artiller</c><00:00:38.559><c> download</c><00:00:39.600><c> Nvidia</c><00:00:40.079><c> GPU</c><00:00:40.399><c> I</c><00:00:40.559><c> want</c>
+
+00:00:40.709 --> 00:00:40.719 align:start position:0%
+GPU artiller download Nvidia GPU I want
+ 
+
+00:00:40.719 --> 00:00:45.430 align:start position:0%
+GPU artiller download Nvidia GPU I want
+to<00:00:40.879><c> use</c><00:00:41.120><c> this</c><00:00:42.480><c> one</c><00:00:42.879><c> portable</c><00:00:43.520><c> with</c><00:00:43.760><c> PyTora</c>
+
+00:00:45.430 --> 00:00:45.440 align:start position:0%
+to use this one portable with PyTora
+ 
+
+00:00:45.440 --> 00:00:49.590 align:start position:0%
+to use this one portable with PyTora
+the<00:00:45.760><c> 12.8</c><00:00:46.559><c> eight</c><00:00:47.039><c> with</c><00:00:47.440><c> and</c><00:00:47.760><c> Python</c>
+
+00:00:49.590 --> 00:00:49.600 align:start position:0%
+the 12.8 eight with and Python
+ 
+
+00:00:49.600 --> 00:00:52.389 align:start position:0%
+the 12.8 eight with and Python
+3.12.
+
+00:00:52.389 --> 00:00:52.399 align:start position:0%
+3.12.
+ 
+
+00:00:52.399 --> 00:00:55.830 align:start position:0%
+3.12.
+Okay,<00:00:52.719><c> click</c><00:00:53.120><c> start</c><00:00:53.280><c> now.</c>
+
+00:00:55.830 --> 00:00:55.840 align:start position:0%
+Okay, click start now.
+ 
+
+00:00:55.840 --> 00:00:58.229 align:start position:0%
+Okay, click start now.
+&gt;&gt; Okay,<00:00:56.160><c> fine.</c><00:00:56.559><c> The</c><00:00:56.800><c> downloading</c><00:00:57.280><c> is</c><00:00:57.520><c> finished.</c>
+
+00:00:58.229 --> 00:00:58.239 align:start position:0%
+&gt;&gt; Okay, fine. The downloading is finished.
+ 
+
+00:00:58.239 --> 00:01:01.750 align:start position:0%
+&gt;&gt; Okay, fine. The downloading is finished.
+Let's<00:00:58.640><c> close</c><00:00:59.039><c> the</c><00:00:59.280><c> open</c><00:00:59.600><c> the</c><00:00:59.760><c> folder.</c>
+
+00:01:01.750 --> 00:01:01.760 align:start position:0%
+Let's close the open the folder.
+ 
+
+00:01:01.760 --> 00:01:05.910 align:start position:0%
+Let's close the open the folder.
+Okay,<00:01:02.160><c> close</c><00:01:02.879><c> uh</c><00:01:04.000><c> minimize</c><00:01:04.479><c> this</c><00:01:04.799><c> window</c><00:01:05.600><c> and</c>
+
+00:01:05.910 --> 00:01:05.920 align:start position:0%
+Okay, close uh minimize this window and
+ 
+
+00:01:05.920 --> 00:01:09.590 align:start position:0%
+Okay, close uh minimize this window and
+make<00:01:06.080><c> the</c><00:01:06.240><c> GPI</c><00:01:06.880><c> right</c><00:01:07.119><c> here.</c><00:01:08.400><c> Okay,</c><00:01:09.119><c> before</c><00:01:09.439><c> we</c>
+
+00:01:09.590 --> 00:01:09.600 align:start position:0%
+make the GPI right here. Okay, before we
+ 
+
+00:01:09.600 --> 00:01:11.910 align:start position:0%
+make the GPI right here. Okay, before we
+extract<00:01:10.000><c> this</c><00:01:10.320><c> file,</c><00:01:10.880><c> we</c><00:01:11.119><c> have</c><00:01:11.280><c> to</c><00:01:11.439><c> download</c>
+
+00:01:11.910 --> 00:01:11.920 align:start position:0%
+extract this file, we have to download
+ 
+
+00:01:11.920 --> 00:01:17.910 align:start position:0%
+extract this file, we have to download
+the<00:01:12.080><c> Python.</c><00:01:13.280><c> Search</c><00:01:13.520><c> for</c><00:01:13.680><c> Python.</c>
+
+00:01:17.910 --> 00:01:17.920 align:start position:0%
+ 
+ 
+
+00:01:17.920 --> 00:01:21.190 align:start position:0%
+ 
+Click<00:01:18.240><c> download</c><00:01:18.720><c> this</c><00:01:18.960><c> here</c><00:01:20.000><c> from</c><00:01:20.320><c> here.</c>
+
+00:01:21.190 --> 00:01:21.200 align:start position:0%
+Click download this here from here.
+ 
+
+00:01:21.200 --> 00:01:32.710 align:start position:0%
+Click download this here from here.
+Click<00:01:21.520><c> here.</c>
+
+00:01:32.710 --> 00:01:32.720 align:start position:0%
+ 
+ 
+
+00:01:32.720 --> 00:01:35.910 align:start position:0%
+ 
+Double<00:01:33.040><c> click</c><00:01:33.280><c> to</c><00:01:33.439><c> open</c><00:01:33.759><c> it.</c><00:01:34.960><c> Okay.</c><00:01:35.439><c> And</c><00:01:35.600><c> stop</c>
+
+00:01:35.910 --> 00:01:35.920 align:start position:0%
+Double click to open it. Okay. And stop
+ 
+
+00:01:35.920 --> 00:01:50.469 align:start position:0%
+Double click to open it. Okay. And stop
+now.
+
+00:01:50.469 --> 00:01:50.479 align:start position:0%
+ 
+ 
+
+00:01:50.479 --> 00:01:59.830 align:start position:0%
+ 
+Close.
+
+00:01:59.830 --> 00:01:59.840 align:start position:0%
+ 
+ 
+
+00:01:59.840 --> 00:02:03.830 align:start position:0%
+ 
+Now<00:02:00.159><c> return</c><00:02:01.040><c> for</c>
+
+00:02:03.830 --> 00:02:03.840 align:start position:0%
+Now return for
+ 
+
+00:02:03.840 --> 00:02:08.309 align:start position:0%
+Now return for
+I<00:02:04.000><c> have</c><00:02:04.240><c> to</c><00:02:04.399><c> start</c><00:02:04.719><c> gick</c><00:02:06.159><c> here.</c>
+
+00:02:08.309 --> 00:02:08.319 align:start position:0%
+I have to start gick here.
+ 
+
+00:02:08.319 --> 00:02:13.670 align:start position:0%
+I have to start gick here.
+Start<00:02:08.800><c> from</c><00:02:08.879><c> follow</c><00:02:09.119><c> Windows.</c>
+
+00:02:13.670 --> 00:02:13.680 align:start position:0%
+ 
+ 
+
+00:02:13.680 --> 00:02:16.550 align:start position:0%
+ 
+I<00:02:13.920><c> get</c><00:02:14.239><c> for</c><00:02:14.400><c> Windows</c><00:02:15.040><c> 64</c><00:02:15.599><c> setup.</c><00:02:16.239><c> Start</c>
+
+00:02:16.550 --> 00:02:16.560 align:start position:0%
+I get for Windows 64 setup. Start
+ 
+
+00:02:16.560 --> 00:02:19.190 align:start position:0%
+I get for Windows 64 setup. Start
+download
+
+00:02:19.190 --> 00:02:19.200 align:start position:0%
+download
+ 
+
+00:02:19.200 --> 00:02:22.470 align:start position:0%
+download
+and<00:02:19.599><c> close</c><00:02:20.319><c> this</c><00:02:20.640><c> one.</c><00:02:21.760><c> This</c><00:02:22.000><c> is</c><00:02:22.160><c> the</c>
+
+00:02:22.470 --> 00:02:22.480 align:start position:0%
+and close this one. This is the
+ 
+
+00:02:22.480 --> 00:02:25.510 align:start position:0%
+and close this one. This is the
+requirements<00:02:23.200><c> for</c><00:02:23.599><c> the</c><00:02:23.920><c> conf.</c>
+
+00:02:25.510 --> 00:02:25.520 align:start position:0%
+requirements for the conf.
+ 
+
+00:02:25.520 --> 00:02:30.070 align:start position:0%
+requirements for the conf.
+After<00:02:25.840><c> that,</c><00:02:26.400><c> open</c><00:02:26.720><c> it.</c>
+
+00:02:30.070 --> 00:02:30.080 align:start position:0%
+ 
+ 
+
+00:02:30.080 --> 00:02:59.750 align:start position:0%
+ 
+Okay.<00:02:30.400><c> Next,</c><00:02:30.720><c> next.</c><00:02:31.200><c> Next.</c>
+
+00:02:59.750 --> 00:02:59.760 align:start position:0%
+ 
+ 
+
+00:02:59.760 --> 00:03:02.869 align:start position:0%
+ 
+and<00:02:59.920><c> take</c><00:03:00.160><c> this</c><00:03:00.400><c> one.</c><00:03:01.040><c> Hit</c><00:03:01.280><c> finish.</c><00:03:02.239><c> Now</c><00:03:02.640><c> let's</c>
+
+00:03:02.869 --> 00:03:02.879 align:start position:0%
+and take this one. Hit finish. Now let's
+ 
+
+00:03:02.879 --> 00:03:05.670 align:start position:0%
+and take this one. Hit finish. Now let's
+select<00:03:03.200><c> this</c><00:03:03.440><c> confi</c>
+
+00:03:05.670 --> 00:03:05.680 align:start position:0%
+select this confi
+ 
+
+00:03:05.680 --> 00:03:07.910 align:start position:0%
+select this confi
+and<00:03:05.840><c> go</c><00:03:06.000><c> to</c><00:03:06.239><c> wer</c>
+
+00:03:07.910 --> 00:03:07.920 align:start position:0%
+and go to wer
+ 
+
+00:03:07.920 --> 00:03:11.270 align:start position:0%
+and go to wer
+extract<00:03:08.560><c> to</c><00:03:08.959><c> or</c><00:03:09.280><c> extract</c><00:03:09.760><c> file.</c>
+
+00:03:11.270 --> 00:03:11.280 align:start position:0%
+extract to or extract file.
+ 
+
+00:03:11.280 --> 00:03:15.830 align:start position:0%
+extract to or extract file.
+Okay,<00:03:11.680><c> extract.</c>
+
+00:03:15.830 --> 00:03:15.840 align:start position:0%
+ 
+ 
+
+00:03:15.840 --> 00:03:17.990 align:start position:0%
+ 
+Okay,<00:03:16.239><c> we</c><00:03:16.480><c> are</c><00:03:16.640><c> done</c><00:03:16.959><c> of</c><00:03:17.200><c> extracting</c><00:03:17.760><c> the</c>
+
+00:03:17.990 --> 00:03:18.000 align:start position:0%
+Okay, we are done of extracting the
+ 
+
+00:03:18.000 --> 00:03:20.949 align:start position:0%
+Okay, we are done of extracting the
+confi
+
+00:03:20.949 --> 00:03:20.959 align:start position:0%
+confi
+ 
+
+00:03:20.959 --> 00:03:40.070 align:start position:0%
+confi
+portable.<00:03:21.760><c> Okay,</c><00:03:22.159><c> let's</c><00:03:22.480><c> run</c><00:03:22.720><c> it.</c>
+
+00:03:40.070 --> 00:03:40.080 align:start position:0%
+ 
+ 
+
+00:03:40.080 --> 00:03:42.390 align:start position:0%
+ 
+Uh<00:03:40.400><c> okay</c><00:03:40.879><c> fine</c>
+
+00:03:42.390 --> 00:03:42.400 align:start position:0%
+Uh okay fine
+ 
+
+00:03:42.400 --> 00:03:44.309 align:start position:0%
+Uh okay fine
+this<00:03:42.640><c> is</c><00:03:42.720><c> the</c><00:03:42.879><c> compi</c><00:03:43.519><c> it's</c><00:03:43.760><c> installed</c>
+
+00:03:44.309 --> 00:03:44.319 align:start position:0%
+this is the compi it's installed
+ 
+
+00:03:44.319 --> 00:03:45.910 align:start position:0%
+this is the compi it's installed
+successfully
+
+00:03:45.910 --> 00:03:45.920 align:start position:0%
+successfully
+ 
+
+00:03:45.920 --> 00:03:48.630 align:start position:0%
+successfully
+now<00:03:46.239><c> let's</c><00:03:46.480><c> install</c><00:03:46.879><c> the</c><00:03:47.120><c> manager</c><00:03:48.319><c> okay</c>
+
+00:03:48.630 --> 00:03:48.640 align:start position:0%
+now let's install the manager okay
+ 
+
+00:03:48.640 --> 00:03:50.390 align:start position:0%
+now let's install the manager okay
+before<00:03:48.959><c> we</c><00:03:49.120><c> install</c><00:03:49.440><c> the</c><00:03:49.599><c> manager</c><00:03:50.080><c> we</c><00:03:50.239><c> have</c>
+
+00:03:50.390 --> 00:03:50.400 align:start position:0%
+before we install the manager we have
+ 
+
+00:03:50.400 --> 00:03:53.750 align:start position:0%
+before we install the manager we have
+deploy<00:03:50.799><c> the</c><00:03:50.959><c> company</c><00:03:51.599><c> from</c><00:03:51.840><c> this</c>
+
+00:03:53.750 --> 00:03:53.760 align:start position:0%
+deploy the company from this
+ 
+
+00:03:53.760 --> 00:04:02.630 align:start position:0%
+deploy the company from this
+one<00:03:54.720><c> new</c><00:03:54.959><c> tab</c><00:03:55.440><c> and</c><00:03:55.760><c> search</c><00:03:56.080><c> for</c><00:03:56.319><c> compi</c><00:03:56.959><c> manager</c>
+
+00:04:02.630 --> 00:04:02.640 align:start position:0%
+ 
+ 
+
+00:04:02.640 --> 00:04:06.550 align:start position:0%
+ 
+okay<00:04:03.040><c> go</c><00:04:03.200><c> to</c><00:04:03.360><c> the</c><00:04:03.599><c> first</c><00:04:03.840><c> link</c>
+
+00:04:06.550 --> 00:04:06.560 align:start position:0%
+okay go to the first link
+ 
+
+00:04:06.560 --> 00:04:10.149 align:start position:0%
+okay go to the first link
+go<00:04:06.879><c> down</c>
+
+00:04:10.149 --> 00:04:10.159 align:start position:0%
+ 
+ 
+
+00:04:10.159 --> 00:04:13.670 align:start position:0%
+ 
+Okay,<00:04:10.640><c> there</c><00:04:10.879><c> is</c><00:04:11.439><c> this</c><00:04:11.840><c> part</c><00:04:12.720><c> file.</c><00:04:13.280><c> Click</c>
+
+00:04:13.670 --> 00:04:13.680 align:start position:0%
+Okay, there is this part file. Click
+ 
+
+00:04:13.680 --> 00:04:17.670 align:start position:0%
+Okay, there is this part file. Click
+here<00:04:13.840><c> to</c><00:04:14.159><c> this</c><00:04:14.400><c> part</c><00:04:14.640><c> file.</c>
+
+00:04:17.670 --> 00:04:17.680 align:start position:0%
+ 
+ 
+
+00:04:17.680 --> 00:04:21.110 align:start position:0%
+ 
+There<00:04:17.919><c> is</c><00:04:18.160><c> this</c><00:04:18.400><c> code.</c><00:04:19.759><c> How</c><00:04:20.000><c> to</c><00:04:20.560><c> add</c><00:04:20.880><c> this</c>
+
+00:04:21.110 --> 00:04:21.120 align:start position:0%
+There is this code. How to add this
+ 
+
+00:04:21.120 --> 00:04:25.590 align:start position:0%
+There is this code. How to add this
+code?<00:04:21.919><c> Go</c><00:04:22.160><c> here</c><00:04:22.960><c> to</c><00:04:23.120><c> the</c><00:04:23.280><c> compi</c><00:04:24.160><c> pro</c><00:04:24.479><c> temple</c>
+
+00:04:25.590 --> 00:04:25.600 align:start position:0%
+code? Go here to the compi pro temple
+ 
+
+00:04:25.600 --> 00:04:30.870 align:start position:0%
+code? Go here to the compi pro temple
+order<00:04:26.160><c> and</c><00:04:26.479><c> create</c><00:04:26.800><c> new</c><00:04:27.040><c> text</c><00:04:27.360><c> file.</c>
+
+00:04:30.870 --> 00:04:30.880 align:start position:0%
+ 
+ 
+
+00:04:30.880 --> 00:04:41.670 align:start position:0%
+ 
+And<00:04:31.040><c> this</c><00:04:31.280><c> text</c><00:04:31.600><c> file</c><00:04:33.040><c> banner.</c>
+
+00:04:41.670 --> 00:04:41.680 align:start position:0%
+ 
+ 
+
+00:04:41.680 --> 00:04:50.230 align:start position:0%
+ 
+and<00:04:41.840><c> go</c><00:04:42.160><c> here,</c>
+
+00:04:50.230 --> 00:04:50.240 align:start position:0%
+ 
+ 
+
+00:04:50.240 --> 00:04:53.510 align:start position:0%
+ 
+select<00:04:50.800><c> all</c><00:04:51.120><c> of</c><00:04:51.360><c> those</c>
+
+00:04:53.510 --> 00:04:53.520 align:start position:0%
+select all of those
+ 
+
+00:04:53.520 --> 00:04:56.870 align:start position:0%
+select all of those
+and<00:04:53.840><c> go</c><00:04:54.080><c> here</c><00:04:54.479><c> to</c><00:04:54.800><c> my</c><00:04:55.040><c> file</c><00:04:56.080><c> and</c><00:04:56.400><c> paste</c><00:04:56.720><c> it</c>
+
+00:04:56.870 --> 00:04:56.880 align:start position:0%
+and go here to my file and paste it
+ 
+
+00:04:56.880 --> 00:05:00.310 align:start position:0%
+and go here to my file and paste it
+right<00:04:57.120><c> here.</c><00:04:58.080><c> After</c><00:04:58.560><c> pasting</c><00:04:59.199><c> this,</c><00:04:59.919><c> we</c><00:05:00.160><c> have</c>
+
+00:05:00.310 --> 00:05:00.320 align:start position:0%
+right here. After pasting this, we have
+ 
+
+00:05:00.320 --> 00:05:02.710 align:start position:0%
+right here. After pasting this, we have
+to<00:05:00.479><c> go</c><00:05:00.800><c> here</c>
+
+00:05:02.710 --> 00:05:02.720 align:start position:0%
+to go here
+ 
+
+00:05:02.720 --> 00:05:07.909 align:start position:0%
+to go here
+uh<00:05:02.880><c> this</c><00:05:03.199><c> English</c><00:05:04.240><c> save</c><00:05:04.720><c> us</c><00:05:05.440><c> and</c><00:05:05.840><c> uh</c><00:05:07.199><c> okay</c><00:05:07.759><c> or</c>
+
+00:05:07.909 --> 00:05:07.919 align:start position:0%
+uh this English save us and uh okay or
+ 
+
+00:05:07.919 --> 00:05:10.790 align:start position:0%
+uh this English save us and uh okay or
+registration<00:05:08.880><c> in</c><00:05:09.039><c> English</c><00:05:09.440><c> save</c><00:05:09.680><c> us.</c><00:05:10.400><c> Okay,</c>
+
+00:05:10.790 --> 00:05:10.800 align:start position:0%
+registration in English save us. Okay,
+ 
+
+00:05:10.800 --> 00:05:15.029 align:start position:0%
+registration in English save us. Okay,
+we<00:05:10.960><c> have</c><00:05:11.199><c> this</c><00:05:11.759><c> type</c><00:05:12.160><c> text</c><00:05:12.479><c> file</c>
+
+00:05:15.029 --> 00:05:15.039 align:start position:0%
+we have this type text file
+ 
+
+00:05:15.039 --> 00:05:21.990 align:start position:0%
+we have this type text file
+or<00:05:15.199><c> file</c><00:05:15.600><c> this</c>
+
+00:05:21.990 --> 00:05:22.000 align:start position:0%
+ 
+ 
+
+00:05:22.000 --> 00:05:25.590 align:start position:0%
+ 
+file
+
+00:05:25.590 --> 00:05:25.600 align:start position:0%
+ 
+ 
+
+00:05:25.600 --> 00:05:29.830 align:start position:0%
+ 
+add<00:05:26.639><c> point</c><00:05:28.000><c> file</c>
+
+00:05:29.830 --> 00:05:29.840 align:start position:0%
+add point file
+ 
+
+00:05:29.840 --> 00:05:33.029 align:start position:0%
+add point file
+and<00:05:30.240><c> hit</c><00:05:30.560><c> save.</c>
+
+00:05:33.029 --> 00:05:33.039 align:start position:0%
+and hit save.
+ 
+
+00:05:33.039 --> 00:05:38.950 align:start position:0%
+and hit save.
+Okay,<00:05:34.320><c> this</c><00:05:34.560><c> file.</c><00:05:35.440><c> Now</c><00:05:36.240><c> this</c><00:05:36.479><c> is</c><00:05:36.720><c> my</c><00:05:37.600><c> uh</c><00:05:37.840><c> file.</c>
+
+00:05:38.950 --> 00:05:38.960 align:start position:0%
+Okay, this file. Now this is my uh file.
+ 
+
+00:05:38.960 --> 00:05:41.670 align:start position:0%
+Okay, this file. Now this is my uh file.
+I<00:05:39.360><c> click</c><00:05:39.600><c> here</c>
+
+00:05:41.670 --> 00:05:41.680 align:start position:0%
+I click here
+ 
+
+00:05:41.680 --> 00:05:45.510 align:start position:0%
+I click here
+and<00:05:41.919><c> now</c><00:05:42.880><c> the</c><00:05:43.199><c> installation</c><00:05:43.919><c> of</c><00:05:44.160><c> the</c><00:05:44.320><c> PAI</c>
+
+00:05:45.510 --> 00:05:45.520 align:start position:0%
+and now the installation of the PAI
+ 
+
+00:05:45.520 --> 00:05:55.189 align:start position:0%
+and now the installation of the PAI
+manager<00:05:46.240><c> is</c><00:05:46.960><c> begin.</c>
+
+00:05:55.189 --> 00:05:55.199 align:start position:0%
+ 
+ 
+
+00:05:55.199 --> 00:05:56.710 align:start position:0%
+ 
+Okay,<00:05:55.600><c> fine.</c><00:05:55.840><c> The</c><00:05:56.080><c> installation</c><00:05:56.479><c> of</c><00:05:56.639><c> the</c>
+
+00:05:56.710 --> 00:05:56.720 align:start position:0%
+Okay, fine. The installation of the
+ 
+
+00:05:56.720 --> 00:06:01.029 align:start position:0%
+Okay, fine. The installation of the
+confi<00:05:57.360><c> manager</c><00:05:57.680><c> is</c><00:05:57.919><c> done.</c><00:05:58.880><c> Now</c><00:05:59.120><c> let's</c><00:05:59.440><c> run</c><00:06:00.800><c> the</c>
+
+00:06:01.029 --> 00:06:01.039 align:start position:0%
+confi manager is done. Now let's run the
+ 
+
+00:06:01.039 --> 00:06:13.830 align:start position:0%
+confi manager is done. Now let's run the
+caf.
+
+00:06:13.830 --> 00:06:13.840 align:start position:0%
+ 
+ 
+
+00:06:13.840 --> 00:06:17.189 align:start position:0%
+ 
+Okay,<00:06:14.240><c> it</c><00:06:14.560><c> works</c><00:06:14.880><c> fine.</c><00:06:15.199><c> This</c><00:06:15.360><c> is</c><00:06:15.520><c> my</c><00:06:16.000><c> UI</c><00:06:16.960><c> uh</c>
+
+00:06:17.189 --> 00:06:17.199 align:start position:0%
+Okay, it works fine. This is my UI uh
+ 
+
+00:06:17.199 --> 00:06:18.870 align:start position:0%
+Okay, it works fine. This is my UI uh
+manager.<00:06:17.759><c> Thank</c><00:06:17.919><c> you</c><00:06:18.080><c> guys</c><00:06:18.240><c> for</c><00:06:18.479><c> watching</c>
+
+00:06:18.870 --> 00:06:18.880 align:start position:0%
+manager. Thank you guys for watching
+ 
+
+00:06:18.880 --> 00:06:23.120 align:start position:0%
+manager. Thank you guys for watching
+this<00:06:19.199><c> all</c><00:06:19.520><c> 47</c><00:06:20.240><c> tutorial.</c>
+

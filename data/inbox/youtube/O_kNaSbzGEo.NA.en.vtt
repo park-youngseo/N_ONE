@@ -1,0 +1,1336 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.080 --> 00:00:01.750 align:start position:0%
+ 
+Hi<00:00:00.400><c> guys,</c><00:00:00.560><c> in</c><00:00:00.800><c> this</c><00:00:00.960><c> tutorial</c><00:00:01.199><c> I</c><00:00:01.360><c> want</c><00:00:01.520><c> to</c><00:00:01.600><c> show</c>
+
+00:00:01.750 --> 00:00:01.760 align:start position:0%
+Hi guys, in this tutorial I want to show
+ 
+
+00:00:01.760 --> 00:00:03.909 align:start position:0%
+Hi guys, in this tutorial I want to show
+you<00:00:01.920><c> how</c><00:00:02.080><c> to</c><00:00:02.320><c> make</c><00:00:02.720><c> landscape</c><00:00:03.280><c> like</c><00:00:03.520><c> this</c>
+
+00:00:03.909 --> 00:00:03.919 align:start position:0%
+you how to make landscape like this
+ 
+
+00:00:03.919 --> 00:00:09.190 align:start position:0%
+you how to make landscape like this
+using<00:00:04.480><c> PCG</c><00:00:05.040><c> system</c><00:00:05.440><c> trees</c><00:00:06.879><c> uh</c><00:00:07.040><c> four</c><00:00:07.440><c> less</c><00:00:08.800><c> and</c>
+
+00:00:09.190 --> 00:00:09.200 align:start position:0%
+using PCG system trees uh four less and
+ 
+
+00:00:09.200 --> 00:00:13.990 align:start position:0%
+using PCG system trees uh four less and
+inside<00:00:09.599><c> of</c><00:00:09.840><c> them</c><00:00:10.080><c> we</c><00:00:10.240><c> have</c><00:00:10.559><c> arrival.</c>
+
+00:00:13.990 --> 00:00:14.000 align:start position:0%
+ 
+ 
+
+00:00:14.000 --> 00:00:17.109 align:start position:0%
+ 
+Okay,<00:00:14.480><c> let's</c><00:00:14.799><c> begin.</c>
+
+00:00:17.109 --> 00:00:17.119 align:start position:0%
+Okay, let's begin.
+ 
+
+00:00:17.119 --> 00:00:21.510 align:start position:0%
+Okay, let's begin.
+Okay,<00:00:18.320><c> first</c><00:00:18.720><c> open</c><00:00:18.960><c> the</c><00:00:19.199><c> editor</c><00:00:20.240><c> games</c>
+
+00:00:21.510 --> 00:00:21.520 align:start position:0%
+Okay, first open the editor games
+ 
+
+00:00:21.520 --> 00:00:24.870 align:start position:0%
+Okay, first open the editor games
+selector<00:00:22.160><c> person</c><00:00:22.480><c> as</c><00:00:22.720><c> template</c><00:00:23.519><c> select</c><00:00:24.000><c> the</c>
+
+00:00:24.870 --> 00:00:24.880 align:start position:0%
+selector person as template select the
+ 
+
+00:00:24.880 --> 00:00:28.550 align:start position:0%
+selector person as template select the
+project<00:00:25.439><c> and</c><00:00:25.680><c> rename</c><00:00:26.080><c> it</c><00:00:26.640><c> PCG</c><00:00:27.119><c> landscape.</c><00:00:28.240><c> Hit</c>
+
+00:00:28.550 --> 00:00:28.560 align:start position:0%
+project and rename it PCG landscape. Hit
+ 
+
+00:00:28.560 --> 00:00:32.389 align:start position:0%
+project and rename it PCG landscape. Hit
+create.
+
+00:00:32.389 --> 00:00:32.399 align:start position:0%
+ 
+ 
+
+00:00:32.399 --> 00:00:35.270 align:start position:0%
+ 
+Now<00:00:32.640><c> go</c><00:00:32.880><c> to</c><00:00:33.040><c> the</c><00:00:33.200><c> content</c><00:00:33.600><c> drawer</c>
+
+00:00:35.270 --> 00:00:35.280 align:start position:0%
+Now go to the content drawer
+ 
+
+00:00:35.280 --> 00:00:38.869 align:start position:0%
+Now go to the content drawer
+like<00:00:35.600><c> here.</c>
+
+00:00:38.869 --> 00:00:38.879 align:start position:0%
+ 
+ 
+
+00:00:38.879 --> 00:00:42.229 align:start position:0%
+ 
+Go<00:00:39.120><c> add.</c><00:00:40.239><c> Let's</c><00:00:40.559><c> go</c><00:00:40.800><c> here</c><00:00:41.200><c> to</c><00:00:41.440><c> add</c><00:00:41.840><c> search</c>
+
+00:00:42.229 --> 00:00:42.239 align:start position:0%
+Go add. Let's go here to add search
+ 
+
+00:00:42.239 --> 00:00:44.630 align:start position:0%
+Go add. Let's go here to add search
+bank.
+
+00:00:44.630 --> 00:00:44.640 align:start position:0%
+bank.
+ 
+
+00:00:44.640 --> 00:00:46.950 align:start position:0%
+bank.
+Go<00:00:44.800><c> to</c><00:00:45.040><c> content.</c><00:00:45.600><c> Start</c><00:00:45.840><c> the</c><00:00:46.000><c> content.</c><00:00:46.480><c> Add</c><00:00:46.800><c> to</c>
+
+00:00:46.950 --> 00:00:46.960 align:start position:0%
+Go to content. Start the content. Add to
+ 
+
+00:00:46.960 --> 00:00:51.510 align:start position:0%
+Go to content. Start the content. Add to
+project.
+
+00:00:51.510 --> 00:00:51.520 align:start position:0%
+ 
+ 
+
+00:00:51.520 --> 00:00:55.270 align:start position:0%
+ 
+After<00:00:51.840><c> that,</c><00:00:53.280><c> let's</c><00:00:53.600><c> go</c><00:00:53.760><c> here</c><00:00:53.920><c> to</c><00:00:54.160><c> the</c><00:00:54.320><c> file.</c>
+
+00:00:55.270 --> 00:00:55.280 align:start position:0%
+After that, let's go here to the file.
+ 
+
+00:00:55.280 --> 00:00:58.389 align:start position:0%
+After that, let's go here to the file.
+Create<00:00:55.600><c> new</c><00:00:55.840><c> level.</c><00:00:56.960><c> Set</c><00:00:57.280><c> empty</c><00:00:57.600><c> level.</c><00:00:58.079><c> Hit</c>
+
+00:00:58.389 --> 00:00:58.399 align:start position:0%
+Create new level. Set empty level. Hit
+ 
+
+00:00:58.399 --> 00:01:00.310 align:start position:0%
+Create new level. Set empty level. Hit
+create.
+
+00:01:00.310 --> 00:01:00.320 align:start position:0%
+create.
+ 
+
+00:01:00.320 --> 00:01:03.189 align:start position:0%
+create.
+Go<00:01:00.559><c> to</c><00:01:00.640><c> the</c><00:01:00.800><c> landscape.</c>
+
+00:01:03.189 --> 00:01:03.199 align:start position:0%
+Go to the landscape.
+ 
+
+00:01:03.199 --> 00:01:06.310 align:start position:0%
+Go to the landscape.
+Hit<00:01:03.520><c> create.</c>
+
+00:01:06.310 --> 00:01:06.320 align:start position:0%
+Hit create.
+ 
+
+00:01:06.320 --> 00:01:10.390 align:start position:0%
+Hit create.
+After<00:01:06.720><c> that,</c><00:01:06.960><c> go</c><00:01:07.200><c> to</c><00:01:07.439><c> window</c>
+
+00:01:10.390 --> 00:01:10.400 align:start position:0%
+After that, go to window
+ 
+
+00:01:10.400 --> 00:01:12.390 align:start position:0%
+After that, go to window
+environment<00:01:11.040><c> light</c><00:01:11.360><c> mix.</c><00:01:11.840><c> Create</c><00:01:12.080><c> scale.</c>
+
+00:01:12.390 --> 00:01:12.400 align:start position:0%
+environment light mix. Create scale.
+ 
+
+00:01:12.400 --> 00:01:14.950 align:start position:0%
+environment light mix. Create scale.
+Light<00:01:12.799><c> create</c><00:01:13.680><c> light</c><00:01:14.000><c> scale</c><00:01:14.240><c> at</c><00:01:14.560><c> sphere</c>
+
+00:01:14.950 --> 00:01:14.960 align:start position:0%
+Light create light scale at sphere
+ 
+
+00:01:14.960 --> 00:01:20.789 align:start position:0%
+Light create light scale at sphere
+volutric<00:01:15.600><c> fit</c><00:01:16.640><c> to</c><00:01:17.040><c> fog.</c><00:01:18.000><c> And</c><00:01:18.320><c> finally,</c>
+
+00:01:20.789 --> 00:01:20.799 align:start position:0%
+volutric fit to fog. And finally,
+ 
+
+00:01:20.799 --> 00:01:24.550 align:start position:0%
+volutric fit to fog. And finally,
+let's<00:01:21.119><c> go</c><00:01:21.360><c> down</c><00:01:21.600><c> here</c><00:01:21.920><c> to</c><00:01:22.080><c> voluometric</c><00:01:22.640><c> fog.</c>
+
+00:01:24.550 --> 00:01:24.560 align:start position:0%
+let's go down here to voluometric fog.
+ 
+
+00:01:24.560 --> 00:01:29.350 align:start position:0%
+let's go down here to voluometric fog.
+Let's<00:01:24.880><c> go</c><00:01:25.119><c> here</c><00:01:25.280><c> to</c><00:01:25.520><c> the</c><00:01:25.600><c> selection</c><00:01:26.080><c> mode.</c>
+
+00:01:29.350 --> 00:01:29.360 align:start position:0%
+ 
+ 
+
+00:01:29.360 --> 00:01:32.390 align:start position:0%
+ 
+Select<00:01:29.680><c> the</c><00:01:29.920><c> landscape</c><00:01:30.960><c> and</c><00:01:31.200><c> let's</c><00:01:31.520><c> go</c><00:01:31.759><c> here</c>
+
+00:01:32.390 --> 00:01:32.400 align:start position:0%
+Select the landscape and let's go here
+ 
+
+00:01:32.400 --> 00:01:35.990 align:start position:0%
+Select the landscape and let's go here
+to<00:01:32.560><c> landscape</c><00:01:33.119><c> material.</c>
+
+00:01:35.990 --> 00:01:36.000 align:start position:0%
+to landscape material.
+ 
+
+00:01:36.000 --> 00:01:38.069 align:start position:0%
+to landscape material.
+Let's<00:01:36.240><c> go</c><00:01:36.400><c> here</c><00:01:36.640><c> to</c><00:01:36.799><c> starter</c><00:01:37.280><c> content</c>
+
+00:01:38.069 --> 00:01:38.079 align:start position:0%
+Let's go here to starter content
+ 
+
+00:01:38.079 --> 00:01:42.069 align:start position:0%
+Let's go here to starter content
+material.<00:01:39.439><c> Select</c><00:01:39.759><c> the</c><00:01:39.920><c> mater.</c>
+
+00:01:42.069 --> 00:01:42.079 align:start position:0%
+material. Select the mater.
+ 
+
+00:01:42.079 --> 00:01:45.190 align:start position:0%
+material. Select the mater.
+And<00:01:42.159><c> let's</c><00:01:42.479><c> go</c><00:01:42.720><c> here</c><00:01:43.119><c> add</c><00:01:43.439><c> my</c><00:01:43.600><c> material.</c><00:01:44.799><c> Now</c>
+
+00:01:45.190 --> 00:01:45.200 align:start position:0%
+And let's go here add my material. Now
+ 
+
+00:01:45.200 --> 00:01:48.210 align:start position:0%
+And let's go here add my material. Now
+let's<00:01:45.840><c> save</c><00:01:46.159><c> the</c><00:01:46.399><c> level</c><00:01:47.040><c> 611</c>
+
+00:01:48.210 --> 00:01:48.220 align:start position:0%
+let's save the level 611
+ 
+
+00:01:48.220 --> 00:01:50.950 align:start position:0%
+let's save the level 611
+[Music]
+
+00:01:50.950 --> 00:01:50.960 align:start position:0%
+[Music]
+ 
+
+00:01:50.960 --> 00:01:55.350 align:start position:0%
+[Music]
+01.
+
+00:01:55.350 --> 00:01:55.360 align:start position:0%
+ 
+ 
+
+00:01:55.360 --> 00:01:58.789 align:start position:0%
+ 
+Now<00:01:55.680><c> let's</c><00:01:56.000><c> go</c><00:01:56.240><c> here</c><00:01:56.479><c> to</c><00:01:56.640><c> the</c><00:01:56.880><c> edit.</c>
+
+00:01:58.789 --> 00:01:58.799 align:start position:0%
+Now let's go here to the edit.
+ 
+
+00:01:58.799 --> 00:02:01.429 align:start position:0%
+Now let's go here to the edit.
+Search<00:01:59.119><c> for</c><00:01:59.360><c> PCG</c><00:02:00.560><c> proced</c><00:02:01.119><c> content</c>
+
+00:02:01.429 --> 00:02:01.439 align:start position:0%
+Search for PCG proced content
+ 
+
+00:02:01.439 --> 00:02:05.030 align:start position:0%
+Search for PCG proced content
+generation.
+
+00:02:05.030 --> 00:02:05.040 align:start position:0%
+ 
+ 
+
+00:02:05.040 --> 00:02:13.830 align:start position:0%
+ 
+Select<00:02:05.439><c> it.</c><00:02:06.560><c> Now</c><00:02:06.799><c> select</c><00:02:07.520><c> search</c><00:02:07.840><c> for</c><00:02:08.239><c> water.</c>
+
+00:02:13.830 --> 00:02:13.840 align:start position:0%
+ 
+ 
+
+00:02:13.840 --> 00:02:15.910 align:start position:0%
+ 
+Click<00:02:14.239><c> yes.</c>
+
+00:02:15.910 --> 00:02:15.920 align:start position:0%
+Click yes.
+ 
+
+00:02:15.920 --> 00:02:19.030 align:start position:0%
+Click yes.
+Let's<00:02:16.239><c> restart</c><00:02:16.640><c> the</c><00:02:16.800><c> engine.</c>
+
+00:02:19.030 --> 00:02:19.040 align:start position:0%
+Let's restart the engine.
+ 
+
+00:02:19.040 --> 00:02:22.869 align:start position:0%
+Let's restart the engine.
+It's<00:02:19.440><c> restarted.</c><00:02:20.400><c> Close</c><00:02:20.720><c> the</c><00:02:20.879><c> plug</c><00:02:21.200><c> in.</c>
+
+00:02:22.869 --> 00:02:22.879 align:start position:0%
+It's restarted. Close the plug in.
+ 
+
+00:02:22.879 --> 00:02:28.710 align:start position:0%
+It's restarted. Close the plug in.
+Return<00:02:23.440><c> here</c><00:02:24.480><c> to</c><00:02:24.720><c> the</c><00:02:24.879><c> content</c><00:02:25.840><c> map</c><00:02:26.239><c> 01.</c>
+
+00:02:28.710 --> 00:02:28.720 align:start position:0%
+Return here to the content map 01.
+ 
+
+00:02:28.720 --> 00:02:32.710 align:start position:0%
+Return here to the content map 01.
+Okay.<00:02:29.599><c> After</c><00:02:29.920><c> that,</c><00:02:31.120><c> let's</c><00:02:31.440><c> go</c><00:02:31.680><c> here</c><00:02:32.480><c> and</c>
+
+00:02:32.710 --> 00:02:32.720 align:start position:0%
+Okay. After that, let's go here and
+ 
+
+00:02:32.720 --> 00:02:36.309 align:start position:0%
+Okay. After that, let's go here and
+search<00:02:33.040><c> for</c><00:02:33.280><c> PCG.</c><00:02:34.000><c> PCG</c><00:02:34.480><c> graph.</c>
+
+00:02:36.309 --> 00:02:36.319 align:start position:0%
+search for PCG. PCG graph.
+ 
+
+00:02:36.319 --> 00:02:39.350 align:start position:0%
+search for PCG. PCG graph.
+Create<00:02:36.800><c> empty</c><00:02:37.200><c> graph.</c>
+
+00:02:39.350 --> 00:02:39.360 align:start position:0%
+Create empty graph.
+ 
+
+00:02:39.360 --> 00:02:44.710 align:start position:0%
+Create empty graph.
+PCG<00:02:40.319><c> and</c><00:02:40.800><c> keep</c><00:02:41.200><c> ls.</c>
+
+00:02:44.710 --> 00:02:44.720 align:start position:0%
+ 
+ 
+
+00:02:44.720 --> 00:02:51.190 align:start position:0%
+ 
+drag<00:02:45.040><c> the</c><00:02:45.280><c> PC</c><00:02:45.680><c> in</c><00:02:45.920><c> this</c><00:02:46.160><c> place.</c>
+
+00:02:51.190 --> 00:02:51.200 align:start position:0%
+ 
+ 
+
+00:02:51.200 --> 00:02:56.229 align:start position:0%
+ 
+Okay,<00:02:52.000><c> now</c><00:02:52.319><c> let's</c><00:02:52.640><c> go</c><00:02:52.879><c> here</c>
+
+00:02:56.229 --> 00:02:56.239 align:start position:0%
+ 
+ 
+
+00:02:56.239 --> 00:03:01.430 align:start position:0%
+ 
+to<00:02:56.560><c> add</c>
+
+00:03:01.430 --> 00:03:01.440 align:start position:0%
+ 
+ 
+
+00:03:01.440 --> 00:03:03.910 align:start position:0%
+ 
+FA<00:03:02.239><c> marketplace.</c>
+
+00:03:03.910 --> 00:03:03.920 align:start position:0%
+FA marketplace.
+ 
+
+00:03:03.920 --> 00:03:13.589 align:start position:0%
+FA marketplace.
+Search<00:03:04.159><c> for</c><00:03:04.560><c> Spruce</c><00:03:05.360><c> Forest.</c>
+
+00:03:13.589 --> 00:03:13.599 align:start position:0%
+ 
+ 
+
+00:03:13.599 --> 00:03:20.869 align:start position:0%
+ 
+Download<00:03:14.080><c> this</c><00:03:14.319><c> one.</c><00:03:15.200><c> Add</c><00:03:15.440><c> to</c><00:03:15.599><c> my</c><00:03:15.840><c> project.</c>
+
+00:03:20.869 --> 00:03:20.879 align:start position:0%
+ 
+ 
+
+00:03:20.879 --> 00:03:23.430 align:start position:0%
+ 
+Add<00:03:21.040><c> the</c><00:03:21.360><c> project.</c>
+
+00:03:23.430 --> 00:03:23.440 align:start position:0%
+Add the project.
+ 
+
+00:03:23.440 --> 00:03:34.789 align:start position:0%
+Add the project.
+Let's<00:03:23.760><c> download</c><00:03:24.080><c> some</c><00:03:24.400><c> grass.</c>
+
+00:03:34.789 --> 00:03:34.799 align:start position:0%
+ 
+ 
+
+00:03:34.799 --> 00:03:45.430 align:start position:0%
+ 
+More<00:03:35.120><c> filter.</c><00:03:36.159><c> Set</c><00:03:36.480><c> price</c><00:03:36.720><c> to</c><00:03:36.959><c> free.</c>
+
+00:03:45.430 --> 00:03:45.440 align:start position:0%
+ 
+ 
+
+00:03:45.440 --> 00:03:49.670 align:start position:0%
+ 
+Add<00:03:45.680><c> the</c><00:03:46.000><c> project.</c>
+
+00:03:49.670 --> 00:03:49.680 align:start position:0%
+ 
+ 
+
+00:03:49.680 --> 00:03:54.309 align:start position:0%
+ 
+Add<00:03:50.000><c> to</c><00:03:50.159><c> project.</c>
+
+00:03:54.309 --> 00:03:54.319 align:start position:0%
+ 
+ 
+
+00:03:54.319 --> 00:04:05.589 align:start position:0%
+ 
+Add<00:03:54.560><c> the</c><00:03:54.799><c> project.</c>
+
+00:04:05.589 --> 00:04:05.599 align:start position:0%
+ 
+ 
+
+00:04:05.599 --> 00:04:09.429 align:start position:0%
+ 
+Now<00:04:06.319><c> let's</c><00:04:06.640><c> go</c><00:04:06.879><c> here</c>
+
+00:04:09.429 --> 00:04:09.439 align:start position:0%
+Now let's go here
+ 
+
+00:04:09.439 --> 00:04:11.910 align:start position:0%
+Now let's go here
+the<00:04:09.680><c> content</c><00:04:10.080><c> drawer</c>
+
+00:04:11.910 --> 00:04:11.920 align:start position:0%
+the content drawer
+ 
+
+00:04:11.920 --> 00:04:14.869 align:start position:0%
+the content drawer
+open<00:04:12.239><c> the</c><00:04:12.400><c> PC</c>
+
+00:04:14.869 --> 00:04:14.879 align:start position:0%
+open the PC
+ 
+
+00:04:14.879 --> 00:04:18.550 align:start position:0%
+open the PC
+drag<00:04:15.200><c> it</c><00:04:15.439><c> like</c><00:04:15.680><c> here</c><00:04:16.959><c> and</c><00:04:17.280><c> set</c><00:04:17.519><c> shape</c><00:04:17.919><c> all</c><00:04:18.320><c> and</c>
+
+00:04:18.550 --> 00:04:18.560 align:start position:0%
+drag it like here and set shape all and
+ 
+
+00:04:18.560 --> 00:04:22.390 align:start position:0%
+drag it like here and set shape all and
+let's<00:04:18.880><c> begin</c><00:04:19.680><c> the</c><00:04:20.000><c> work</c>
+
+00:04:22.390 --> 00:04:22.400 align:start position:0%
+let's begin the work
+ 
+
+00:04:22.400 --> 00:04:23.909 align:start position:0%
+let's begin the work
+first<00:04:22.639><c> thing</c><00:04:22.800><c> first</c><00:04:23.040><c> you</c><00:04:23.199><c> want</c><00:04:23.360><c> to</c><00:04:23.520><c> get</c><00:04:23.759><c> the</c>
+
+00:04:23.909 --> 00:04:23.919 align:start position:0%
+first thing first you want to get the
+ 
+
+00:04:23.919 --> 00:04:27.510 align:start position:0%
+first thing first you want to get the
+landscape<00:04:24.560><c> data</c>
+
+00:04:27.510 --> 00:04:27.520 align:start position:0%
+landscape data
+ 
+
+00:04:27.520 --> 00:04:32.950 align:start position:0%
+landscape data
+go<00:04:27.919><c> You</c>
+
+00:04:32.950 --> 00:04:32.960 align:start position:0%
+ 
+ 
+
+00:04:32.960 --> 00:04:37.909 align:start position:0%
+ 
+get<00:04:33.199><c> landscape</c><00:04:33.759><c> data</c>
+
+00:04:37.909 --> 00:04:37.919 align:start position:0%
+ 
+ 
+
+00:04:37.919 --> 00:04:43.990 align:start position:0%
+ 
+from<00:04:38.240><c> this</c><00:04:38.560><c> let's</c><00:04:38.800><c> drag</c><00:04:39.280><c> surface</c><00:04:39.680><c> simpl</c>
+
+00:04:43.990 --> 00:04:44.000 align:start position:0%
+ 
+ 
+
+00:04:44.000 --> 00:04:45.590 align:start position:0%
+ 
+before<00:04:44.240><c> we</c><00:04:44.479><c> start</c><00:04:44.720><c> we</c><00:04:44.880><c> have</c><00:04:45.040><c> to</c><00:04:45.199><c> adjust</c>
+
+00:04:45.590 --> 00:04:45.600 align:start position:0%
+before we start we have to adjust
+ 
+
+00:04:45.600 --> 00:04:51.110 align:start position:0%
+before we start we have to adjust
+parameter<00:04:46.560><c> point</c><00:04:46.800><c> per</c><00:04:47.040><c> square</c><00:04:47.360><c> meter</c><00:04:48.800><c> 01</c>
+
+00:04:51.110 --> 00:04:51.120 align:start position:0%
+parameter point per square meter 01
+ 
+
+00:04:51.120 --> 00:04:57.030 align:start position:0%
+parameter point per square meter 01
+len<00:04:52.240><c> make</c><00:04:52.479><c> it</c><00:04:52.960><c> four</c>
+
+00:04:57.030 --> 00:04:57.040 align:start position:0%
+ 
+ 
+
+00:04:57.040 --> 00:05:09.909 align:start position:0%
+ 
+transform<00:04:57.600><c> One</c><00:04:57.759><c> point</c>
+
+00:05:09.909 --> 00:05:09.919 align:start position:0%
+ 
+ 
+
+00:05:09.919 --> 00:05:13.189 align:start position:0%
+ 
+for<00:05:10.320><c> the</c><00:05:10.479><c> mean</c><00:05:10.880><c> main</c><00:05:10.880><c> mean</c><00:05:11.199><c> offset</c><00:05:11.759><c> let's</c><00:05:12.080><c> set</c>
+
+00:05:13.189 --> 00:05:13.199 align:start position:0%
+for the mean main mean offset let's set
+ 
+
+00:05:13.199 --> 00:05:16.469 align:start position:0%
+for the mean main mean offset let's set
+minus<00:05:13.680><c> 5</c>
+
+00:05:16.469 --> 00:05:16.479 align:start position:0%
+minus 5
+ 
+
+00:05:16.479 --> 00:05:18.230 align:start position:0%
+minus 5
+to<00:05:16.720><c> 10</c>
+
+00:05:18.230 --> 00:05:18.240 align:start position:0%
+to 10
+ 
+
+00:05:18.240 --> 00:05:24.870 align:start position:0%
+to 10
+for<00:05:18.479><c> the</c><00:05:18.639><c> gaxis</c><00:05:19.440><c> for</c><00:05:19.759><c> rotation</c><00:05:21.120><c> 0</c><00:05:21.440><c> to</c><00:05:21.680><c> 360°</c>
+
+00:05:24.870 --> 00:05:24.880 align:start position:0%
+ 
+ 
+
+00:05:24.880 --> 00:05:26.790 align:start position:0%
+ 
+this<00:05:25.120><c> one</c>
+
+00:05:26.790 --> 00:05:26.800 align:start position:0%
+this one
+ 
+
+00:05:26.800 --> 00:05:30.390 align:start position:0%
+this one
+minus<00:05:27.120><c> is</c><00:05:28.080><c> 08</c>
+
+00:05:30.390 --> 00:05:30.400 align:start position:0%
+minus is 08
+ 
+
+00:05:30.400 --> 00:05:36.070 align:start position:0%
+minus is 08
+0.8.
+
+00:05:36.070 --> 00:05:36.080 align:start position:0%
+ 
+ 
+
+00:05:36.080 --> 00:05:52.390 align:start position:0%
+ 
+Let's<00:05:36.400><c> add</c><00:05:36.560><c> a</c><00:05:36.800><c> bounce</c><00:05:37.280><c> magnifier.</c>
+
+00:05:52.390 --> 00:05:52.400 align:start position:0%
+ 
+ 
+
+00:05:52.400 --> 00:05:55.430 align:start position:0%
+ 
+Drag<00:05:52.800><c> this</c><00:05:53.120><c> right</c><00:05:53.600><c> now.</c><00:05:54.400><c> And</c><00:05:54.560><c> let's</c><00:05:54.880><c> add</c>
+
+00:05:55.430 --> 00:05:55.440 align:start position:0%
+Drag this right now. And let's add
+ 
+
+00:05:55.440 --> 00:05:59.189 align:start position:0%
+Drag this right now. And let's add
+static<00:05:55.840><c> miss</c><00:05:56.560><c> spawner.</c>
+
+00:05:59.189 --> 00:05:59.199 align:start position:0%
+static miss spawner.
+ 
+
+00:05:59.199 --> 00:06:01.189 align:start position:0%
+static miss spawner.
+In<00:05:59.440><c> this</c><00:05:59.600><c> static</c><00:06:00.000><c> miss</c><00:06:00.320><c> spawner</c><00:06:00.800><c> we</c><00:06:00.960><c> have</c><00:06:01.039><c> to</c>
+
+00:06:01.189 --> 00:06:01.199 align:start position:0%
+In this static miss spawner we have to
+ 
+
+00:06:01.199 --> 00:06:04.710 align:start position:0%
+In this static miss spawner we have to
+add<00:06:02.479><c> our</c><00:06:02.880><c> trees.</c>
+
+00:06:04.710 --> 00:06:04.720 align:start position:0%
+add our trees.
+ 
+
+00:06:04.720 --> 00:06:07.430 align:start position:0%
+add our trees.
+Okay.<00:06:05.039><c> In</c><00:06:05.280><c> this</c><00:06:05.520><c> miss</c><00:06:06.000><c> entries</c><00:06:06.720><c> let's</c><00:06:07.039><c> choose</c>
+
+00:06:07.430 --> 00:06:07.440 align:start position:0%
+Okay. In this miss entries let's choose
+ 
+
+00:06:07.440 --> 00:06:09.590 align:start position:0%
+Okay. In this miss entries let's choose
+three<00:06:07.840><c> entries.</c>
+
+00:06:09.590 --> 00:06:09.600 align:start position:0%
+three entries.
+ 
+
+00:06:09.600 --> 00:06:14.390 align:start position:0%
+three entries.
+Now<00:06:09.919><c> let's</c><00:06:10.319><c> go</c><00:06:10.639><c> here</c>
+
+00:06:14.390 --> 00:06:14.400 align:start position:0%
+ 
+ 
+
+00:06:14.400 --> 00:06:16.629 align:start position:0%
+ 
+to<00:06:14.639><c> the</c><00:06:14.800><c> content.</c>
+
+00:06:16.629 --> 00:06:16.639 align:start position:0%
+to the content.
+ 
+
+00:06:16.639 --> 00:06:20.790 align:start position:0%
+to the content.
+Download<00:06:17.600><c> finished.</c><00:06:18.560><c> Select</c><00:06:18.960><c> message.</c>
+
+00:06:20.790 --> 00:06:20.800 align:start position:0%
+Download finished. Select message.
+ 
+
+00:06:20.800 --> 00:06:25.909 align:start position:0%
+Download finished. Select message.
+to<00:06:21.039><c> this</c><00:06:21.280><c> static</c><00:06:21.600><c> mesh</c><00:06:21.919><c> filter</c><00:06:22.720><c> from</c><00:06:22.960><c> this.</c>
+
+00:06:25.909 --> 00:06:25.919 align:start position:0%
+to this static mesh filter from this.
+ 
+
+00:06:25.919 --> 00:06:29.430 align:start position:0%
+to this static mesh filter from this.
+Press<00:06:26.160><c> the</c><00:06:26.400><c> first</c><00:06:26.720><c> one</c>
+
+00:06:29.430 --> 00:06:29.440 align:start position:0%
+Press the first one
+ 
+
+00:06:29.440 --> 00:06:33.670 align:start position:0%
+Press the first one
+and<00:06:30.160><c> press</c><00:06:30.400><c> shift</c><00:06:30.639><c> it.</c><00:06:31.919><c> Select</c><00:06:32.240><c> all</c><00:06:32.479><c> of</c><00:06:32.639><c> them.</c>
+
+00:06:33.670 --> 00:06:33.680 align:start position:0%
+and press shift it. Select all of them.
+ 
+
+00:06:33.680 --> 00:06:55.110 align:start position:0%
+and press shift it. Select all of them.
+After<00:06:34.000><c> that,</c><00:06:34.319><c> let's</c><00:06:34.639><c> enable</c><00:06:35.120><c> the</c><00:06:35.280><c> night.</c>
+
+00:06:55.110 --> 00:06:55.120 align:start position:0%
+ 
+ 
+
+00:06:55.120 --> 00:06:59.110 align:start position:0%
+ 
+First<00:06:55.440><c> one.</c><00:06:56.639><c> Let's</c><00:06:57.039><c> go</c><00:06:57.280><c> here.</c>
+
+00:06:59.110 --> 00:06:59.120 align:start position:0%
+First one. Let's go here.
+ 
+
+00:06:59.120 --> 00:07:02.150 align:start position:0%
+First one. Let's go here.
+Search<00:06:59.440><c> for</c>
+
+00:07:02.150 --> 00:07:02.160 align:start position:0%
+Search for
+ 
+
+00:07:02.160 --> 00:07:05.430 align:start position:0%
+Search for
+go<00:07:02.479><c> here</c><00:07:02.880><c> descriptor</c>
+
+00:07:05.430 --> 00:07:05.440 align:start position:0%
+go here descriptor
+ 
+
+00:07:05.440 --> 00:07:07.350 align:start position:0%
+go here descriptor
+static<00:07:05.759><c> mesh</c>
+
+00:07:07.350 --> 00:07:07.360 align:start position:0%
+static mesh
+ 
+
+00:07:07.360 --> 00:07:10.550 align:start position:0%
+static mesh
+or<00:07:07.599><c> you</c><00:07:07.840><c> can</c><00:07:08.000><c> search</c><00:07:08.319><c> from</c><00:07:08.560><c> this</c><00:07:08.880><c> static</c>
+
+00:07:10.550 --> 00:07:10.560 align:start position:0%
+or you can search from this static
+ 
+
+00:07:10.560 --> 00:07:12.150 align:start position:0%
+or you can search from this static
+mesh.
+
+00:07:12.150 --> 00:07:12.160 align:start position:0%
+mesh.
+ 
+
+00:07:12.160 --> 00:07:13.670 align:start position:0%
+mesh.
+Start
+
+00:07:13.670 --> 00:07:13.680 align:start position:0%
+Start
+ 
+
+00:07:13.680 --> 00:07:18.469 align:start position:0%
+Start
+and<00:07:14.080><c> drag</c><00:07:14.479><c> and</c><00:07:14.720><c> drop</c><00:07:14.960><c> the</c><00:07:15.120><c> first</c><00:07:15.360><c> one</c><00:07:15.759><c> here.</c>
+
+00:07:18.469 --> 00:07:18.479 align:start position:0%
+and drag and drop the first one here.
+ 
+
+00:07:18.479 --> 00:07:23.749 align:start position:0%
+and drag and drop the first one here.
+Choose<00:07:18.880><c> another</c><00:07:19.280><c> one.</c><00:07:19.840><c> Let's</c><00:07:20.000><c> choose</c><00:07:20.319><c> this.</c>
+
+00:07:23.749 --> 00:07:23.759 align:start position:0%
+ 
+ 
+
+00:07:23.759 --> 00:07:32.070 align:start position:0%
+ 
+And<00:07:24.080><c> finally,</c><00:07:24.720><c> let's</c><00:07:24.960><c> choose</c><00:07:25.759><c> this.</c>
+
+00:07:32.070 --> 00:07:32.080 align:start position:0%
+ 
+ 
+
+00:07:32.080 --> 00:07:37.430 align:start position:0%
+ 
+Save<00:07:32.479><c> all.</c>
+
+00:07:37.430 --> 00:07:37.440 align:start position:0%
+ 
+ 
+
+00:07:37.440 --> 00:07:45.430 align:start position:0%
+ 
+Let's<00:07:37.759><c> go</c><00:07:38.000><c> here.</c>
+
+00:07:45.430 --> 00:07:45.440 align:start position:0%
+ 
+ 
+
+00:07:45.440 --> 00:07:49.350 align:start position:0%
+ 
+Okay,<00:07:45.759><c> it's</c><00:07:46.000><c> fine.</c>
+
+00:07:49.350 --> 00:07:49.360 align:start position:0%
+ 
+ 
+
+00:07:49.360 --> 00:07:52.550 align:start position:0%
+ 
+Now<00:07:49.599><c> let's</c><00:07:49.919><c> adjust</c><00:07:50.400><c> here</c><00:07:51.599><c> the</c><00:07:51.919><c> speed</c><00:07:52.160><c> of</c><00:07:52.319><c> the</c>
+
+00:07:52.550 --> 00:07:52.560 align:start position:0%
+Now let's adjust here the speed of the
+ 
+
+00:07:52.560 --> 00:07:55.589 align:start position:0%
+Now let's adjust here the speed of the
+camera.<00:07:53.039><c> It's</c><00:07:53.280><c> taking</c><00:07:53.680><c> some</c><00:07:53.919><c> time</c><00:07:54.800><c> to</c><00:07:55.120><c> add</c><00:07:55.520><c> the</c>
+
+00:07:55.589 --> 00:07:55.599 align:start position:0%
+camera. It's taking some time to add the
+ 
+
+00:07:55.599 --> 00:08:03.510 align:start position:0%
+camera. It's taking some time to add the
+the<00:07:55.919><c> texture</c><00:07:56.479><c> here.</c>
+
+00:08:03.510 --> 00:08:03.520 align:start position:0%
+ 
+ 
+
+00:08:03.520 --> 00:08:05.589 align:start position:0%
+ 
+All<00:08:03.599><c> right.</c><00:08:04.080><c> Here</c>
+
+00:08:05.589 --> 00:08:05.599 align:start position:0%
+All right. Here
+ 
+
+00:08:05.599 --> 00:08:27.589 align:start position:0%
+All right. Here
+make<00:08:05.759><c> the</c><00:08:06.000><c> PC</c><00:08:06.479><c> graphite.</c>
+
+00:08:27.589 --> 00:08:27.599 align:start position:0%
+ 
+ 
+
+00:08:27.599 --> 00:08:34.630 align:start position:0%
+ 
+Okay.<00:08:27.919><c> Select</c><00:08:28.400><c> this.</c>
+
+00:08:34.630 --> 00:08:34.640 align:start position:0%
+ 
+ 
+
+00:08:34.640 --> 00:08:39.110 align:start position:0%
+ 
+Fine.
+
+00:08:39.110 --> 00:08:39.120 align:start position:0%
+ 
+ 
+
+00:08:39.120 --> 00:08:43.509 align:start position:0%
+ 
+Now<00:08:39.360><c> press</c><00:08:39.839><c> W.</c>
+
+00:08:43.509 --> 00:08:43.519 align:start position:0%
+ 
+ 
+
+00:08:43.519 --> 00:08:45.509 align:start position:0%
+ 
+Alt
+
+00:08:45.509 --> 00:08:45.519 align:start position:0%
+Alt
+ 
+
+00:08:45.519 --> 00:08:48.630 align:start position:0%
+Alt
+make<00:08:45.760><c> the</c><00:08:45.920><c> PCG</c><00:08:46.399><c> graph</c><00:08:46.720><c> like</c><00:08:46.959><c> this</c>
+
+00:08:48.630 --> 00:08:48.640 align:start position:0%
+make the PCG graph like this
+ 
+
+00:08:48.640 --> 00:08:54.389 align:start position:0%
+make the PCG graph like this
+to<00:08:48.880><c> make</c><00:08:49.120><c> two</c><00:08:49.360><c> PCG</c><00:08:49.839><c> graphs.</c>
+
+00:08:54.389 --> 00:08:54.399 align:start position:0%
+ 
+ 
+
+00:08:54.399 --> 00:08:56.310 align:start position:0%
+ 
+Okay.<00:08:54.800><c> Between</c><00:08:55.120><c> them</c><00:08:55.279><c> we</c><00:08:55.519><c> have</c><00:08:55.600><c> to</c><00:08:55.760><c> add</c><00:08:56.080><c> our</c>
+
+00:08:56.310 --> 00:08:56.320 align:start position:0%
+Okay. Between them we have to add our
+ 
+
+00:08:56.320 --> 00:09:01.110 align:start position:0%
+Okay. Between them we have to add our
+rival.
+
+00:09:01.110 --> 00:09:01.120 align:start position:0%
+ 
+ 
+
+00:09:01.120 --> 00:09:04.870 align:start position:0%
+ 
+Let's<00:09:01.440><c> go</c><00:09:01.680><c> here.</c>
+
+00:09:04.870 --> 00:09:04.880 align:start position:0%
+ 
+ 
+
+00:09:04.880 --> 00:09:08.870 align:start position:0%
+ 
+Search<00:09:06.000><c> for</c><00:09:06.240><c> water</c>
+
+00:09:08.870 --> 00:09:08.880 align:start position:0%
+Search for water
+ 
+
+00:09:08.880 --> 00:09:11.350 align:start position:0%
+Search for water
+water<00:09:09.279><c> body.</c>
+
+00:09:11.350 --> 00:09:11.360 align:start position:0%
+water body.
+ 
+
+00:09:11.360 --> 00:09:23.509 align:start position:0%
+water body.
+It's<00:09:11.600><c> complete.</c>
+
+00:09:23.509 --> 00:09:23.519 align:start position:0%
+ 
+ 
+
+00:09:23.519 --> 00:09:27.750 align:start position:0%
+ 
+It's<00:09:23.920><c> got</c><00:09:25.120><c> this</c><00:09:25.279><c> place,</c><00:09:25.600><c> but</c><00:09:26.880><c> I</c><00:09:27.200><c> want</c><00:09:27.360><c> to</c><00:09:27.600><c> make</c>
+
+00:09:27.750 --> 00:09:27.760 align:start position:0%
+It's got this place, but I want to make
+ 
+
+00:09:27.760 --> 00:09:57.670 align:start position:0%
+It's got this place, but I want to make
+the<00:09:27.920><c> rifle</c><00:09:28.320><c> right</c><00:09:28.560><c> here.</c>
+
+00:09:57.670 --> 00:09:57.680 align:start position:0%
+ 
+ 
+
+00:09:57.680 --> 00:10:02.389 align:start position:0%
+ 
+Okay.<00:09:58.000><c> Select</c><00:09:58.399><c> the</c><00:09:58.560><c> rifle.</c>
+
+00:10:02.389 --> 00:10:02.399 align:start position:0%
+ 
+ 
+
+00:10:02.399 --> 00:10:10.870 align:start position:0%
+ 
+Make<00:10:02.560><c> it</c><00:10:02.959><c> up.</c>
+
+00:10:10.870 --> 00:10:10.880 align:start position:0%
+ 
+ 
+
+00:10:10.880 --> 00:10:24.790 align:start position:0%
+ 
+Drag<00:10:11.200><c> this</c><00:10:11.519><c> point</c><00:10:12.000><c> right</c><00:10:12.399><c> here</c>
+
+00:10:24.790 --> 00:10:24.800 align:start position:0%
+ 
+ 
+
+00:10:24.800 --> 00:10:34.710 align:start position:0%
+ 
+now.<00:10:25.040><c> Let's</c><00:10:25.360><c> make</c><00:10:25.600><c> it</c><00:10:25.839><c> up.</c>
+
+00:10:34.710 --> 00:10:34.720 align:start position:0%
+ 
+ 
+
+00:10:34.720 --> 00:10:41.110 align:start position:0%
+ 
+Okay,<00:10:35.040><c> I</c><00:10:35.200><c> think</c><00:10:35.360><c> it's</c><00:10:35.680><c> good.</c>
+
+00:10:41.110 --> 00:10:41.120 align:start position:0%
+ 
+ 
+
+00:10:41.120 --> 00:10:42.949 align:start position:0%
+ 
+Now,<00:10:41.440><c> what</c><00:10:41.680><c> would</c><00:10:41.920><c> you</c><00:10:42.079><c> have</c><00:10:42.240><c> to</c><00:10:42.480><c> do?</c><00:10:42.720><c> We</c><00:10:42.880><c> have</c>
+
+00:10:42.949 --> 00:10:42.959 align:start position:0%
+Now, what would you have to do? We have
+ 
+
+00:10:42.959 --> 00:10:48.230 align:start position:0%
+Now, what would you have to do? We have
+to<00:10:43.120><c> add</c><00:10:43.360><c> some</c><00:10:43.680><c> fers</c><00:10:44.160><c> right</c><00:10:44.399><c> here.</c>
+
+00:10:48.230 --> 00:10:48.240 align:start position:0%
+ 
+ 
+
+00:10:48.240 --> 00:10:52.150 align:start position:0%
+ 
+Let's<00:10:48.560><c> go</c><00:10:48.800><c> here</c><00:10:49.040><c> to</c><00:10:49.200><c> the</c><00:10:49.360><c> PC.</c>
+
+00:10:52.150 --> 00:10:52.160 align:start position:0%
+Let's go here to the PC.
+ 
+
+00:10:52.160 --> 00:11:00.230 align:start position:0%
+Let's go here to the PC.
+Get<00:10:52.399><c> landscape</c><00:10:52.880><c> data.</c><00:10:54.079><c> Control</c><00:10:55.519><c> V.</c>
+
+00:11:00.230 --> 00:11:00.240 align:start position:0%
+ 
+ 
+
+00:11:00.240 --> 00:11:07.110 align:start position:0%
+ 
+Let's<00:11:00.560><c> go</c><00:11:00.800><c> here</c><00:11:00.959><c> and</c><00:11:01.200><c> add</c><00:11:01.519><c> surface</c><00:11:01.920><c> simpler.</c>
+
+00:11:07.110 --> 00:11:07.120 align:start position:0%
+ 
+ 
+
+00:11:07.120 --> 00:11:11.190 align:start position:0%
+ 
+Once<00:11:07.440><c> it's</c><00:11:07.680><c> selected,</c><00:11:08.399><c> set</c><00:11:08.640><c> this</c><00:11:08.959><c> one</c><00:11:09.920><c> one</c><00:11:10.959><c> per</c>
+
+00:11:11.190 --> 00:11:11.200 align:start position:0%
+Once it's selected, set this one one per
+ 
+
+00:11:11.200 --> 00:11:18.389 align:start position:0%
+Once it's selected, set this one one per
+square<00:11:11.519><c> meter</c><00:11:12.880><c> 55</c><00:11:14.079><c> for</c><00:11:14.320><c> the</c><00:11:14.480><c> all</c><00:11:14.800><c> axis.</c>
+
+00:11:18.389 --> 00:11:18.399 align:start position:0%
+ 
+ 
+
+00:11:18.399 --> 00:11:26.630 align:start position:0%
+ 
+Let's<00:11:18.720><c> add</c><00:11:19.040><c> transform</c><00:11:19.600><c> points.</c>
+
+00:11:26.630 --> 00:11:26.640 align:start position:0%
+ 
+ 
+
+00:11:26.640 --> 00:11:28.720 align:start position:0%
+ 
+This<00:11:27.600><c> is</c>
+
+00:11:28.720 --> 00:11:28.730 align:start position:0%
+This is
+ 
+
+00:11:28.730 --> 00:11:30.310 align:start position:0%
+This is
+[Music]
+
+00:11:30.310 --> 00:11:30.320 align:start position:0%
+[Music]
+ 
+
+00:11:30.320 --> 00:11:32.710 align:start position:0%
+[Music]
+okay.
+
+00:11:32.710 --> 00:11:32.720 align:start position:0%
+okay.
+ 
+
+00:11:32.720 --> 00:11:35.350 align:start position:0%
+okay.
+in
+
+00:11:35.350 --> 00:11:35.360 align:start position:0%
+in
+ 
+
+00:11:35.360 --> 00:11:39.430 align:start position:0%
+in
+to<00:11:35.680><c> 1.5</c>
+
+00:11:39.430 --> 00:11:39.440 align:start position:0%
+ 
+ 
+
+00:11:39.440 --> 00:11:42.710 align:start position:0%
+ 
+for<00:11:39.760><c> all</c><00:11:40.000><c> the</c><00:11:40.320><c> axes</c>
+
+00:11:42.710 --> 00:11:42.720 align:start position:0%
+for all the axes
+ 
+
+00:11:42.720 --> 00:11:47.430 align:start position:0%
+for all the axes
+and<00:11:43.040><c> sis</c><00:11:43.680><c> spawn.</c>
+
+00:11:47.430 --> 00:11:47.440 align:start position:0%
+ 
+ 
+
+00:11:47.440 --> 00:11:49.750 align:start position:0%
+ 
+Select<00:11:47.839><c> this</c><00:11:48.160><c> one</c><00:11:48.560><c> and</c><00:11:48.880><c> let's</c><00:11:49.200><c> make</c><00:11:49.519><c> three</c>
+
+00:11:49.750 --> 00:11:49.760 align:start position:0%
+Select this one and let's make three
+ 
+
+00:11:49.760 --> 00:11:52.230 align:start position:0%
+Select this one and let's make three
+entries.
+
+00:11:52.230 --> 00:11:52.240 align:start position:0%
+entries.
+ 
+
+00:11:52.240 --> 00:11:58.150 align:start position:0%
+entries.
+Make<00:11:52.480><c> here</c><00:11:52.800><c> static.</c>
+
+00:11:58.150 --> 00:11:58.160 align:start position:0%
+ 
+ 
+
+00:11:58.160 --> 00:12:01.110 align:start position:0%
+ 
+Let's<00:11:58.480><c> add</c><00:11:58.720><c> my</c><00:11:58.880><c> entries.</c><00:12:00.240><c> Let's</c><00:12:00.560><c> go</c><00:12:00.720><c> here</c><00:12:00.880><c> to</c>
+
+00:12:01.110 --> 00:12:01.120 align:start position:0%
+Let's add my entries. Let's go here to
+ 
+
+00:12:01.120 --> 00:12:07.590 align:start position:0%
+Let's add my entries. Let's go here to
+content<00:12:01.600><c> drawer.</c><00:12:02.079><c> content</c>
+
+00:12:07.590 --> 00:12:07.600 align:start position:0%
+ 
+ 
+
+00:12:07.600 --> 00:12:14.310 align:start position:0%
+ 
+scans.
+
+00:12:14.310 --> 00:12:14.320 align:start position:0%
+ 
+ 
+
+00:12:14.320 --> 00:12:16.870 align:start position:0%
+ 
+Select<00:12:14.720><c> all</c><00:12:14.880><c> of</c><00:12:15.040><c> them.</c>
+
+00:12:16.870 --> 00:12:16.880 align:start position:0%
+Select all of them.
+ 
+
+00:12:16.880 --> 00:12:19.509 align:start position:0%
+Select all of them.
+First<00:12:17.200><c> one,</c>
+
+00:12:19.509 --> 00:12:19.519 align:start position:0%
+First one,
+ 
+
+00:12:19.519 --> 00:12:23.350 align:start position:0%
+First one,
+final<00:12:20.000><c> one,</c><00:12:20.160><c> and</c><00:12:20.399><c> press</c><00:12:20.639><c> shift.</c>
+
+00:12:23.350 --> 00:12:23.360 align:start position:0%
+final one, and press shift.
+ 
+
+00:12:23.360 --> 00:12:31.269 align:start position:0%
+final one, and press shift.
+Enable<00:12:23.920><c> the</c><00:12:24.079><c> night.</c>
+
+00:12:31.269 --> 00:12:31.279 align:start position:0%
+ 
+ 
+
+00:12:31.279 --> 00:12:33.829 align:start position:0%
+ 
+Okay,<00:12:31.600><c> choose</c><00:12:32.000><c> this</c>
+
+00:12:33.829 --> 00:12:33.839 align:start position:0%
+Okay, choose this
+ 
+
+00:12:33.839 --> 00:12:37.829 align:start position:0%
+Okay, choose this
+drag<00:12:34.079><c> and</c><00:12:34.320><c> drop</c><00:12:34.639><c> here.</c>
+
+00:12:37.829 --> 00:12:37.839 align:start position:0%
+ 
+ 
+
+00:12:37.839 --> 00:12:42.389 align:start position:0%
+ 
+Second<00:12:38.320><c> one,</c><00:12:38.800><c> drag</c><00:12:39.040><c> and</c><00:12:39.360><c> drop.</c>
+
+00:12:42.389 --> 00:12:42.399 align:start position:0%
+ 
+ 
+
+00:12:42.399 --> 00:13:02.710 align:start position:0%
+ 
+Third<00:12:42.800><c> one,</c><00:12:43.200><c> drag</c><00:12:43.440><c> and</c><00:12:43.680><c> drop.</c><00:12:44.079><c> And</c><00:12:44.320><c> let's</c><00:12:44.560><c> see.</c>
+
+00:13:02.710 --> 00:13:02.720 align:start position:0%
+ 
+ 
+
+00:13:02.720 --> 00:13:13.350 align:start position:0%
+ 
+take<00:13:02.959><c> him</c><00:13:03.279><c> some</c><00:13:03.519><c> times</c><00:13:04.000><c> to</c><00:13:04.160><c> texturize.</c>
+
+00:13:13.350 --> 00:13:13.360 align:start position:0%
+ 
+ 
+
+00:13:13.360 --> 00:13:15.990 align:start position:0%
+ 
+Okay,<00:13:13.760><c> this</c><00:13:14.160><c> simple</c><00:13:14.560><c> tutorial</c><00:13:15.040><c> is</c><00:13:15.279><c> done</c><00:13:15.680><c> the</c>
+
+00:13:15.990 --> 00:13:16.000 align:start position:0%
+Okay, this simple tutorial is done the
+ 
+
+00:13:16.000 --> 00:13:20.310 align:start position:0%
+Okay, this simple tutorial is done the
+folders.
+
+00:13:20.310 --> 00:13:20.320 align:start position:0%
+ 
+ 
+
+00:13:20.320 --> 00:13:27.030 align:start position:0%
+ 
+Okay,<00:13:20.720><c> and</c><00:13:21.120><c> this</c><00:13:21.360><c> is</c><00:13:21.680><c> my</c><00:13:22.320><c> arrival.</c>
+
+00:13:27.030 --> 00:13:27.040 align:start position:0%
+ 
+ 
+
+00:13:27.040 --> 00:13:28.710 align:start position:0%
+ 
+Okay,<00:13:27.360><c> thank</c><00:13:27.519><c> you</c><00:13:27.680><c> guys</c><00:13:27.839><c> for</c><00:13:28.079><c> watching</c><00:13:28.399><c> this</c>
+
+00:13:28.710 --> 00:13:28.720 align:start position:0%
+Okay, thank you guys for watching this
+ 
+
+00:13:28.720 --> 00:13:30.949 align:start position:0%
+Okay, thank you guys for watching this
+all<00:13:28.959><c> for</c><00:13:29.279><c> this</c><00:13:29.440><c> tutorial.</c><00:13:30.079><c> See</c><00:13:30.240><c> you</c><00:13:30.480><c> later</c><00:13:30.720><c> in</c>
+
+00:13:30.949 --> 00:13:30.959 align:start position:0%
+all for this tutorial. See you later in
+ 
+
+00:13:30.959 --> 00:13:34.020 align:start position:0%
+all for this tutorial. See you later in
+the<00:13:31.120><c> next</c><00:13:31.680><c> tutorial.</c>
+
+00:13:34.020 --> 00:13:34.030 align:start position:0%
+the next tutorial.
+ 
+
+00:13:34.030 --> 00:13:36.049 align:start position:0%
+the next tutorial.
+[Music]
+

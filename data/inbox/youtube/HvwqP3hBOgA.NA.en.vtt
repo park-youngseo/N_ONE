@@ -1,0 +1,528 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.800 --> 00:00:03.190 align:start position:0%
+ 
+Hi<00:00:01.120><c> guys,</c><00:00:01.360><c> in</c><00:00:01.520><c> this</c><00:00:01.680><c> video</c><00:00:01.920><c> we</c><00:00:02.240><c> use</c><00:00:02.480><c> this</c><00:00:02.800><c> image</c>
+
+00:00:03.190 --> 00:00:03.200 align:start position:0%
+Hi guys, in this video we use this image
+ 
+
+00:00:03.200 --> 00:00:05.749 align:start position:0%
+Hi guys, in this video we use this image
+as<00:00:03.439><c> a</c><00:00:03.600><c> reference</c><00:00:04.240><c> and</c><00:00:04.400><c> using</c><00:00:04.799><c> this</c><00:00:05.040><c> model</c><00:00:05.440><c> set</c>
+
+00:00:05.749 --> 00:00:05.759 align:start position:0%
+as a reference and using this model set
+ 
+
+00:00:05.759 --> 00:00:10.310 align:start position:0%
+as a reference and using this model set
+image<00:00:06.560><c> found</c><00:00:08.000><c> image</c><00:00:08.639><c> and</c><00:00:08.960><c> I've</c><00:00:09.120><c> been</c><00:00:09.360><c> gone</c><00:00:10.080><c> to</c>
+
+00:00:10.310 --> 00:00:10.320 align:start position:0%
+image found image and I've been gone to
+ 
+
+00:00:10.320 --> 00:00:13.910 align:start position:0%
+image found image and I've been gone to
+generate<00:00:11.200><c> a</c><00:00:11.519><c> nice</c><00:00:12.000><c> realistic</c><00:00:12.639><c> photo</c><00:00:13.360><c> like</c>
+
+00:00:13.910 --> 00:00:13.920 align:start position:0%
+generate a nice realistic photo like
+ 
+
+00:00:13.920 --> 00:00:17.109 align:start position:0%
+generate a nice realistic photo like
+this.<00:00:14.480><c> Okay,</c><00:00:14.880><c> let's</c><00:00:15.200><c> go.</c><00:00:16.320><c> Okay,</c><00:00:16.640><c> first</c><00:00:16.880><c> thing</c>
+
+00:00:17.109 --> 00:00:17.119 align:start position:0%
+this. Okay, let's go. Okay, first thing
+ 
+
+00:00:17.119 --> 00:00:20.150 align:start position:0%
+this. Okay, let's go. Okay, first thing
+first,<00:00:17.600><c> open</c><00:00:17.840><c> the</c><00:00:18.080><c> gun.</c>
+
+00:00:20.150 --> 00:00:20.160 align:start position:0%
+first, open the gun.
+ 
+
+00:00:20.160 --> 00:00:24.710 align:start position:0%
+first, open the gun.
+Run<00:00:20.400><c> it</c><00:00:21.119><c> from</c><00:00:21.359><c> the</c><00:00:21.520><c> Nvidia</c><00:00:22.000><c> GPU.</c><00:00:23.439><c> Okay.</c><00:00:23.840><c> Now</c>
+
+00:00:24.710 --> 00:00:24.720 align:start position:0%
+Run it from the Nvidia GPU. Okay. Now
+ 
+
+00:00:24.720 --> 00:00:28.230 align:start position:0%
+Run it from the Nvidia GPU. Okay. Now
+let's<00:00:25.039><c> go</c><00:00:25.279><c> here</c><00:00:25.439><c> to</c><00:00:25.760><c> template</c>
+
+00:00:28.230 --> 00:00:28.240 align:start position:0%
+let's go here to template
+ 
+
+00:00:28.240 --> 00:00:30.710 align:start position:0%
+let's go here to template
+and<00:00:28.560><c> choose</c><00:00:28.880><c> this</c><00:00:29.119><c> mod</c>
+
+00:00:30.710 --> 00:00:30.720 align:start position:0%
+and choose this mod
+ 
+
+00:00:30.720 --> 00:00:34.790 align:start position:0%
+and choose this mod
+Z<00:00:31.760><c> file</c><00:00:32.239><c> unit.</c>
+
+00:00:34.790 --> 00:00:34.800 align:start position:0%
+Z file unit.
+ 
+
+00:00:34.800 --> 00:00:37.990 align:start position:0%
+Z file unit.
+Okay.<00:00:36.000><c> To</c><00:00:36.239><c> start</c><00:00:36.559><c> using</c><00:00:37.120><c> this</c><00:00:37.360><c> model</c><00:00:37.680><c> we</c><00:00:37.840><c> have</c>
+
+00:00:37.990 --> 00:00:38.000 align:start position:0%
+Okay. To start using this model we have
+ 
+
+00:00:38.000 --> 00:00:40.389 align:start position:0%
+Okay. To start using this model we have
+to<00:00:38.160><c> download</c><00:00:38.559><c> those</c><00:00:38.800><c> missing</c><00:00:39.200><c> notes</c><00:00:40.079><c> by</c>
+
+00:00:40.389 --> 00:00:40.399 align:start position:0%
+to download those missing notes by
+ 
+
+00:00:40.399 --> 00:00:44.869 align:start position:0%
+to download those missing notes by
+clicking<00:00:40.879><c> right</c><00:00:41.120><c> here.</c><00:00:42.079><c> for</c><00:00:42.239><c> those</c>
+
+00:00:44.869 --> 00:00:44.879 align:start position:0%
+clicking right here. for those
+ 
+
+00:00:44.879 --> 00:00:48.790 align:start position:0%
+clicking right here. for those
+you<00:00:45.200><c> can</c><00:00:45.360><c> download</c><00:00:45.760><c> it</c><00:00:46.000><c> restart</c><00:00:46.559><c> download</c><00:00:47.760><c> or</c>
+
+00:00:48.790 --> 00:00:48.800 align:start position:0%
+you can download it restart download or
+ 
+
+00:00:48.800 --> 00:00:51.750 align:start position:0%
+you can download it restart download or
+you<00:00:49.039><c> can</c><00:00:49.200><c> copy</c><00:00:49.840><c> the</c><00:00:50.000><c> URL</c><00:00:50.960><c> and</c><00:00:51.090><c> [snorts]</c><00:00:51.280><c> add</c><00:00:51.600><c> it</c>
+
+00:00:51.750 --> 00:00:51.760 align:start position:0%
+you can copy the URL and [snorts] add it
+ 
+
+00:00:51.760 --> 00:00:55.189 align:start position:0%
+you can copy the URL and [snorts] add it
+to<00:00:51.920><c> the</c><00:00:52.160><c> IDA</c>
+
+00:00:55.189 --> 00:00:55.199 align:start position:0%
+ 
+ 
+
+00:00:55.199 --> 00:00:59.349 align:start position:0%
+ 
+and<00:00:55.600><c> okay</c><00:00:56.079><c> and</c><00:00:57.360><c> begin</c><00:00:57.760><c> download</c>
+
+00:00:59.349 --> 00:00:59.359 align:start position:0%
+and okay and begin download
+ 
+
+00:00:59.359 --> 00:01:03.430 align:start position:0%
+and okay and begin download
+okay<00:00:59.920><c> I</c><00:01:00.239><c> already</c><00:01:00.640><c> download</c><00:01:01.120><c> those</c><00:01:01.520><c> I</c><00:01:02.960><c> download</c>
+
+00:01:03.430 --> 00:01:03.440 align:start position:0%
+okay I already download those I download
+ 
+
+00:01:03.440 --> 00:01:05.830 align:start position:0%
+okay I already download those I download
+those<00:01:03.680><c> file</c><00:01:04.239><c> okay</c>
+
+00:01:05.830 --> 00:01:05.840 align:start position:0%
+those file okay
+ 
+
+00:01:05.840 --> 00:01:08.070 align:start position:0%
+those file okay
+let's<00:01:06.159><c> source</c>
+
+00:01:08.070 --> 00:01:08.080 align:start position:0%
+let's source
+ 
+
+00:01:08.080 --> 00:01:12.710 align:start position:0%
+let's source
+keep<00:01:08.400><c> open</c><00:01:08.640><c> it</c><00:01:08.880><c> this</c><00:01:09.200><c> one</c>
+
+00:01:12.710 --> 00:01:12.720 align:start position:0%
+ 
+ 
+
+00:01:12.720 --> 00:01:15.350 align:start position:0%
+ 
+this
+
+00:01:15.350 --> 00:01:15.360 align:start position:0%
+this
+ 
+
+00:01:15.360 --> 00:01:17.590 align:start position:0%
+this
+and<00:01:15.600><c> let's</c><00:01:15.840><c> see</c><00:01:16.000><c> the</c><00:01:16.240><c> first</c><00:01:16.400><c> one</c><00:01:16.640><c> takes</c><00:01:16.960><c> some</c>
+
+00:01:17.590 --> 00:01:17.600 align:start position:0%
+and let's see the first one takes some
+ 
+
+00:01:17.600 --> 00:01:24.870 align:start position:0%
+and let's see the first one takes some
+clean<00:01:18.000><c> string</c><00:01:18.880><c> of</c>
+
+00:01:24.870 --> 00:01:24.880 align:start position:0%
+ 
+ 
+
+00:01:24.880 --> 00:01:28.070 align:start position:0%
+ 
+let's<00:01:25.119><c> go</c><00:01:25.360><c> here</c><00:01:25.680><c> to</c><00:01:25.840><c> comei</c>
+
+00:01:28.070 --> 00:01:28.080 align:start position:0%
+let's go here to comei
+ 
+
+00:01:28.080 --> 00:01:32.789 align:start position:0%
+let's go here to comei
+choose<00:01:28.479><c> model</c><00:01:29.600><c> the</c><00:01:29.840><c> place</c><00:01:30.320><c> one</c><00:01:31.119><c> those</c><00:01:31.439><c> models</c>
+
+00:01:32.789 --> 00:01:32.799 align:start position:0%
+choose model the place one those models
+ 
+
+00:01:32.799 --> 00:01:39.510 align:start position:0%
+choose model the place one those models
+first<00:01:33.040><c> one</c><00:01:33.280><c> is</c><00:01:33.600><c> the</c><00:01:33.840><c> text</c><00:01:34.159><c> encoder</c>
+
+00:01:39.510 --> 00:01:39.520 align:start position:0%
+ 
+ 
+
+00:01:39.520 --> 00:01:44.550 align:start position:0%
+ 
+Okay.<00:01:39.920><c> Queen</c><00:01:40.560><c> three.</c>
+
+00:01:44.550 --> 00:01:44.560 align:start position:0%
+ 
+ 
+
+00:01:44.560 --> 00:01:52.950 align:start position:0%
+ 
+Second<00:01:44.880><c> one.</c><00:01:45.200><c> Diffusion</c><00:01:45.680><c> modus.</c>
+
+00:01:52.950 --> 00:01:52.960 align:start position:0%
+ 
+ 
+
+00:01:52.960 --> 00:01:57.590 align:start position:0%
+ 
+with<00:01:53.280><c> the</c><00:01:53.360><c> fusion</c><00:01:53.759><c> models</c>
+
+00:01:57.590 --> 00:01:57.600 align:start position:0%
+ 
+ 
+
+00:01:57.600 --> 00:02:03.990 align:start position:0%
+ 
+that<00:01:57.920><c> image</c><00:01:58.479><c> t</c>
+
+00:02:03.990 --> 00:02:04.000 align:start position:0%
+ 
+ 
+
+00:02:04.000 --> 00:02:10.949 align:start position:0%
+ 
+16
+
+00:02:10.949 --> 00:02:10.959 align:start position:0%
+ 
+ 
+
+00:02:10.959 --> 00:02:15.030 align:start position:0%
+ 
+modus
+
+00:02:15.030 --> 00:02:15.040 align:start position:0%
+ 
+ 
+
+00:02:15.040 --> 00:02:16.949 align:start position:0%
+ 
+one
+
+00:02:16.949 --> 00:02:16.959 align:start position:0%
+one
+ 
+
+00:02:16.959 --> 00:02:18.550 align:start position:0%
+one
+av
+
+00:02:18.550 --> 00:02:18.560 align:start position:0%
+av
+ 
+
+00:02:18.560 --> 00:02:24.309 align:start position:0%
+av
+H
+
+00:02:24.309 --> 00:02:24.319 align:start position:0%
+ 
+ 
+
+00:02:24.319 --> 00:02:29.190 align:start position:0%
+ 
+what<00:02:24.560><c> is</c>
+
+00:02:29.190 --> 00:02:29.200 align:start position:0%
+ 
+ 
+
+00:02:29.200 --> 00:02:33.589 align:start position:0%
+ 
+okay?<00:02:29.599><c> Final</c><00:02:30.160><c> one</c><00:02:31.360><c> model</c><00:02:31.760><c> patches.</c><00:02:33.040><c> Let's</c><00:02:33.360><c> add</c>
+
+00:02:33.589 --> 00:02:33.599 align:start position:0%
+okay? Final one model patches. Let's add
+ 
+
+00:02:33.599 --> 00:02:38.229 align:start position:0%
+okay? Final one model patches. Let's add
+this<00:02:33.920><c> patch</c>
+
+00:02:38.229 --> 00:02:38.239 align:start position:0%
+ 
+ 
+
+00:02:38.239 --> 00:02:42.710 align:start position:0%
+ 
+and<00:02:38.400><c> this</c><00:02:38.800><c> model</c><00:02:39.200><c> clutches.</c>
+
+00:02:42.710 --> 00:02:42.720 align:start position:0%
+ 
+ 
+
+00:02:42.720 --> 00:02:44.470 align:start position:0%
+ 
+Okay,
+
+00:02:44.470 --> 00:02:44.480 align:start position:0%
+Okay,
+ 
+
+00:02:44.480 --> 00:02:48.070 align:start position:0%
+Okay,
+let's<00:02:44.879><c> add</c><00:02:45.200><c> this</c><00:02:45.519><c> one.</c><00:02:46.080><c> Right</c><00:02:46.400><c> head.</c>
+
+00:02:48.070 --> 00:02:48.080 align:start position:0%
+let's add this one. Right head.
+ 
+
+00:02:48.080 --> 00:02:49.830 align:start position:0%
+let's add this one. Right head.
+After<00:02:48.400><c> adding</c><00:02:48.800><c> with</c><00:02:48.879><c> those</c><00:02:49.120><c> smoothness,</c><00:02:49.599><c> we</c>
+
+00:02:49.830 --> 00:02:49.840 align:start position:0%
+After adding with those smoothness, we
+ 
+
+00:02:49.840 --> 00:02:53.670 align:start position:0%
+After adding with those smoothness, we
+have<00:02:49.920><c> to</c><00:02:50.160><c> reload</c><00:02:50.560><c> these</c><00:02:50.879><c> pages</c><00:02:51.920><c> and</c><00:02:52.239><c> see.</c>
+
+00:02:53.670 --> 00:02:53.680 align:start position:0%
+have to reload these pages and see.
+ 
+
+00:02:53.680 --> 00:02:57.270 align:start position:0%
+have to reload these pages and see.
+Okay,<00:02:54.239><c> it's</c><00:02:54.560><c> fine.</c>
+
+00:02:57.270 --> 00:02:57.280 align:start position:0%
+Okay, it's fine.
+ 
+
+00:02:57.280 --> 00:02:59.350 align:start position:0%
+Okay, it's fine.
+Okay,<00:02:57.599><c> this</c><00:02:57.840><c> is</c><00:02:57.920><c> the</c><00:02:58.080><c> requirements</c><00:02:58.800><c> that</c><00:02:59.120><c> I</c>
+
+00:02:59.350 --> 00:02:59.360 align:start position:0%
+Okay, this is the requirements that I
+ 
+
+00:02:59.360 --> 00:03:02.470 align:start position:0%
+Okay, this is the requirements that I
+downloaded<00:03:00.080><c> right</c><00:03:00.319><c> now.</c><00:03:01.680><c> The</c><00:03:01.840><c> desktop</c>
+
+00:03:02.470 --> 00:03:02.480 align:start position:0%
+downloaded right now. The desktop
+ 
+
+00:03:02.480 --> 00:03:05.750 align:start position:0%
+downloaded right now. The desktop
+diffusion<00:03:03.280><c> is</c><00:03:03.519><c> via</c><00:03:04.319><c> model</c><00:03:04.720><c> patch.</c><00:03:05.519><c> After</c>
+
+00:03:05.750 --> 00:03:05.760 align:start position:0%
+diffusion is via model patch. After
+ 
+
+00:03:05.760 --> 00:03:09.589 align:start position:0%
+diffusion is via model patch. After
+that,<00:03:06.000><c> we</c><00:03:06.239><c> have</c><00:03:06.319><c> to</c><00:03:06.480><c> load</c><00:03:06.720><c> the</c><00:03:06.959><c> image</c>
+
+00:03:09.589 --> 00:03:09.599 align:start position:0%
+that, we have to load the image
+ 
+
+00:03:09.599 --> 00:03:15.030 align:start position:0%
+that, we have to load the image
+and<00:03:10.480><c> Z</c><00:03:10.800><c> image</c><00:03:11.040><c> turbo</c><00:03:11.519><c> fan</c><00:03:11.840><c> control</c><00:03:12.720><c> the</c><00:03:13.440><c> image.</c>
+
+00:03:15.030 --> 00:03:15.040 align:start position:0%
+and Z image turbo fan control the image.
+ 
+
+00:03:15.040 --> 00:03:18.390 align:start position:0%
+and Z image turbo fan control the image.
+Okay,<00:03:15.440><c> for</c><00:03:15.680><c> this</c><00:03:16.000><c> control</c><00:03:16.480><c> image</c><00:03:16.879><c> you</c><00:03:17.120><c> can</c><00:03:17.360><c> use</c>
+
+00:03:18.390 --> 00:03:18.400 align:start position:0%
+Okay, for this control image you can use
+ 
+
+00:03:18.400 --> 00:03:21.350 align:start position:0%
+Okay, for this control image you can use
+pro<00:03:18.800><c> for</c><00:03:19.120><c> chat</c><00:03:19.440><c> GPT</c>
+
+00:03:21.350 --> 00:03:21.360 align:start position:0%
+pro for chat GPT
+ 
+
+00:03:21.360 --> 00:03:27.190 align:start position:0%
+pro for chat GPT
+or<00:03:21.680><c> you</c><00:03:21.920><c> can</c><00:03:22.080><c> use</c><00:03:22.319><c> this</c><00:03:22.640><c> uh</c><00:03:22.879><c> default.</c>
+
+00:03:27.190 --> 00:03:27.200 align:start position:0%
+ 
+ 
+
+00:03:27.200 --> 00:03:29.830 align:start position:0%
+ 
+Let's<00:03:27.599><c> use</c><00:03:27.920><c> this</c><00:03:28.159><c> default</c><00:03:28.640><c> prompt</c><00:03:29.040><c> for</c><00:03:29.599><c> for</c>
+
+00:03:29.830 --> 00:03:29.840 align:start position:0%
+Let's use this default prompt for for
+ 
+
+00:03:29.840 --> 00:03:32.630 align:start position:0%
+Let's use this default prompt for for
+you<00:03:30.159><c> can</c><00:03:30.400><c> customize</c>
+
+00:03:32.630 --> 00:03:32.640 align:start position:0%
+you can customize
+ 
+
+00:03:32.640 --> 00:03:34.869 align:start position:0%
+you can customize
+and<00:03:32.879><c> after</c><00:03:33.200><c> that</c><00:03:33.519><c> we</c><00:03:33.760><c> can</c><00:03:33.920><c> save</c><00:03:34.400><c> the</c><00:03:34.640><c> new</c>
+
+00:03:34.869 --> 00:03:34.879 align:start position:0%
+and after that we can save the new
+ 
+
+00:03:34.879 --> 00:03:38.229 align:start position:0%
+and after that we can save the new
+image.
+
+00:03:38.229 --> 00:03:38.239 align:start position:0%
+ 
+ 
+
+00:03:38.239 --> 00:03:41.110 align:start position:0%
+ 
+Okay,<00:03:38.720><c> let's</c><00:03:39.040><c> choose</c><00:03:40.159><c> head.</c><00:03:40.640><c> Let's</c><00:03:40.879><c> choose</c>
+
+00:03:41.110 --> 00:03:41.120 align:start position:0%
+Okay, let's choose head. Let's choose
+ 
+
+00:03:41.120 --> 00:03:45.670 align:start position:0%
+Okay, let's choose head. Let's choose
+this<00:03:41.360><c> girl</c><00:03:41.680><c> for</c><00:03:41.840><c> example</c><00:03:42.480><c> as</c><00:03:42.799><c> image</c>
+
+00:03:45.670 --> 00:03:45.680 align:start position:0%
+this girl for example as image
+ 
+
+00:03:45.680 --> 00:03:50.550 align:start position:0%
+this girl for example as image
+and<00:03:45.920><c> hit</c><00:03:46.879><c> and</c><00:03:47.120><c> let's</c><00:03:47.360><c> see</c><00:03:47.599><c> what's</c><00:03:47.840><c> up</c>
+
+00:03:50.550 --> 00:03:50.560 align:start position:0%
+and hit and let's see what's up
+ 
+
+00:03:50.560 --> 00:03:53.670 align:start position:0%
+and hit and let's see what's up
+now<00:03:50.799><c> to</c><00:03:51.040><c> create</c><00:03:51.440><c> this</c><00:03:51.840><c> realistic</c>
+
+00:03:53.670 --> 00:03:53.680 align:start position:0%
+now to create this realistic
+ 
+
+00:03:53.680 --> 00:03:56.550 align:start position:0%
+now to create this realistic
+image<00:03:54.239><c> from</c><00:03:54.560><c> this</c>
+
+00:03:56.550 --> 00:03:56.560 align:start position:0%
+image from this
+ 
+
+00:03:56.560 --> 00:03:58.869 align:start position:0%
+image from this
+but<00:03:56.640><c> I</c><00:03:56.959><c> close</c><00:03:57.439><c> previously</c><00:03:57.920><c> using</c><00:03:58.239><c> this</c><00:03:58.640><c> uh</c>
+
+00:03:58.869 --> 00:03:58.879 align:start position:0%
+but I close previously using this uh
+ 
+
+00:03:58.879 --> 00:04:03.750 align:start position:0%
+but I close previously using this uh
+control<00:03:59.280><c> image</c><00:03:59.599><c> font</c><00:04:00.959><c> it</c><00:04:01.360><c> takes</c><00:04:01.920><c> around</c><00:04:03.280><c> 7</c>
+
+00:04:03.750 --> 00:04:03.760 align:start position:0%
+control image font it takes around 7
+ 
+
+00:04:03.760 --> 00:04:05.830 align:start position:0%
+control image font it takes around 7
+minutes
+
+00:04:05.830 --> 00:04:05.840 align:start position:0%
+minutes
+ 
+
+00:04:05.840 --> 00:04:10.920 align:start position:0%
+minutes
+but<00:04:06.480><c> uh</c><00:04:06.640><c> we</c><00:04:06.959><c> have</c><00:04:07.360><c> nice</c><00:04:07.920><c> result.</c>
+

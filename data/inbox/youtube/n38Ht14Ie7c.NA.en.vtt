@@ -1,0 +1,320 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.720 --> 00:00:01.870 align:start position:0%
+ 
+All<00:00:00.800><c> right,</c><00:00:00.920><c> guys.</c><00:00:01.120><c> In</c><00:00:01.200><c> this</c><00:00:01.400><c> tutorial,</c><00:00:01.760><c> I'm</c>
+
+00:00:01.870 --> 00:00:01.880 align:start position:0%
+All right, guys. In this tutorial, I'm
+ 
+
+00:00:01.880 --> 00:00:04.070 align:start position:0%
+All right, guys. In this tutorial, I'm
+going<00:00:02.000><c> to</c><00:00:02.080><c> show</c><00:00:02.320><c> you</c><00:00:02.520><c> how</c><00:00:02.760><c> to</c><00:00:03.000><c> enable</c>
+
+00:00:04.070 --> 00:00:04.080 align:start position:0%
+going to show you how to enable
+ 
+
+00:00:04.080 --> 00:00:06.590 align:start position:0%
+going to show you how to enable
+collision<00:00:04.600><c> and</c><00:00:04.720><c> static</c><00:00:05.080><c> meshes</c><00:00:05.920><c> and</c><00:00:06.200><c> how</c><00:00:06.360><c> to</c>
+
+00:00:06.590 --> 00:00:06.600 align:start position:0%
+collision and static meshes and how to
+ 
+
+00:00:06.600 --> 00:00:08.190 align:start position:0%
+collision and static meshes and how to
+disable<00:00:07.160><c> it.</c>
+
+00:00:08.190 --> 00:00:08.200 align:start position:0%
+disable it.
+ 
+
+00:00:08.200 --> 00:00:11.070 align:start position:0%
+disable it.
+If<00:00:08.360><c> you</c><00:00:08.480><c> want</c><00:00:08.680><c> to</c><00:00:08.800><c> disable</c><00:00:09.880><c> the</c><00:00:09.960><c> static</c>
+
+00:00:11.070 --> 00:00:11.080 align:start position:0%
+If you want to disable the static
+ 
+
+00:00:11.080 --> 00:00:12.990 align:start position:0%
+If you want to disable the static
+collision<00:00:11.480><c> and</c><00:00:11.600><c> static</c><00:00:11.920><c> meshes</c>
+
+00:00:12.990 --> 00:00:13.000 align:start position:0%
+collision and static meshes
+ 
+
+00:00:13.000 --> 00:00:15.230 align:start position:0%
+collision and static meshes
+or<00:00:13.320><c> how</c><00:00:13.560><c> to</c><00:00:13.720><c> enable</c><00:00:14.120><c> it.</c><00:00:14.640><c> Okay,</c><00:00:14.920><c> first</c><00:00:15.120><c> thing</c>
+
+00:00:15.230 --> 00:00:15.240 align:start position:0%
+or how to enable it. Okay, first thing
+ 
+
+00:00:15.240 --> 00:00:17.230 align:start position:0%
+or how to enable it. Okay, first thing
+first,<00:00:15.520><c> let's</c><00:00:15.760><c> see.</c>
+
+00:00:17.230 --> 00:00:17.240 align:start position:0%
+first, let's see.
+ 
+
+00:00:17.240 --> 00:00:20.950 align:start position:0%
+first, let's see.
+Okay,<00:00:17.360><c> this</c><00:00:17.600><c> is</c><00:00:17.720><c> my</c><00:00:17.840><c> third-person</c><00:00:18.440><c> character.</c>
+
+00:00:20.950 --> 00:00:20.960 align:start position:0%
+Okay, this is my third-person character.
+ 
+
+00:00:20.960 --> 00:00:23.750 align:start position:0%
+Okay, this is my third-person character.
+As<00:00:21.200><c> you</c><00:00:21.320><c> can</c><00:00:21.520><c> see,</c><00:00:21.840><c> there</c><00:00:22.080><c> is</c><00:00:22.240><c> no</c><00:00:22.640><c> collision.</c>
+
+00:00:23.750 --> 00:00:23.760 align:start position:0%
+As you can see, there is no collision.
+ 
+
+00:00:23.760 --> 00:00:25.750 align:start position:0%
+As you can see, there is no collision.
+It<00:00:23.880><c> pass</c><00:00:24.200><c> through</c><00:00:24.480><c> this</c><00:00:24.760><c> mesh.</c>
+
+00:00:25.750 --> 00:00:25.760 align:start position:0%
+It pass through this mesh.
+ 
+
+00:00:25.760 --> 00:00:26.830 align:start position:0%
+It pass through this mesh.
+Okay.
+
+00:00:26.830 --> 00:00:26.840 align:start position:0%
+Okay.
+ 
+
+00:00:26.840 --> 00:00:28.830 align:start position:0%
+Okay.
+How<00:00:27.000><c> to</c><00:00:27.160><c> enable</c><00:00:27.520><c> this</c><00:00:27.760><c> collision</c><00:00:28.560><c> and</c><00:00:28.760><c> the</c>
+
+00:00:28.830 --> 00:00:28.840 align:start position:0%
+How to enable this collision and the
+ 
+
+00:00:28.840 --> 00:00:32.269 align:start position:0%
+How to enable this collision and the
+block<00:00:29.360><c> the</c><00:00:29.520><c> access</c><00:00:30.160><c> inside</c><00:00:30.560><c> this</c><00:00:30.760><c> mesh?</c>
+
+00:00:32.269 --> 00:00:32.279 align:start position:0%
+block the access inside this mesh?
+ 
+
+00:00:32.279 --> 00:00:34.310 align:start position:0%
+block the access inside this mesh?
+Okay,<00:00:32.560><c> select</c><00:00:33.080><c> this</c><00:00:33.360><c> one</c>
+
+00:00:34.310 --> 00:00:34.320 align:start position:0%
+Okay, select this one
+ 
+
+00:00:34.320 --> 00:00:37.590 align:start position:0%
+Okay, select this one
+and<00:00:34.560><c> go</c><00:00:34.760><c> right</c><00:00:35.120><c> here,</c><00:00:35.680><c> edit.</c>
+
+00:00:37.590 --> 00:00:37.600 align:start position:0%
+and go right here, edit.
+ 
+
+00:00:37.600 --> 00:00:39.830 align:start position:0%
+and go right here, edit.
+After<00:00:37.920><c> going</c><00:00:38.240><c> this,</c><00:00:38.600><c> go</c><00:00:38.800><c> here</c><00:00:39.040><c> to</c><00:00:39.160><c> search</c><00:00:39.680><c> and</c>
+
+00:00:39.830 --> 00:00:39.840 align:start position:0%
+After going this, go here to search and
+ 
+
+00:00:39.840 --> 00:00:42.350 align:start position:0%
+After going this, go here to search and
+search<00:00:40.120><c> for</c><00:00:40.320><c> collision.</c>
+
+00:00:42.350 --> 00:00:42.360 align:start position:0%
+search for collision.
+ 
+
+00:00:42.360 --> 00:00:44.510 align:start position:0%
+search for collision.
+And<00:00:42.560><c> this</c><00:00:42.800><c> one</c><00:00:43.000><c> we</c><00:00:43.160><c> have</c>
+
+00:00:44.510 --> 00:00:44.520 align:start position:0%
+And this one we have
+ 
+
+00:00:44.520 --> 00:00:46.870 align:start position:0%
+And this one we have
+uh<00:00:44.720><c> collision</c><00:00:45.160><c> presets</c><00:00:45.800><c> no</c><00:00:46.000><c> collision.</c><00:00:46.680><c> Make</c>
+
+00:00:46.870 --> 00:00:46.880 align:start position:0%
+uh collision presets no collision. Make
+ 
+
+00:00:46.880 --> 00:00:50.030 align:start position:0%
+uh collision presets no collision. Make
+it<00:00:47.000><c> the</c><00:00:47.040><c> block</c><00:00:47.400><c> all.</c>
+
+00:00:50.030 --> 00:00:50.040 align:start position:0%
+ 
+ 
+
+00:00:50.040 --> 00:00:53.030 align:start position:0%
+ 
+And<00:00:50.360><c> go</c><00:00:50.880><c> down</c>
+
+00:00:53.030 --> 00:00:53.040 align:start position:0%
+And go down
+ 
+
+00:00:53.040 --> 00:00:54.630 align:start position:0%
+And go down
+to<00:00:53.320><c> this</c><00:00:53.680><c> one.</c>
+
+00:00:54.630 --> 00:00:54.640 align:start position:0%
+to this one.
+ 
+
+00:00:54.640 --> 00:00:58.430 align:start position:0%
+to this one.
+Uh<00:00:55.000><c> use</c><00:00:55.200><c> complex</c><00:00:56.080><c> collision</c><00:00:56.560><c> as</c><00:00:56.720><c> simple.</c>
+
+00:00:58.430 --> 00:00:58.440 align:start position:0%
+Uh use complex collision as simple.
+ 
+
+00:00:58.440 --> 00:00:59.830 align:start position:0%
+Uh use complex collision as simple.
+Okay.
+
+00:00:59.830 --> 00:00:59.840 align:start position:0%
+Okay.
+ 
+
+00:00:59.840 --> 00:01:05.189 align:start position:0%
+Okay.
+And<00:01:00.120><c> let's</c><00:01:00.400><c> see.</c>
+
+00:01:05.189 --> 00:01:05.199 align:start position:0%
+ 
+ 
+
+00:01:05.199 --> 00:01:08.990 align:start position:0%
+ 
+Okay,<00:01:05.560><c> as</c><00:01:05.720><c> you</c><00:01:05.800><c> can</c><00:01:05.960><c> see,</c><00:01:06.080><c> it</c><00:01:06.240><c> works</c><00:01:06.720><c> fine.</c>
+
+00:01:08.990 --> 00:01:09.000 align:start position:0%
+Okay, as you can see, it works fine.
+ 
+
+00:01:09.000 --> 00:01:11.590 align:start position:0%
+Okay, as you can see, it works fine.
+Now,<00:01:09.680><c> I</c><00:01:09.960><c> enabled</c><00:01:10.480><c> the</c><00:01:10.520><c> collision</c><00:01:11.240><c> in</c><00:01:11.360><c> this</c>
+
+00:01:11.590 --> 00:01:11.600 align:start position:0%
+Now, I enabled the collision in this
+ 
+
+00:01:11.600 --> 00:01:14.430 align:start position:0%
+Now, I enabled the collision in this
+mesh.<00:01:12.240><c> Okay,</c><00:01:12.520><c> how</c><00:01:12.640><c> to</c><00:01:12.800><c> disable</c><00:01:13.280><c> it?</c>
+
+00:01:14.430 --> 00:01:14.440 align:start position:0%
+mesh. Okay, how to disable it?
+ 
+
+00:01:14.440 --> 00:01:17.870 align:start position:0%
+mesh. Okay, how to disable it?
+Disable,<00:01:14.920><c> select</c><00:01:15.440><c> this</c><00:01:15.720><c> one,</c><00:01:16.240><c> this</c><00:01:16.400><c> mesh.</c>
+
+00:01:17.870 --> 00:01:17.880 align:start position:0%
+Disable, select this one, this mesh.
+ 
+
+00:01:17.880 --> 00:01:21.230 align:start position:0%
+Disable, select this one, this mesh.
+And<00:01:18.120><c> go</c><00:01:18.320><c> right</c><00:01:18.600><c> here,</c><00:01:19.080><c> edit.</c>
+
+00:01:21.230 --> 00:01:21.240 align:start position:0%
+And go right here, edit.
+ 
+
+00:01:21.240 --> 00:01:25.230 align:start position:0%
+And go right here, edit.
+Search<00:01:21.640><c> for</c><00:01:21.800><c> collision.</c>
+
+00:01:25.230 --> 00:01:25.240 align:start position:0%
+ 
+ 
+
+00:01:25.240 --> 00:01:28.630 align:start position:0%
+ 
+And<00:01:25.480><c> go</c><00:01:25.720><c> here,</c><00:01:26.800><c> no</c><00:01:27.120><c> collision.</c>
+
+00:01:28.630 --> 00:01:28.640 align:start position:0%
+And go here, no collision.
+ 
+
+00:01:28.640 --> 00:01:32.590 align:start position:0%
+And go here, no collision.
+And<00:01:28.960><c> make</c><00:01:29.200><c> this</c><00:01:29.480><c> one</c><00:01:30.240><c> project</c><00:01:30.800><c> default.</c>
+
+00:01:32.590 --> 00:01:32.600 align:start position:0%
+And make this one project default.
+ 
+
+00:01:32.600 --> 00:01:37.230 align:start position:0%
+And make this one project default.
+And<00:01:32.920><c> hit</c><00:01:33.280><c> save.</c>
+
+00:01:37.230 --> 00:01:37.240 align:start position:0%
+ 
+ 
+
+00:01:37.240 --> 00:01:40.350 align:start position:0%
+ 
+Okay,<00:01:37.640><c> and</c><00:01:37.800><c> let's</c><00:01:38.080><c> see.</c>
+
+00:01:40.350 --> 00:01:40.360 align:start position:0%
+Okay, and let's see.
+ 
+
+00:01:40.360 --> 00:01:42.390 align:start position:0%
+Okay, and let's see.
+Fine,<00:01:40.720><c> as</c><00:01:40.920><c> you</c><00:01:41.040><c> can</c><00:01:41.240><c> see,</c><00:01:41.360><c> it</c><00:01:41.520><c> pass</c><00:01:42.040><c> through</c>
+
+00:01:42.390 --> 00:01:42.400 align:start position:0%
+Fine, as you can see, it pass through
+ 
+
+00:01:42.400 --> 00:01:44.190 align:start position:0%
+Fine, as you can see, it pass through
+the<00:01:42.560><c> mesh.</c>
+
+00:01:44.190 --> 00:01:44.200 align:start position:0%
+the mesh.
+ 
+
+00:01:44.200 --> 00:01:45.390 align:start position:0%
+the mesh.
+Okay,<00:01:44.440><c> thank</c><00:01:44.640><c> you,</c><00:01:44.720><c> guys,</c><00:01:44.960><c> for</c><00:01:45.080><c> watching</c>
+
+00:01:45.390 --> 00:01:45.400 align:start position:0%
+Okay, thank you, guys, for watching
+ 
+
+00:01:45.400 --> 00:01:48.560 align:start position:0%
+Okay, thank you, guys, for watching
+this.<00:01:45.640><c> All</c><00:01:45.800><c> for</c><00:01:45.960><c> this</c><00:01:46.320><c> tutorial.</c>
+

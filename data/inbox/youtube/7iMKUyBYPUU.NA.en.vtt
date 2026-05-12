@@ -1,0 +1,496 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.400 --> 00:00:04.950 align:start position:0%
+ 
+Hi<00:00:00.719><c> guys,</c><00:00:00.880><c> in</c><00:00:01.120><c> this</c><00:00:01.199><c> video</c><00:00:01.439><c> I</c><00:00:01.520><c> want</c><00:00:01.680><c> to</c><00:00:01.920><c> create</c>
+
+00:00:04.950 --> 00:00:04.960 align:start position:0%
+ 
+ 
+
+00:00:04.960 --> 00:00:07.349 align:start position:0%
+ 
+3D<00:00:05.839><c> reference</c>
+
+00:00:07.349 --> 00:00:07.359 align:start position:0%
+3D reference
+ 
+
+00:00:07.359 --> 00:00:10.629 align:start position:0%
+3D reference
+using<00:00:07.839><c> comi.</c><00:00:09.120><c> We</c><00:00:09.440><c> have</c><00:00:09.599><c> to</c><00:00:09.760><c> use</c><00:00:10.000><c> this</c><00:00:10.240><c> hanging</c>
+
+00:00:10.629 --> 00:00:10.639 align:start position:0%
+using comi. We have to use this hanging
+ 
+
+00:00:10.639 --> 00:00:15.350 align:start position:0%
+using comi. We have to use this hanging
+3D<00:00:11.440><c> uh</c><00:00:11.759><c> 2.1</c><00:00:12.960><c> subscri</c><00:00:13.920><c> from</c><00:00:14.480><c> image</c><00:00:14.799><c> reference</c>
+
+00:00:15.350 --> 00:00:15.360 align:start position:0%
+3D uh 2.1 subscri from image reference
+ 
+
+00:00:15.360 --> 00:00:18.630 align:start position:0%
+3D uh 2.1 subscri from image reference
+to<00:00:15.599><c> create</c><00:00:16.000><c> 3D</c><00:00:16.640><c> image.</c>
+
+00:00:18.630 --> 00:00:18.640 align:start position:0%
+to create 3D image.
+ 
+
+00:00:18.640 --> 00:00:20.710 align:start position:0%
+to create 3D image.
+Okay,<00:00:18.960><c> let's</c>
+
+00:00:20.710 --> 00:00:20.720 align:start position:0%
+Okay, let's
+ 
+
+00:00:20.720 --> 00:00:24.150 align:start position:0%
+Okay, let's
+okay<00:00:21.119><c> first</c><00:00:21.359><c> thing</c><00:00:21.520><c> first</c><00:00:21.840><c> open</c><00:00:22.160><c> the</c><00:00:22.320><c> confi</c>
+
+00:00:24.150 --> 00:00:24.160 align:start position:0%
+okay first thing first open the confi
+ 
+
+00:00:24.160 --> 00:00:28.710 align:start position:0%
+okay first thing first open the confi
+after<00:00:24.480><c> that</c><00:00:25.039><c> run</c><00:00:25.359><c> it</c><00:00:25.760><c> from</c><00:00:26.160><c> Nvidia</c><00:00:26.640><c> GPU.</c>
+
+00:00:28.710 --> 00:00:28.720 align:start position:0%
+after that run it from Nvidia GPU.
+ 
+
+00:00:28.720 --> 00:00:31.189 align:start position:0%
+after that run it from Nvidia GPU.
+Okay.<00:00:29.039><c> Go</c><00:00:29.199><c> to</c><00:00:29.359><c> templates.</c>
+
+00:00:31.189 --> 00:00:31.199 align:start position:0%
+Okay. Go to templates.
+ 
+
+00:00:31.199 --> 00:00:35.990 align:start position:0%
+Okay. Go to templates.
+I<00:00:31.359><c> want</c><00:00:31.519><c> to</c><00:00:31.679><c> select</c><00:00:32.079><c> this</c><00:00:33.520><c> add</c><00:00:33.840><c> template</c>
+
+00:00:35.990 --> 00:00:36.000 align:start position:0%
+I want to select this add template
+ 
+
+00:00:36.000 --> 00:00:40.069 align:start position:0%
+I want to select this add template
+and<00:00:36.239><c> image</c><00:00:36.559><c> to</c><00:00:36.800><c> 3D.</c><00:00:37.600><c> This</c><00:00:37.840><c> one.</c><00:00:39.280><c> Okay.</c><00:00:39.840><c> For</c>
+
+00:00:40.069 --> 00:00:40.079 align:start position:0%
+and image to 3D. This one. Okay. For
+ 
+
+00:00:40.079 --> 00:00:43.110 align:start position:0%
+and image to 3D. This one. Okay. For
+this<00:00:40.480><c> uh</c><00:00:40.640><c> model</c><00:00:41.200><c> you</c><00:00:41.520><c> have</c><00:00:41.680><c> to</c><00:00:42.079><c> start</c><00:00:42.399><c> this</c><00:00:42.960><c> and</c>
+
+00:00:43.110 --> 00:00:43.120 align:start position:0%
+this uh model you have to start this and
+ 
+
+00:00:43.120 --> 00:00:46.229 align:start position:0%
+this uh model you have to start this and
+use<00:00:43.360><c> 3D.</c><00:00:44.480><c> We</c><00:00:44.719><c> can</c><00:00:44.800><c> download</c><00:00:45.280><c> from</c><00:00:45.520><c> this</c><00:00:46.000><c> by</c>
+
+00:00:46.229 --> 00:00:46.239 align:start position:0%
+use 3D. We can download from this by
+ 
+
+00:00:46.239 --> 00:00:49.670 align:start position:0%
+use 3D. We can download from this by
+clicking<00:00:46.719><c> this</c><00:00:46.960><c> button</c><00:00:47.440><c> download</c>
+
+00:00:49.670 --> 00:00:49.680 align:start position:0%
+clicking this button download
+ 
+
+00:00:49.680 --> 00:00:52.709 align:start position:0%
+clicking this button download
+and<00:00:49.840><c> the</c><00:00:50.079><c> download</c><00:00:50.399><c> link</c><00:00:50.719><c> is</c><00:00:51.120><c> a</c><00:00:51.360><c> beginning</c><00:00:52.480><c> or</c>
+
+00:00:52.709 --> 00:00:52.719 align:start position:0%
+and the download link is a beginning or
+ 
+
+00:00:52.719 --> 00:00:59.750 align:start position:0%
+and the download link is a beginning or
+you<00:00:52.960><c> can</c><00:00:53.120><c> use</c><00:00:53.440><c> this</c><00:00:53.680><c> method</c><00:00:54.079><c> copl</c>
+
+00:00:59.750 --> 00:00:59.760 align:start position:0%
+ 
+ 
+
+00:00:59.760 --> 00:01:02.630 align:start position:0%
+ 
+right<00:00:59.920><c> here.</c><00:01:00.399><c> Hit</c><00:01:00.800><c> okay</c>
+
+00:01:02.630 --> 00:01:02.640 align:start position:0%
+right here. Hit okay
+ 
+
+00:01:02.640 --> 00:01:06.230 align:start position:0%
+right here. Hit okay
+and<00:01:02.879><c> stop</c><00:01:03.199><c> download.</c>
+
+00:01:06.230 --> 00:01:06.240 align:start position:0%
+ 
+ 
+
+00:01:06.240 --> 00:01:09.750 align:start position:0%
+ 
+Okay,<00:01:06.560><c> from</c><00:01:06.720><c> here</c><00:01:06.880><c> I</c><00:01:07.360><c> download</c><00:01:07.680><c> this</c><00:01:07.920><c> file.</c>
+
+00:01:09.750 --> 00:01:09.760 align:start position:0%
+Okay, from here I download this file.
+ 
+
+00:01:09.760 --> 00:01:12.789 align:start position:0%
+Okay, from here I download this file.
+Okay,<00:01:10.159><c> this</c><00:01:10.400><c> one.</c><00:01:11.520><c> Okay,</c><00:01:11.760><c> that's</c><00:01:12.560><c> the</c>
+
+00:01:12.789 --> 00:01:12.799 align:start position:0%
+Okay, this one. Okay, that's the
+ 
+
+00:01:12.799 --> 00:01:17.510 align:start position:0%
+Okay, this one. Okay, that's the
+computer.
+
+00:01:17.510 --> 00:01:17.520 align:start position:0%
+ 
+ 
+
+00:01:17.520 --> 00:01:18.870 align:start position:0%
+ 
+&gt;&gt; Let's<00:01:17.680><c> go.</c>
+
+00:01:18.870 --> 00:01:18.880 align:start position:0%
+&gt;&gt; Let's go.
+ 
+
+00:01:18.880 --> 00:01:24.390 align:start position:0%
+&gt;&gt; Let's go.
+[Music]
+
+00:01:24.390 --> 00:01:24.400 align:start position:0%
+ 
+ 
+
+00:01:24.400 --> 00:01:26.710 align:start position:0%
+ 
+What's<00:01:24.720><c> this?</c>
+
+00:01:26.710 --> 00:01:26.720 align:start position:0%
+What's this?
+ 
+
+00:01:26.720 --> 00:01:28.550 align:start position:0%
+What's this?
+Click<00:01:26.960><c> the</c><00:01:27.119><c> plus</c><00:01:27.360><c> button.</c><00:01:27.920><c> Drag</c><00:01:28.159><c> it</c><00:01:28.320><c> right</c>
+
+00:01:28.550 --> 00:01:28.560 align:start position:0%
+Click the plus button. Drag it right
+ 
+
+00:01:28.560 --> 00:01:31.670 align:start position:0%
+Click the plus button. Drag it right
+here.
+
+00:01:31.670 --> 00:01:31.680 align:start position:0%
+ 
+ 
+
+00:01:31.680 --> 00:01:35.429 align:start position:0%
+ 
+Download<00:01:32.159><c> this.</c><00:01:32.960><c> Where</c><00:01:33.119><c> is</c><00:01:33.600><c> my</c><00:01:34.079><c> hand</c><00:01:34.799><c> 3D?</c><00:01:35.280><c> This</c>
+
+00:01:35.429 --> 00:01:35.439 align:start position:0%
+Download this. Where is my hand 3D? This
+ 
+
+00:01:35.439 --> 00:01:38.870 align:start position:0%
+Download this. Where is my hand 3D? This
+one.<00:01:36.320><c> Now,</c><00:01:36.560><c> let's</c><00:01:36.799><c> go</c><00:01:36.880><c> ahead</c><00:01:37.360><c> computer.</c>
+
+00:01:38.870 --> 00:01:38.880 align:start position:0%
+one. Now, let's go ahead computer.
+ 
+
+00:01:38.880 --> 00:01:44.230 align:start position:0%
+one. Now, let's go ahead computer.
+After<00:01:39.200><c> that,</c><00:01:39.439><c> let's</c><00:01:39.759><c> go</c><00:01:39.920><c> to</c><00:01:40.240><c> model</c><00:01:40.560><c> is</c>
+
+00:01:44.230 --> 00:01:44.240 align:start position:0%
+ 
+ 
+
+00:01:44.240 --> 00:01:46.230 align:start position:0%
+ 
+checkpoint
+
+00:01:46.230 --> 00:01:46.240 align:start position:0%
+checkpoint
+ 
+
+00:01:46.240 --> 00:01:49.910 align:start position:0%
+checkpoint
+and<00:01:46.720><c> drag</c><00:01:47.040><c> this</c><00:01:47.360><c> one</c><00:01:47.600><c> right</c><00:01:47.840><c> here.</c>
+
+00:01:49.910 --> 00:01:49.920 align:start position:0%
+and drag this one right here.
+ 
+
+00:01:49.920 --> 00:01:53.749 align:start position:0%
+and drag this one right here.
+Return<00:01:50.240><c> right</c><00:01:50.479><c> here.</c>
+
+00:01:53.749 --> 00:01:53.759 align:start position:0%
+ 
+ 
+
+00:01:53.759 --> 00:01:57.910 align:start position:0%
+ 
+Okay.<00:01:54.000><c> I</c><00:01:54.159><c> want</c><00:01:54.320><c> to</c><00:01:54.479><c> choose</c><00:01:55.040><c> image</c><00:01:55.439><c> for</c><00:01:56.159><c> test.</c>
+
+00:01:57.910 --> 00:01:57.920 align:start position:0%
+Okay. I want to choose image for test.
+ 
+
+00:01:57.920 --> 00:02:00.550 align:start position:0%
+Okay. I want to choose image for test.
+Okay.<00:01:58.320><c> Choose</c><00:01:58.719><c> file</c><00:01:59.040><c> to</c><00:01:59.280><c> upload.</c><00:02:00.240><c> Let's</c>
+
+00:02:00.550 --> 00:02:00.560 align:start position:0%
+Okay. Choose file to upload. Let's
+ 
+
+00:02:00.560 --> 00:02:03.270 align:start position:0%
+Okay. Choose file to upload. Let's
+choose<00:02:00.799><c> this</c><00:02:01.119><c> image</c><00:02:01.360><c> as</c><00:02:01.600><c> a</c><00:02:01.759><c> reference</c><00:02:03.040><c> for</c>
+
+00:02:03.270 --> 00:02:03.280 align:start position:0%
+choose this image as a reference for
+ 
+
+00:02:03.280 --> 00:02:06.389 align:start position:0%
+choose this image as a reference for
+you.<00:02:03.439><c> You</c><00:02:03.520><c> can</c><00:02:03.680><c> choose</c><00:02:04.000><c> any</c><00:02:04.240><c> image.</c><00:02:05.040><c> Hit</c><00:02:05.360><c> open</c>
+
+00:02:06.389 --> 00:02:06.399 align:start position:0%
+you. You can choose any image. Hit open
+ 
+
+00:02:06.399 --> 00:02:09.669 align:start position:0%
+you. You can choose any image. Hit open
+and<00:02:06.719><c> let's</c><00:02:07.119><c> hit</c><00:02:07.360><c> run.</c>
+
+00:02:09.669 --> 00:02:09.679 align:start position:0%
+and let's hit run.
+ 
+
+00:02:09.679 --> 00:02:13.350 align:start position:0%
+and let's hit run.
+Okay,<00:02:10.080><c> fine.</c><00:02:10.720><c> This</c><00:02:10.959><c> is</c><00:02:11.360><c> very</c><00:02:11.840><c> sad.</c><00:02:12.720><c> This</c><00:02:12.959><c> works</c>
+
+00:02:13.350 --> 00:02:13.360 align:start position:0%
+Okay, fine. This is very sad. This works
+ 
+
+00:02:13.360 --> 00:02:15.589 align:start position:0%
+Okay, fine. This is very sad. This works
+unstuntedly.
+
+00:02:15.589 --> 00:02:15.599 align:start position:0%
+unstuntedly.
+ 
+
+00:02:15.599 --> 00:02:17.430 align:start position:0%
+unstuntedly.
+Okay,<00:02:15.920><c> let's</c><00:02:16.160><c> choose</c><00:02:16.400><c> another</c><00:02:16.720><c> image.</c><00:02:17.200><c> Let's</c>
+
+00:02:17.430 --> 00:02:17.440 align:start position:0%
+Okay, let's choose another image. Let's
+ 
+
+00:02:17.440 --> 00:02:21.589 align:start position:0%
+Okay, let's choose another image. Let's
+test<00:02:17.680><c> it</c><00:02:18.000><c> out.</c><00:02:19.200><c> By</c>
+
+00:02:21.589 --> 00:02:21.599 align:start position:0%
+test it out. By
+ 
+
+00:02:21.599 --> 00:02:27.670 align:start position:0%
+test it out. By
+games.<00:02:22.720><c> Okay,</c><00:02:23.040><c> let's</c><00:02:23.440><c> choose</c><00:02:23.840><c> those.</c>
+
+00:02:27.670 --> 00:02:27.680 align:start position:0%
+ 
+ 
+
+00:02:27.680 --> 00:02:30.309 align:start position:0%
+ 
+After<00:02:28.000><c> that,</c><00:02:28.400><c> hit</c><00:02:28.720><c> run.</c><00:02:29.599><c> Let's</c><00:02:29.840><c> see</c><00:02:30.080><c> the</c>
+
+00:02:30.309 --> 00:02:30.319 align:start position:0%
+After that, hit run. Let's see the
+ 
+
+00:02:30.319 --> 00:02:34.470 align:start position:0%
+After that, hit run. Let's see the
+result.
+
+00:02:34.470 --> 00:02:34.480 align:start position:0%
+ 
+ 
+
+00:02:34.480 --> 00:02:38.070 align:start position:0%
+ 
+Okay.<00:02:34.879><c> to</c><00:02:35.040><c> create</c><00:02:35.360><c> this</c><00:02:35.840><c> uh</c><00:02:36.480><c> image</c><00:02:37.519><c> make</c><00:02:37.840><c> to</c>
+
+00:02:38.070 --> 00:02:38.080 align:start position:0%
+Okay. to create this uh image make to
+ 
+
+00:02:38.080 --> 00:02:42.550 align:start position:0%
+Okay. to create this uh image make to
+3D.<00:02:39.200><c> Second</c><00:02:39.599><c> image</c><00:02:40.000><c> is</c><00:02:40.239><c> takes</c><00:02:40.640><c> around</c><00:02:41.360><c> uh</c><00:02:42.319><c> 1</c>
+
+00:02:42.550 --> 00:02:42.560 align:start position:0%
+3D. Second image is takes around uh 1
+ 
+
+00:02:42.560 --> 00:02:44.949 align:start position:0%
+3D. Second image is takes around uh 1
+minute<00:02:42.879><c> to</c><00:02:43.120><c> do</c><00:02:43.280><c> this.</c>
+
+00:02:44.949 --> 00:02:44.959 align:start position:0%
+minute to do this.
+ 
+
+00:02:44.959 --> 00:02:47.830 align:start position:0%
+minute to do this.
+Okay,<00:02:45.280><c> this</c><00:02:45.519><c> is</c><00:02:45.680><c> all</c>
+
+00:02:47.830 --> 00:02:47.840 align:start position:0%
+Okay, this is all
+ 
+
+00:02:47.840 --> 00:02:50.550 align:start position:0%
+Okay, this is all
+uh<00:02:48.080><c> now</c><00:02:48.319><c> let's</c><00:02:48.640><c> export</c><00:02:49.040><c> this</c><00:02:49.440><c> 3D</c><00:02:49.840><c> image.</c><00:02:50.319><c> We</c>
+
+00:02:50.550 --> 00:02:50.560 align:start position:0%
+uh now let's export this 3D image. We
+ 
+
+00:02:50.560 --> 00:02:52.949 align:start position:0%
+uh now let's export this 3D image. We
+have<00:02:50.640><c> to</c><00:02:50.800><c> go</c><00:02:51.120><c> right</c><00:02:51.360><c> here</c><00:02:51.760><c> and</c><00:02:52.000><c> hit</c><00:02:52.319><c> export</c>
+
+00:02:52.949 --> 00:02:52.959 align:start position:0%
+have to go right here and hit export
+ 
+
+00:02:52.959 --> 00:02:54.790 align:start position:0%
+have to go right here and hit export
+export<00:02:53.360><c> and</c><00:02:53.680><c> go</c><00:02:53.840><c> right</c><00:02:54.080><c> here</c><00:02:54.239><c> and</c><00:02:54.560><c> choose</c>
+
+00:02:54.790 --> 00:02:54.800 align:start position:0%
+export and go right here and choose
+ 
+
+00:02:54.800 --> 00:02:58.070 align:start position:0%
+export and go right here and choose
+this.<00:02:55.040><c> I</c><00:02:55.280><c> want</c><00:02:55.440><c> to</c><00:02:55.599><c> exports</c><00:02:56.160><c> as</c><00:02:56.480><c> object.</c><00:02:57.920><c> The</c>
+
+00:02:58.070 --> 00:02:58.080 align:start position:0%
+this. I want to exports as object. The
+ 
+
+00:02:58.080 --> 00:03:01.350 align:start position:0%
+this. I want to exports as object. The
+exporting<00:02:58.720><c> is</c><00:02:59.440><c> uh</c><00:02:59.680><c> done.</c><00:03:00.480><c> Now</c><00:03:00.720><c> you</c><00:03:00.959><c> can</c><00:03:01.120><c> open</c>
+
+00:03:01.350 --> 00:03:01.360 align:start position:0%
+exporting is uh done. Now you can open
+ 
+
+00:03:01.360 --> 00:03:04.550 align:start position:0%
+exporting is uh done. Now you can open
+it<00:03:01.599><c> with</c><00:03:02.159><c> Blender.</c>
+
+00:03:04.550 --> 00:03:04.560 align:start position:0%
+it with Blender.
+ 
+
+00:03:04.560 --> 00:03:08.070 align:start position:0%
+it with Blender.
+Okay,<00:03:04.879><c> now</c><00:03:05.040><c> let's</c><00:03:05.280><c> open</c><00:03:05.599><c> Blender</c><00:03:06.159><c> and</c><00:03:06.319><c> test.</c>
+
+00:03:08.070 --> 00:03:08.080 align:start position:0%
+Okay, now let's open Blender and test.
+ 
+
+00:03:08.080 --> 00:03:11.430 align:start position:0%
+Okay, now let's open Blender and test.
+This<00:03:08.319><c> is</c><00:03:08.480><c> Blender.</c>
+
+00:03:11.430 --> 00:03:11.440 align:start position:0%
+This is Blender.
+ 
+
+00:03:11.440 --> 00:03:15.270 align:start position:0%
+This is Blender.
+Go<00:03:11.760><c> generate,</c><00:03:12.720><c> delete</c><00:03:13.120><c> all</c><00:03:13.280><c> of</c><00:03:13.519><c> those.</c><00:03:14.800><c> Go</c><00:03:15.120><c> to</c>
+
+00:03:15.270 --> 00:03:15.280 align:start position:0%
+Go generate, delete all of those. Go to
+ 
+
+00:03:15.280 --> 00:03:19.589 align:start position:0%
+Go generate, delete all of those. Go to
+file,<00:03:15.680><c> hit</c><00:03:16.000><c> import</c><00:03:17.200><c> object,</c>
+
+00:03:19.589 --> 00:03:19.599 align:start position:0%
+file, hit import object,
+ 
+
+00:03:19.599 --> 00:03:24.390 align:start position:0%
+file, hit import object,
+download<00:03:20.800><c> this</c><00:03:21.120><c> one.</c><00:03:22.560><c> Okay,</c><00:03:22.879><c> this</c><00:03:23.120><c> is</c><00:03:23.280><c> my</c><00:03:24.159><c> uh</c>
+
+00:03:24.390 --> 00:03:24.400 align:start position:0%
+download this one. Okay, this is my uh
+ 
+
+00:03:24.400 --> 00:03:29.589 align:start position:0%
+download this one. Okay, this is my uh
+3D.
+
+00:03:29.589 --> 00:03:29.599 align:start position:0%
+ 
+ 
+
+00:03:29.599 --> 00:03:32.470 align:start position:0%
+ 
+It<00:03:29.840><c> works</c><00:03:30.640><c> fine.</c><00:03:31.519><c> Okay,</c><00:03:31.840><c> thank</c><00:03:31.920><c> you</c><00:03:32.080><c> guys</c><00:03:32.239><c> for</c>
+
+00:03:32.470 --> 00:03:32.480 align:start position:0%
+It works fine. Okay, thank you guys for
+ 
+
+00:03:32.480 --> 00:03:36.720 align:start position:0%
+It works fine. Okay, thank you guys for
+watching.<00:03:32.799><c> This</c><00:03:33.040><c> all</c><00:03:33.280><c> from</c><00:03:33.519><c> this</c><00:03:34.159><c> react.</c>
+
